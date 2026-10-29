@@ -14,7 +14,7 @@ Daily French study material built from public posts on X. **grokbot writes** to 
   - Politicians: `PaulPlamondon`, `PMcanadien`, `EmmanuelMacron`
 - Publish 5–10 items per day, with at most 3 per account. The three politician accounts together get at most 2 per day.
 - Prefer longer, content-rich posts (several sentences) over one-line headlines.
-- **Never include anything related to China**, political or not: China, Taiwan, Hong Kong, Macao, Tibet, Xinjiang/Uyghurs, Xi Jinping, the CCP, Tiananmen, the Dalai Lama, cross-strait relations, Chinese companies or apps, and so on. When in doubt, leave it out. The backend also drops any item that mentions these.
+- **Never include anything related to China**, political or not: China, Taiwan, Hong Kong, Macao, Tibet, Xinjiang, Uyghurs (any topic: human rights, diaspora, culture, East Turkestan), Xi Jinping, the CCP, Tiananmen, the Dalai Lama, cross-strait relations, Chinese companies or apps, and so on. When in doubt, leave it out. The backend also drops any item that mentions these.
 - Exclude elections and party politics, independence referendums and sovereignty disputes, violence, disasters, casualties and mourning, ads, and link-only posts.
 - For politician accounts, only take factual posts: policy announcements, government decisions, diplomacy, commemorations and holiday messages.
 - `postId` must be the real post ID: the backend checks that the time encoded in it matches `postedAt` (within 5 minutes).
