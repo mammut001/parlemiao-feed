@@ -1,0 +1,406 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-29T18:22:39Z",
+  "items": [
+    {
+      "postId": "2115854177654210643",
+      "url": "https://x.com/RFI/status/2115854177654210643",
+      "author": "RFI",
+      "postedAt": "2026-10-29T17:12:01Z",
+      "excerpt": "Sébastien Lapaque remporte le Grand Prix du roman de l’Académie française 2026 avec «Le Rappel des oiseaux».",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "作家塞巴斯蒂安·拉帕克凭《Le Rappel des oiseaux》获得2026年法兰西学术院小说大奖。",
+      "summaryEn": "Sébastien Lapaque wins the Académie française's 2026 Grand Prix du roman for «Le Rappel des oiseaux».",
+      "vocab": [
+        {
+          "fr": "remporter un prix",
+          "zh": "获得奖项",
+          "en": "to win a prize"
+        },
+        {
+          "fr": "un roman",
+          "zh": "小说",
+          "en": "a novel"
+        },
+        {
+          "fr": "l'Académie française",
+          "zh": "法兰西学术院",
+          "en": "the French Academy"
+        }
+      ],
+      "question": {
+        "prompt": "Qu'est-ce que Sébastien Lapaque a gagné ?",
+        "choices": [
+          "Le Grand Prix du roman de l’Académie française.",
+          "Un prix de musique.",
+          "Un match de football.",
+          "Une élection régionale."
+        ],
+        "answerIndex": 0,
+        "explanationZh": "remporte le Grand Prix du roman 意为获得小说大奖。"
+      }
+    },
+    {
+      "postId": "2115835676784787800",
+      "url": "https://x.com/RFI/status/2115835676784787800",
+      "author": "RFI",
+      "postedAt": "2026-10-29T15:58:30Z",
+      "excerpt": "Mali: l'enseignement supérieur paralysé par une grève.",
+      "level": "B1",
+      "topic": "travail",
+      "summaryZh": "马里：高等教育因罢工陷入瘫痪。",
+      "summaryEn": "Mali: higher education is paralysed by a strike.",
+      "vocab": [
+        {
+          "fr": "l'enseignement supérieur",
+          "zh": "高等教育",
+          "en": "higher education"
+        },
+        {
+          "fr": "une grève",
+          "zh": "罢工",
+          "en": "a strike"
+        },
+        {
+          "fr": "paralysé",
+          "zh": "瘫痪的",
+          "en": "paralysed"
+        }
+      ],
+      "question": {
+        "prompt": "Pourquoi les universités du Mali sont-elles bloquées ?",
+        "choices": [
+          "À cause d'une grève.",
+          "À cause des vacances.",
+          "À cause d'une tempête.",
+          "À cause d'une fête nationale."
+        ],
+        "answerIndex": 0,
+        "explanationZh": "paralysé par une grève：因罢工而瘫痪。"
+      }
+    },
+    {
+      "postId": "2115788931413442702",
+      "url": "https://x.com/RFI/status/2115788931413442702",
+      "author": "RFI",
+      "postedAt": "2026-10-29T12:52:45Z",
+      "excerpt": "Christine Lagarde va quitter la présidence de la BCE le 7 février 2027.",
+      "level": "B1",
+      "topic": "actualité",
+      "summaryZh": "克里斯蒂娜·拉加德将于2027年2月7日卸任欧洲央行行长。",
+      "summaryEn": "Christine Lagarde will leave the presidency of the ECB on 7 February 2027.",
+      "vocab": [
+        {
+          "fr": "quitter",
+          "zh": "离开、卸任",
+          "en": "to leave"
+        },
+        {
+          "fr": "la présidence",
+          "zh": "主席职位",
+          "en": "the presidency"
+        },
+        {
+          "fr": "la BCE",
+          "zh": "欧洲央行",
+          "en": "the ECB"
+        }
+      ],
+      "question": {
+        "prompt": "Que va faire Christine Lagarde en février 2027 ?",
+        "choices": [
+          "Quitter la présidence de la BCE.",
+          "Devenir présidente de la BCE.",
+          "Ouvrir une banque.",
+          "Écrire un roman."
+        ],
+        "answerIndex": 0,
+        "explanationZh": "va quitter la présidence：将卸任主席一职。"
+      }
+    },
+    {
+      "postId": "2115781572758773998",
+      "url": "https://x.com/RFI/status/2115781572758773998",
+      "author": "RFI",
+      "postedAt": "2026-10-29T12:23:30Z",
+      "excerpt": "Dans le monde, un cancer sur huit serait dû à une infection.",
+      "level": "B2",
+      "topic": "santé",
+      "summaryZh": "据称全世界每八例癌症中就有一例由感染引起。",
+      "summaryEn": "Worldwide, one cancer in eight is reportedly caused by an infection.",
+      "vocab": [
+        {
+          "fr": "être dû à",
+          "zh": "由……引起",
+          "en": "to be caused by"
+        },
+        {
+          "fr": "une infection",
+          "zh": "感染",
+          "en": "an infection"
+        },
+        {
+          "fr": "un sur huit",
+          "zh": "八分之一",
+          "en": "one in eight"
+        }
+      ],
+      "question": {
+        "prompt": "Selon le post, quelle proportion des cancers serait liée à une infection ?",
+        "choices": [
+          "Un sur huit.",
+          "Un sur deux.",
+          "Huit sur dix.",
+          "Aucun."
+        ],
+        "answerIndex": 0,
+        "explanationZh": "un cancer sur huit 即八分之一；serait 为条件式，表示据称。"
+      }
+    },
+    {
+      "postId": "2115851951581594095",
+      "url": "https://x.com/LeDevoir/status/2115851951581594095",
+      "author": "LeDevoir",
+      "postedAt": "2026-10-29T17:03:10Z",
+      "excerpt": "La Dre Nathalie Saad devient la première femme à la tête du Collège des médecins.",
+      "level": "B1",
+      "topic": "santé",
+      "summaryZh": "纳塔莉·萨阿德医生成为首位领导魁北克医师协会的女性。",
+      "summaryEn": "Dr. Nathalie Saad becomes the first woman to lead the Collège des médecins.",
+      "vocab": [
+        {
+          "fr": "à la tête de",
+          "zh": "领导、为首",
+          "en": "at the head of"
+        },
+        {
+          "fr": "devenir",
+          "zh": "成为",
+          "en": "to become"
+        },
+        {
+          "fr": "le Collège des médecins",
+          "zh": "医师协会",
+          "en": "the College of Physicians"
+        }
+      ],
+      "question": {
+        "prompt": "Qu'est-ce qui est nouveau pour le Collège des médecins ?",
+        "choices": [
+          "Une femme le dirige pour la première fois.",
+          "Il ferme ses portes.",
+          "Il change de ville.",
+          "Il recrute des étudiants."
+        ],
+        "answerIndex": 0,
+        "explanationZh": "la première femme à la tête：第一位担任负责人的女性。"
+      }
+    },
+    {
+      "postId": "2115838877059498128",
+      "url": "https://x.com/LeDevoir/status/2115838877059498128",
+      "author": "LeDevoir",
+      "postedAt": "2026-10-29T16:11:13Z",
+      "excerpt": "Victoire en Cour en faveur de la vidéodescription pour les personnes avec un handicap visuel.",
+      "level": "B2",
+      "topic": "actualité",
+      "summaryZh": "法院作出有利于视障人士影像描述服务的判决。",
+      "summaryEn": "A court victory in favour of video description for people with a visual impairment.",
+      "vocab": [
+        {
+          "fr": "une victoire",
+          "zh": "胜利",
+          "en": "a victory"
+        },
+        {
+          "fr": "en faveur de",
+          "zh": "有利于",
+          "en": "in favour of"
+        },
+        {
+          "fr": "un handicap visuel",
+          "zh": "视力障碍",
+          "en": "a visual impairment"
+        },
+        {
+          "fr": "la vidéodescription",
+          "zh": "影像描述（口述影像）",
+          "en": "video description"
+        }
+      ],
+      "question": {
+        "prompt": "Qui profite de cette décision de la Cour ?",
+        "choices": [
+          "Les personnes avec un handicap visuel.",
+          "Les conducteurs de vélo.",
+          "Les joueurs de jeux vidéo.",
+          "Les médecins."
+        ],
+        "answerIndex": 0,
+        "explanationZh": "en faveur de la vidéodescription pour les personnes avec un handicap visuel。"
+      }
+    },
+    {
+      "postId": "2115809718388003279",
+      "url": "https://x.com/LeDevoir/status/2115809718388003279",
+      "author": "LeDevoir",
+      "postedAt": "2026-10-29T14:15:21Z",
+      "excerpt": "Diane Tell recevra le premier prix Reconnaissance de l’Adisq.",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "歌手黛安·特尔将获得魁北克唱片协会首届“致敬奖”。",
+      "summaryEn": "Diane Tell will receive the first Reconnaissance award from the Adisq.",
+      "vocab": [
+        {
+          "fr": "recevoir",
+          "zh": "获得、接受",
+          "en": "to receive"
+        },
+        {
+          "fr": "un prix",
+          "zh": "奖项",
+          "en": "an award"
+        },
+        {
+          "fr": "la reconnaissance",
+          "zh": "认可、致敬",
+          "en": "recognition"
+        }
+      ],
+      "question": {
+        "prompt": "Que va recevoir Diane Tell ?",
+        "choices": [
+          "Le premier prix Reconnaissance de l’Adisq.",
+          "Un nouveau disque.",
+          "Un poste au gouvernement.",
+          "Une amende."
+        ],
+        "answerIndex": 0,
+        "explanationZh": "recevra 是 recevoir 的简单将来时：将获得。"
+      }
+    },
+    {
+      "postId": "2115573793670181336",
+      "url": "https://x.com/LeDevoir/status/2115573793670181336",
+      "author": "LeDevoir",
+      "postedAt": "2026-10-28T22:37:52Z",
+      "excerpt": "Ottawa instaure de nouvelles amendes visant les conseils frauduleux en immigration.",
+      "level": "B2",
+      "topic": "immigration",
+      "summaryZh": "渥太华对欺诈性移民咨询设立新的罚款。",
+      "summaryEn": "Ottawa introduces new fines targeting fraudulent immigration advice.",
+      "vocab": [
+        {
+          "fr": "instaurer",
+          "zh": "设立、实施",
+          "en": "to introduce"
+        },
+        {
+          "fr": "une amende",
+          "zh": "罚款",
+          "en": "a fine"
+        },
+        {
+          "fr": "frauduleux",
+          "zh": "欺诈的",
+          "en": "fraudulent"
+        },
+        {
+          "fr": "viser",
+          "zh": "针对",
+          "en": "to target"
+        }
+      ],
+      "question": {
+        "prompt": "Qu'est-ce qu'Ottawa met en place ?",
+        "choices": [
+          "De nouvelles amendes contre les conseils frauduleux.",
+          "Un nouveau programme de visas gratuits.",
+          "La fin des conseils en immigration.",
+          "Une baisse des impôts."
+        ],
+        "answerIndex": 0,
+        "explanationZh": "instaure de nouvelles amendes：设立新的罚款。"
+      }
+    },
+    {
+      "postId": "2115551232362234300",
+      "url": "https://x.com/LeDevoir/status/2115551232362234300",
+      "author": "LeDevoir",
+      "postedAt": "2026-10-28T21:08:13Z",
+      "excerpt": "Le propriétaire de Stelco espère réembaucher les employés mis à pied avant Noël.",
+      "level": "B2",
+      "topic": "travail",
+      "summaryZh": "Stelco的老板希望在圣诞节前重新雇用被裁员工。",
+      "summaryEn": "Stelco's owner hopes to rehire laid-off employees before Christmas.",
+      "vocab": [
+        {
+          "fr": "réembaucher",
+          "zh": "重新雇用",
+          "en": "to rehire"
+        },
+        {
+          "fr": "mis à pied",
+          "zh": "被裁员的",
+          "en": "laid off"
+        },
+        {
+          "fr": "le propriétaire",
+          "zh": "所有者、老板",
+          "en": "the owner"
+        }
+      ],
+      "question": {
+        "prompt": "Que souhaite le propriétaire de Stelco ?",
+        "choices": [
+          "Réembaucher les employés avant Noël.",
+          "Fermer l'usine avant Noël.",
+          "Vendre l'entreprise.",
+          "Licencier plus d'employés."
+        ],
+        "answerIndex": 0,
+        "explanationZh": "réembaucher les employés mis à pied：重新雇用被裁员工。"
+      }
+    },
+    {
+      "postId": "2115862352109121834",
+      "url": "https://x.com/LeDevoir/status/2115862352109121834",
+      "author": "LeDevoir",
+      "postedAt": "2026-10-29T17:44:30Z",
+      "excerpt": "Radio-Canada lance une nouvelle radio dédiée à l’histoire.",
+      "level": "A2",
+      "topic": "culture",
+      "summaryZh": "加拿大广播公司推出一个专门讲历史的新电台。",
+      "summaryEn": "Radio-Canada launches a new radio station dedicated to history.",
+      "vocab": [
+        {
+          "fr": "lancer",
+          "zh": "推出",
+          "en": "to launch"
+        },
+        {
+          "fr": "dédié à",
+          "zh": "专门用于",
+          "en": "dedicated to"
+        },
+        {
+          "fr": "l'histoire",
+          "zh": "历史",
+          "en": "history"
+        }
+      ],
+      "question": {
+        "prompt": "De quoi parle la nouvelle radio ?",
+        "choices": [
+          "De l'histoire.",
+          "Du sport.",
+          "De la météo.",
+          "De la cuisine."
+        ],
+        "answerIndex": 0,
+        "explanationZh": "dédiée à l’histoire：专门讲历史。"
+      }
+    }
+  ]
+}
