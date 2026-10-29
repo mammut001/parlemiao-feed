@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-30T22:00:00Z",
+  "items": [
+    {
+      "postId": "1851234567890123456",
+      "url": "https://x.com/RadioCanadaInfo/status/1851234567890123456",
+      "author": "RadioCanadaInfo",
+      "postedAt": "2026-10-30T14:05:00Z",
+      "excerpt": "Les demandes de permis de travail seront traitées plus rapidement dès janvier.",
+      "level": "B1",
+      "topic": "immigration",
+      "summaryZh": "从一月起，工作许可申请的处理速度将加快。",
+      "summaryEn": "Work permit applications will be processed faster starting in January.",
+      "vocab": [
+        { "fr": "un permis de travail", "zh": "工作许可", "en": "work permit" },
+        { "fr": "traiter une demande", "zh": "处理申请", "en": "to process an application" }
+      ],
+      "question": {
+        "prompt": "Qu'est-ce qui va changer en janvier ?",
+        "choices": [
+          "Les demandes seront traitées plus vite.",
+          "Les permis de travail seront supprimés.",
+          "Les frais de demande vont augmenter.",
+          "Les demandes seront fermées."
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原句说 seront traitées plus rapidement，即处理得更快。"
+      }
+    }
+  ]
+}
