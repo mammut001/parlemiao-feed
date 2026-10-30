@@ -1,6 +1,6 @@
 # parlemiao-feed
 
-Daily French study material built from public posts on X. **grokbot writes** to this repo, and the Parlemiao backend **reads it only** with a fine-grained read-only token.
+Daily French study material built from public posts on X. **grokbot writes** to this repo, and the Parlemiao backend **reads it only** (the repo is public, no token).
 
 ## Files
 - `daily/latest.json`: overwritten every day before 06:00 Beijing time (22:00 UTC).
@@ -9,11 +9,13 @@ Daily French study material built from public posts on X. **grokbot writes** to 
 
 ## Rules
 - Use only original posts (no reposts, no replies) from the last 48 hours by these accounts:
-  - Media: `RFI`, `LeDevoir`, `tv5mondeinfo`, `RadioCanadaInfo`, `RTBFinfo`, `lesoir`, `RTSinfo`
-  - Government: `CitImmCanFR`
+  - Media: `RFI`, `LeDevoir`, `tv5mondeinfo`, `RadioCanadaInfo`, `RTBFinfo`, `lesoir`, `franceinfo`, `LeTemps`, `JdeMontreal`, `tvanouvelles`
+  - Government and international: `CitImmCanFR`, `ONUinfo`
+  - Use these exact spellings. Ignore look-alike accounts such as `TVAnouveIIes`, `TVA_Parodie`, `letemps_rss` and `FFranceinfo`; the backend drops any author not on this list.
+  - `RTSinfo` (archived) and `lemondefr` (stopped posting on X) are not used.
   - Politicians: `PaulPlamondon`, `PMcanadien`, `EmmanuelMacron`
 - Publish 5–10 items per day, with at most 3 per account. The three politician accounts together get at most 2 per day.
-- Prefer longer, content-rich posts (several sentences) over one-line headlines.
+- Prefer longer, content-rich posts (several sentences) over one-line headlines. `franceinfo`, `LeTemps` and `ONUinfo` usually have the longest posts; `JdeMontreal` and `tvanouvelles` are mostly one-line headlines, so use them only when the post is self-contained.
 - **Never include anything related to China**, political or not: China, Taiwan, Hong Kong, Macao, Tibet, Xinjiang, Uyghurs (any topic: human rights, diaspora, culture, East Turkestan), Xi Jinping, the CCP, Tiananmen, the Dalai Lama, cross-strait relations, Chinese companies or apps, and so on. When in doubt, leave it out. The backend also drops any item that mentions these.
 - Exclude elections and party politics, independence referendums and sovereignty disputes, violence, disasters, casualties and mourning, ads, and link-only posts.
 - For politician accounts, only take factual posts: policy announcements, government decisions, diplomacy, commemorations and holiday messages.
