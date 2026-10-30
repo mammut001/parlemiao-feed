@@ -1,0 +1,387 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-30T19:04:15Z",
+  "items": [
+    {
+      "postId": "2116153307982868555",
+      "url": "https://x.com/CitImmCanFR/status/2116153307982868555",
+      "author": "CitImmCanFR",
+      "postedAt": "2026-10-30T13:00:39Z",
+      "excerpt": "Si vous êtes au Canada à titre de résident temporaire (pour y vivre, étudier ou travailler), vérifiez la date d’expiration de votre statut. Si vous prévoyez rester plus longtemps, présentez une demande pour prolonger ou modifier votre statut avant son expiration. Rester au Canada au-delà de la durée de séjour autorisée peut avoir des répercussions sur vos futurs voyages et demandes.",
+      "level": "B1",
+      "topic": "immigration",
+      "summaryZh": "加拿大移民部提醒临时居民查看身份到期日，如需久留应在到期前申请延期或变更，逾期滞留会影响今后的出行和申请。",
+      "summaryEn": "IRCC reminds temporary residents to check their status expiry date and apply to extend or change it before it expires; overstaying can affect future travel and applications.",
+      "vocab": [
+        {
+          "fr": "un résident temporaire",
+          "zh": "临时居民",
+          "en": "temporary resident"
+        },
+        {
+          "fr": "la date d’expiration",
+          "zh": "到期日",
+          "en": "expiry date"
+        },
+        {
+          "fr": "prolonger son statut",
+          "zh": "延长身份",
+          "en": "to extend one's status"
+        },
+        {
+          "fr": "des répercussions",
+          "zh": "影响、后果",
+          "en": "repercussions"
+        }
+      ],
+      "question": {
+        "prompt": "Que faut-il faire si l’on veut rester plus longtemps au Canada ?",
+        "choices": [
+          "Quitter le Canada puis revenir.",
+          "Attendre que le statut expire.",
+          "Présenter une demande avant l’expiration du statut.",
+          "Contacter son employeur."
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文说 présentez une demande ... avant son expiration，即在到期前提交申请。"
+      }
+    },
+    {
+      "postId": "2115851278802628702",
+      "url": "https://x.com/CitImmCanFR/status/2115851278802628702",
+      "author": "CitImmCanFR",
+      "postedAt": "2026-10-29T17:00:30Z",
+      "excerpt": "Ne tombez pas dans le piège des faux sondages. IRCC recueille régulièrement des commentaires des clients pour améliorer nos services. Votre participation aux sondages est volontaire. Vos réponses demeureront confidentielles et ce que vous nous dites n’aura aucune incidence sur les applications passées, actuelles ou futures. Si vous avez reçu un courriel vous invitant à répondre à un sondage qui vous semble suspect, ne cliquez sur aucun lien et supprimez le courriel.",
+      "level": "B1",
+      "topic": "immigration",
+      "summaryZh": "移民部提醒谨防虚假问卷：官方问卷自愿且保密，不影响申请；收到可疑问卷邮件时不要点链接，直接删除。",
+      "summaryEn": "IRCC warns about fake surveys: its real surveys are voluntary and confidential and never affect applications; delete suspicious survey emails without clicking links.",
+      "vocab": [
+        {
+          "fr": "un sondage",
+          "zh": "问卷调查",
+          "en": "survey"
+        },
+        {
+          "fr": "tomber dans le piège",
+          "zh": "上当、落入圈套",
+          "en": "to fall into the trap"
+        },
+        {
+          "fr": "volontaire",
+          "zh": "自愿的",
+          "en": "voluntary"
+        },
+        {
+          "fr": "un courriel",
+          "zh": "电子邮件",
+          "en": "email"
+        }
+      ],
+      "question": {
+        "prompt": "Que conseille IRCC si un courriel de sondage semble suspect ?",
+        "choices": [
+          "Répondre rapidement au sondage.",
+          "Ne cliquer sur aucun lien et supprimer le courriel.",
+          "Envoyer ses renseignements bancaires.",
+          "Transférer le courriel à ses amis."
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文说 ne cliquez sur aucun lien et supprimez le courriel。"
+      }
+    },
+    {
+      "postId": "2116244089049948528",
+      "url": "https://x.com/RFI/status/2116244089049948528",
+      "author": "RFI",
+      "postedAt": "2026-10-30T19:01:23Z",
+      "excerpt": "Au Sénégal s’ouvrent samedi 31 octobre les Jeux olympiques de la jeunesse, la toute première édition à se dérouler sur le continent africain. Pendant quinze jours, 2700 athlètes de 14 à 17 ans et provenant de 206 pays différents disputeront 25 disciplines en compétition",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "青年奥运会10月31日在塞内加尔开幕，这是首次在非洲举办；来自206个国家的2700名14至17岁运动员将参加25个项目的比赛。",
+      "summaryEn": "The Youth Olympic Games open in Senegal on October 31, the first edition in Africa, with 2,700 athletes aged 14 to 17 from 206 countries in 25 disciplines.",
+      "vocab": [
+        {
+          "fr": "les Jeux olympiques de la jeunesse",
+          "zh": "青年奥运会",
+          "en": "Youth Olympic Games"
+        },
+        {
+          "fr": "une édition",
+          "zh": "（赛事的）一届",
+          "en": "edition"
+        },
+        {
+          "fr": "disputer une épreuve",
+          "zh": "参加比赛",
+          "en": "to compete in an event"
+        },
+        {
+          "fr": "une discipline",
+          "zh": "比赛项目",
+          "en": "discipline"
+        }
+      ],
+      "question": {
+        "prompt": "Qu’est-ce qui rend cette édition particulière ?",
+        "choices": [
+          "Elle se déroule en hiver.",
+          "Elle est réservée aux adultes.",
+          "Elle n’a que 25 athlètes.",
+          "C’est la première sur le continent africain."
+        ],
+        "answerIndex": 3,
+        "explanationZh": "原文说 la toute première édition à se dérouler sur le continent africain。"
+      }
+    },
+    {
+      "postId": "2116150434599473210",
+      "url": "https://x.com/RFI/status/2116150434599473210",
+      "author": "RFI",
+      "postedAt": "2026-10-30T12:49:14Z",
+      "excerpt": "Archéologie: un site vieux d'environ 1000 ans livre des informations précieuses sur Madagascar",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "一处约有1000年历史的考古遗址为了解马达加斯加提供了宝贵信息。",
+      "summaryEn": "An archaeological site about 1,000 years old is providing valuable information about Madagascar.",
+      "vocab": [
+        {
+          "fr": "l’archéologie",
+          "zh": "考古学",
+          "en": "archaeology"
+        },
+        {
+          "fr": "un site",
+          "zh": "遗址",
+          "en": "site"
+        },
+        {
+          "fr": "précieux",
+          "zh": "宝贵的",
+          "en": "valuable"
+        }
+      ],
+      "question": {
+        "prompt": "Quel âge a le site archéologique ?",
+        "choices": [
+          "Environ 1000 ans.",
+          "Environ 100 ans.",
+          "Environ 10 000 ans.",
+          "Environ 50 ans."
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文说 un site vieux d'environ 1000 ans。"
+      }
+    },
+    {
+      "postId": "2116223199474065444",
+      "url": "https://x.com/LeTemps/status/2116223199474065444",
+      "author": "LeTemps",
+      "postedAt": "2026-10-30T17:38:22Z",
+      "excerpt": "Un changement de méthodologie de l’Office fédéral de la statistique (OFS) bouleverse la carte de la productivité des régions. Les cantons de Genève et de Neuchâtel voient leur contribution au PIB suisse bondir.",
+      "level": "B2",
+      "topic": "travail",
+      "summaryZh": "瑞士联邦统计局改变统计方法，重塑了各地区生产率版图，日内瓦州和纳沙泰尔州对瑞士GDP的贡献大幅上升。",
+      "summaryEn": "A methodology change at the Swiss Federal Statistical Office reshapes regional productivity figures, with Geneva and Neuchâtel's share of Swiss GDP jumping.",
+      "vocab": [
+        {
+          "fr": "la méthodologie",
+          "zh": "方法论、统计方法",
+          "en": "methodology"
+        },
+        {
+          "fr": "la productivité",
+          "zh": "生产率",
+          "en": "productivity"
+        },
+        {
+          "fr": "le PIB",
+          "zh": "国内生产总值",
+          "en": "GDP"
+        },
+        {
+          "fr": "bondir",
+          "zh": "猛增",
+          "en": "to jump"
+        }
+      ],
+      "question": {
+        "prompt": "Quelle est la cause du changement de la carte de la productivité ?",
+        "choices": [
+          "Une crise économique.",
+          "Un changement de méthodologie de l’OFS.",
+          "Une nouvelle loi fédérale.",
+          "La fermeture d’entreprises à Zurich."
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文开头说 Un changement de méthodologie de l’OFS bouleverse la carte。"
+      }
+    },
+    {
+      "postId": "2116148401050181783",
+      "url": "https://x.com/LeTemps/status/2116148401050181783",
+      "author": "LeTemps",
+      "postedAt": "2026-10-30T12:41:09Z",
+      "excerpt": "Une conférence TEDx à Genève fin novembre abordera, à travers le témoignage de deux femmes atteintes d’un Parkinson à un âge précoce, l’impact particulier de ces maladies sur la vie professionnelle. Explications et pistes de solutions",
+      "level": "B2",
+      "topic": "santé",
+      "summaryZh": "11月底日内瓦一场TEDx演讲将通过两位早发帕金森病女性的亲身经历，探讨这类疾病对职业生活的影响及应对思路。",
+      "summaryEn": "A TEDx talk in Geneva in late November will use two women's experience of early-onset Parkinson's to discuss its impact on working life and possible solutions.",
+      "vocab": [
+        {
+          "fr": "un témoignage",
+          "zh": "亲身讲述、证词",
+          "en": "testimony"
+        },
+        {
+          "fr": "atteint de",
+          "zh": "患有",
+          "en": "suffering from"
+        },
+        {
+          "fr": "précoce",
+          "zh": "早发的、过早的",
+          "en": "early"
+        },
+        {
+          "fr": "une piste de solution",
+          "zh": "解决思路",
+          "en": "possible solution"
+        }
+      ],
+      "question": {
+        "prompt": "De quel sujet la conférence va-t-elle parler ?",
+        "choices": [
+          "Des nouveaux médicaments contre le Parkinson.",
+          "Du tourisme à Genève.",
+          "De l’impact du Parkinson sur la vie professionnelle.",
+          "Des élections suisses."
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文说 l’impact particulier de ces maladies sur la vie professionnelle。"
+      }
+    },
+    {
+      "postId": "2116159272572924157",
+      "url": "https://x.com/LeTemps/status/2116159272572924157",
+      "author": "LeTemps",
+      "postedAt": "2026-10-30T13:24:21Z",
+      "excerpt": "Emilie Bujès reprend les rênes d’un festival qui se cherche toujours entre séries, expériences immersives et avant-premières de films.",
+      "level": "C1",
+      "topic": "culture",
+      "summaryZh": "Emilie Bujès接手一个仍在剧集、沉浸式体验和电影首映之间寻找定位的电影节。",
+      "summaryEn": "Emilie Bujès takes the reins of a festival still trying to find its identity among series, immersive experiences and film premieres.",
+      "vocab": [
+        {
+          "fr": "reprendre les rênes",
+          "zh": "接管、掌舵",
+          "en": "to take the reins"
+        },
+        {
+          "fr": "se chercher",
+          "zh": "寻找自我定位",
+          "en": "to search for one's identity"
+        },
+        {
+          "fr": "une avant-première",
+          "zh": "首映",
+          "en": "premiere"
+        },
+        {
+          "fr": "immersif",
+          "zh": "沉浸式的",
+          "en": "immersive"
+        }
+      ],
+      "question": {
+        "prompt": "Que signifie « reprendre les rênes » dans ce contexte ?",
+        "choices": [
+          "Prendre la direction.",
+          "Quitter le festival.",
+          "Monter à cheval.",
+          "Acheter des billets."
+        ],
+        "answerIndex": 0,
+        "explanationZh": "reprendre les rênes 原意是重新握住缰绳，引申为接手领导。"
+      }
+    },
+    {
+      "postId": "2116186111198335105",
+      "url": "https://x.com/ONUinfo/status/2116186111198335105",
+      "author": "ONUinfo",
+      "postedAt": "2026-10-30T15:11:00Z",
+      "excerpt": "Santé : l’Europe veut mettre l’IA au service des patients, sans en perdre le contrôle",
+      "level": "B1",
+      "topic": "santé",
+      "summaryZh": "欧洲希望让人工智能服务于患者，同时不失去对它的控制。",
+      "summaryEn": "Europe wants to put AI at the service of patients without losing control of it.",
+      "vocab": [
+        {
+          "fr": "l’IA (intelligence artificielle)",
+          "zh": "人工智能",
+          "en": "AI"
+        },
+        {
+          "fr": "au service de",
+          "zh": "为……服务",
+          "en": "at the service of"
+        },
+        {
+          "fr": "perdre le contrôle",
+          "zh": "失去控制",
+          "en": "to lose control"
+        }
+      ],
+      "question": {
+        "prompt": "Que veut faire l’Europe avec l’IA ?",
+        "choices": [
+          "L’interdire dans les hôpitaux.",
+          "La mettre au service des patients en gardant le contrôle.",
+          "La vendre à d’autres pays.",
+          "Remplacer tous les médecins."
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文说 mettre l’IA au service des patients, sans en perdre le contrôle。"
+      }
+    },
+    {
+      "postId": "2116058771378340006",
+      "url": "https://x.com/ONUinfo/status/2116058771378340006",
+      "author": "ONUinfo",
+      "postedAt": "2026-10-30T06:45:00Z",
+      "excerpt": "La nature reprend ses droits, mais les financements pour la restaurer doivent quadrupler",
+      "level": "B2",
+      "topic": "actualité",
+      "summaryZh": "大自然正在恢复，但用于生态修复的资金需要增加到原来的四倍。",
+      "summaryEn": "Nature is reclaiming its place, but funding to restore it needs to quadruple.",
+      "vocab": [
+        {
+          "fr": "reprendre ses droits",
+          "zh": "恢复原状、重新占据",
+          "en": "to reclaim its place"
+        },
+        {
+          "fr": "le financement",
+          "zh": "资金",
+          "en": "funding"
+        },
+        {
+          "fr": "quadrupler",
+          "zh": "增加到四倍",
+          "en": "to quadruple"
+        }
+      ],
+      "question": {
+        "prompt": "Que doivent faire les financements pour la nature ?",
+        "choices": [
+          "Diminuer de moitié.",
+          "Rester stables.",
+          "Disparaître.",
+          "Être multipliés par quatre."
+        ],
+        "answerIndex": 3,
+        "explanationZh": "quadrupler 意为变成四倍。"
+      }
+    }
+  ]
+}

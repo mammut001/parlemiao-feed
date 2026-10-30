@@ -1,7 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-29T19:02:44Z",
+  "generatedAt": "2026-10-30T19:04:15Z",
   "items": [
+    {
+      "postId": "2116153307982868555",
+      "url": "https://x.com/CitImmCanFR/status/2116153307982868555",
+      "author": "CitImmCanFR",
+      "postedAt": "2026-10-30T13:00:39Z",
+      "excerpt": "Si vous êtes au Canada à titre de résident temporaire (pour y vivre, étudier ou travailler), vérifiez la date d’expiration de votre statut. Si vous prévoyez rester plus longtemps, présentez une demande pour prolonger ou modifier votre statut avant son expiration. Rester au Canada au-delà de la durée de séjour autorisée peut avoir des répercussions sur vos futurs voyages et demandes.",
+      "level": "B1",
+      "topic": "immigration",
+      "summaryZh": "加拿大移民部提醒临时居民查看身份到期日，如需久留应在到期前申请延期或变更，逾期滞留会影响今后的出行和申请。",
+      "summaryEn": "IRCC reminds temporary residents to check their status expiry date and apply to extend or change it before it expires; overstaying can affect future travel and applications.",
+      "vocab": [
+        {
+          "fr": "un résident temporaire",
+          "zh": "临时居民",
+          "en": "temporary resident"
+        },
+        {
+          "fr": "la date d’expiration",
+          "zh": "到期日",
+          "en": "expiry date"
+        },
+        {
+          "fr": "prolonger son statut",
+          "zh": "延长身份",
+          "en": "to extend one's status"
+        },
+        {
+          "fr": "des répercussions",
+          "zh": "影响、后果",
+          "en": "repercussions"
+        }
+      ],
+      "question": {
+        "prompt": "Que faut-il faire si l’on veut rester plus longtemps au Canada ?",
+        "choices": [
+          "Quitter le Canada puis revenir.",
+          "Attendre que le statut expire.",
+          "Présenter une demande avant l’expiration du statut.",
+          "Contacter son employeur."
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文说 présentez une demande ... avant son expiration，即在到期前提交申请。"
+      }
+    },
     {
       "postId": "2115851278802628702",
       "url": "https://x.com/CitImmCanFR/status/2115851278802628702",
@@ -10,18 +54,18 @@
       "excerpt": "Ne tombez pas dans le piège des faux sondages. IRCC recueille régulièrement des commentaires des clients pour améliorer nos services. Votre participation aux sondages est volontaire. Vos réponses demeureront confidentielles et ce que vous nous dites n’aura aucune incidence sur les applications passées, actuelles ou futures. Si vous avez reçu un courriel vous invitant à répondre à un sondage qui vous semble suspect, ne cliquez sur aucun lien et supprimez le courriel.",
       "level": "B1",
       "topic": "immigration",
-      "summaryZh": "IRCC提醒警惕虚假问卷：官方问卷自愿参与、内容保密，绝不会索要钱财、银行卡或护照号等个人信息，可疑邮件请直接删除。",
-      "summaryEn": "IRCC warns about fake surveys: its real surveys are voluntary and confidential, and never ask for money, banking details or personal data like passport numbers.",
+      "summaryZh": "移民部提醒谨防虚假问卷：官方问卷自愿且保密，不影响申请；收到可疑问卷邮件时不要点链接，直接删除。",
+      "summaryEn": "IRCC warns about fake surveys: its real surveys are voluntary and confidential and never affect applications; delete suspicious survey emails without clicking links.",
       "vocab": [
-        {
-          "fr": "un piège",
-          "zh": "陷阱",
-          "en": "a trap"
-        },
         {
           "fr": "un sondage",
           "zh": "问卷调查",
-          "en": "a survey"
+          "en": "survey"
+        },
+        {
+          "fr": "tomber dans le piège",
+          "zh": "上当、落入圈套",
+          "en": "to fall into the trap"
         },
         {
           "fr": "volontaire",
@@ -29,407 +73,314 @@
           "en": "voluntary"
         },
         {
-          "fr": "des renseignements personnels",
-          "zh": "个人信息",
-          "en": "personal information"
-        },
-        {
-          "fr": "une arnaque",
-          "zh": "诈骗",
-          "en": "a scam"
+          "fr": "un courriel",
+          "zh": "电子邮件",
+          "en": "email"
         }
       ],
       "question": {
-        "prompt": "Selon IRCC, que faut-il faire si un courriel de sondage semble suspect ?",
+        "prompt": "Que conseille IRCC si un courriel de sondage semble suspect ?",
         "choices": [
-          "Répondre en donnant son numéro de passeport.",
-          "Envoyer de l'argent pour vérifier le sondage.",
+          "Répondre rapidement au sondage.",
           "Ne cliquer sur aucun lien et supprimer le courriel.",
-          "Transférer le courriel à sa banque."
-        ],
-        "answerIndex": 2,
-        "explanationZh": "原文说 ne cliquez sur aucun lien et supprimez le courriel，即不要点链接并删除邮件。"
-      }
-    },
-    {
-      "postId": "2115539402554266028",
-      "url": "https://x.com/CitImmCanFR/status/2115539402554266028",
-      "author": "CitImmCanFR",
-      "postedAt": "2026-10-28T20:21:13Z",
-      "excerpt": "De nouvelles sanctions sont désormais en vigueur à l’encontre de ceux qui enfreignent la loi lorsqu’ils offrent des services de conseils ou de représentation contre rémunération en matière d’immigration ou de citoyenneté canadienne. Les sanctions peuvent atteindre un montant maximal combiné de 1,5 million de dollars.",
-      "level": "B2",
-      "topic": "immigration",
-      "summaryZh": "加拿大对违规提供有偿移民或入籍咨询、代理服务者实施新处罚，最高合计罚款150万加元，以保护申请人免受欺诈。",
-      "summaryEn": "Canada now fines people who break the law when offering paid immigration or citizenship advice, up to a combined 1.5 million dollars, to protect applicants from fraud.",
-      "vocab": [
-        {
-          "fr": "une sanction",
-          "zh": "处罚",
-          "en": "a penalty"
-        },
-        {
-          "fr": "enfreindre la loi",
-          "zh": "违反法律",
-          "en": "to break the law"
-        },
-        {
-          "fr": "contre rémunération",
-          "zh": "有偿的",
-          "en": "for a fee"
-        },
-        {
-          "fr": "un demandeur",
-          "zh": "申请人",
-          "en": "an applicant"
-        },
-        {
-          "fr": "l'intégrité",
-          "zh": "诚信、完整性",
-          "en": "integrity"
-        }
-      ],
-      "question": {
-        "prompt": "Quel est le montant maximal combiné des sanctions ?",
-        "choices": [
-          "15 000 dollars.",
-          "1,5 million de dollars.",
-          "150 millions de dollars.",
-          "500 dollars."
+          "Envoyer ses renseignements bancaires.",
+          "Transférer le courriel à ses amis."
         ],
         "answerIndex": 1,
-        "explanationZh": "原文说 un montant maximal combiné de 1,5 million de dollars，即最高合计150万加元。"
+        "explanationZh": "原文说 ne cliquez sur aucun lien et supprimez le courriel。"
       }
     },
     {
-      "postId": "2115171820986863694",
-      "url": "https://x.com/CitImmCanFR/status/2115171820986863694",
-      "author": "CitImmCanFR",
-      "postedAt": "2026-10-27T20:00:34Z",
-      "excerpt": "Le Canada recherche des professionnels qualifiés dans les domaines des soins de santé et des services sociaux, tels que des infirmières et infirmiers praticiens, des dentistes, des pharmaciens, des psychologues et des travailleurs sociaux afin de renforcer ses effectifs et fournir des services essentiels à la population canadienne!",
-      "level": "B1",
-      "topic": "immigration",
-      "summaryZh": "加拿大正在招募医疗和社会服务领域的专业人才，如执业护士、牙医、药剂师、心理学家和社工，并提供相应的移民途径。",
-      "summaryEn": "Canada is seeking skilled health and social services professionals, such as nurse practitioners, dentists, pharmacists, psychologists and social workers, with immigration pathways.",
-      "vocab": [
-        {
-          "fr": "un professionnel qualifié",
-          "zh": "合格的专业人员",
-          "en": "a skilled professional"
-        },
-        {
-          "fr": "les soins de santé",
-          "zh": "医疗保健",
-          "en": "health care"
-        },
-        {
-          "fr": "les effectifs",
-          "zh": "人员编制",
-          "en": "workforce"
-        },
-        {
-          "fr": "un titre de compétences",
-          "zh": "资格证书",
-          "en": "a credential"
-        },
-        {
-          "fr": "une voie d'accès",
-          "zh": "途径",
-          "en": "a pathway"
-        }
-      ],
-      "question": {
-        "prompt": "Quels professionnels le Canada cherche-t-il à attirer dans ce message ?",
-        "choices": [
-          "Des ingénieurs en informatique.",
-          "Des agriculteurs saisonniers.",
-          "Des enseignants de langues.",
-          "Des professionnels de la santé et des services sociaux."
-        ],
-        "answerIndex": 3,
-        "explanationZh": "原文列举了护士、牙医、药剂师、心理学家和社工，都属于医疗和社会服务领域。"
-      }
-    },
-    {
-      "postId": "2115881192188780780",
-      "url": "https://x.com/LeDevoir/status/2115881192188780780",
-      "author": "LeDevoir",
-      "postedAt": "2026-10-29T18:59:22Z",
-      "excerpt": "Les 6600 cols bleus de Montréal viennent d’approuver un nouveau contrat de travail de six ans assorti de hausses salariales de 23,7%.",
-      "level": "B1",
-      "topic": "travail",
-      "summaryZh": "蒙特利尔6600名蓝领市政工人刚批准一份为期六年的新劳动合同，工资累计上涨23.7%。",
-      "summaryEn": "Montreal's 6,600 blue-collar workers have approved a new six-year contract with salary increases of 23.7%.",
-      "vocab": [
-        {
-          "fr": "les cols bleus",
-          "zh": "蓝领工人",
-          "en": "blue-collar workers"
-        },
-        {
-          "fr": "un contrat de travail",
-          "zh": "劳动合同",
-          "en": "an employment contract"
-        },
-        {
-          "fr": "une hausse salariale",
-          "zh": "加薪",
-          "en": "a pay raise"
-        },
-        {
-          "fr": "approuver",
-          "zh": "批准",
-          "en": "to approve"
-        }
-      ],
-      "question": {
-        "prompt": "Quelle est la durée du nouveau contrat de travail ?",
-        "choices": [
-          "Six ans.",
-          "Deux ans.",
-          "Un an.",
-          "Dix ans."
-        ],
-        "answerIndex": 0,
-        "explanationZh": "原文说 un nouveau contrat de travail de six ans，即六年。"
-      }
-    },
-    {
-      "postId": "2115792997417877533",
-      "url": "https://x.com/LeDevoir/status/2115792997417877533",
-      "author": "LeDevoir",
-      "postedAt": "2026-10-29T13:08:54Z",
-      "excerpt": "Joshua Kutryk devient le cinquième Canadien à effectuer une sortie dans l’espace",
-      "level": "A2",
-      "topic": "actualité",
-      "summaryZh": "约书亚·库特里克成为第五位进行太空行走的加拿大人。",
-      "summaryEn": "Joshua Kutryk becomes the fifth Canadian to perform a spacewalk.",
-      "vocab": [
-        {
-          "fr": "une sortie dans l'espace",
-          "zh": "太空行走",
-          "en": "a spacewalk"
-        },
-        {
-          "fr": "devenir",
-          "zh": "成为",
-          "en": "to become"
-        },
-        {
-          "fr": "cinquième",
-          "zh": "第五",
-          "en": "fifth"
-        }
-      ],
-      "question": {
-        "prompt": "Qu'a fait Joshua Kutryk ?",
-        "choices": [
-          "Un tour du monde en voiture.",
-          "Un marathon au Canada.",
-          "Une sortie dans l'espace.",
-          "Une expédition sous la mer."
-        ],
-        "answerIndex": 2,
-        "explanationZh": "原文说他 effectuer une sortie dans l'espace，即进行了太空行走。"
-      }
-    },
-    {
-      "postId": "2115851951581594095",
-      "url": "https://x.com/LeDevoir/status/2115851951581594095",
-      "author": "LeDevoir",
-      "postedAt": "2026-10-29T17:03:10Z",
-      "excerpt": "La Dre Nathalie Saad devient la première femme à la tête du Collège des médecins",
-      "level": "A2",
-      "topic": "santé",
-      "summaryZh": "纳塔莉·萨德医生成为首位领导魁北克医师协会的女性。",
-      "summaryEn": "Dr. Nathalie Saad becomes the first woman to lead Quebec's Collège des médecins.",
-      "vocab": [
-        {
-          "fr": "la première femme",
-          "zh": "第一位女性",
-          "en": "the first woman"
-        },
-        {
-          "fr": "à la tête de",
-          "zh": "领导、担任……之首",
-          "en": "at the head of"
-        },
-        {
-          "fr": "un médecin",
-          "zh": "医生",
-          "en": "a doctor"
-        }
-      ],
-      "question": {
-        "prompt": "Pourquoi la nomination de la Dre Nathalie Saad est-elle importante ?",
-        "choices": [
-          "Elle est la plus jeune médecin du Québec.",
-          "Elle ouvre un nouvel hôpital.",
-          "Elle quitte la profession médicale.",
-          "Elle est la première femme à diriger le Collège des médecins."
-        ],
-        "answerIndex": 3,
-        "explanationZh": "原文说她是 la première femme à la tête du Collège des médecins，首位领导医师协会的女性。"
-      }
-    },
-    {
-      "postId": "2115854177654210643",
-      "url": "https://x.com/RFI/status/2115854177654210643",
+      "postId": "2116244089049948528",
+      "url": "https://x.com/RFI/status/2116244089049948528",
       "author": "RFI",
-      "postedAt": "2026-10-29T17:12:01Z",
-      "excerpt": "Sébastien Lapaque remporte le Grand Prix du roman de l’Académie française 2026 avec «Le Rappel des oiseaux»",
+      "postedAt": "2026-10-30T19:01:23Z",
+      "excerpt": "Au Sénégal s’ouvrent samedi 31 octobre les Jeux olympiques de la jeunesse, la toute première édition à se dérouler sur le continent africain. Pendant quinze jours, 2700 athlètes de 14 à 17 ans et provenant de 206 pays différents disputeront 25 disciplines en compétition",
       "level": "B1",
       "topic": "culture",
-      "summaryZh": "塞巴斯蒂安·拉帕克凭小说《Le Rappel des oiseaux》获得2026年法兰西学术院小说大奖。",
-      "summaryEn": "Sébastien Lapaque wins the 2026 Grand Prix du roman of the Académie française for Le Rappel des oiseaux.",
+      "summaryZh": "青年奥运会10月31日在塞内加尔开幕，这是首次在非洲举办；来自206个国家的2700名14至17岁运动员将参加25个项目的比赛。",
+      "summaryEn": "The Youth Olympic Games open in Senegal on October 31, the first edition in Africa, with 2,700 athletes aged 14 to 17 from 206 countries in 25 disciplines.",
       "vocab": [
         {
-          "fr": "remporter un prix",
-          "zh": "获奖",
-          "en": "to win a prize"
+          "fr": "les Jeux olympiques de la jeunesse",
+          "zh": "青年奥运会",
+          "en": "Youth Olympic Games"
         },
         {
-          "fr": "un roman",
-          "zh": "小说",
-          "en": "a novel"
+          "fr": "une édition",
+          "zh": "（赛事的）一届",
+          "en": "edition"
         },
         {
-          "fr": "l'Académie française",
-          "zh": "法兰西学术院",
-          "en": "the French Academy"
+          "fr": "disputer une épreuve",
+          "zh": "参加比赛",
+          "en": "to compete in an event"
+        },
+        {
+          "fr": "une discipline",
+          "zh": "比赛项目",
+          "en": "discipline"
         }
       ],
       "question": {
-        "prompt": "Quel prix Sébastien Lapaque a-t-il remporté ?",
+        "prompt": "Qu’est-ce qui rend cette édition particulière ?",
         "choices": [
-          "Le prix Nobel de littérature.",
-          "Le Grand Prix du roman de l'Académie française.",
-          "Un prix de cinéma.",
-          "Un prix de musique."
-        ],
-        "answerIndex": 1,
-        "explanationZh": "原文说他 remporte le Grand Prix du roman de l'Académie française 2026。"
-      }
-    },
-    {
-      "postId": "2115781572758773998",
-      "url": "https://x.com/RFI/status/2115781572758773998",
-      "author": "RFI",
-      "postedAt": "2026-10-29T12:23:30Z",
-      "excerpt": "RFI Connaissances - Dans le monde, un cancer sur huit serait dû à une infection",
-      "level": "B1",
-      "topic": "santé",
-      "summaryZh": "RFI科普：在全世界范围内，约每八例癌症中就有一例可能由感染引起。",
-      "summaryEn": "RFI science: worldwide, about one cancer in eight may be caused by an infection.",
-      "vocab": [
-        {
-          "fr": "un cancer",
-          "zh": "癌症",
-          "en": "a cancer"
-        },
-        {
-          "fr": "une infection",
-          "zh": "感染",
-          "en": "an infection"
-        },
-        {
-          "fr": "être dû à",
-          "zh": "由……引起",
-          "en": "to be caused by"
-        }
-      ],
-      "question": {
-        "prompt": "Selon RFI, quelle proportion des cancers serait due à une infection ?",
-        "choices": [
-          "Un cancer sur huit.",
-          "Un cancer sur deux.",
-          "Un cancer sur cent.",
-          "Tous les cancers."
-        ],
-        "answerIndex": 0,
-        "explanationZh": "原文说 un cancer sur huit serait dû à une infection，即八分之一。serait 为条件式，表示据称。"
-      }
-    },
-    {
-      "postId": "2115844586593767439",
-      "url": "https://x.com/RFI/status/2115844586593767439",
-      "author": "RFI",
-      "postedAt": "2026-10-29T16:33:54Z",
-      "excerpt": "Harcèlement des jeunes: quand l'intelligence artificielle devient une confidente",
-      "level": "B1",
-      "topic": "santé",
-      "summaryZh": "RFI报道：面对校园霸凌和骚扰，一些年轻人开始把人工智能当作倾诉对象。",
-      "summaryEn": "RFI reports that some young people facing harassment are turning to artificial intelligence as a confidant.",
-      "vocab": [
-        {
-          "fr": "le harcèlement",
-          "zh": "骚扰、霸凌",
-          "en": "harassment"
-        },
-        {
-          "fr": "l'intelligence artificielle",
-          "zh": "人工智能",
-          "en": "artificial intelligence"
-        },
-        {
-          "fr": "une confidente",
-          "zh": "知心人、倾诉对象",
-          "en": "a confidant"
-        }
-      ],
-      "question": {
-        "prompt": "Quel rôle l'intelligence artificielle joue-t-elle pour certains jeunes harcelés ?",
-        "choices": [
-          "Elle remplace leurs professeurs.",
-          "Elle surveille leurs parents.",
-          "Elle organise leurs vacances.",
-          "Elle devient une confidente."
+          "Elle se déroule en hiver.",
+          "Elle est réservée aux adultes.",
+          "Elle n’a que 25 athlètes.",
+          "C’est la première sur le continent africain."
         ],
         "answerIndex": 3,
-        "explanationZh": "原文说 l'intelligence artificielle devient une confidente，即成为倾诉对象。"
+        "explanationZh": "原文说 la toute première édition à se dérouler sur le continent africain。"
       }
     },
     {
-      "postId": "2115861350270243086",
-      "url": "https://x.com/PMcanadien/status/2115861350270243086",
-      "author": "PMcanadien",
-      "postedAt": "2026-10-29T17:40:31Z",
-      "excerpt": "Le Canada annonce un investissement historique dans Cohere pour développer une IA sécurisée et souveraine.",
-      "level": "B2",
-      "topic": "actualité",
-      "summaryZh": "加拿大宣布对人工智能企业Cohere进行历史性投资，以发展安全且自主可控的人工智能。",
-      "summaryEn": "Canada announces a historic investment in Cohere to develop secure and sovereign artificial intelligence.",
+      "postId": "2116150434599473210",
+      "url": "https://x.com/RFI/status/2116150434599473210",
+      "author": "RFI",
+      "postedAt": "2026-10-30T12:49:14Z",
+      "excerpt": "Archéologie: un site vieux d'environ 1000 ans livre des informations précieuses sur Madagascar",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "一处约有1000年历史的考古遗址为了解马达加斯加提供了宝贵信息。",
+      "summaryEn": "An archaeological site about 1,000 years old is providing valuable information about Madagascar.",
       "vocab": [
         {
-          "fr": "un investissement",
-          "zh": "投资",
-          "en": "an investment"
+          "fr": "l’archéologie",
+          "zh": "考古学",
+          "en": "archaeology"
         },
         {
-          "fr": "historique",
-          "zh": "历史性的",
-          "en": "historic"
+          "fr": "un site",
+          "zh": "遗址",
+          "en": "site"
         },
         {
-          "fr": "sécurisé",
-          "zh": "安全的",
-          "en": "secure"
-        },
-        {
-          "fr": "souverain",
-          "zh": "自主的、主权的",
-          "en": "sovereign"
+          "fr": "précieux",
+          "zh": "宝贵的",
+          "en": "valuable"
         }
       ],
       "question": {
-        "prompt": "Dans quel domaine le Canada investit-il avec Cohere ?",
+        "prompt": "Quel âge a le site archéologique ?",
         "choices": [
-          "L'agriculture biologique.",
-          "L'intelligence artificielle.",
-          "Le transport ferroviaire.",
-          "Le tourisme."
+          "Environ 1000 ans.",
+          "Environ 100 ans.",
+          "Environ 10 000 ans.",
+          "Environ 50 ans."
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文说 un site vieux d'environ 1000 ans。"
+      }
+    },
+    {
+      "postId": "2116223199474065444",
+      "url": "https://x.com/LeTemps/status/2116223199474065444",
+      "author": "LeTemps",
+      "postedAt": "2026-10-30T17:38:22Z",
+      "excerpt": "Un changement de méthodologie de l’Office fédéral de la statistique (OFS) bouleverse la carte de la productivité des régions. Les cantons de Genève et de Neuchâtel voient leur contribution au PIB suisse bondir.",
+      "level": "B2",
+      "topic": "travail",
+      "summaryZh": "瑞士联邦统计局改变统计方法，重塑了各地区生产率版图，日内瓦州和纳沙泰尔州对瑞士GDP的贡献大幅上升。",
+      "summaryEn": "A methodology change at the Swiss Federal Statistical Office reshapes regional productivity figures, with Geneva and Neuchâtel's share of Swiss GDP jumping.",
+      "vocab": [
+        {
+          "fr": "la méthodologie",
+          "zh": "方法论、统计方法",
+          "en": "methodology"
+        },
+        {
+          "fr": "la productivité",
+          "zh": "生产率",
+          "en": "productivity"
+        },
+        {
+          "fr": "le PIB",
+          "zh": "国内生产总值",
+          "en": "GDP"
+        },
+        {
+          "fr": "bondir",
+          "zh": "猛增",
+          "en": "to jump"
+        }
+      ],
+      "question": {
+        "prompt": "Quelle est la cause du changement de la carte de la productivité ?",
+        "choices": [
+          "Une crise économique.",
+          "Un changement de méthodologie de l’OFS.",
+          "Une nouvelle loi fédérale.",
+          "La fermeture d’entreprises à Zurich."
         ],
         "answerIndex": 1,
-        "explanationZh": "原文说投资 Cohere 是为了 développer une IA，IA 即人工智能。"
+        "explanationZh": "原文开头说 Un changement de méthodologie de l’OFS bouleverse la carte。"
+      }
+    },
+    {
+      "postId": "2116148401050181783",
+      "url": "https://x.com/LeTemps/status/2116148401050181783",
+      "author": "LeTemps",
+      "postedAt": "2026-10-30T12:41:09Z",
+      "excerpt": "Une conférence TEDx à Genève fin novembre abordera, à travers le témoignage de deux femmes atteintes d’un Parkinson à un âge précoce, l’impact particulier de ces maladies sur la vie professionnelle. Explications et pistes de solutions",
+      "level": "B2",
+      "topic": "santé",
+      "summaryZh": "11月底日内瓦一场TEDx演讲将通过两位早发帕金森病女性的亲身经历，探讨这类疾病对职业生活的影响及应对思路。",
+      "summaryEn": "A TEDx talk in Geneva in late November will use two women's experience of early-onset Parkinson's to discuss its impact on working life and possible solutions.",
+      "vocab": [
+        {
+          "fr": "un témoignage",
+          "zh": "亲身讲述、证词",
+          "en": "testimony"
+        },
+        {
+          "fr": "atteint de",
+          "zh": "患有",
+          "en": "suffering from"
+        },
+        {
+          "fr": "précoce",
+          "zh": "早发的、过早的",
+          "en": "early"
+        },
+        {
+          "fr": "une piste de solution",
+          "zh": "解决思路",
+          "en": "possible solution"
+        }
+      ],
+      "question": {
+        "prompt": "De quel sujet la conférence va-t-elle parler ?",
+        "choices": [
+          "Des nouveaux médicaments contre le Parkinson.",
+          "Du tourisme à Genève.",
+          "De l’impact du Parkinson sur la vie professionnelle.",
+          "Des élections suisses."
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文说 l’impact particulier de ces maladies sur la vie professionnelle。"
+      }
+    },
+    {
+      "postId": "2116159272572924157",
+      "url": "https://x.com/LeTemps/status/2116159272572924157",
+      "author": "LeTemps",
+      "postedAt": "2026-10-30T13:24:21Z",
+      "excerpt": "Emilie Bujès reprend les rênes d’un festival qui se cherche toujours entre séries, expériences immersives et avant-premières de films.",
+      "level": "C1",
+      "topic": "culture",
+      "summaryZh": "Emilie Bujès接手一个仍在剧集、沉浸式体验和电影首映之间寻找定位的电影节。",
+      "summaryEn": "Emilie Bujès takes the reins of a festival still trying to find its identity among series, immersive experiences and film premieres.",
+      "vocab": [
+        {
+          "fr": "reprendre les rênes",
+          "zh": "接管、掌舵",
+          "en": "to take the reins"
+        },
+        {
+          "fr": "se chercher",
+          "zh": "寻找自我定位",
+          "en": "to search for one's identity"
+        },
+        {
+          "fr": "une avant-première",
+          "zh": "首映",
+          "en": "premiere"
+        },
+        {
+          "fr": "immersif",
+          "zh": "沉浸式的",
+          "en": "immersive"
+        }
+      ],
+      "question": {
+        "prompt": "Que signifie « reprendre les rênes » dans ce contexte ?",
+        "choices": [
+          "Prendre la direction.",
+          "Quitter le festival.",
+          "Monter à cheval.",
+          "Acheter des billets."
+        ],
+        "answerIndex": 0,
+        "explanationZh": "reprendre les rênes 原意是重新握住缰绳，引申为接手领导。"
+      }
+    },
+    {
+      "postId": "2116186111198335105",
+      "url": "https://x.com/ONUinfo/status/2116186111198335105",
+      "author": "ONUinfo",
+      "postedAt": "2026-10-30T15:11:00Z",
+      "excerpt": "Santé : l’Europe veut mettre l’IA au service des patients, sans en perdre le contrôle",
+      "level": "B1",
+      "topic": "santé",
+      "summaryZh": "欧洲希望让人工智能服务于患者，同时不失去对它的控制。",
+      "summaryEn": "Europe wants to put AI at the service of patients without losing control of it.",
+      "vocab": [
+        {
+          "fr": "l’IA (intelligence artificielle)",
+          "zh": "人工智能",
+          "en": "AI"
+        },
+        {
+          "fr": "au service de",
+          "zh": "为……服务",
+          "en": "at the service of"
+        },
+        {
+          "fr": "perdre le contrôle",
+          "zh": "失去控制",
+          "en": "to lose control"
+        }
+      ],
+      "question": {
+        "prompt": "Que veut faire l’Europe avec l’IA ?",
+        "choices": [
+          "L’interdire dans les hôpitaux.",
+          "La mettre au service des patients en gardant le contrôle.",
+          "La vendre à d’autres pays.",
+          "Remplacer tous les médecins."
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文说 mettre l’IA au service des patients, sans en perdre le contrôle。"
+      }
+    },
+    {
+      "postId": "2116058771378340006",
+      "url": "https://x.com/ONUinfo/status/2116058771378340006",
+      "author": "ONUinfo",
+      "postedAt": "2026-10-30T06:45:00Z",
+      "excerpt": "La nature reprend ses droits, mais les financements pour la restaurer doivent quadrupler",
+      "level": "B2",
+      "topic": "actualité",
+      "summaryZh": "大自然正在恢复，但用于生态修复的资金需要增加到原来的四倍。",
+      "summaryEn": "Nature is reclaiming its place, but funding to restore it needs to quadruple.",
+      "vocab": [
+        {
+          "fr": "reprendre ses droits",
+          "zh": "恢复原状、重新占据",
+          "en": "to reclaim its place"
+        },
+        {
+          "fr": "le financement",
+          "zh": "资金",
+          "en": "funding"
+        },
+        {
+          "fr": "quadrupler",
+          "zh": "增加到四倍",
+          "en": "to quadruple"
+        }
+      ],
+      "question": {
+        "prompt": "Que doivent faire les financements pour la nature ?",
+        "choices": [
+          "Diminuer de moitié.",
+          "Rester stables.",
+          "Disparaître.",
+          "Être multipliés par quatre."
+        ],
+        "answerIndex": 3,
+        "explanationZh": "quadrupler 意为变成四倍。"
       }
     }
   ]
