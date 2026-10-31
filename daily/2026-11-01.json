@@ -1,0 +1,338 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-31T19:03:04Z",
+  "items": [
+    {
+      "postId": "2116561076326138228",
+      "url": "https://x.com/CitImmCanFR/status/2116561076326138228",
+      "author": "CitImmCanFR",
+      "postedAt": "2026-10-31T16:00:59Z",
+      "excerpt": "De nouvelles règles s’appliquent désormais à toute personne rémunérée pour offrir des services de conseils ou de représentation en matière d’immigration ou de citoyenneté canadienne. Vous enfreignez ces règles si vous : fournissez des services de conseils ou de représentation contre rémunération sans autorisation; fournissez, ou aidez quelqu’un à fournir, des renseignements faux, incomplets ou trompeurs dans le cadre d’une demande.",
+      "level": "B2",
+      "topic": "immigration",
+      "summaryZh": "加拿大对收费提供移民或入籍咨询、代理服务的人实施新规：无授权收费服务、提供虚假信息或拒绝在检查中提交文件均属违规。",
+      "summaryEn": "New rules apply to anyone paid to give Canadian immigration or citizenship advice or representation; unauthorized paid services, false information or refusing inspections break them.",
+      "vocab": [
+        {
+          "fr": "enfreindre une règle",
+          "zh": "违反规定",
+          "en": "to break a rule"
+        },
+        {
+          "fr": "contre rémunération",
+          "zh": "收费、有偿",
+          "en": "for a fee"
+        },
+        {
+          "fr": "trompeur",
+          "zh": "误导性的",
+          "en": "misleading"
+        },
+        {
+          "fr": "une inspection",
+          "zh": "检查",
+          "en": "an inspection"
+        }
+      ],
+      "question": {
+        "prompt": "Selon le message, qu’est-ce qui constitue une infraction ?",
+        "choices": [
+          "Demander gratuitement des informations à IRCC.",
+          "Remplir soi-même sa demande de citoyenneté.",
+          "Offrir des conseils payants en immigration sans autorisation.",
+          "Consulter le site web du gouvernement."
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文列出 fournissez des services... contre rémunération sans autorisation，即未经授权收费提供服务属违规。"
+      }
+    },
+    {
+      "postId": "2116515698167914951",
+      "url": "https://x.com/CitImmCanFR/status/2116515698167914951",
+      "author": "CitImmCanFR",
+      "postedAt": "2026-10-31T13:00:40Z",
+      "excerpt": "Une autorisation de voyage électronique (AVE) est un document de voyage électronique dont certaines personnes ont besoin avant de se rendre au Canada ou d’y transiter.",
+      "level": "B1",
+      "topic": "immigration",
+      "summaryZh": "电子旅行授权（AVE/eTA）是部分旅客前往加拿大或在加拿大转机前需要办理的电子旅行证件。",
+      "summaryEn": "An electronic travel authorization (eTA) is an electronic document some people need before travelling to or transiting through Canada.",
+      "vocab": [
+        {
+          "fr": "une autorisation de voyage",
+          "zh": "旅行授权",
+          "en": "travel authorization"
+        },
+        {
+          "fr": "se rendre au Canada",
+          "zh": "前往加拿大",
+          "en": "to travel to Canada"
+        },
+        {
+          "fr": "transiter",
+          "zh": "转机、过境",
+          "en": "to transit"
+        }
+      ],
+      "question": {
+        "prompt": "Quand faut-il obtenir une AVE ?",
+        "choices": [
+          "Après être arrivé au Canada.",
+          "Avant de se rendre au Canada ou d’y transiter.",
+          "Seulement pour quitter le Canada.",
+          "Pour renouveler un passeport."
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文说 avant de se rendre au Canada ou d’y transiter，即入境或转机之前。"
+      }
+    },
+    {
+      "postId": "2116498434685603840",
+      "url": "https://x.com/LeTemps/status/2116498434685603840",
+      "author": "LeTemps",
+      "postedAt": "2026-10-31T11:52:04Z",
+      "excerpt": "Plus de 95% des enfants pratiquent régulièrement des activités qu’ils trouvent à la fois effrayantes et agréables. Bien dosée, l’exposition à la peur aide à gérer cette émotion, explique le chercheur danois Marc Malmdorf.",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "丹麦研究者指出，超过95%的儿童经常参与既吓人又有趣的活动，适度接触恐惧有助于学会管理这种情绪。",
+      "summaryEn": "Over 95% of children regularly do activities they find both scary and fun; a Danish researcher says measured exposure to fear helps them manage it.",
+      "vocab": [
+        {
+          "fr": "effrayant",
+          "zh": "吓人的",
+          "en": "scary"
+        },
+        {
+          "fr": "bien dosé",
+          "zh": "适量的",
+          "en": "well-measured"
+        },
+        {
+          "fr": "l’exposition",
+          "zh": "接触、暴露",
+          "en": "exposure"
+        },
+        {
+          "fr": "gérer une émotion",
+          "zh": "管理情绪",
+          "en": "to manage an emotion"
+        }
+      ],
+      "question": {
+        "prompt": "Selon le chercheur, à quoi sert une exposition à la peur bien dosée ?",
+        "choices": [
+          "À rendre les enfants plus agressifs.",
+          "À supprimer toutes les peurs.",
+          "À remplacer l’école.",
+          "À aider à gérer cette émotion."
+        ],
+        "answerIndex": 3,
+        "explanationZh": "原文 aide à gérer cette émotion，适度的恐惧帮助管理这种情绪。"
+      }
+    },
+    {
+      "postId": "2116493062687936847",
+      "url": "https://x.com/LeTemps/status/2116493062687936847",
+      "author": "LeTemps",
+      "postedAt": "2026-10-31T11:30:43Z",
+      "excerpt": "Le 31 octobre 1926, il disparaissait dans des circonstances encore floues. Cent ans plus tard, il reste le magicien le plus célèbre du monde.",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "1926年10月31日，这位魔术师在至今不明的情况下离世；一百年后，他仍是世界上最著名的魔术师。",
+      "summaryEn": "He died on 31 October 1926 in still unclear circumstances; a hundred years later he remains the world's most famous magician.",
+      "vocab": [
+        {
+          "fr": "des circonstances floues",
+          "zh": "不明的情况",
+          "en": "unclear circumstances"
+        },
+        {
+          "fr": "un magicien",
+          "zh": "魔术师",
+          "en": "a magician"
+        },
+        {
+          "fr": "célèbre",
+          "zh": "著名的",
+          "en": "famous"
+        }
+      ],
+      "question": {
+        "prompt": "Que dit le texte de ce magicien aujourd’hui ?",
+        "choices": [
+          "Il reste le plus célèbre du monde.",
+          "Il est totalement oublié.",
+          "Il donne encore des spectacles.",
+          "Il est né en 1926."
+        ],
+        "answerIndex": 0,
+        "explanationZh": "Cent ans plus tard, il reste le magicien le plus célèbre du monde，至今仍最著名。"
+      }
+    },
+    {
+      "postId": "2116519775455351180",
+      "url": "https://x.com/LeTemps/status/2116519775455351180",
+      "author": "LeTemps",
+      "postedAt": "2026-10-31T13:16:52Z",
+      "excerpt": "Les 15 jours qui précèdent le départ, dimanche, de la Route du Rhum attirent 1,5 million de visiteurs. Les retombées sont considérables mais tout le monde n’en profite pas de la même manière.",
+      "level": "B2",
+      "topic": "actualité",
+      "summaryZh": "帆船赛“朗姆酒之路”周日出发前的15天吸引了150万游客，带来可观的经济效益，但并非人人受益相同。",
+      "summaryEn": "The two weeks before Sunday's Route du Rhum start draw 1.5 million visitors; the spin-offs are huge, but not everyone benefits equally.",
+      "vocab": [
+        {
+          "fr": "précéder",
+          "zh": "在……之前",
+          "en": "to precede"
+        },
+        {
+          "fr": "les retombées",
+          "zh": "效益、影响",
+          "en": "spin-offs, impact"
+        },
+        {
+          "fr": "profiter de",
+          "zh": "从……受益",
+          "en": "to benefit from"
+        }
+      ],
+      "question": {
+        "prompt": "Combien de visiteurs viennent avant le départ de la course ?",
+        "choices": [
+          "15 000.",
+          "150 000.",
+          "1,5 million.",
+          "15 millions."
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文 attirent 1,5 million de visiteurs，即150万游客。"
+      }
+    },
+    {
+      "postId": "2116394942377418888",
+      "url": "https://x.com/franceinfo/status/2116394942377418888",
+      "author": "franceinfo",
+      "postedAt": "2026-10-31T05:00:49Z",
+      "excerpt": "On connaît la reine du crime, créatrice d’Hercule Poirot et de Miss Marple, mais beaucoup moins la femme derrière les romans. Surfeuse à Hawaï dans les années 1920, infirmière pendant la Première Guerre mondiale, familière des poisons, voyageuse et passionnée d’archéologie… Sa propre vie a largement nourri ses intrigues. À Londres, une nouvelle exposition de la British Library dévoile cette Agatha Christie plus inattendue, cinquante ans après sa mort.",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "伦敦大英图书馆新展览展示了意想不到的阿加莎·克里斯蒂：冲浪者、一战护士、熟悉毒药、热爱旅行与考古，她的经历滋养了小说情节。",
+      "summaryEn": "A new British Library exhibition in London reveals a lesser-known Agatha Christie: surfer, WWI nurse, poison expert, traveller and archaeology fan whose life fed her plots.",
+      "vocab": [
+        {
+          "fr": "la reine du crime",
+          "zh": "推理女王",
+          "en": "the queen of crime"
+        },
+        {
+          "fr": "une infirmière",
+          "zh": "护士",
+          "en": "a nurse"
+        },
+        {
+          "fr": "nourrir une intrigue",
+          "zh": "丰富情节",
+          "en": "to feed a plot"
+        },
+        {
+          "fr": "dévoiler",
+          "zh": "揭示",
+          "en": "to reveal"
+        }
+      ],
+      "question": {
+        "prompt": "D’après le texte, qu’est-ce qui a nourri les intrigues d’Agatha Christie ?",
+        "choices": [
+          "Les films d’Hollywood.",
+          "Sa propre vie.",
+          "Les romans de ses amis.",
+          "Les journaux télévisés."
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文 Sa propre vie a largement nourri ses intrigues，她自己的人生滋养了情节。"
+      }
+    },
+    {
+      "postId": "2116542884547530930",
+      "url": "https://x.com/Sciences_Avenir/status/2116542884547530930",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-10-31T14:48:41Z",
+      "excerpt": "Le microbiote intestinal essentiel à notre digestion et à notre santé globale est mieux compris aujourd'hui, mais aucun consensus n'existe sur la définition d'un microbiote sain.",
+      "level": "B2",
+      "topic": "santé",
+      "summaryZh": "肠道菌群对消化和整体健康至关重要，如今人们对它了解更多，但对“健康菌群”的定义仍无共识。",
+      "summaryEn": "The gut microbiota, essential to digestion and overall health, is better understood today, but there is no consensus on what a healthy one is.",
+      "vocab": [
+        {
+          "fr": "le microbiote intestinal",
+          "zh": "肠道菌群",
+          "en": "gut microbiota"
+        },
+        {
+          "fr": "la digestion",
+          "zh": "消化",
+          "en": "digestion"
+        },
+        {
+          "fr": "un consensus",
+          "zh": "共识",
+          "en": "a consensus"
+        },
+        {
+          "fr": "sain",
+          "zh": "健康的",
+          "en": "healthy"
+        }
+      ],
+      "question": {
+        "prompt": "Qu’est-ce qui manque encore selon le texte ?",
+        "choices": [
+          "Des études sur la digestion.",
+          "Des médicaments contre la faim.",
+          "Des hôpitaux spécialisés.",
+          "Un consensus sur la définition d’un microbiote sain."
+        ],
+        "answerIndex": 3,
+        "explanationZh": "原文 aucun consensus n'existe sur la définition d'un microbiote sain，缺少共识。"
+      }
+    },
+    {
+      "postId": "2116447583300178334",
+      "url": "https://x.com/ONUinfo/status/2116447583300178334",
+      "author": "ONUinfo",
+      "postedAt": "2026-10-31T08:30:00Z",
+      "excerpt": "Les niveaux records de dioxyde de carbone auront des répercussions pendant des siècles, prévient l'Organisation météorologique mondiale.",
+      "level": "B1",
+      "topic": "météo",
+      "summaryZh": "世界气象组织警告，创纪录的二氧化碳水平将在数百年内产生影响。",
+      "summaryEn": "The World Meteorological Organization warns that record carbon dioxide levels will have effects for centuries.",
+      "vocab": [
+        {
+          "fr": "le dioxyde de carbone",
+          "zh": "二氧化碳",
+          "en": "carbon dioxide"
+        },
+        {
+          "fr": "des répercussions",
+          "zh": "影响、后果",
+          "en": "repercussions"
+        },
+        {
+          "fr": "prévenir",
+          "zh": "警告",
+          "en": "to warn"
+        }
+      ],
+      "question": {
+        "prompt": "Pendant combien de temps les effets vont-ils durer ?",
+        "choices": [
+          "Pendant quelques jours.",
+          "Pendant un an.",
+          "Pendant des siècles.",
+          "Pendant un mois."
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文 pendant des siècles，即数百年。"
+      }
+    }
+  ]
+}
