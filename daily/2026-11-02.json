@@ -1,0 +1,451 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-01T20:07:57Z",
+  "items": [
+    {
+      "postId": "2116953511879426399",
+      "url": "https://x.com/CitImmCanFR/status/2116953511879426399",
+      "author": "CitImmCanFR",
+      "postedAt": "2026-11-01T18:00:22Z",
+      "excerpt": "Enfreindre la loi lorsqu’on offre des services payants de conseils ou de représentation en matière d’immigration ou de citoyenneté entraîne des conséquences. Les contrevenants s’exposent à des amendes pouvant atteindre un montant maximal combiné de 1,5 million de dollars. À compter de 2027, nous publierons également sur notre site Web des renseignements concernant les infractions confirmées, notamment le nom de la personne, la nature de l’infraction et la sanction imposée.",
+      "level": "B2",
+      "topic": "immigration",
+      "summaryZh": "加拿大移民部提醒：违法提供收费移民或入籍咨询代理服务者最高可被合计罚款150万加元；自2027年起，官网还将公布已确认违规者的姓名、违规性质和处罚。",
+      "summaryEn": "IRCC warns that illegal paid immigration or citizenship consultants face combined fines of up to $1.5 million, and from 2027 it will publish names, offences and penalties online.",
+      "vocab": [
+        {
+          "fr": "enfreindre la loi",
+          "zh": "违法",
+          "en": "to break the law"
+        },
+        {
+          "fr": "un contrevenant",
+          "zh": "违规者",
+          "en": "offender"
+        },
+        {
+          "fr": "une amende",
+          "zh": "罚款",
+          "en": "fine"
+        },
+        {
+          "fr": "une infraction",
+          "zh": "违法行为",
+          "en": "offence"
+        },
+        {
+          "fr": "une sanction",
+          "zh": "处罚",
+          "en": "penalty"
+        }
+      ],
+      "question": {
+        "prompt": "Que fera IRCC à partir de 2027 ?",
+        "choices": [
+          "Supprimer toutes les amendes.",
+          "Publier en ligne les infractions confirmées.",
+          "Interdire tous les représentants payants.",
+          "Rembourser les clients des consultants."
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文说 À compter de 2027, nous publierons ... des renseignements concernant les infractions confirmées。"
+      }
+    },
+    {
+      "postId": "2116908210502189509",
+      "url": "https://x.com/CitImmCanFR/status/2116908210502189509",
+      "author": "CitImmCanFR",
+      "postedAt": "2026-11-01T15:00:22Z",
+      "excerpt": "Le saviez-vous? La fréquence à laquelle vous devez fournir vos données biométriques dépend du type de demande. Vous devrez peut-être les fournir une fois tous les 10 ans ou chaque fois que vous présenterez une demande.",
+      "level": "B1",
+      "topic": "immigration",
+      "summaryZh": "你知道吗？需要多久提供一次生物识别信息取决于申请类型：可能每10年一次，也可能每次申请都要提供。",
+      "summaryEn": "Did you know? How often you must give your biometrics depends on the application type: once every 10 years, or each time you apply.",
+      "vocab": [
+        {
+          "fr": "les données biométriques",
+          "zh": "生物识别信息",
+          "en": "biometrics"
+        },
+        {
+          "fr": "la fréquence",
+          "zh": "频率",
+          "en": "frequency"
+        },
+        {
+          "fr": "fournir",
+          "zh": "提供",
+          "en": "to provide"
+        },
+        {
+          "fr": "présenter une demande",
+          "zh": "提交申请",
+          "en": "to submit an application"
+        }
+      ],
+      "question": {
+        "prompt": "De quoi dépend la fréquence de la biométrie ?",
+        "choices": [
+          "De l’âge du demandeur.",
+          "Du pays d’origine.",
+          "Du type de demande.",
+          "De la saison."
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文说 La fréquence ... dépend du type de demande，取决于申请类型。"
+      }
+    },
+    {
+      "postId": "2116834755001934271",
+      "url": "https://x.com/OIFrancophonie/status/2116834755001934271",
+      "author": "OIFrancophonie",
+      "postedAt": "2026-11-01T10:08:29Z",
+      "excerpt": "J-15 avant le 20e Sommet de la Francophonie ! La paix, la stabilité et la prospérité partagée sont des aspirations communes qui appellent des engagements et des actions concrètes. C’est autour de ces enjeux que les chefs d’État et de gouvernement membres de l’OIF se retrouveront à Phnom Penh, au Cambodge, pour définir ensemble les grandes orientations de la Francophonie pour les années à venir.",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "距第20届法语国家峰会还有15天：法语国家组织成员国元首和政府首脑将齐聚柬埔寨金边，共同确定未来几年的发展方向，峰会也将庆祝法语世界的文化多样性。",
+      "summaryEn": "Fifteen days before the 20th Francophonie Summit in Phnom Penh, Cambodia, where OIF leaders will set the organisation's direction and celebrate cultural diversity.",
+      "vocab": [
+        {
+          "fr": "un sommet",
+          "zh": "峰会",
+          "en": "summit"
+        },
+        {
+          "fr": "la prospérité partagée",
+          "zh": "共同繁荣",
+          "en": "shared prosperity"
+        },
+        {
+          "fr": "un engagement",
+          "zh": "承诺",
+          "en": "commitment"
+        },
+        {
+          "fr": "les grandes orientations",
+          "zh": "大方向",
+          "en": "main guidelines"
+        }
+      ],
+      "question": {
+        "prompt": "Où aura lieu le 20e Sommet de la Francophonie ?",
+        "choices": [
+          "À Paris, en France.",
+          "À Québec, au Canada.",
+          "À Dakar, au Sénégal.",
+          "À Phnom Penh, au Cambodge."
+        ],
+        "answerIndex": 3,
+        "explanationZh": "原文说 se retrouveront à Phnom Penh, au Cambodge。"
+      }
+    },
+    {
+      "postId": "2116848727281271085",
+      "url": "https://x.com/ONU_fr/status/2116848727281271085",
+      "author": "ONU_fr",
+      "postedAt": "2026-11-01T11:04:00Z",
+      "excerpt": "De vastes fonds marins situés au-delà des eaux territoriales restent inexplorés. Les scientifiques veulent y identifier au moins 1000 nouvelles espèces d’ici 2030. Dimanche, c’est la Journée internationale des grands fonds marins.",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "领海以外的大片深海海底仍未被探索，科学家希望到2030年在那里发现至少1000个新物种。周日是国际深海日。",
+      "summaryEn": "Vast seabeds beyond territorial waters remain unexplored; scientists aim to identify at least 1,000 new species there by 2030. Sunday is the International Day of the Deep Sea.",
+      "vocab": [
+        {
+          "fr": "les fonds marins",
+          "zh": "海底",
+          "en": "seabed"
+        },
+        {
+          "fr": "les eaux territoriales",
+          "zh": "领海",
+          "en": "territorial waters"
+        },
+        {
+          "fr": "inexploré",
+          "zh": "未被探索的",
+          "en": "unexplored"
+        },
+        {
+          "fr": "une espèce",
+          "zh": "物种",
+          "en": "species"
+        }
+      ],
+      "question": {
+        "prompt": "Quel est l’objectif des scientifiques d’ici 2030 ?",
+        "choices": [
+          "Identifier au moins 1000 nouvelles espèces.",
+          "Fermer l’accès aux fonds marins.",
+          "Construire des villes sous la mer.",
+          "Pêcher davantage de poissons."
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文说 identifier au moins 1000 nouvelles espèces d’ici 2030。"
+      }
+    },
+    {
+      "postId": "2116923346679890429",
+      "url": "https://x.com/StatCan_fra/status/2116923346679890429",
+      "author": "StatCan_fra",
+      "postedAt": "2026-11-01T16:00:31Z",
+      "excerpt": "Le saviez-vous? À 7 h, 48,5 % des Canadiennes et Canadiens sont réveillés et commencent leur journée.",
+      "level": "A2",
+      "topic": "actualité",
+      "summaryZh": "你知道吗？早上7点时，48.5%的加拿大人已经起床开始一天的生活。",
+      "summaryEn": "Did you know? At 7 a.m., 48.5% of Canadians are awake and starting their day.",
+      "vocab": [
+        {
+          "fr": "être réveillé",
+          "zh": "醒着的",
+          "en": "to be awake"
+        },
+        {
+          "fr": "commencer sa journée",
+          "zh": "开始一天",
+          "en": "to start one's day"
+        },
+        {
+          "fr": "l’emploi du temps",
+          "zh": "时间安排",
+          "en": "schedule"
+        }
+      ],
+      "question": {
+        "prompt": "Selon Statistique Canada, que font 48,5 % des Canadiens à 7 h ?",
+        "choices": [
+          "Ils dorment encore.",
+          "Ils sont au travail.",
+          "Ils sont réveillés et commencent leur journée.",
+          "Ils prennent le transport en commun."
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文说 à 7 h, 48,5 % ... sont réveillés et commencent leur journée。"
+      }
+    },
+    {
+      "postId": "2116918035567296664",
+      "url": "https://x.com/Sciences_Avenir/status/2116918035567296664",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-01T15:39:24Z",
+      "excerpt": "Pour construire l’alignement des « flèches du Diable » (Devil’s Arrows), les hommes du Néolithique ont transporté ces trois monolithes de plus de 25 tonnes sur près de 20 kilomètres depuis le site féérique de Brimham Rocks.",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "为建造“魔鬼之箭”巨石阵列，新石器时代的人们把三块各重逾25吨的巨石从布里姆汉岩区运了近20公里。",
+      "summaryEn": "To build the Devil's Arrows alignment, Neolithic people moved three monoliths of over 25 tonnes nearly 20 km from Brimham Rocks.",
+      "vocab": [
+        {
+          "fr": "le Néolithique",
+          "zh": "新石器时代",
+          "en": "Neolithic"
+        },
+        {
+          "fr": "un monolithe",
+          "zh": "巨石",
+          "en": "monolith"
+        },
+        {
+          "fr": "transporter",
+          "zh": "运输",
+          "en": "to transport"
+        },
+        {
+          "fr": "un alignement",
+          "zh": "（石头的）排列",
+          "en": "alignment"
+        }
+      ],
+      "question": {
+        "prompt": "Sur quelle distance les monolithes ont-ils été transportés ?",
+        "choices": [
+          "Près de 2 kilomètres.",
+          "Près de 20 kilomètres.",
+          "Près de 200 kilomètres.",
+          "Plus de 25 kilomètres."
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文说 sur près de 20 kilomètres，将近20公里。"
+      }
+    },
+    {
+      "postId": "2116876799879905456",
+      "url": "https://x.com/Sciences_Avenir/status/2116876799879905456",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-01T12:55:33Z",
+      "excerpt": "Bien qu'elle ait doublé en un siècle, la durée de vie moyenne voit sa progression ralentir, et parfois même s'inverser, sous l'effet de crises sanitaires, économiques ou sociales.",
+      "level": "C1",
+      "topic": "santé",
+      "summaryZh": "虽然平均寿命在一个世纪里翻了一番，但在卫生、经济或社会危机的影响下，其增长正在放缓，有时甚至出现倒退。",
+      "summaryEn": "Although average life expectancy doubled in a century, its growth is slowing and sometimes reversing under health, economic or social crises.",
+      "vocab": [
+        {
+          "fr": "la durée de vie moyenne",
+          "zh": "平均寿命",
+          "en": "average life expectancy"
+        },
+        {
+          "fr": "doubler",
+          "zh": "翻倍",
+          "en": "to double"
+        },
+        {
+          "fr": "ralentir",
+          "zh": "放缓",
+          "en": "to slow down"
+        },
+        {
+          "fr": "s’inverser",
+          "zh": "逆转",
+          "en": "to reverse"
+        },
+        {
+          "fr": "sous l’effet de",
+          "zh": "在……影响下",
+          "en": "under the effect of"
+        }
+      ],
+      "question": {
+        "prompt": "Que se passe-t-il aujourd’hui avec la durée de vie moyenne ?",
+        "choices": [
+          "Elle double encore chaque année.",
+          "Elle n’a jamais changé.",
+          "Elle a été divisée par deux.",
+          "Sa progression ralentit, parfois s’inverse."
+        ],
+        "answerIndex": 3,
+        "explanationZh": "原文说 voit sa progression ralentir, et parfois même s'inverser。Bien que 引导让步从句，后接虚拟式。"
+      }
+    },
+    {
+      "postId": "2116938330956870050",
+      "url": "https://x.com/MinistereCC/status/2116938330956870050",
+      "author": "MinistereCC",
+      "postedAt": "2026-11-01T17:00:03Z",
+      "excerpt": "Savez-vous que l’affouage, inclus à l’Inventaire national du patrimoine culturel immatériel, remonte au Moyen Âge ? Ce partage de bois égalitaire, local et responsable, respecte la forêt et maintient un lien social.",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "你知道吗？已列入法国国家非物质文化遗产名录的“共用林木分配制”可追溯到中世纪，这种平等、本地、负责任的木材分享方式既保护森林，又维系社会联系。",
+      "summaryEn": "Did you know affouage, listed in France's national intangible heritage inventory, dates back to the Middle Ages? This fair, local wood-sharing protects forests and social ties.",
+      "vocab": [
+        {
+          "fr": "le patrimoine culturel immatériel",
+          "zh": "非物质文化遗产",
+          "en": "intangible cultural heritage"
+        },
+        {
+          "fr": "remonter à",
+          "zh": "追溯到",
+          "en": "to date back to"
+        },
+        {
+          "fr": "le Moyen Âge",
+          "zh": "中世纪",
+          "en": "Middle Ages"
+        },
+        {
+          "fr": "un lien social",
+          "zh": "社会联系",
+          "en": "social bond"
+        }
+      ],
+      "question": {
+        "prompt": "Qu’est-ce que l’affouage ?",
+        "choices": [
+          "Un partage de bois égalitaire et local.",
+          "Une fête de la musique.",
+          "Une technique de pêche.",
+          "Un impôt sur les maisons."
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文说 Ce partage de bois égalitaire, local et responsable。"
+      }
+    },
+    {
+      "postId": "2116931363966496809",
+      "url": "https://x.com/CNES/status/2116931363966496809",
+      "author": "CNES",
+      "postedAt": "2026-11-01T16:32:22Z",
+      "excerpt": "Bravo à Patrick Michel, lauréat du prix « CNES Astrophysique et Sciences spatiales » 2026 de l’Académie des sciences ! Expert des astéroïdes, il fait avancer la défense planétaire avec DART et Hera et l’exploration de Phobos avec le rover IDEFIX.",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "祝贺Patrick Michel获得法国科学院2026年“CNES天体物理与空间科学奖”。这位小行星专家通过DART和Hera任务推动行星防御，并参与火卫一探测车IDEFIX的探索。",
+      "summaryEn": "Congratulations to Patrick Michel, winner of the Academy of Sciences' 2026 CNES prize; the asteroid expert advances planetary defence with DART and Hera and Phobos exploration.",
+      "vocab": [
+        {
+          "fr": "un lauréat",
+          "zh": "获奖者",
+          "en": "prize winner"
+        },
+        {
+          "fr": "un astéroïde",
+          "zh": "小行星",
+          "en": "asteroid"
+        },
+        {
+          "fr": "la défense planétaire",
+          "zh": "行星防御",
+          "en": "planetary defence"
+        },
+        {
+          "fr": "faire avancer",
+          "zh": "推动",
+          "en": "to advance"
+        }
+      ],
+      "question": {
+        "prompt": "Quelle est la spécialité de Patrick Michel ?",
+        "choices": [
+          "Les volcans.",
+          "Les océans.",
+          "Les astéroïdes.",
+          "Les forêts."
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文说 Expert des astéroïdes，小行星专家。"
+      }
+    },
+    {
+      "postId": "2116875124968145029",
+      "url": "https://x.com/LeTemps/status/2116875124968145029",
+      "author": "LeTemps",
+      "postedAt": "2026-11-01T12:48:54Z",
+      "excerpt": "Sur La Côte vaudoise, Claire et Nicolas ont passé quatre ans à observer leur maison centenaire avant de la rénover. Les extensions contemporaines décidées permettent un dialogue intéressant entre ancien et nouveau",
+      "level": "B1",
+      "topic": "logement",
+      "summaryZh": "在沃州湖滨地区，Claire和Nicolas花了四年观察他们的百年老宅后才动手翻新，新增的现代扩建部分让新旧建筑形成有趣的对话。",
+      "summaryEn": "On the Vaud shore, Claire and Nicolas spent four years observing their century-old house before renovating it; modern extensions create a dialogue between old and new.",
+      "vocab": [
+        {
+          "fr": "une maison centenaire",
+          "zh": "百年老宅",
+          "en": "century-old house"
+        },
+        {
+          "fr": "rénover",
+          "zh": "翻新",
+          "en": "to renovate"
+        },
+        {
+          "fr": "une extension",
+          "zh": "扩建部分",
+          "en": "extension"
+        },
+        {
+          "fr": "contemporain",
+          "zh": "现代的",
+          "en": "contemporary"
+        }
+      ],
+      "question": {
+        "prompt": "Combien de temps Claire et Nicolas ont-ils observé leur maison avant de la rénover ?",
+        "choices": [
+          "Quatre mois.",
+          "Quatre ans.",
+          "Un siècle.",
+          "Dix ans."
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文说 ont passé quatre ans à observer leur maison。"
+      }
+    }
+  ]
+}

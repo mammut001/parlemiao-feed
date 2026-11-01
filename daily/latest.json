@@ -1,337 +1,450 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-31T19:03:04Z",
+  "generatedAt": "2026-11-01T20:07:57Z",
   "items": [
     {
-      "postId": "2116561076326138228",
-      "url": "https://x.com/CitImmCanFR/status/2116561076326138228",
+      "postId": "2116953511879426399",
+      "url": "https://x.com/CitImmCanFR/status/2116953511879426399",
       "author": "CitImmCanFR",
-      "postedAt": "2026-10-31T16:00:59Z",
-      "excerpt": "De nouvelles règles s’appliquent désormais à toute personne rémunérée pour offrir des services de conseils ou de représentation en matière d’immigration ou de citoyenneté canadienne. Vous enfreignez ces règles si vous : fournissez des services de conseils ou de représentation contre rémunération sans autorisation; fournissez, ou aidez quelqu’un à fournir, des renseignements faux, incomplets ou trompeurs dans le cadre d’une demande.",
+      "postedAt": "2026-11-01T18:00:22Z",
+      "excerpt": "Enfreindre la loi lorsqu’on offre des services payants de conseils ou de représentation en matière d’immigration ou de citoyenneté entraîne des conséquences. Les contrevenants s’exposent à des amendes pouvant atteindre un montant maximal combiné de 1,5 million de dollars. À compter de 2027, nous publierons également sur notre site Web des renseignements concernant les infractions confirmées, notamment le nom de la personne, la nature de l’infraction et la sanction imposée.",
       "level": "B2",
       "topic": "immigration",
-      "summaryZh": "加拿大对收费提供移民或入籍咨询、代理服务的人实施新规：无授权收费服务、提供虚假信息或拒绝在检查中提交文件均属违规。",
-      "summaryEn": "New rules apply to anyone paid to give Canadian immigration or citizenship advice or representation; unauthorized paid services, false information or refusing inspections break them.",
+      "summaryZh": "加拿大移民部提醒：违法提供收费移民或入籍咨询代理服务者最高可被合计罚款150万加元；自2027年起，官网还将公布已确认违规者的姓名、违规性质和处罚。",
+      "summaryEn": "IRCC warns that illegal paid immigration or citizenship consultants face combined fines of up to $1.5 million, and from 2027 it will publish names, offences and penalties online.",
       "vocab": [
         {
-          "fr": "enfreindre une règle",
-          "zh": "违反规定",
-          "en": "to break a rule"
+          "fr": "enfreindre la loi",
+          "zh": "违法",
+          "en": "to break the law"
         },
         {
-          "fr": "contre rémunération",
-          "zh": "收费、有偿",
-          "en": "for a fee"
+          "fr": "un contrevenant",
+          "zh": "违规者",
+          "en": "offender"
         },
         {
-          "fr": "trompeur",
-          "zh": "误导性的",
-          "en": "misleading"
+          "fr": "une amende",
+          "zh": "罚款",
+          "en": "fine"
         },
         {
-          "fr": "une inspection",
-          "zh": "检查",
-          "en": "an inspection"
+          "fr": "une infraction",
+          "zh": "违法行为",
+          "en": "offence"
+        },
+        {
+          "fr": "une sanction",
+          "zh": "处罚",
+          "en": "penalty"
         }
       ],
       "question": {
-        "prompt": "Selon le message, qu’est-ce qui constitue une infraction ?",
+        "prompt": "Que fera IRCC à partir de 2027 ?",
         "choices": [
-          "Demander gratuitement des informations à IRCC.",
-          "Remplir soi-même sa demande de citoyenneté.",
-          "Offrir des conseils payants en immigration sans autorisation.",
-          "Consulter le site web du gouvernement."
-        ],
-        "answerIndex": 2,
-        "explanationZh": "原文列出 fournissez des services... contre rémunération sans autorisation，即未经授权收费提供服务属违规。"
-      }
-    },
-    {
-      "postId": "2116515698167914951",
-      "url": "https://x.com/CitImmCanFR/status/2116515698167914951",
-      "author": "CitImmCanFR",
-      "postedAt": "2026-10-31T13:00:40Z",
-      "excerpt": "Une autorisation de voyage électronique (AVE) est un document de voyage électronique dont certaines personnes ont besoin avant de se rendre au Canada ou d’y transiter.",
-      "level": "B1",
-      "topic": "immigration",
-      "summaryZh": "电子旅行授权（AVE/eTA）是部分旅客前往加拿大或在加拿大转机前需要办理的电子旅行证件。",
-      "summaryEn": "An electronic travel authorization (eTA) is an electronic document some people need before travelling to or transiting through Canada.",
-      "vocab": [
-        {
-          "fr": "une autorisation de voyage",
-          "zh": "旅行授权",
-          "en": "travel authorization"
-        },
-        {
-          "fr": "se rendre au Canada",
-          "zh": "前往加拿大",
-          "en": "to travel to Canada"
-        },
-        {
-          "fr": "transiter",
-          "zh": "转机、过境",
-          "en": "to transit"
-        }
-      ],
-      "question": {
-        "prompt": "Quand faut-il obtenir une AVE ?",
-        "choices": [
-          "Après être arrivé au Canada.",
-          "Avant de se rendre au Canada ou d’y transiter.",
-          "Seulement pour quitter le Canada.",
-          "Pour renouveler un passeport."
+          "Supprimer toutes les amendes.",
+          "Publier en ligne les infractions confirmées.",
+          "Interdire tous les représentants payants.",
+          "Rembourser les clients des consultants."
         ],
         "answerIndex": 1,
-        "explanationZh": "原文说 avant de se rendre au Canada ou d’y transiter，即入境或转机之前。"
+        "explanationZh": "原文说 À compter de 2027, nous publierons ... des renseignements concernant les infractions confirmées。"
       }
     },
     {
-      "postId": "2116498434685603840",
-      "url": "https://x.com/LeTemps/status/2116498434685603840",
-      "author": "LeTemps",
-      "postedAt": "2026-10-31T11:52:04Z",
-      "excerpt": "Plus de 95% des enfants pratiquent régulièrement des activités qu’ils trouvent à la fois effrayantes et agréables. Bien dosée, l’exposition à la peur aide à gérer cette émotion, explique le chercheur danois Marc Malmdorf.",
+      "postId": "2116908210502189509",
+      "url": "https://x.com/CitImmCanFR/status/2116908210502189509",
+      "author": "CitImmCanFR",
+      "postedAt": "2026-11-01T15:00:22Z",
+      "excerpt": "Le saviez-vous? La fréquence à laquelle vous devez fournir vos données biométriques dépend du type de demande. Vous devrez peut-être les fournir une fois tous les 10 ans ou chaque fois que vous présenterez une demande.",
+      "level": "B1",
+      "topic": "immigration",
+      "summaryZh": "你知道吗？需要多久提供一次生物识别信息取决于申请类型：可能每10年一次，也可能每次申请都要提供。",
+      "summaryEn": "Did you know? How often you must give your biometrics depends on the application type: once every 10 years, or each time you apply.",
+      "vocab": [
+        {
+          "fr": "les données biométriques",
+          "zh": "生物识别信息",
+          "en": "biometrics"
+        },
+        {
+          "fr": "la fréquence",
+          "zh": "频率",
+          "en": "frequency"
+        },
+        {
+          "fr": "fournir",
+          "zh": "提供",
+          "en": "to provide"
+        },
+        {
+          "fr": "présenter une demande",
+          "zh": "提交申请",
+          "en": "to submit an application"
+        }
+      ],
+      "question": {
+        "prompt": "De quoi dépend la fréquence de la biométrie ?",
+        "choices": [
+          "De l’âge du demandeur.",
+          "Du pays d’origine.",
+          "Du type de demande.",
+          "De la saison."
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文说 La fréquence ... dépend du type de demande，取决于申请类型。"
+      }
+    },
+    {
+      "postId": "2116834755001934271",
+      "url": "https://x.com/OIFrancophonie/status/2116834755001934271",
+      "author": "OIFrancophonie",
+      "postedAt": "2026-11-01T10:08:29Z",
+      "excerpt": "J-15 avant le 20e Sommet de la Francophonie ! La paix, la stabilité et la prospérité partagée sont des aspirations communes qui appellent des engagements et des actions concrètes. C’est autour de ces enjeux que les chefs d’État et de gouvernement membres de l’OIF se retrouveront à Phnom Penh, au Cambodge, pour définir ensemble les grandes orientations de la Francophonie pour les années à venir.",
       "level": "B2",
       "topic": "culture",
-      "summaryZh": "丹麦研究者指出，超过95%的儿童经常参与既吓人又有趣的活动，适度接触恐惧有助于学会管理这种情绪。",
-      "summaryEn": "Over 95% of children regularly do activities they find both scary and fun; a Danish researcher says measured exposure to fear helps them manage it.",
+      "summaryZh": "距第20届法语国家峰会还有15天：法语国家组织成员国元首和政府首脑将齐聚柬埔寨金边，共同确定未来几年的发展方向，峰会也将庆祝法语世界的文化多样性。",
+      "summaryEn": "Fifteen days before the 20th Francophonie Summit in Phnom Penh, Cambodia, where OIF leaders will set the organisation's direction and celebrate cultural diversity.",
       "vocab": [
         {
-          "fr": "effrayant",
-          "zh": "吓人的",
-          "en": "scary"
+          "fr": "un sommet",
+          "zh": "峰会",
+          "en": "summit"
         },
         {
-          "fr": "bien dosé",
-          "zh": "适量的",
-          "en": "well-measured"
+          "fr": "la prospérité partagée",
+          "zh": "共同繁荣",
+          "en": "shared prosperity"
         },
         {
-          "fr": "l’exposition",
-          "zh": "接触、暴露",
-          "en": "exposure"
+          "fr": "un engagement",
+          "zh": "承诺",
+          "en": "commitment"
         },
         {
-          "fr": "gérer une émotion",
-          "zh": "管理情绪",
-          "en": "to manage an emotion"
+          "fr": "les grandes orientations",
+          "zh": "大方向",
+          "en": "main guidelines"
         }
       ],
       "question": {
-        "prompt": "Selon le chercheur, à quoi sert une exposition à la peur bien dosée ?",
+        "prompt": "Où aura lieu le 20e Sommet de la Francophonie ?",
         "choices": [
-          "À rendre les enfants plus agressifs.",
-          "À supprimer toutes les peurs.",
-          "À remplacer l’école.",
-          "À aider à gérer cette émotion."
+          "À Paris, en France.",
+          "À Québec, au Canada.",
+          "À Dakar, au Sénégal.",
+          "À Phnom Penh, au Cambodge."
         ],
         "answerIndex": 3,
-        "explanationZh": "原文 aide à gérer cette émotion，适度的恐惧帮助管理这种情绪。"
+        "explanationZh": "原文说 se retrouveront à Phnom Penh, au Cambodge。"
       }
     },
     {
-      "postId": "2116493062687936847",
-      "url": "https://x.com/LeTemps/status/2116493062687936847",
-      "author": "LeTemps",
-      "postedAt": "2026-10-31T11:30:43Z",
-      "excerpt": "Le 31 octobre 1926, il disparaissait dans des circonstances encore floues. Cent ans plus tard, il reste le magicien le plus célèbre du monde.",
+      "postId": "2116848727281271085",
+      "url": "https://x.com/ONU_fr/status/2116848727281271085",
+      "author": "ONU_fr",
+      "postedAt": "2026-11-01T11:04:00Z",
+      "excerpt": "De vastes fonds marins situés au-delà des eaux territoriales restent inexplorés. Les scientifiques veulent y identifier au moins 1000 nouvelles espèces d’ici 2030. Dimanche, c’est la Journée internationale des grands fonds marins.",
       "level": "B1",
       "topic": "culture",
-      "summaryZh": "1926年10月31日，这位魔术师在至今不明的情况下离世；一百年后，他仍是世界上最著名的魔术师。",
-      "summaryEn": "He died on 31 October 1926 in still unclear circumstances; a hundred years later he remains the world's most famous magician.",
+      "summaryZh": "领海以外的大片深海海底仍未被探索，科学家希望到2030年在那里发现至少1000个新物种。周日是国际深海日。",
+      "summaryEn": "Vast seabeds beyond territorial waters remain unexplored; scientists aim to identify at least 1,000 new species there by 2030. Sunday is the International Day of the Deep Sea.",
       "vocab": [
         {
-          "fr": "des circonstances floues",
-          "zh": "不明的情况",
-          "en": "unclear circumstances"
+          "fr": "les fonds marins",
+          "zh": "海底",
+          "en": "seabed"
         },
         {
-          "fr": "un magicien",
-          "zh": "魔术师",
-          "en": "a magician"
+          "fr": "les eaux territoriales",
+          "zh": "领海",
+          "en": "territorial waters"
         },
         {
-          "fr": "célèbre",
-          "zh": "著名的",
-          "en": "famous"
+          "fr": "inexploré",
+          "zh": "未被探索的",
+          "en": "unexplored"
+        },
+        {
+          "fr": "une espèce",
+          "zh": "物种",
+          "en": "species"
         }
       ],
       "question": {
-        "prompt": "Que dit le texte de ce magicien aujourd’hui ?",
+        "prompt": "Quel est l’objectif des scientifiques d’ici 2030 ?",
         "choices": [
-          "Il reste le plus célèbre du monde.",
-          "Il est totalement oublié.",
-          "Il donne encore des spectacles.",
-          "Il est né en 1926."
+          "Identifier au moins 1000 nouvelles espèces.",
+          "Fermer l’accès aux fonds marins.",
+          "Construire des villes sous la mer.",
+          "Pêcher davantage de poissons."
         ],
         "answerIndex": 0,
-        "explanationZh": "Cent ans plus tard, il reste le magicien le plus célèbre du monde，至今仍最著名。"
+        "explanationZh": "原文说 identifier au moins 1000 nouvelles espèces d’ici 2030。"
       }
     },
     {
-      "postId": "2116519775455351180",
-      "url": "https://x.com/LeTemps/status/2116519775455351180",
-      "author": "LeTemps",
-      "postedAt": "2026-10-31T13:16:52Z",
-      "excerpt": "Les 15 jours qui précèdent le départ, dimanche, de la Route du Rhum attirent 1,5 million de visiteurs. Les retombées sont considérables mais tout le monde n’en profite pas de la même manière.",
-      "level": "B2",
+      "postId": "2116923346679890429",
+      "url": "https://x.com/StatCan_fra/status/2116923346679890429",
+      "author": "StatCan_fra",
+      "postedAt": "2026-11-01T16:00:31Z",
+      "excerpt": "Le saviez-vous? À 7 h, 48,5 % des Canadiennes et Canadiens sont réveillés et commencent leur journée.",
+      "level": "A2",
       "topic": "actualité",
-      "summaryZh": "帆船赛“朗姆酒之路”周日出发前的15天吸引了150万游客，带来可观的经济效益，但并非人人受益相同。",
-      "summaryEn": "The two weeks before Sunday's Route du Rhum start draw 1.5 million visitors; the spin-offs are huge, but not everyone benefits equally.",
+      "summaryZh": "你知道吗？早上7点时，48.5%的加拿大人已经起床开始一天的生活。",
+      "summaryEn": "Did you know? At 7 a.m., 48.5% of Canadians are awake and starting their day.",
       "vocab": [
         {
-          "fr": "précéder",
-          "zh": "在……之前",
-          "en": "to precede"
+          "fr": "être réveillé",
+          "zh": "醒着的",
+          "en": "to be awake"
         },
         {
-          "fr": "les retombées",
-          "zh": "效益、影响",
-          "en": "spin-offs, impact"
+          "fr": "commencer sa journée",
+          "zh": "开始一天",
+          "en": "to start one's day"
         },
         {
-          "fr": "profiter de",
-          "zh": "从……受益",
-          "en": "to benefit from"
+          "fr": "l’emploi du temps",
+          "zh": "时间安排",
+          "en": "schedule"
         }
       ],
       "question": {
-        "prompt": "Combien de visiteurs viennent avant le départ de la course ?",
+        "prompt": "Selon Statistique Canada, que font 48,5 % des Canadiens à 7 h ?",
         "choices": [
-          "15 000.",
-          "150 000.",
-          "1,5 million.",
-          "15 millions."
+          "Ils dorment encore.",
+          "Ils sont au travail.",
+          "Ils sont réveillés et commencent leur journée.",
+          "Ils prennent le transport en commun."
         ],
         "answerIndex": 2,
-        "explanationZh": "原文 attirent 1,5 million de visiteurs，即150万游客。"
+        "explanationZh": "原文说 à 7 h, 48,5 % ... sont réveillés et commencent leur journée。"
       }
     },
     {
-      "postId": "2116394942377418888",
-      "url": "https://x.com/franceinfo/status/2116394942377418888",
-      "author": "franceinfo",
-      "postedAt": "2026-10-31T05:00:49Z",
-      "excerpt": "On connaît la reine du crime, créatrice d’Hercule Poirot et de Miss Marple, mais beaucoup moins la femme derrière les romans. Surfeuse à Hawaï dans les années 1920, infirmière pendant la Première Guerre mondiale, familière des poisons, voyageuse et passionnée d’archéologie… Sa propre vie a largement nourri ses intrigues. À Londres, une nouvelle exposition de la British Library dévoile cette Agatha Christie plus inattendue, cinquante ans après sa mort.",
+      "postId": "2116918035567296664",
+      "url": "https://x.com/Sciences_Avenir/status/2116918035567296664",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-01T15:39:24Z",
+      "excerpt": "Pour construire l’alignement des « flèches du Diable » (Devil’s Arrows), les hommes du Néolithique ont transporté ces trois monolithes de plus de 25 tonnes sur près de 20 kilomètres depuis le site féérique de Brimham Rocks.",
       "level": "B2",
       "topic": "culture",
-      "summaryZh": "伦敦大英图书馆新展览展示了意想不到的阿加莎·克里斯蒂：冲浪者、一战护士、熟悉毒药、热爱旅行与考古，她的经历滋养了小说情节。",
-      "summaryEn": "A new British Library exhibition in London reveals a lesser-known Agatha Christie: surfer, WWI nurse, poison expert, traveller and archaeology fan whose life fed her plots.",
+      "summaryZh": "为建造“魔鬼之箭”巨石阵列，新石器时代的人们把三块各重逾25吨的巨石从布里姆汉岩区运了近20公里。",
+      "summaryEn": "To build the Devil's Arrows alignment, Neolithic people moved three monoliths of over 25 tonnes nearly 20 km from Brimham Rocks.",
       "vocab": [
         {
-          "fr": "la reine du crime",
-          "zh": "推理女王",
-          "en": "the queen of crime"
+          "fr": "le Néolithique",
+          "zh": "新石器时代",
+          "en": "Neolithic"
         },
         {
-          "fr": "une infirmière",
-          "zh": "护士",
-          "en": "a nurse"
+          "fr": "un monolithe",
+          "zh": "巨石",
+          "en": "monolith"
         },
         {
-          "fr": "nourrir une intrigue",
-          "zh": "丰富情节",
-          "en": "to feed a plot"
+          "fr": "transporter",
+          "zh": "运输",
+          "en": "to transport"
         },
         {
-          "fr": "dévoiler",
-          "zh": "揭示",
-          "en": "to reveal"
+          "fr": "un alignement",
+          "zh": "（石头的）排列",
+          "en": "alignment"
         }
       ],
       "question": {
-        "prompt": "D’après le texte, qu’est-ce qui a nourri les intrigues d’Agatha Christie ?",
+        "prompt": "Sur quelle distance les monolithes ont-ils été transportés ?",
         "choices": [
-          "Les films d’Hollywood.",
-          "Sa propre vie.",
-          "Les romans de ses amis.",
-          "Les journaux télévisés."
+          "Près de 2 kilomètres.",
+          "Près de 20 kilomètres.",
+          "Près de 200 kilomètres.",
+          "Plus de 25 kilomètres."
         ],
         "answerIndex": 1,
-        "explanationZh": "原文 Sa propre vie a largement nourri ses intrigues，她自己的人生滋养了情节。"
+        "explanationZh": "原文说 sur près de 20 kilomètres，将近20公里。"
       }
     },
     {
-      "postId": "2116542884547530930",
-      "url": "https://x.com/Sciences_Avenir/status/2116542884547530930",
+      "postId": "2116876799879905456",
+      "url": "https://x.com/Sciences_Avenir/status/2116876799879905456",
       "author": "Sciences_Avenir",
-      "postedAt": "2026-10-31T14:48:41Z",
-      "excerpt": "Le microbiote intestinal essentiel à notre digestion et à notre santé globale est mieux compris aujourd'hui, mais aucun consensus n'existe sur la définition d'un microbiote sain.",
-      "level": "B2",
+      "postedAt": "2026-11-01T12:55:33Z",
+      "excerpt": "Bien qu'elle ait doublé en un siècle, la durée de vie moyenne voit sa progression ralentir, et parfois même s'inverser, sous l'effet de crises sanitaires, économiques ou sociales.",
+      "level": "C1",
       "topic": "santé",
-      "summaryZh": "肠道菌群对消化和整体健康至关重要，如今人们对它了解更多，但对“健康菌群”的定义仍无共识。",
-      "summaryEn": "The gut microbiota, essential to digestion and overall health, is better understood today, but there is no consensus on what a healthy one is.",
+      "summaryZh": "虽然平均寿命在一个世纪里翻了一番，但在卫生、经济或社会危机的影响下，其增长正在放缓，有时甚至出现倒退。",
+      "summaryEn": "Although average life expectancy doubled in a century, its growth is slowing and sometimes reversing under health, economic or social crises.",
       "vocab": [
         {
-          "fr": "le microbiote intestinal",
-          "zh": "肠道菌群",
-          "en": "gut microbiota"
+          "fr": "la durée de vie moyenne",
+          "zh": "平均寿命",
+          "en": "average life expectancy"
         },
         {
-          "fr": "la digestion",
-          "zh": "消化",
-          "en": "digestion"
+          "fr": "doubler",
+          "zh": "翻倍",
+          "en": "to double"
         },
         {
-          "fr": "un consensus",
-          "zh": "共识",
-          "en": "a consensus"
+          "fr": "ralentir",
+          "zh": "放缓",
+          "en": "to slow down"
         },
         {
-          "fr": "sain",
-          "zh": "健康的",
-          "en": "healthy"
+          "fr": "s’inverser",
+          "zh": "逆转",
+          "en": "to reverse"
+        },
+        {
+          "fr": "sous l’effet de",
+          "zh": "在……影响下",
+          "en": "under the effect of"
         }
       ],
       "question": {
-        "prompt": "Qu’est-ce qui manque encore selon le texte ?",
+        "prompt": "Que se passe-t-il aujourd’hui avec la durée de vie moyenne ?",
         "choices": [
-          "Des études sur la digestion.",
-          "Des médicaments contre la faim.",
-          "Des hôpitaux spécialisés.",
-          "Un consensus sur la définition d’un microbiote sain."
+          "Elle double encore chaque année.",
+          "Elle n’a jamais changé.",
+          "Elle a été divisée par deux.",
+          "Sa progression ralentit, parfois s’inverse."
         ],
         "answerIndex": 3,
-        "explanationZh": "原文 aucun consensus n'existe sur la définition d'un microbiote sain，缺少共识。"
+        "explanationZh": "原文说 voit sa progression ralentir, et parfois même s'inverser。Bien que 引导让步从句，后接虚拟式。"
       }
     },
     {
-      "postId": "2116447583300178334",
-      "url": "https://x.com/ONUinfo/status/2116447583300178334",
-      "author": "ONUinfo",
-      "postedAt": "2026-10-31T08:30:00Z",
-      "excerpt": "Les niveaux records de dioxyde de carbone auront des répercussions pendant des siècles, prévient l'Organisation météorologique mondiale.",
-      "level": "B1",
-      "topic": "météo",
-      "summaryZh": "世界气象组织警告，创纪录的二氧化碳水平将在数百年内产生影响。",
-      "summaryEn": "The World Meteorological Organization warns that record carbon dioxide levels will have effects for centuries.",
+      "postId": "2116938330956870050",
+      "url": "https://x.com/MinistereCC/status/2116938330956870050",
+      "author": "MinistereCC",
+      "postedAt": "2026-11-01T17:00:03Z",
+      "excerpt": "Savez-vous que l’affouage, inclus à l’Inventaire national du patrimoine culturel immatériel, remonte au Moyen Âge ? Ce partage de bois égalitaire, local et responsable, respecte la forêt et maintient un lien social.",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "你知道吗？已列入法国国家非物质文化遗产名录的“共用林木分配制”可追溯到中世纪，这种平等、本地、负责任的木材分享方式既保护森林，又维系社会联系。",
+      "summaryEn": "Did you know affouage, listed in France's national intangible heritage inventory, dates back to the Middle Ages? This fair, local wood-sharing protects forests and social ties.",
       "vocab": [
         {
-          "fr": "le dioxyde de carbone",
-          "zh": "二氧化碳",
-          "en": "carbon dioxide"
+          "fr": "le patrimoine culturel immatériel",
+          "zh": "非物质文化遗产",
+          "en": "intangible cultural heritage"
         },
         {
-          "fr": "des répercussions",
-          "zh": "影响、后果",
-          "en": "repercussions"
+          "fr": "remonter à",
+          "zh": "追溯到",
+          "en": "to date back to"
         },
         {
-          "fr": "prévenir",
-          "zh": "警告",
-          "en": "to warn"
+          "fr": "le Moyen Âge",
+          "zh": "中世纪",
+          "en": "Middle Ages"
+        },
+        {
+          "fr": "un lien social",
+          "zh": "社会联系",
+          "en": "social bond"
         }
       ],
       "question": {
-        "prompt": "Pendant combien de temps les effets vont-ils durer ?",
+        "prompt": "Qu’est-ce que l’affouage ?",
         "choices": [
-          "Pendant quelques jours.",
-          "Pendant un an.",
-          "Pendant des siècles.",
-          "Pendant un mois."
+          "Un partage de bois égalitaire et local.",
+          "Une fête de la musique.",
+          "Une technique de pêche.",
+          "Un impôt sur les maisons."
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文说 Ce partage de bois égalitaire, local et responsable。"
+      }
+    },
+    {
+      "postId": "2116931363966496809",
+      "url": "https://x.com/CNES/status/2116931363966496809",
+      "author": "CNES",
+      "postedAt": "2026-11-01T16:32:22Z",
+      "excerpt": "Bravo à Patrick Michel, lauréat du prix « CNES Astrophysique et Sciences spatiales » 2026 de l’Académie des sciences ! Expert des astéroïdes, il fait avancer la défense planétaire avec DART et Hera et l’exploration de Phobos avec le rover IDEFIX.",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "祝贺Patrick Michel获得法国科学院2026年“CNES天体物理与空间科学奖”。这位小行星专家通过DART和Hera任务推动行星防御，并参与火卫一探测车IDEFIX的探索。",
+      "summaryEn": "Congratulations to Patrick Michel, winner of the Academy of Sciences' 2026 CNES prize; the asteroid expert advances planetary defence with DART and Hera and Phobos exploration.",
+      "vocab": [
+        {
+          "fr": "un lauréat",
+          "zh": "获奖者",
+          "en": "prize winner"
+        },
+        {
+          "fr": "un astéroïde",
+          "zh": "小行星",
+          "en": "asteroid"
+        },
+        {
+          "fr": "la défense planétaire",
+          "zh": "行星防御",
+          "en": "planetary defence"
+        },
+        {
+          "fr": "faire avancer",
+          "zh": "推动",
+          "en": "to advance"
+        }
+      ],
+      "question": {
+        "prompt": "Quelle est la spécialité de Patrick Michel ?",
+        "choices": [
+          "Les volcans.",
+          "Les océans.",
+          "Les astéroïdes.",
+          "Les forêts."
         ],
         "answerIndex": 2,
-        "explanationZh": "原文 pendant des siècles，即数百年。"
+        "explanationZh": "原文说 Expert des astéroïdes，小行星专家。"
+      }
+    },
+    {
+      "postId": "2116875124968145029",
+      "url": "https://x.com/LeTemps/status/2116875124968145029",
+      "author": "LeTemps",
+      "postedAt": "2026-11-01T12:48:54Z",
+      "excerpt": "Sur La Côte vaudoise, Claire et Nicolas ont passé quatre ans à observer leur maison centenaire avant de la rénover. Les extensions contemporaines décidées permettent un dialogue intéressant entre ancien et nouveau",
+      "level": "B1",
+      "topic": "logement",
+      "summaryZh": "在沃州湖滨地区，Claire和Nicolas花了四年观察他们的百年老宅后才动手翻新，新增的现代扩建部分让新旧建筑形成有趣的对话。",
+      "summaryEn": "On the Vaud shore, Claire and Nicolas spent four years observing their century-old house before renovating it; modern extensions create a dialogue between old and new.",
+      "vocab": [
+        {
+          "fr": "une maison centenaire",
+          "zh": "百年老宅",
+          "en": "century-old house"
+        },
+        {
+          "fr": "rénover",
+          "zh": "翻新",
+          "en": "to renovate"
+        },
+        {
+          "fr": "une extension",
+          "zh": "扩建部分",
+          "en": "extension"
+        },
+        {
+          "fr": "contemporain",
+          "zh": "现代的",
+          "en": "contemporary"
+        }
+      ],
+      "question": {
+        "prompt": "Combien de temps Claire et Nicolas ont-ils observé leur maison avant de la rénover ?",
+        "choices": [
+          "Quatre mois.",
+          "Quatre ans.",
+          "Un siècle.",
+          "Dix ans."
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文说 ont passé quatre ans à observer leur maison。"
       }
     }
   ]
