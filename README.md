@@ -2,6 +2,8 @@
 
 Daily French study material built from public posts on X. **grokbot writes** to this repo, and the Parlemiao backend **reads it only** (the repo is public, no token).
 
+These materials support [Parlemiao 喵说法语](https://french.paytonpei.top/), a French learning and TCF Canada practice site.
+
 ## Files
 - `daily/latest.json`: overwritten every day before 06:00 Beijing time (22:00 UTC).
 - `daily/YYYY-MM-DD.json`: dated archive copy with the same content, using the Beijing date.
