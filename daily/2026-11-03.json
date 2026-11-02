@@ -1,0 +1,358 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-02T19:45:00Z",
+  "items": [
+    {
+      "postId": "2117278058776231945",
+      "url": "https://x.com/CitImmCanFR/status/2117278058776231945",
+      "author": "CitImmCanFR",
+      "postedAt": "2026-11-02T15:30:00Z",
+      "excerpt": "La ministre Metlege Diab souligne la 14e édition de la Semaine nationale de l’immigration francophone au Canada. Lisez sa déclaration : Merci aux immigrants d’expression française qui enrichissent et font rayonner nos communautés francophones chaque jour!",
+      "level": "A2",
+      "topic": "immigration",
+      "summaryZh": "部长Metlege Diab纪念第14届加拿大全国法语移民周，感谢讲法语的移民丰富了法语社区。",
+      "summaryEn": "Minister Metlege Diab marks the 14th National Francophone Immigration Week and thanks French-speaking immigrants.",
+      "vocab": [
+        {
+          "fr": "souligner",
+          "zh": "强调；纪念",
+          "en": "to mark, highlight"
+        },
+        {
+          "fr": "une édition",
+          "zh": "届",
+          "en": "edition"
+        },
+        {
+          "fr": "enrichir",
+          "zh": "丰富",
+          "en": "to enrich"
+        },
+        {
+          "fr": "rayonner",
+          "zh": "发光；使闻名",
+          "en": "to shine, spread influence"
+        }
+      ],
+      "question": {
+        "prompt": "Quelle édition de la Semaine nationale de l'immigration francophone est soulignée ?",
+        "choices": [
+          "La 14e édition",
+          "La 4e édition",
+          "La 40e édition",
+          "La première édition"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文说 la 14e édition，即第14届。"
+      }
+    },
+    {
+      "postId": "2117301023823794262",
+      "url": "https://x.com/CitImmCanFR/status/2117301023823794262",
+      "author": "CitImmCanFR",
+      "postedAt": "2026-11-02T17:01:16Z",
+      "excerpt": "AIDE DE SERVICE EN LIGNE: Les services en ligne liés au Portail d’IRCC seront inaccessibles entre 00h00 et 11h30 HNE le 3 novembre. Assurez-vous de supprimer le contenu de la mémoire cache de votre navigateur Internet lorsque le service sera de retour.",
+      "level": "B1",
+      "topic": "immigration",
+      "summaryZh": "IRCC门户相关在线服务将于11月3日东部时间0:00至11:30无法使用，恢复后请清除浏览器缓存。",
+      "summaryEn": "IRCC Portal online services will be unavailable Nov 3 from 00:00 to 11:30 ET; clear your browser cache afterward.",
+      "vocab": [
+        {
+          "fr": "inaccessible",
+          "zh": "无法访问的",
+          "en": "inaccessible"
+        },
+        {
+          "fr": "la mémoire cache",
+          "zh": "缓存",
+          "en": "cache"
+        },
+        {
+          "fr": "supprimer",
+          "zh": "删除",
+          "en": "to delete"
+        },
+        {
+          "fr": "un navigateur",
+          "zh": "浏览器",
+          "en": "browser"
+        }
+      ],
+      "question": {
+        "prompt": "Que faut-il faire quand le service sera de retour ?",
+        "choices": [
+          "Créer un nouveau compte",
+          "Supprimer le cache du navigateur",
+          "Appeler IRCC",
+          "Changer de mot de passe"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文要求 supprimer le contenu de la mémoire cache，即清除缓存。"
+      }
+    },
+    {
+      "postId": "2117301963415322981",
+      "url": "https://x.com/ONU_fr/status/2117301963415322981",
+      "author": "ONU_fr",
+      "postedAt": "2026-11-02T17:05:00Z",
+      "excerpt": "Il y a suffisamment de nourriture sur Terre pour nourrir tout le monde. Pourtant, 266 millions de personnes sont confrontées à une faim aiguë en raison des conflits, des chocs climatiques et des inégalités. Le WFP intervient là où les besoins sont les plus urgents.",
+      "level": "A2",
+      "topic": "actualité",
+      "summaryZh": "地球上的粮食足够养活所有人，但仍有2.66亿人面临严重饥饿，世界粮食计划署在最急需的地方提供援助。",
+      "summaryEn": "There is enough food for everyone, yet 266 million people face acute hunger; WFP acts where needs are most urgent.",
+      "vocab": [
+        {
+          "fr": "nourrir",
+          "zh": "养活；喂养",
+          "en": "to feed"
+        },
+        {
+          "fr": "la faim aiguë",
+          "zh": "严重饥饿",
+          "en": "acute hunger"
+        },
+        {
+          "fr": "les inégalités",
+          "zh": "不平等",
+          "en": "inequalities"
+        },
+        {
+          "fr": "intervenir",
+          "zh": "介入；采取行动",
+          "en": "to intervene"
+        }
+      ],
+      "question": {
+        "prompt": "Combien de personnes sont confrontées à une faim aiguë ?",
+        "choices": [
+          "26 millions",
+          "2,66 milliards",
+          "266 millions",
+          "66 millions"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文写的是 266 millions de personnes。"
+      }
+    },
+    {
+      "postId": "2117321652794982687",
+      "url": "https://x.com/LeTemps/status/2117321652794982687",
+      "author": "LeTemps",
+      "postedAt": "2026-11-02T18:23:14Z",
+      "excerpt": "La convention cadre liant PKBS, propriétaire d'une barre d'immeubles au boulevard Carl-Vogt, et l'Asloca, qui défend les locataires, a été signée lundi à Genève. Le ministre Nicolas Walder espère que ce compromis fera des émules",
+      "level": "B2",
+      "topic": "logement",
+      "summaryZh": "日内瓦Carl-Vogt大道一栋楼的业主PKBS与租户协会Asloca签署了框架协议，部长希望这一妥协能被效仿。",
+      "summaryEn": "A framework agreement between landlord PKBS and tenants' group Asloca was signed in Geneva; the minister hopes it inspires others.",
+      "vocab": [
+        {
+          "fr": "une convention cadre",
+          "zh": "框架协议",
+          "en": "framework agreement"
+        },
+        {
+          "fr": "un propriétaire",
+          "zh": "业主",
+          "en": "owner, landlord"
+        },
+        {
+          "fr": "un locataire",
+          "zh": "租户",
+          "en": "tenant"
+        },
+        {
+          "fr": "faire des émules",
+          "zh": "被效仿",
+          "en": "to inspire imitators"
+        }
+      ],
+      "question": {
+        "prompt": "Qui défend les locataires dans cet accord ?",
+        "choices": [
+          "PKBS",
+          "Le ministre",
+          "La ville de Lausanne",
+          "L'Asloca"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "原文说 l'Asloca, qui défend les locataires。"
+      }
+    },
+    {
+      "postId": "2117300919109136672",
+      "url": "https://x.com/LeTemps/status/2117300919109136672",
+      "author": "LeTemps",
+      "postedAt": "2026-11-02T17:00:51Z",
+      "excerpt": "Inspirée d’un modèle fribourgeois à succès, la faîtière GastroLausanne lance un système de bons cadeaux afin de redonner du pouvoir d’achat aux gourmets et une bouffée d’oxygène à ses établissements partenaires",
+      "level": "B1",
+      "topic": "travail",
+      "summaryZh": "受弗里堡成功模式启发，洛桑餐饮协会推出礼品券系统，提升食客购买力并帮助合作餐厅。",
+      "summaryEn": "Inspired by a Fribourg model, GastroLausanne launches gift vouchers to boost diners' buying power and help partner restaurants.",
+      "vocab": [
+        {
+          "fr": "un bon cadeau",
+          "zh": "礼品券",
+          "en": "gift voucher"
+        },
+        {
+          "fr": "le pouvoir d'achat",
+          "zh": "购买力",
+          "en": "purchasing power"
+        },
+        {
+          "fr": "une bouffée d'oxygène",
+          "zh": "喘息机会",
+          "en": "a breath of fresh air"
+        },
+        {
+          "fr": "un établissement",
+          "zh": "店铺；机构",
+          "en": "establishment"
+        }
+      ],
+      "question": {
+        "prompt": "De quel modèle s'inspire GastroLausanne ?",
+        "choices": [
+          "Un modèle genevois",
+          "Un modèle fribourgeois",
+          "Un modèle parisien",
+          "Un modèle bâlois"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文说 inspirée d'un modèle fribourgeois。"
+      }
+    },
+    {
+      "postId": "2117288382564848021",
+      "url": "https://x.com/LeTemps/status/2117288382564848021",
+      "author": "LeTemps",
+      "postedAt": "2026-11-02T16:11:02Z",
+      "excerpt": "Peintre et dessinatrice éprise d’humour et de nature, Catherine Meurisse publie «Le Clan de Walden» et se dévoile dans un livre d’entretiens, «Catherine Meurisse sur le pont des Arts». Elle recense dix astres éclairant sa route",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "热爱幽默与自然的画家Catherine Meurisse出版《Le Clan de Walden》及一本访谈录，并列出照亮她道路的十位人物。",
+      "summaryEn": "Artist Catherine Meurisse publishes a new book and a book of interviews, and lists ten figures who guided her path.",
+      "vocab": [
+        {
+          "fr": "éprise de",
+          "zh": "热爱……的",
+          "en": "in love with"
+        },
+        {
+          "fr": "se dévoiler",
+          "zh": "袒露自己",
+          "en": "to reveal oneself"
+        },
+        {
+          "fr": "un livre d'entretiens",
+          "zh": "访谈录",
+          "en": "book of interviews"
+        },
+        {
+          "fr": "recenser",
+          "zh": "列举",
+          "en": "to list"
+        }
+      ],
+      "question": {
+        "prompt": "Quel est le métier de Catherine Meurisse ?",
+        "choices": [
+          "Chanteuse",
+          "Architecte",
+          "Peintre et dessinatrice",
+          "Journaliste sportive"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文说 Peintre et dessinatrice，画家和漫画家。"
+      }
+    },
+    {
+      "postId": "2117285432656269608",
+      "url": "https://x.com/Sciences_Avenir/status/2117285432656269608",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-02T15:59:19Z",
+      "excerpt": "34 % de la population mondiale ont été exposés cette année à des niveaux extrêmement élevés d’ozone, selon Copernicus. C'est 53 % de la population asiatique au cours des huit premiers mois de 2026. Notre article de septembre dernier",
+      "level": "B1",
+      "topic": "santé",
+      "summaryZh": "据哥白尼计划，今年全球34%人口暴露于极高臭氧水平，2026年前八个月亚洲人口的这一比例为53%。",
+      "summaryEn": "Per Copernicus, 34% of the world's population faced extremely high ozone levels this year.",
+      "vocab": [
+        {
+          "fr": "être exposé à",
+          "zh": "暴露于",
+          "en": "to be exposed to"
+        },
+        {
+          "fr": "un niveau",
+          "zh": "水平",
+          "en": "level"
+        },
+        {
+          "fr": "l'ozone",
+          "zh": "臭氧",
+          "en": "ozone"
+        },
+        {
+          "fr": "la population mondiale",
+          "zh": "世界人口",
+          "en": "world population"
+        }
+      ],
+      "question": {
+        "prompt": "Quelle part de la population mondiale a été exposée à des niveaux très élevés d'ozone ?",
+        "choices": [
+          "53 %",
+          "34 %",
+          "8 %",
+          "20 %"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文说 34 % de la population mondiale。"
+      }
+    },
+    {
+      "postId": "2117288121863991359",
+      "url": "https://x.com/ONUinfo/status/2117288121863991359",
+      "author": "ONUinfo",
+      "postedAt": "2026-11-02T16:10:00Z",
+      "excerpt": "Éducation, santé, logement, protection sociale : des millions de personnes en sont privées, dans un monde plus riche que jamais 60 ans après l’adoption du Pacte PIDESC qui consacre ces droits, l’ONU alerte UNHumanRights",
+      "level": "B2",
+      "topic": "actualité",
+      "summaryZh": "《经济社会文化权利国际公约》通过60年后，联合国警告：在比以往更富裕的世界里，仍有数百万人缺乏教育、医疗、住房和社会保障。",
+      "summaryEn": "60 years after the ICESCR, the UN warns millions still lack education, health, housing and social protection in a richer world.",
+      "vocab": [
+        {
+          "fr": "être privé de",
+          "zh": "被剥夺",
+          "en": "to be deprived of"
+        },
+        {
+          "fr": "la protection sociale",
+          "zh": "社会保障",
+          "en": "social protection"
+        },
+        {
+          "fr": "consacrer un droit",
+          "zh": "确立一项权利",
+          "en": "to enshrine a right"
+        },
+        {
+          "fr": "alerter",
+          "zh": "警告",
+          "en": "to warn"
+        }
+      ],
+      "question": {
+        "prompt": "Depuis combien de temps le Pacte PIDESC a-t-il été adopté ?",
+        "choices": [
+          "60 ans",
+          "10 ans",
+          "100 ans",
+          "16 ans"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文说 60 ans après l'adoption du Pacte。"
+      }
+    }
+  ]
+}
