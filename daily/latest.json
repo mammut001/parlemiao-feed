@@ -1,66 +1,413 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-02T19:45:00Z",
+  "generatedAt": "2026-11-03T12:17:52Z",
   "items": [
     {
-      "postId": "2117278058776231945",
-      "url": "https://x.com/CitImmCanFR/status/2117278058776231945",
-      "author": "CitImmCanFR",
-      "postedAt": "2026-11-02T15:30:00Z",
-      "excerpt": "La ministre Metlege Diab souligne la 14e édition de la Semaine nationale de l’immigration francophone au Canada. Lisez sa déclaration : Merci aux immigrants d’expression française qui enrichissent et font rayonner nos communautés francophones chaque jour!",
-      "level": "A2",
-      "topic": "immigration",
-      "summaryZh": "部长Metlege Diab纪念第14届加拿大全国法语移民周，感谢讲法语的移民丰富了法语社区。",
-      "summaryEn": "Minister Metlege Diab marks the 14th National Francophone Immigration Week and thanks French-speaking immigrants.",
+      "postId": "2117481960826081390",
+      "url": "https://x.com/UNESCO_fr/status/2117481960826081390",
+      "author": "UNESCO_fr",
+      "postedAt": "2026-11-03T05:00:15Z",
+      "excerpt": "Comment construire un avenir plus durable pour les populations et la nature ? Les réserves de biosphère nous montrent déjà la voie. À travers le monde, 797 réserves de biosphère sont de véritables laboratoires vivants du développement durable, où les communautés œuvrent à la protection de la biodiversité tout en préservant leurs moyens de subsistance.",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "国际生物圈保护区日之际，教科文组织介绍全球797个生物圈保护区：当地社区在保护生物多样性的同时维持生计，是可持续发展的“活实验室”。",
+      "summaryEn": "For the International Day of Biosphere Reserves, UNESCO highlights 797 reserves worldwide where communities protect biodiversity while keeping their livelihoods.",
       "vocab": [
         {
-          "fr": "souligner",
-          "zh": "强调；纪念",
-          "en": "to mark, highlight"
+          "fr": "une réserve de biosphère",
+          "zh": "生物圈保护区",
+          "en": "biosphere reserve"
         },
         {
-          "fr": "une édition",
-          "zh": "届",
-          "en": "edition"
+          "fr": "le développement durable",
+          "zh": "可持续发展",
+          "en": "sustainable development"
         },
         {
-          "fr": "enrichir",
-          "zh": "丰富",
-          "en": "to enrich"
+          "fr": "les moyens de subsistance",
+          "zh": "生计",
+          "en": "livelihoods"
         },
         {
-          "fr": "rayonner",
-          "zh": "发光；使闻名",
-          "en": "to shine, spread influence"
+          "fr": "œuvrer à",
+          "zh": "致力于",
+          "en": "to work towards"
         }
       ],
       "question": {
-        "prompt": "Quelle édition de la Semaine nationale de l'immigration francophone est soulignée ?",
+        "prompt": "Que font les communautés dans les réserves de biosphère ?",
         "choices": [
-          "La 14e édition",
-          "La 4e édition",
-          "La 40e édition",
-          "La première édition"
+          "Elles quittent la région pour protéger la nature.",
+          "Elles interdisent toute activité économique.",
+          "Elles protègent la biodiversité tout en gardant leurs moyens de subsistance.",
+          "Elles construisent de nouvelles villes."
         ],
-        "answerIndex": 0,
-        "explanationZh": "原文说 la 14e édition，即第14届。"
+        "answerIndex": 2,
+        "explanationZh": "原文说 œuvrent à la protection de la biodiversité tout en préservant leurs moyens de subsistance。"
       }
     },
     {
-      "postId": "2117301023823794262",
-      "url": "https://x.com/CitImmCanFR/status/2117301023823794262",
-      "author": "CitImmCanFR",
-      "postedAt": "2026-11-02T17:01:16Z",
-      "excerpt": "AIDE DE SERVICE EN LIGNE: Les services en ligne liés au Portail d’IRCC seront inaccessibles entre 00h00 et 11h30 HNE le 3 novembre. Assurez-vous de supprimer le contenu de la mémoire cache de votre navigateur Internet lorsque le service sera de retour.",
-      "level": "B1",
-      "topic": "immigration",
-      "summaryZh": "IRCC门户相关在线服务将于11月3日东部时间0:00至11:30无法使用，恢复后请清除浏览器缓存。",
-      "summaryEn": "IRCC Portal online services will be unavailable Nov 3 from 00:00 to 11:30 ET; clear your browser cache afterward.",
+      "postId": "2117572631452885021",
+      "url": "https://x.com/OIFrancophonie/status/2117572631452885021",
+      "author": "OIFrancophonie",
+      "postedAt": "2026-11-03T11:00:32Z",
+      "excerpt": "Plus haute instance de la Francophonie, le Sommet se tient tous les deux ans. Dans quelques jours, le Cambodge, pays du Roi-Père Norodom Sihanouk, l’un des quatre pères fondateurs de la Francophonie, accueillera pour la première fois ce grand rendez-vous. Cette 20e édition revêt ainsi une portée symbolique particulière pour le Royaume et mettra en lumière l’ancrage et la vitalité de la Francophonie en Asie du Sud-Est.",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "法语国家峰会每两年举行一次。几天后，柬埔寨将首次主办第20届峰会，其前国王西哈努克是法语国家组织的四位创始人之一。",
+      "summaryEn": "The Francophonie Summit is held every two years. In a few days, Cambodia will host its 20th edition for the first time, a symbolic moment for the Francophonie in Southeast Asia.",
       "vocab": [
         {
-          "fr": "inaccessible",
-          "zh": "无法访问的",
-          "en": "inaccessible"
+          "fr": "une instance",
+          "zh": "机构；机关",
+          "en": "body, authority"
+        },
+        {
+          "fr": "accueillir",
+          "zh": "接待；主办",
+          "en": "to host"
+        },
+        {
+          "fr": "un rendez-vous",
+          "zh": "聚会；盛会",
+          "en": "event, meeting"
+        },
+        {
+          "fr": "revêtir une portée",
+          "zh": "具有……意义",
+          "en": "to carry significance"
+        }
+      ],
+      "question": {
+        "prompt": "À quelle fréquence se tient le Sommet de la Francophonie ?",
+        "choices": [
+          "Tous les ans.",
+          "Tous les deux ans.",
+          "Tous les quatre ans.",
+          "Une seule fois."
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文说 le Sommet se tient tous les deux ans，即每两年一次。"
+      }
+    },
+    {
+      "postId": "2117579366242582651",
+      "url": "https://x.com/LeTemps/status/2117579366242582651",
+      "author": "LeTemps",
+      "postedAt": "2026-11-03T11:27:18Z",
+      "excerpt": "Dans le site de l’Abric Romaní, en Catalogne espagnole, près de 600 empreintes de bois datant de 62 000 à 40 000 ans révèlent la diversité des objets fabriqués par les Néandertaliens.",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "在西班牙加泰罗尼亚的 Abric Romaní 遗址，近600个距今6.2万至4万年的木头印痕揭示了尼安德特人制作物品的多样性。",
+      "summaryEn": "At the Abric Romaní site in Spanish Catalonia, nearly 600 wood imprints dating from 62,000 to 40,000 years ago reveal the variety of objects Neanderthals made.",
+      "vocab": [
+        {
+          "fr": "une empreinte",
+          "zh": "印痕；印记",
+          "en": "imprint"
+        },
+        {
+          "fr": "dater de",
+          "zh": "追溯到",
+          "en": "to date from"
+        },
+        {
+          "fr": "révéler",
+          "zh": "揭示",
+          "en": "to reveal"
+        },
+        {
+          "fr": "fabriquer",
+          "zh": "制作",
+          "en": "to make, to manufacture"
+        }
+      ],
+      "question": {
+        "prompt": "Que révèlent les empreintes de bois ?",
+        "choices": [
+          "La diversité des objets fabriqués par les Néandertaliens.",
+          "La date exacte de la fin des Néandertaliens.",
+          "Le climat actuel de la Catalogne.",
+          "Des maisons construites au Moyen Âge."
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文说 révèlent la diversité des objets fabriqués par les Néandertaliens。"
+      }
+    },
+    {
+      "postId": "2117590477708898807",
+      "url": "https://x.com/LeTemps/status/2117590477708898807",
+      "author": "LeTemps",
+      "postedAt": "2026-11-03T12:11:27Z",
+      "excerpt": "L’ancienne régie fédérale collabore avec l’entreprise zurichoise Parquery, spécialisée dans la gestion de la mobilité à l’aide de l’IA, afin de fournir des indications plus précises sur l’affluence dans les trains.",
+      "level": "B2",
+      "topic": "transport",
+      "summaryZh": "瑞士这家前联邦国营企业与苏黎世公司 Parquery 合作，利用人工智能管理出行，以更准确地提供火车上的拥挤程度信息。",
+      "summaryEn": "The former Swiss federal agency is working with Zurich firm Parquery, which uses AI for mobility management, to give more precise information on how crowded trains are.",
+      "vocab": [
+        {
+          "fr": "collaborer avec",
+          "zh": "与……合作",
+          "en": "to work with"
+        },
+        {
+          "fr": "une entreprise",
+          "zh": "公司；企业",
+          "en": "company"
+        },
+        {
+          "fr": "l’affluence",
+          "zh": "人流；拥挤程度",
+          "en": "crowding, attendance"
+        },
+        {
+          "fr": "une indication",
+          "zh": "提示；信息",
+          "en": "indication, information"
+        }
+      ],
+      "question": {
+        "prompt": "Quel est le but de cette collaboration ?",
+        "choices": [
+          "Vendre des billets moins chers.",
+          "Construire de nouvelles gares à Zurich.",
+          "Remplacer les conducteurs par des robots.",
+          "Donner des informations plus précises sur l’affluence dans les trains."
+        ],
+        "answerIndex": 3,
+        "explanationZh": "原文说 afin de fournir des indications plus précises sur l’affluence dans les trains。"
+      }
+    },
+    {
+      "postId": "2117531862797267036",
+      "url": "https://x.com/Sciences_Avenir/status/2117531862797267036",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-03T08:18:32Z",
+      "excerpt": "D'après une compilation de mesures effectuées depuis 1950, la Méditerranée se réchauffe et devient de plus en plus salée, et ce jusqu'à plusieurs milliers de mètres de profondeur. Un phénomène qui s'accélère.",
+      "level": "B2",
+      "topic": "météo",
+      "summaryZh": "根据1950年以来的测量数据汇总，地中海正在变暖、变得越来越咸，甚至深达数千米处也是如此，而且这一现象正在加速。",
+      "summaryEn": "Measurements compiled since 1950 show the Mediterranean is getting warmer and saltier, down to several thousand metres deep, and the trend is accelerating.",
+      "vocab": [
+        {
+          "fr": "une mesure",
+          "zh": "测量",
+          "en": "measurement"
+        },
+        {
+          "fr": "se réchauffer",
+          "zh": "变暖",
+          "en": "to warm up"
+        },
+        {
+          "fr": "salé",
+          "zh": "咸的",
+          "en": "salty"
+        },
+        {
+          "fr": "la profondeur",
+          "zh": "深度",
+          "en": "depth"
+        }
+      ],
+      "question": {
+        "prompt": "Qu'arrive-t-il à la Méditerranée selon le texte ?",
+        "choices": [
+          "Elle devient plus froide et moins salée.",
+          "Elle se réchauffe et devient plus salée.",
+          "Son niveau baisse depuis 1950.",
+          "Elle ne change qu'en surface."
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文说 se réchauffe et devient de plus en plus salée，且深达数千米。"
+      }
+    },
+    {
+      "postId": "2117512242304528387",
+      "url": "https://x.com/Sciences_Avenir/status/2117512242304528387",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-03T07:00:34Z",
+      "excerpt": "La France accélère le déploiement des batteries stationnaires, qui permettent de stocker les surplus d’électricité et de les réinjecter lors des pics de consommation.",
+      "level": "B2",
+      "topic": "actualité",
+      "summaryZh": "法国正在加快部署固定式储能电池：它们可储存多余电力，并在用电高峰时重新输入电网。",
+      "summaryEn": "France is speeding up the rollout of stationary batteries, which store surplus electricity and feed it back into the grid during consumption peaks.",
+      "vocab": [
+        {
+          "fr": "le déploiement",
+          "zh": "部署",
+          "en": "rollout, deployment"
+        },
+        {
+          "fr": "stocker",
+          "zh": "储存",
+          "en": "to store"
+        },
+        {
+          "fr": "un surplus",
+          "zh": "剩余；过剩",
+          "en": "surplus"
+        },
+        {
+          "fr": "un pic de consommation",
+          "zh": "用电高峰",
+          "en": "consumption peak"
+        }
+      ],
+      "question": {
+        "prompt": "À quoi servent les batteries stationnaires ?",
+        "choices": [
+          "À recharger uniquement les voitures.",
+          "À produire de l'électricité à partir du soleil.",
+          "À stocker le surplus d'électricité et le réinjecter lors des pics.",
+          "À réduire le prix de l'essence."
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文说 stocker les surplus d’électricité et de les réinjecter lors des pics de consommation。"
+      }
+    },
+    {
+      "postId": "2117541782498271323",
+      "url": "https://x.com/Sciences_Avenir/status/2117541782498271323",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-03T08:57:57Z",
+      "excerpt": "A l'hôpital de Niort, depuis 2018, des patients animent une station de radio. Un cocon, une libération et une thérapie douce pour beaucoup d'entre eux. Reportage au sein de cette unité psychiatrique pas comme les autres.",
+      "level": "B1",
+      "topic": "santé",
+      "summaryZh": "自2018年起，尼奥尔医院的病人们主持一个电台。对许多人来说，这是一个安心的空间、一种释放，也是一种温和的疗法。",
+      "summaryEn": "Since 2018, patients at the Niort hospital have run a radio station. For many of them it is a safe space, a release and a gentle therapy.",
+      "vocab": [
+        {
+          "fr": "animer",
+          "zh": "主持",
+          "en": "to host, to run"
+        },
+        {
+          "fr": "une thérapie douce",
+          "zh": "温和疗法",
+          "en": "gentle therapy"
+        },
+        {
+          "fr": "un reportage",
+          "zh": "报道",
+          "en": "report"
+        },
+        {
+          "fr": "une unité psychiatrique",
+          "zh": "精神科病区",
+          "en": "psychiatric unit"
+        }
+      ],
+      "question": {
+        "prompt": "Depuis quand les patients animent-ils la radio ?",
+        "choices": [
+          "Depuis 2008.",
+          "Depuis 2020.",
+          "Depuis l'année dernière.",
+          "Depuis 2018."
+        ],
+        "answerIndex": 3,
+        "explanationZh": "原文说 depuis 2018，即从2018年开始。"
+      }
+    },
+    {
+      "postId": "2117585819565166909",
+      "url": "https://x.com/franceinfo/status/2117585819565166909",
+      "author": "franceinfo",
+      "postedAt": "2026-11-03T11:52:56Z",
+      "excerpt": "Le prix Goncourt 2026 est attribué à \"L'inconnue du quai de Javel\", de Philippe Jaenada et le prix Renaudot est attribué à François-Henri Désérable pour \"Le Palais\".",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "2026年龚古尔文学奖授予菲利普·雅埃纳达的《L'inconnue du quai de Javel》，勒诺多奖授予弗朗索瓦-亨利·德塞拉布勒的《Le Palais》。",
+      "summaryEn": "The 2026 Prix Goncourt goes to Philippe Jaenada for \"L'inconnue du quai de Javel\" and the Prix Renaudot to François-Henri Désérable for \"Le Palais\".",
+      "vocab": [
+        {
+          "fr": "un prix littéraire",
+          "zh": "文学奖",
+          "en": "literary prize"
+        },
+        {
+          "fr": "attribuer",
+          "zh": "授予",
+          "en": "to award"
+        },
+        {
+          "fr": "un roman",
+          "zh": "小说",
+          "en": "novel"
+        }
+      ],
+      "question": {
+        "prompt": "Qui a reçu le prix Goncourt 2026 ?",
+        "choices": [
+          "Philippe Jaenada.",
+          "François-Henri Désérable.",
+          "Agnès Rosenstiehl.",
+          "Georges Perec."
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文说龚古尔奖授予 Philippe Jaenada，勒诺多奖才是 Désérable。"
+      }
+    },
+    {
+      "postId": "2117568201760637236",
+      "url": "https://x.com/laBnF/status/2117568201760637236",
+      "author": "laBnF",
+      "postedAt": "2026-11-03T10:42:56Z",
+      "excerpt": "Elle a fait grandir des générations de lecteurs : la BnF célèbre Agnès Rosenstiehl ! Dès aujourd’hui, l’exposition « De Mimi Cracra à L’Alphabet fou : Agnès Rosenstiehl, 60 ans de création » ouvre ses portes à la BnF François-Mitterrand.",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "法国国家图书馆致敬陪伴几代读者成长的童书作家阿涅斯·罗森施蒂尔，展览“从 Mimi Cracra 到疯狂字母表：60年创作”今天在密特朗馆开幕。",
+      "summaryEn": "The BnF celebrates Agnès Rosenstiehl, who helped generations of readers grow up, with an exhibition on her 60 years of work opening today at BnF François-Mitterrand.",
+      "vocab": [
+        {
+          "fr": "faire grandir",
+          "zh": "使成长",
+          "en": "to help grow up"
+        },
+        {
+          "fr": "une exposition",
+          "zh": "展览",
+          "en": "exhibition"
+        },
+        {
+          "fr": "ouvrir ses portes",
+          "zh": "开幕；开放",
+          "en": "to open its doors"
+        },
+        {
+          "fr": "la création",
+          "zh": "创作",
+          "en": "creative work"
+        }
+      ],
+      "question": {
+        "prompt": "Que se passe-t-il à la BnF François-Mitterrand ?",
+        "choices": [
+          "Une conférence sur l'économie.",
+          "Une exposition sur Agnès Rosenstiehl ouvre.",
+          "La bibliothèque ferme pour travaux.",
+          "Un concours de lecture commence."
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文说 l’exposition … ouvre ses portes à la BnF François-Mitterrand。"
+      }
+    },
+    {
+      "postId": "2117330992973086894",
+      "url": "https://x.com/CitImmCanFR/status/2117330992973086894",
+      "author": "CitImmCanFR",
+      "postedAt": "2026-11-02T19:00:21Z",
+      "excerpt": "AIDE DE SERVICE EN LIGNE: Nos services en ligne seront indisponibles entre 00h00 et 05h30 HNE le 3 novembre. Assurez-vous de supprimer le contenu de la mémoire cache de votre navigateur Internet lorsque le service sera de retour.",
+      "level": "A2",
+      "topic": "immigration",
+      "summaryZh": "加拿大移民局提醒：11月3日东部时间0点至5点30分在线服务暂停。服务恢复后请清除浏览器缓存。",
+      "summaryEn": "IRCC notice: online services were unavailable from 00:00 to 05:30 ET on November 3. Clear your browser cache when the service is back.",
+      "vocab": [
+        {
+          "fr": "indisponible",
+          "zh": "不可用的",
+          "en": "unavailable"
         },
         {
           "fr": "la mémoire cache",
@@ -68,290 +415,26 @@
           "en": "cache"
         },
         {
-          "fr": "supprimer",
-          "zh": "删除",
-          "en": "to delete"
-        },
-        {
           "fr": "un navigateur",
           "zh": "浏览器",
           "en": "browser"
+        },
+        {
+          "fr": "être de retour",
+          "zh": "恢复；回来",
+          "en": "to be back"
         }
       ],
       "question": {
         "prompt": "Que faut-il faire quand le service sera de retour ?",
         "choices": [
-          "Créer un nouveau compte",
-          "Supprimer le cache du navigateur",
-          "Appeler IRCC",
-          "Changer de mot de passe"
-        ],
-        "answerIndex": 1,
-        "explanationZh": "原文要求 supprimer le contenu de la mémoire cache，即清除缓存。"
-      }
-    },
-    {
-      "postId": "2117301963415322981",
-      "url": "https://x.com/ONU_fr/status/2117301963415322981",
-      "author": "ONU_fr",
-      "postedAt": "2026-11-02T17:05:00Z",
-      "excerpt": "Il y a suffisamment de nourriture sur Terre pour nourrir tout le monde. Pourtant, 266 millions de personnes sont confrontées à une faim aiguë en raison des conflits, des chocs climatiques et des inégalités. Le WFP intervient là où les besoins sont les plus urgents.",
-      "level": "A2",
-      "topic": "actualité",
-      "summaryZh": "地球上的粮食足够养活所有人，但仍有2.66亿人面临严重饥饿，世界粮食计划署在最急需的地方提供援助。",
-      "summaryEn": "There is enough food for everyone, yet 266 million people face acute hunger; WFP acts where needs are most urgent.",
-      "vocab": [
-        {
-          "fr": "nourrir",
-          "zh": "养活；喂养",
-          "en": "to feed"
-        },
-        {
-          "fr": "la faim aiguë",
-          "zh": "严重饥饿",
-          "en": "acute hunger"
-        },
-        {
-          "fr": "les inégalités",
-          "zh": "不平等",
-          "en": "inequalities"
-        },
-        {
-          "fr": "intervenir",
-          "zh": "介入；采取行动",
-          "en": "to intervene"
-        }
-      ],
-      "question": {
-        "prompt": "Combien de personnes sont confrontées à une faim aiguë ?",
-        "choices": [
-          "26 millions",
-          "2,66 milliards",
-          "266 millions",
-          "66 millions"
+          "Créer un nouveau compte.",
+          "Appeler le bureau d'immigration.",
+          "Supprimer la mémoire cache du navigateur.",
+          "Envoyer une nouvelle demande."
         ],
         "answerIndex": 2,
-        "explanationZh": "原文写的是 266 millions de personnes。"
-      }
-    },
-    {
-      "postId": "2117321652794982687",
-      "url": "https://x.com/LeTemps/status/2117321652794982687",
-      "author": "LeTemps",
-      "postedAt": "2026-11-02T18:23:14Z",
-      "excerpt": "La convention cadre liant PKBS, propriétaire d'une barre d'immeubles au boulevard Carl-Vogt, et l'Asloca, qui défend les locataires, a été signée lundi à Genève. Le ministre Nicolas Walder espère que ce compromis fera des émules",
-      "level": "B2",
-      "topic": "logement",
-      "summaryZh": "日内瓦Carl-Vogt大道一栋楼的业主PKBS与租户协会Asloca签署了框架协议，部长希望这一妥协能被效仿。",
-      "summaryEn": "A framework agreement between landlord PKBS and tenants' group Asloca was signed in Geneva; the minister hopes it inspires others.",
-      "vocab": [
-        {
-          "fr": "une convention cadre",
-          "zh": "框架协议",
-          "en": "framework agreement"
-        },
-        {
-          "fr": "un propriétaire",
-          "zh": "业主",
-          "en": "owner, landlord"
-        },
-        {
-          "fr": "un locataire",
-          "zh": "租户",
-          "en": "tenant"
-        },
-        {
-          "fr": "faire des émules",
-          "zh": "被效仿",
-          "en": "to inspire imitators"
-        }
-      ],
-      "question": {
-        "prompt": "Qui défend les locataires dans cet accord ?",
-        "choices": [
-          "PKBS",
-          "Le ministre",
-          "La ville de Lausanne",
-          "L'Asloca"
-        ],
-        "answerIndex": 3,
-        "explanationZh": "原文说 l'Asloca, qui défend les locataires。"
-      }
-    },
-    {
-      "postId": "2117300919109136672",
-      "url": "https://x.com/LeTemps/status/2117300919109136672",
-      "author": "LeTemps",
-      "postedAt": "2026-11-02T17:00:51Z",
-      "excerpt": "Inspirée d’un modèle fribourgeois à succès, la faîtière GastroLausanne lance un système de bons cadeaux afin de redonner du pouvoir d’achat aux gourmets et une bouffée d’oxygène à ses établissements partenaires",
-      "level": "B1",
-      "topic": "travail",
-      "summaryZh": "受弗里堡成功模式启发，洛桑餐饮协会推出礼品券系统，提升食客购买力并帮助合作餐厅。",
-      "summaryEn": "Inspired by a Fribourg model, GastroLausanne launches gift vouchers to boost diners' buying power and help partner restaurants.",
-      "vocab": [
-        {
-          "fr": "un bon cadeau",
-          "zh": "礼品券",
-          "en": "gift voucher"
-        },
-        {
-          "fr": "le pouvoir d'achat",
-          "zh": "购买力",
-          "en": "purchasing power"
-        },
-        {
-          "fr": "une bouffée d'oxygène",
-          "zh": "喘息机会",
-          "en": "a breath of fresh air"
-        },
-        {
-          "fr": "un établissement",
-          "zh": "店铺；机构",
-          "en": "establishment"
-        }
-      ],
-      "question": {
-        "prompt": "De quel modèle s'inspire GastroLausanne ?",
-        "choices": [
-          "Un modèle genevois",
-          "Un modèle fribourgeois",
-          "Un modèle parisien",
-          "Un modèle bâlois"
-        ],
-        "answerIndex": 1,
-        "explanationZh": "原文说 inspirée d'un modèle fribourgeois。"
-      }
-    },
-    {
-      "postId": "2117288382564848021",
-      "url": "https://x.com/LeTemps/status/2117288382564848021",
-      "author": "LeTemps",
-      "postedAt": "2026-11-02T16:11:02Z",
-      "excerpt": "Peintre et dessinatrice éprise d’humour et de nature, Catherine Meurisse publie «Le Clan de Walden» et se dévoile dans un livre d’entretiens, «Catherine Meurisse sur le pont des Arts». Elle recense dix astres éclairant sa route",
-      "level": "B2",
-      "topic": "culture",
-      "summaryZh": "热爱幽默与自然的画家Catherine Meurisse出版《Le Clan de Walden》及一本访谈录，并列出照亮她道路的十位人物。",
-      "summaryEn": "Artist Catherine Meurisse publishes a new book and a book of interviews, and lists ten figures who guided her path.",
-      "vocab": [
-        {
-          "fr": "éprise de",
-          "zh": "热爱……的",
-          "en": "in love with"
-        },
-        {
-          "fr": "se dévoiler",
-          "zh": "袒露自己",
-          "en": "to reveal oneself"
-        },
-        {
-          "fr": "un livre d'entretiens",
-          "zh": "访谈录",
-          "en": "book of interviews"
-        },
-        {
-          "fr": "recenser",
-          "zh": "列举",
-          "en": "to list"
-        }
-      ],
-      "question": {
-        "prompt": "Quel est le métier de Catherine Meurisse ?",
-        "choices": [
-          "Chanteuse",
-          "Architecte",
-          "Peintre et dessinatrice",
-          "Journaliste sportive"
-        ],
-        "answerIndex": 2,
-        "explanationZh": "原文说 Peintre et dessinatrice，画家和漫画家。"
-      }
-    },
-    {
-      "postId": "2117285432656269608",
-      "url": "https://x.com/Sciences_Avenir/status/2117285432656269608",
-      "author": "Sciences_Avenir",
-      "postedAt": "2026-11-02T15:59:19Z",
-      "excerpt": "34 % de la population mondiale ont été exposés cette année à des niveaux extrêmement élevés d’ozone, selon Copernicus. C'est 53 % de la population asiatique au cours des huit premiers mois de 2026. Notre article de septembre dernier",
-      "level": "B1",
-      "topic": "santé",
-      "summaryZh": "据哥白尼计划，今年全球34%人口暴露于极高臭氧水平，2026年前八个月亚洲人口的这一比例为53%。",
-      "summaryEn": "Per Copernicus, 34% of the world's population faced extremely high ozone levels this year.",
-      "vocab": [
-        {
-          "fr": "être exposé à",
-          "zh": "暴露于",
-          "en": "to be exposed to"
-        },
-        {
-          "fr": "un niveau",
-          "zh": "水平",
-          "en": "level"
-        },
-        {
-          "fr": "l'ozone",
-          "zh": "臭氧",
-          "en": "ozone"
-        },
-        {
-          "fr": "la population mondiale",
-          "zh": "世界人口",
-          "en": "world population"
-        }
-      ],
-      "question": {
-        "prompt": "Quelle part de la population mondiale a été exposée à des niveaux très élevés d'ozone ?",
-        "choices": [
-          "53 %",
-          "34 %",
-          "8 %",
-          "20 %"
-        ],
-        "answerIndex": 1,
-        "explanationZh": "原文说 34 % de la population mondiale。"
-      }
-    },
-    {
-      "postId": "2117288121863991359",
-      "url": "https://x.com/ONUinfo/status/2117288121863991359",
-      "author": "ONUinfo",
-      "postedAt": "2026-11-02T16:10:00Z",
-      "excerpt": "Éducation, santé, logement, protection sociale : des millions de personnes en sont privées, dans un monde plus riche que jamais 60 ans après l’adoption du Pacte PIDESC qui consacre ces droits, l’ONU alerte UNHumanRights",
-      "level": "B2",
-      "topic": "actualité",
-      "summaryZh": "《经济社会文化权利国际公约》通过60年后，联合国警告：在比以往更富裕的世界里，仍有数百万人缺乏教育、医疗、住房和社会保障。",
-      "summaryEn": "60 years after the ICESCR, the UN warns millions still lack education, health, housing and social protection in a richer world.",
-      "vocab": [
-        {
-          "fr": "être privé de",
-          "zh": "被剥夺",
-          "en": "to be deprived of"
-        },
-        {
-          "fr": "la protection sociale",
-          "zh": "社会保障",
-          "en": "social protection"
-        },
-        {
-          "fr": "consacrer un droit",
-          "zh": "确立一项权利",
-          "en": "to enshrine a right"
-        },
-        {
-          "fr": "alerter",
-          "zh": "警告",
-          "en": "to warn"
-        }
-      ],
-      "question": {
-        "prompt": "Depuis combien de temps le Pacte PIDESC a-t-il été adopté ?",
-        "choices": [
-          "60 ans",
-          "10 ans",
-          "100 ans",
-          "16 ans"
-        ],
-        "answerIndex": 0,
-        "explanationZh": "原文说 60 ans après l'adoption du Pacte。"
+        "explanationZh": "原文说 supprimer le contenu de la mémoire cache de votre navigateur。"
       }
     }
   ]
