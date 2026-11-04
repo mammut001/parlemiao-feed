@@ -1,440 +1,680 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-03T12:17:52Z",
+  "generatedAt": "2026-11-04T12:28:27Z",
   "items": [
     {
-      "postId": "2117481960826081390",
-      "url": "https://x.com/UNESCO_fr/status/2117481960826081390",
-      "author": "UNESCO_fr",
-      "postedAt": "2026-11-03T05:00:15Z",
-      "excerpt": "Comment construire un avenir plus durable pour les populations et la nature ? Les réserves de biosphère nous montrent déjà la voie. À travers le monde, 797 réserves de biosphère sont de véritables laboratoires vivants du développement durable, où les communautés œuvrent à la protection de la biodiversité tout en préservant leurs moyens de subsistance.",
+      "postId": "2117953242323714082",
+      "url": "https://x.com/LeTemps/status/2117953242323714082",
+      "author": "LeTemps",
+      "postedAt": "2026-11-04T12:12:57.000Z",
+      "excerpt": "L’arrivée de nouvelles molécules efficaces a bouleversé le traitement de l’obésité. Mais le surpoids ne doit plus être considéré comme une maladie aiguë, estime le médecin des HUG Jorge César Correia, coauteur d’une récente...",
       "level": "B2",
-      "topic": "culture",
-      "summaryZh": "国际生物圈保护区日之际，教科文组织介绍全球797个生物圈保护区：当地社区在保护生物多样性的同时维持生计，是可持续发展的“活实验室”。",
-      "summaryEn": "For the International Day of Biosphere Reserves, UNESCO highlights 797 reserves worldwide where communities protect biodiversity while keeping their livelihoods.",
+      "topic": "santé",
+      "summaryZh": "新型有效药物颠覆了肥胖治疗。日内瓦大学医院医生科雷亚认为，超重不应再被视为一种急性疾病。",
+      "summaryEn": "New effective drugs have transformed obesity treatment, but a Geneva hospital doctor says excess weight should no longer be seen as an acute illness.",
       "vocab": [
         {
-          "fr": "une réserve de biosphère",
-          "zh": "生物圈保护区",
-          "en": "biosphere reserve"
+          "fr": "l'obésité",
+          "zh": "肥胖",
+          "en": "obesity"
         },
         {
-          "fr": "le développement durable",
-          "zh": "可持续发展",
-          "en": "sustainable development"
+          "fr": "le surpoids",
+          "zh": "超重",
+          "en": "excess weight"
         },
         {
-          "fr": "les moyens de subsistance",
-          "zh": "生计",
-          "en": "livelihoods"
+          "fr": "une maladie aiguë",
+          "zh": "急性疾病",
+          "en": "an acute illness"
         },
         {
-          "fr": "œuvrer à",
-          "zh": "致力于",
-          "en": "to work towards"
+          "fr": "bouleverser",
+          "zh": "彻底改变",
+          "en": "to upend"
         }
       ],
       "question": {
-        "prompt": "Que font les communautés dans les réserves de biosphère ?",
+        "prompt": "Selon le médecin, comment ne faut-il plus considérer le surpoids ?",
         "choices": [
-          "Elles quittent la région pour protéger la nature.",
-          "Elles interdisent toute activité économique.",
-          "Elles protègent la biodiversité tout en gardant leurs moyens de subsistance.",
-          "Elles construisent de nouvelles villes."
+          "Comme un problème esthétique",
+          "Comme un risque mineur",
+          "Comme une maladie aiguë",
+          "Comme une maladie héréditaire"
         ],
         "answerIndex": 2,
-        "explanationZh": "原文说 œuvrent à la protection de la biodiversité tout en préservant leurs moyens de subsistance。"
+        "explanationZh": "原文说 le surpoids ne doit plus être considéré comme une maladie aiguë。"
       }
     },
     {
-      "postId": "2117572631452885021",
-      "url": "https://x.com/OIFrancophonie/status/2117572631452885021",
-      "author": "OIFrancophonie",
-      "postedAt": "2026-11-03T11:00:32Z",
-      "excerpt": "Plus haute instance de la Francophonie, le Sommet se tient tous les deux ans. Dans quelques jours, le Cambodge, pays du Roi-Père Norodom Sihanouk, l’un des quatre pères fondateurs de la Francophonie, accueillera pour la première fois ce grand rendez-vous. Cette 20e édition revêt ainsi une portée symbolique particulière pour le Royaume et mettra en lumière l’ancrage et la vitalité de la Francophonie en Asie du Sud-Est.",
-      "level": "B2",
-      "topic": "culture",
-      "summaryZh": "法语国家峰会每两年举行一次。几天后，柬埔寨将首次主办第20届峰会，其前国王西哈努克是法语国家组织的四位创始人之一。",
-      "summaryEn": "The Francophonie Summit is held every two years. In a few days, Cambodia will host its 20th edition for the first time, a symbolic moment for the Francophonie in Southeast Asia.",
-      "vocab": [
-        {
-          "fr": "une instance",
-          "zh": "机构；机关",
-          "en": "body, authority"
-        },
-        {
-          "fr": "accueillir",
-          "zh": "接待；主办",
-          "en": "to host"
-        },
-        {
-          "fr": "un rendez-vous",
-          "zh": "聚会；盛会",
-          "en": "event, meeting"
-        },
-        {
-          "fr": "revêtir une portée",
-          "zh": "具有……意义",
-          "en": "to carry significance"
-        }
-      ],
-      "question": {
-        "prompt": "À quelle fréquence se tient le Sommet de la Francophonie ?",
-        "choices": [
-          "Tous les ans.",
-          "Tous les deux ans.",
-          "Tous les quatre ans.",
-          "Une seule fois."
-        ],
-        "answerIndex": 1,
-        "explanationZh": "原文说 le Sommet se tient tous les deux ans，即每两年一次。"
-      }
-    },
-    {
-      "postId": "2117579366242582651",
-      "url": "https://x.com/LeTemps/status/2117579366242582651",
+      "postId": "2117949927649050637",
+      "url": "https://x.com/LeTemps/status/2117949927649050637",
       "author": "LeTemps",
-      "postedAt": "2026-11-03T11:27:18Z",
-      "excerpt": "Dans le site de l’Abric Romaní, en Catalogne espagnole, près de 600 empreintes de bois datant de 62 000 à 40 000 ans révèlent la diversité des objets fabriqués par les Néandertaliens.",
-      "level": "B2",
-      "topic": "culture",
-      "summaryZh": "在西班牙加泰罗尼亚的 Abric Romaní 遗址，近600个距今6.2万至4万年的木头印痕揭示了尼安德特人制作物品的多样性。",
-      "summaryEn": "At the Abric Romaní site in Spanish Catalonia, nearly 600 wood imprints dating from 62,000 to 40,000 years ago reveal the variety of objects Neanderthals made.",
-      "vocab": [
-        {
-          "fr": "une empreinte",
-          "zh": "印痕；印记",
-          "en": "imprint"
-        },
-        {
-          "fr": "dater de",
-          "zh": "追溯到",
-          "en": "to date from"
-        },
-        {
-          "fr": "révéler",
-          "zh": "揭示",
-          "en": "to reveal"
-        },
-        {
-          "fr": "fabriquer",
-          "zh": "制作",
-          "en": "to make, to manufacture"
-        }
-      ],
-      "question": {
-        "prompt": "Que révèlent les empreintes de bois ?",
-        "choices": [
-          "La diversité des objets fabriqués par les Néandertaliens.",
-          "La date exacte de la fin des Néandertaliens.",
-          "Le climat actuel de la Catalogne.",
-          "Des maisons construites au Moyen Âge."
-        ],
-        "answerIndex": 0,
-        "explanationZh": "原文说 révèlent la diversité des objets fabriqués par les Néandertaliens。"
-      }
-    },
-    {
-      "postId": "2117590477708898807",
-      "url": "https://x.com/LeTemps/status/2117590477708898807",
-      "author": "LeTemps",
-      "postedAt": "2026-11-03T12:11:27Z",
-      "excerpt": "L’ancienne régie fédérale collabore avec l’entreprise zurichoise Parquery, spécialisée dans la gestion de la mobilité à l’aide de l’IA, afin de fournir des indications plus précises sur l’affluence dans les trains.",
-      "level": "B2",
-      "topic": "transport",
-      "summaryZh": "瑞士这家前联邦国营企业与苏黎世公司 Parquery 合作，利用人工智能管理出行，以更准确地提供火车上的拥挤程度信息。",
-      "summaryEn": "The former Swiss federal agency is working with Zurich firm Parquery, which uses AI for mobility management, to give more precise information on how crowded trains are.",
-      "vocab": [
-        {
-          "fr": "collaborer avec",
-          "zh": "与……合作",
-          "en": "to work with"
-        },
-        {
-          "fr": "une entreprise",
-          "zh": "公司；企业",
-          "en": "company"
-        },
-        {
-          "fr": "l’affluence",
-          "zh": "人流；拥挤程度",
-          "en": "crowding, attendance"
-        },
-        {
-          "fr": "une indication",
-          "zh": "提示；信息",
-          "en": "indication, information"
-        }
-      ],
-      "question": {
-        "prompt": "Quel est le but de cette collaboration ?",
-        "choices": [
-          "Vendre des billets moins chers.",
-          "Construire de nouvelles gares à Zurich.",
-          "Remplacer les conducteurs par des robots.",
-          "Donner des informations plus précises sur l’affluence dans les trains."
-        ],
-        "answerIndex": 3,
-        "explanationZh": "原文说 afin de fournir des indications plus précises sur l’affluence dans les trains。"
-      }
-    },
-    {
-      "postId": "2117531862797267036",
-      "url": "https://x.com/Sciences_Avenir/status/2117531862797267036",
-      "author": "Sciences_Avenir",
-      "postedAt": "2026-11-03T08:18:32Z",
-      "excerpt": "D'après une compilation de mesures effectuées depuis 1950, la Méditerranée se réchauffe et devient de plus en plus salée, et ce jusqu'à plusieurs milliers de mètres de profondeur. Un phénomène qui s'accélère.",
-      "level": "B2",
-      "topic": "météo",
-      "summaryZh": "根据1950年以来的测量数据汇总，地中海正在变暖、变得越来越咸，甚至深达数千米处也是如此，而且这一现象正在加速。",
-      "summaryEn": "Measurements compiled since 1950 show the Mediterranean is getting warmer and saltier, down to several thousand metres deep, and the trend is accelerating.",
-      "vocab": [
-        {
-          "fr": "une mesure",
-          "zh": "测量",
-          "en": "measurement"
-        },
-        {
-          "fr": "se réchauffer",
-          "zh": "变暖",
-          "en": "to warm up"
-        },
-        {
-          "fr": "salé",
-          "zh": "咸的",
-          "en": "salty"
-        },
-        {
-          "fr": "la profondeur",
-          "zh": "深度",
-          "en": "depth"
-        }
-      ],
-      "question": {
-        "prompt": "Qu'arrive-t-il à la Méditerranée selon le texte ?",
-        "choices": [
-          "Elle devient plus froide et moins salée.",
-          "Elle se réchauffe et devient plus salée.",
-          "Son niveau baisse depuis 1950.",
-          "Elle ne change qu'en surface."
-        ],
-        "answerIndex": 1,
-        "explanationZh": "原文说 se réchauffe et devient de plus en plus salée，且深达数千米。"
-      }
-    },
-    {
-      "postId": "2117512242304528387",
-      "url": "https://x.com/Sciences_Avenir/status/2117512242304528387",
-      "author": "Sciences_Avenir",
-      "postedAt": "2026-11-03T07:00:34Z",
-      "excerpt": "La France accélère le déploiement des batteries stationnaires, qui permettent de stocker les surplus d’électricité et de les réinjecter lors des pics de consommation.",
+      "postedAt": "2026-11-04T11:59:47.000Z",
+      "excerpt": "OPINION. Genève veut renforcer l’enseignement du français à l’aide de «dispositifs de soutien spécifiques». C’est oublier que la nouvelle maturité contient moins d’heures de français en première année et que ces dispositifs...",
       "level": "B2",
       "topic": "actualité",
-      "summaryZh": "法国正在加快部署固定式储能电池：它们可储存多余电力，并在用电高峰时重新输入电网。",
-      "summaryEn": "France is speeding up the rollout of stationary batteries, which store surplus electricity and feed it back into the grid during consumption peaks.",
+      "summaryZh": "评论：日内瓦想用专门辅导措施加强法语教学，但作者指出，新的高中毕业会考课程第一年的法语课时反而减少了。",
+      "summaryEn": "Opinion: Geneva wants to boost French teaching with targeted support, but the writer notes the new maturity curriculum has fewer French hours in the first year.",
       "vocab": [
         {
-          "fr": "le déploiement",
-          "zh": "部署",
-          "en": "rollout, deployment"
+          "fr": "renforcer",
+          "zh": "加强",
+          "en": "to strengthen"
         },
         {
-          "fr": "stocker",
-          "zh": "储存",
-          "en": "to store"
+          "fr": "l'enseignement",
+          "zh": "教学",
+          "en": "teaching"
         },
         {
-          "fr": "un surplus",
-          "zh": "剩余；过剩",
-          "en": "surplus"
+          "fr": "un dispositif de soutien",
+          "zh": "辅导措施",
+          "en": "a support scheme"
         },
         {
-          "fr": "un pic de consommation",
-          "zh": "用电高峰",
-          "en": "consumption peak"
+          "fr": "la maturité",
+          "zh": "（瑞士）高中毕业会考",
+          "en": "Swiss baccalaureate"
         }
       ],
       "question": {
-        "prompt": "À quoi servent les batteries stationnaires ?",
+        "prompt": "Selon l'auteur, qu'oublie Genève ?",
         "choices": [
-          "À recharger uniquement les voitures.",
-          "À produire de l'électricité à partir du soleil.",
-          "À stocker le surplus d'électricité et le réinjecter lors des pics.",
-          "À réduire le prix de l'essence."
-        ],
-        "answerIndex": 2,
-        "explanationZh": "原文说 stocker les surplus d’électricité et de les réinjecter lors des pics de consommation。"
-      }
-    },
-    {
-      "postId": "2117541782498271323",
-      "url": "https://x.com/Sciences_Avenir/status/2117541782498271323",
-      "author": "Sciences_Avenir",
-      "postedAt": "2026-11-03T08:57:57Z",
-      "excerpt": "A l'hôpital de Niort, depuis 2018, des patients animent une station de radio. Un cocon, une libération et une thérapie douce pour beaucoup d'entre eux. Reportage au sein de cette unité psychiatrique pas comme les autres.",
-      "level": "B1",
-      "topic": "santé",
-      "summaryZh": "自2018年起，尼奥尔医院的病人们主持一个电台。对许多人来说，这是一个安心的空间、一种释放，也是一种温和的疗法。",
-      "summaryEn": "Since 2018, patients at the Niort hospital have run a radio station. For many of them it is a safe space, a release and a gentle therapy.",
-      "vocab": [
-        {
-          "fr": "animer",
-          "zh": "主持",
-          "en": "to host, to run"
-        },
-        {
-          "fr": "une thérapie douce",
-          "zh": "温和疗法",
-          "en": "gentle therapy"
-        },
-        {
-          "fr": "un reportage",
-          "zh": "报道",
-          "en": "report"
-        },
-        {
-          "fr": "une unité psychiatrique",
-          "zh": "精神科病区",
-          "en": "psychiatric unit"
-        }
-      ],
-      "question": {
-        "prompt": "Depuis quand les patients animent-ils la radio ?",
-        "choices": [
-          "Depuis 2008.",
-          "Depuis 2020.",
-          "Depuis l'année dernière.",
-          "Depuis 2018."
+          "Que les élèves parlent déjà bien français",
+          "Que les enseignants manquent",
+          "Que l'anglais est plus utile",
+          "Que la nouvelle maturité a moins d'heures de français en première année"
         ],
         "answerIndex": 3,
-        "explanationZh": "原文说 depuis 2018，即从2018年开始。"
+        "explanationZh": "原文说 C'est oublier que la nouvelle maturité contient moins d'heures de français en première année。"
       }
     },
     {
-      "postId": "2117585819565166909",
-      "url": "https://x.com/franceinfo/status/2117585819565166909",
-      "author": "franceinfo",
-      "postedAt": "2026-11-03T11:52:56Z",
-      "excerpt": "Le prix Goncourt 2026 est attribué à \"L'inconnue du quai de Javel\", de Philippe Jaenada et le prix Renaudot est attribué à François-Henri Désérable pour \"Le Palais\".",
-      "level": "B1",
+      "postId": "2117938815301980349",
+      "url": "https://x.com/LeTemps/status/2117938815301980349",
+      "author": "LeTemps",
+      "postedAt": "2026-11-04T11:15:37.000Z",
+      "excerpt": "La réalisatrice franco-suisse Elsa Amiel signe avec le documentaire «Dentro», tourné dans une prison de haute sécurité en Toscane, un beau film de résilience célébrant le pouvoir du théâtre.",
+      "level": "B2",
       "topic": "culture",
-      "summaryZh": "2026年龚古尔文学奖授予菲利普·雅埃纳达的《L'inconnue du quai de Javel》，勒诺多奖授予弗朗索瓦-亨利·德塞拉布勒的《Le Palais》。",
-      "summaryEn": "The 2026 Prix Goncourt goes to Philippe Jaenada for \"L'inconnue du quai de Javel\" and the Prix Renaudot to François-Henri Désérable for \"Le Palais\".",
+      "summaryZh": "法瑞导演埃尔莎·阿米尔的纪录片《Dentro》在托斯卡纳一座高度戒备监狱拍摄，讲述韧性与戏剧的力量。",
+      "summaryEn": "Franco-Swiss director Elsa Amiel's documentary Dentro, shot in a high-security prison in Tuscany, is a film about resilience and the power of theatre.",
       "vocab": [
         {
-          "fr": "un prix littéraire",
-          "zh": "文学奖",
-          "en": "literary prize"
+          "fr": "une réalisatrice",
+          "zh": "女导演",
+          "en": "a female director"
         },
         {
-          "fr": "attribuer",
-          "zh": "授予",
-          "en": "to award"
+          "fr": "tourner un film",
+          "zh": "拍电影",
+          "en": "to shoot a film"
         },
         {
-          "fr": "un roman",
-          "zh": "小说",
-          "en": "novel"
+          "fr": "la résilience",
+          "zh": "韧性，复原力",
+          "en": "resilience"
+        },
+        {
+          "fr": "célébrer",
+          "zh": "颂扬",
+          "en": "to celebrate"
         }
       ],
       "question": {
-        "prompt": "Qui a reçu le prix Goncourt 2026 ?",
+        "prompt": "Où le documentaire «Dentro» a-t-il été tourné ?",
         "choices": [
-          "Philippe Jaenada.",
-          "François-Henri Désérable.",
-          "Agnès Rosenstiehl.",
-          "Georges Perec."
-        ],
-        "answerIndex": 0,
-        "explanationZh": "原文说龚古尔奖授予 Philippe Jaenada，勒诺多奖才是 Désérable。"
-      }
-    },
-    {
-      "postId": "2117568201760637236",
-      "url": "https://x.com/laBnF/status/2117568201760637236",
-      "author": "laBnF",
-      "postedAt": "2026-11-03T10:42:56Z",
-      "excerpt": "Elle a fait grandir des générations de lecteurs : la BnF célèbre Agnès Rosenstiehl ! Dès aujourd’hui, l’exposition « De Mimi Cracra à L’Alphabet fou : Agnès Rosenstiehl, 60 ans de création » ouvre ses portes à la BnF François-Mitterrand.",
-      "level": "B1",
-      "topic": "culture",
-      "summaryZh": "法国国家图书馆致敬陪伴几代读者成长的童书作家阿涅斯·罗森施蒂尔，展览“从 Mimi Cracra 到疯狂字母表：60年创作”今天在密特朗馆开幕。",
-      "summaryEn": "The BnF celebrates Agnès Rosenstiehl, who helped generations of readers grow up, with an exhibition on her 60 years of work opening today at BnF François-Mitterrand.",
-      "vocab": [
-        {
-          "fr": "faire grandir",
-          "zh": "使成长",
-          "en": "to help grow up"
-        },
-        {
-          "fr": "une exposition",
-          "zh": "展览",
-          "en": "exhibition"
-        },
-        {
-          "fr": "ouvrir ses portes",
-          "zh": "开幕；开放",
-          "en": "to open its doors"
-        },
-        {
-          "fr": "la création",
-          "zh": "创作",
-          "en": "creative work"
-        }
-      ],
-      "question": {
-        "prompt": "Que se passe-t-il à la BnF François-Mitterrand ?",
-        "choices": [
-          "Une conférence sur l'économie.",
-          "Une exposition sur Agnès Rosenstiehl ouvre.",
-          "La bibliothèque ferme pour travaux.",
-          "Un concours de lecture commence."
+          "Dans un théâtre de Genève",
+          "Dans une prison de haute sécurité en Toscane",
+          "Dans une école de cinéma",
+          "Dans un village suisse"
         ],
         "answerIndex": 1,
-        "explanationZh": "原文说 l’exposition … ouvre ses portes à la BnF François-Mitterrand。"
+        "explanationZh": "原文说 tourné dans une prison de haute sécurité en Toscane。"
       }
     },
     {
-      "postId": "2117330992973086894",
-      "url": "https://x.com/CitImmCanFR/status/2117330992973086894",
-      "author": "CitImmCanFR",
-      "postedAt": "2026-11-02T19:00:21Z",
-      "excerpt": "AIDE DE SERVICE EN LIGNE: Nos services en ligne seront indisponibles entre 00h00 et 05h30 HNE le 3 novembre. Assurez-vous de supprimer le contenu de la mémoire cache de votre navigateur Internet lorsque le service sera de retour.",
-      "level": "A2",
-      "topic": "immigration",
-      "summaryZh": "加拿大移民局提醒：11月3日东部时间0点至5点30分在线服务暂停。服务恢复后请清除浏览器缓存。",
-      "summaryEn": "IRCC notice: online services were unavailable from 00:00 to 05:30 ET on November 3. Clear your browser cache when the service is back.",
+      "postId": "2117887971622019476",
+      "url": "https://x.com/Sciences_Avenir/status/2117887971622019476",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-04T07:53:35.000Z",
+      "excerpt": "Des balayages laser ont révélé 400 structures aménagées par la civilisation Aquiry dans le sud-ouest du bassin amazonien, laissant supposer qu’elle aurait compté au moins un million de personnes à son apogée, il y a 2000 ans.",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "激光扫描在亚马孙盆地西南部发现阿基里文明的400处建筑结构，推测其2000年前鼎盛时期至少有100万人口。",
+      "summaryEn": "Laser scans revealed 400 structures built by the Aquiry civilisation in the southwest Amazon, suggesting at least a million people at its peak 2,000 years ago.",
       "vocab": [
         {
-          "fr": "indisponible",
-          "zh": "不可用的",
-          "en": "unavailable"
+          "fr": "un balayage laser",
+          "zh": "激光扫描",
+          "en": "a laser scan"
         },
         {
-          "fr": "la mémoire cache",
-          "zh": "缓存",
-          "en": "cache"
+          "fr": "le bassin amazonien",
+          "zh": "亚马孙盆地",
+          "en": "the Amazon basin"
         },
         {
-          "fr": "un navigateur",
-          "zh": "浏览器",
-          "en": "browser"
+          "fr": "à son apogée",
+          "zh": "在鼎盛时期",
+          "en": "at its peak"
         },
         {
-          "fr": "être de retour",
-          "zh": "恢复；回来",
-          "en": "to be back"
+          "fr": "supposer",
+          "zh": "推测",
+          "en": "to suppose"
         }
       ],
       "question": {
-        "prompt": "Que faut-il faire quand le service sera de retour ?",
+        "prompt": "Combien de personnes la civilisation Aquiry aurait-elle comptées à son apogée ?",
         "choices": [
-          "Créer un nouveau compte.",
-          "Appeler le bureau d'immigration.",
-          "Supprimer la mémoire cache du navigateur.",
-          "Envoyer une nouvelle demande."
+          "Au moins un million",
+          "Environ 400",
+          "Environ 2000",
+          "Moins de 10 000"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文说 au moins un million de personnes à son apogée。"
+      }
+    },
+    {
+      "postId": "2117859523469930701",
+      "url": "https://x.com/Sciences_Avenir/status/2117859523469930701",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-04T06:00:32.000Z",
+      "excerpt": "Les personnes qui atteignent des âges très avancés ont un métabolisme particulier qui les différencie des autres seniors et qui les protégerait notamment de l’inflammation.",
+      "level": "B2",
+      "topic": "santé",
+      "summaryZh": "活到很高龄的人拥有特殊的新陈代谢，使他们有别于其他老年人，并可能保护他们免受炎症影响。",
+      "summaryEn": "People who reach very old age have a particular metabolism that sets them apart from other seniors and may protect them from inflammation.",
+      "vocab": [
+        {
+          "fr": "le métabolisme",
+          "zh": "新陈代谢",
+          "en": "metabolism"
+        },
+        {
+          "fr": "un senior",
+          "zh": "老年人",
+          "en": "a senior"
+        },
+        {
+          "fr": "l'inflammation",
+          "zh": "炎症",
+          "en": "inflammation"
+        },
+        {
+          "fr": "différencier",
+          "zh": "区别",
+          "en": "to distinguish"
+        }
+      ],
+      "question": {
+        "prompt": "Selon le texte, de quoi ce métabolisme protégerait-il ?",
+        "choices": [
+          "Du stress",
+          "Des allergies",
+          "De l'inflammation",
+          "Du froid"
         ],
         "answerIndex": 2,
-        "explanationZh": "原文说 supprimer le contenu de la mémoire cache de votre navigateur。"
+        "explanationZh": "原文说 qui les protégerait notamment de l'inflammation。"
+      }
+    },
+    {
+      "postId": "2117934933486293178",
+      "url": "https://x.com/MinistereCC/status/2117934933486293178",
+      "author": "MinistereCC",
+      "postedAt": "2026-11-04T11:00:12.000Z",
+      "excerpt": "Il est temps de vous inscrire pour assister à la journée d'étude \"André Malraux. Les fondements et l’actualité de sa politique culturelle\" du 19 novembre au @ministerecc, organisée dans le cadre du 50e anniversaire de sa disparition. Gratuit.",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "法国文化部11月19日举办免费研讨日，探讨安德烈·马尔罗文化政策的基础与现实意义，纪念其逝世50周年，现可报名。",
+      "summaryEn": "France's culture ministry holds a free study day on 19 November on André Malraux's cultural policy, marking 50 years since his death. Registration is open.",
+      "vocab": [
+        {
+          "fr": "s'inscrire",
+          "zh": "报名",
+          "en": "to sign up"
+        },
+        {
+          "fr": "une journée d'étude",
+          "zh": "研讨日",
+          "en": "a study day"
+        },
+        {
+          "fr": "la politique culturelle",
+          "zh": "文化政策",
+          "en": "cultural policy"
+        },
+        {
+          "fr": "gratuit",
+          "zh": "免费的",
+          "en": "free"
+        }
+      ],
+      "question": {
+        "prompt": "Quand a lieu la journée d'étude sur André Malraux ?",
+        "choices": [
+          "Le 50 novembre",
+          "Le 9 décembre",
+          "Le 1er novembre",
+          "Le 19 novembre"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "原文说 la journée d'étude ... du 19 novembre，即11月19日。"
+      }
+    },
+    {
+      "postId": "2117949402534879276",
+      "url": "https://x.com/franceinfo/status/2117949402534879276",
+      "author": "franceinfo",
+      "postedAt": "2026-11-04T11:57:41.000Z",
+      "excerpt": "Nouveaux horaires, clients concernés... On répond à cinq questions sur le changement des heures creuses d'électricité mis en place mercredi.",
+      "level": "B1",
+      "topic": "actualité",
+      "summaryZh": "法国电费“低谷时段”从周三起调整：franceinfo解答新时段、涉及哪些用户等五个问题。",
+      "summaryEn": "France's off-peak electricity hours change from Wednesday: franceinfo answers five questions on new times and which customers are affected.",
+      "vocab": [
+        {
+          "fr": "les heures creuses",
+          "zh": "用电低谷时段",
+          "en": "off-peak hours"
+        },
+        {
+          "fr": "un horaire",
+          "zh": "时间表",
+          "en": "a schedule"
+        },
+        {
+          "fr": "concerné",
+          "zh": "涉及的",
+          "en": "affected"
+        },
+        {
+          "fr": "mettre en place",
+          "zh": "实施",
+          "en": "to introduce"
+        }
+      ],
+      "question": {
+        "prompt": "Qu'est-ce qui change à partir de mercredi ?",
+        "choices": [
+          "Le prix de l'essence",
+          "Les heures creuses d'électricité",
+          "Les horaires des trains",
+          "Les tarifs du gaz"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文说 le changement des heures creuses d'électricité mis en place mercredi。"
+      }
+    },
+    {
+      "postId": "2117791424385089690",
+      "url": "https://x.com/PMcanadien/status/2117791424385089690",
+      "author": "PMcanadien",
+      "postedAt": "2026-11-04T01:29:56.000Z",
+      "excerpt": "Le premier ministre Carney renforce les partenariats avec les pays du Commonwealth dans les domaines du commerce, de l’investissement et de la lutte contre les changements climatiques.",
+      "level": "B1",
+      "topic": "actualité",
+      "summaryZh": "加拿大总理卡尼加强与英联邦国家在贸易、投资和应对气候变化方面的伙伴关系。",
+      "summaryEn": "Prime Minister Carney is strengthening partnerships with Commonwealth countries in trade, investment and the fight against climate change.",
+      "vocab": [
+        {
+          "fr": "renforcer un partenariat",
+          "zh": "加强伙伴关系",
+          "en": "to strengthen a partnership"
+        },
+        {
+          "fr": "l'investissement",
+          "zh": "投资",
+          "en": "investment"
+        },
+        {
+          "fr": "les changements climatiques",
+          "zh": "气候变化",
+          "en": "climate change"
+        }
+      ],
+      "question": {
+        "prompt": "Avec quels pays Carney renforce-t-il ses partenariats ?",
+        "choices": [
+          "Les pays d'Amérique latine",
+          "Les pays nordiques",
+          "Les pays du Commonwealth",
+          "Les pays du G7 seulement"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文说 renforce les partenariats avec les pays du Commonwealth。"
+      }
+    },
+    {
+      "postId": "2117874486909325812",
+      "url": "https://x.com/ONUinfo/status/2117874486909325812",
+      "author": "ONUinfo",
+      "postedAt": "2026-11-04T07:00:00.000Z",
+      "excerpt": "La planète se connecte, mais la fracture numérique résiste.",
+      "level": "B1",
+      "topic": "actualité",
+      "summaryZh": "联合国新闻：全球联网程度不断提高，但数字鸿沟依然存在。",
+      "summaryEn": "UN News: the world is getting connected, but the digital divide persists.",
+      "vocab": [
+        {
+          "fr": "la fracture numérique",
+          "zh": "数字鸿沟",
+          "en": "the digital divide"
+        },
+        {
+          "fr": "se connecter",
+          "zh": "联网",
+          "en": "to get connected"
+        },
+        {
+          "fr": "résister",
+          "zh": "持续存在，顽固",
+          "en": "to persist"
+        }
+      ],
+      "question": {
+        "prompt": "Qu'est-ce qui persiste malgré la connexion de la planète ?",
+        "choices": [
+          "La fracture numérique",
+          "Le prix des téléphones",
+          "La censure",
+          "La pollution"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文说 la fracture numérique résiste，数字鸿沟依然存在。"
+      }
+    },
+    {
+      "postId": "2117906490992574830",
+      "url": "https://x.com/RadioCanadaInfo/status/2117906490992574830",
+      "author": "RadioCanadaInfo",
+      "postedAt": "2026-11-04T09:07:10.000Z",
+      "excerpt": "RPA : des services aux aînés menacés par des retards en immigration.",
+      "level": "B1",
+      "topic": "immigration",
+      "summaryZh": "魁北克私人老年公寓（RPA）的服务因移民审批延误而受到威胁。",
+      "summaryEn": "Services in Quebec private seniors' residences (RPA) are threatened by immigration delays.",
+      "vocab": [
+        {
+          "fr": "un aîné",
+          "zh": "老年人",
+          "en": "a senior"
+        },
+        {
+          "fr": "un retard",
+          "zh": "延误",
+          "en": "a delay"
+        },
+        {
+          "fr": "menacé",
+          "zh": "受威胁的",
+          "en": "threatened"
+        },
+        {
+          "fr": "une RPA",
+          "zh": "私人老年公寓",
+          "en": "private seniors' residence"
+        }
+      ],
+      "question": {
+        "prompt": "Qu'est-ce qui menace les services aux aînés dans les RPA ?",
+        "choices": [
+          "Des grèves",
+          "Des coupes budgétaires",
+          "Une pénurie de médicaments",
+          "Des retards en immigration"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "原文说 des services aux aînés menacés par des retards en immigration。"
+      }
+    },
+    {
+      "postId": "2117920175240483154",
+      "url": "https://x.com/franceinfo/status/2117920175240483154",
+      "author": "franceinfo",
+      "postedAt": "2026-11-04T10:01:33.000Z",
+      "excerpt": "Salut c’est Sarah, ça dit quoi ? \"Groland\" s’arrêtera le 12 décembre 2026, après 34 ans de diffusion sur Canal +. L'émission satirique a survécu à l'arrivée de Vincent Bolloré à la tête du groupe et était l’un des derniers représentants de “l'esprit Canal”.",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "法国讽刺节目《Groland》将于2026年12月12日停播，结束在Canal+的34年播出；节目以虚构国家戏仿时事。",
+      "summaryEn": "The French satirical show Groland, a news parody set in a fictional country, will end on 12 December 2026 after 34 years on Canal+.",
+      "vocab": [
+        {
+          "fr": "loufoque",
+          "zh": "荒诞搞笑的",
+          "en": "zany"
+        },
+        {
+          "fr": "grinçant",
+          "zh": "辛辣的，尖刻的",
+          "en": "biting"
+        },
+        {
+          "fr": "une parodie",
+          "zh": "戏仿",
+          "en": "a parody"
+        },
+        {
+          "fr": "impertinent",
+          "zh": "不恭的，放肆的",
+          "en": "cheeky"
+        },
+        {
+          "fr": "la diffusion",
+          "zh": "播出",
+          "en": "broadcasting"
+        }
+      ],
+      "question": {
+        "prompt": "Depuis quelle année l'émission Groland est-elle diffusée ?",
+        "choices": [
+          "1992",
+          "1980",
+          "2018",
+          "2002"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "视频说节目“est diffusée depuis 1992, l'année de son lancement”，即1992年开播。"
+      }
+    },
+    {
+      "postId": "2117844986485952643",
+      "url": "https://x.com/franceinfo/status/2117844986485952643",
+      "author": "franceinfo",
+      "postedAt": "2026-11-04T05:02:47.000Z",
+      "excerpt": "La haine des femmes, un business qui rapporte ? Sur les réseaux sociaux, certains influenceurs masculinistes transforment les frustrations des jeunes hommes en argent. Discours misogynes, culte de la virilité, compléments alimentaires… Derrière ces contenus, tout un marché.",
+      "level": "B2",
+      "topic": "santé",
+      "summaryZh": "研究人员在《柳叶刀》撰文，建议像对待烟草业一样监管靠厌女内容向青少年牟利的男性至上主义网红。",
+      "summaryEn": "Researchers in The Lancet propose treating masculinist influencers, who profit from misogynistic content aimed at teenagers, like the tobacco industry.",
+      "vocab": [
+        {
+          "fr": "misogyne",
+          "zh": "厌女的",
+          "en": "misogynistic"
+        },
+        {
+          "fr": "le ressentiment",
+          "zh": "怨恨",
+          "en": "resentment"
+        },
+        {
+          "fr": "un malaise",
+          "zh": "不安，苦闷",
+          "en": "a malaise"
+        },
+        {
+          "fr": "s'attaquer à",
+          "zh": "着手解决，打击",
+          "en": "to tackle"
+        },
+        {
+          "fr": "tirer profit de",
+          "zh": "从……中获利",
+          "en": "to profit from"
+        }
+      ],
+      "question": {
+        "prompt": "À quelle industrie les chercheurs comparent-ils ce business ?",
+        "choices": [
+          "L'industrie automobile",
+          "L'industrie du tabac",
+          "L'industrie du luxe",
+          "L'industrie pharmaceutique"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "视频说研究人员建议“s'attaquer à cette industrie comme à celle du tabac”，即比作烟草业。"
+      }
+    },
+    {
+      "postId": "2117674017939177506",
+      "url": "https://x.com/Sciences_Avenir/status/2117674017939177506",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-03T17:43:25.000Z",
+      "excerpt": "Comment retracer l’histoire de plus d’un million de cellules ? Des scientifiques ont reconstitué le développement d’un embryon de souris grâce à une « machine à écrire l’ADN ».",
+      "level": "B2",
+      "topic": "santé",
+      "summaryZh": "研究人员用受CRISPR启发的“DNA打字机”，重建了小鼠胚胎中128万多个细胞的谱系树，有助于研究先天畸形和癌症。",
+      "summaryEn": "Using a CRISPR-inspired 'DNA typewriter', researchers rebuilt the lineage tree of 1.28 million cells in a mouse embryo, which may help study birth defects and cancer.",
+      "vocab": [
+        {
+          "fr": "un embryon",
+          "zh": "胚胎",
+          "en": "an embryo"
+        },
+        {
+          "fr": "une cellule",
+          "zh": "细胞",
+          "en": "a cell"
+        },
+        {
+          "fr": "la division cellulaire",
+          "zh": "细胞分裂",
+          "en": "cell division"
+        },
+        {
+          "fr": "les liens de parenté",
+          "zh": "亲缘关系",
+          "en": "family ties"
+        },
+        {
+          "fr": "dérailler",
+          "zh": "出岔子，失控",
+          "en": "to go off the rails"
+        }
+      ],
+      "question": {
+        "prompt": "Quelle part des cellules de l'embryon l'arbre complet retrace-t-il pour l'instant ?",
+        "choices": [
+          "Environ la moitié",
+          "Environ 10 %",
+          "Toutes les cellules",
+          "Environ 1 %"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "视频说完整的谱系树目前“ne retrace qu'environ 10% des cellules”，只追溯了约10%的细胞。"
+      }
+    },
+    {
+      "postId": "2117693296382189589",
+      "url": "https://x.com/tv5mondeinfo/status/2117693296382189589",
+      "author": "tv5mondeinfo",
+      "postedAt": "2026-11-03T19:00:01.000Z",
+      "excerpt": "Trente ans après sa première grande exposition européenne, l’artiste sud-africain William Kentridge revient à Bozar, le palais des Beaux-Arts de Bruxelles en Belgique. Quarante ans de création sur l’apartheid, la mémoire et les blessures politiques de son pays.",
+      "level": "C1",
+      "topic": "culture",
+      "summaryZh": "南非艺术家威廉·肯特里奇回到布鲁塞尔美术宫办展，复原其工作室，呈现素描、雕塑、戏剧与动画等四十多年的创作。",
+      "summaryEn": "South African artist William Kentridge returns to Bozar in Brussels with a show recreating his studio and spanning four decades of drawing, sculpture, theatre and animation.",
+      "vocab": [
+        {
+          "fr": "un atelier",
+          "zh": "工作室",
+          "en": "a studio"
+        },
+        {
+          "fr": "hétéroclite",
+          "zh": "五花八门的",
+          "en": "eclectic"
+        },
+        {
+          "fr": "une déambulation",
+          "zh": "漫步，游览",
+          "en": "a stroll"
+        },
+        {
+          "fr": "un fil rouge",
+          "zh": "主线，贯穿始终的线索",
+          "en": "a common thread"
+        },
+        {
+          "fr": "touche-à-tout",
+          "zh": "多面手",
+          "en": "jack of all trades"
+        }
+      ],
+      "question": {
+        "prompt": "D'après la vidéo, quel est toujours le point de départ du travail de Kentridge ?",
+        "choices": [
+          "La sculpture",
+          "Le cinéma",
+          "Le dessin",
+          "La danse"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "视频说“Le point de départ, c'est toujours le dessin”，他的起点始终是素描。"
+      }
+    },
+    {
+      "postId": "2117668014028136523",
+      "url": "https://x.com/tv5mondeinfo/status/2117668014028136523",
+      "author": "tv5mondeinfo",
+      "postedAt": "2026-11-03T17:19:33.000Z",
+      "excerpt": "La réserve de Vantara accueille la concentration d'animaux la plus large de la planète et certainement la plus controversée. Ce zoo fermé au public, est la propriété d'Anant Ambani, fils du multimilliardaire Mukesh Ambani.",
+      "level": "B2",
+      "topic": "actualité",
+      "summaryZh": "印度私人保护区Vantara收容来自2000多个物种的15万只动物，不对公众开放；批评者质疑部分受保护物种的来源。",
+      "summaryEn": "India's private Vantara reserve houses 150,000 animals from over 2,000 species and is closed to the public; critics question how some protected species were acquired.",
+      "vocab": [
+        {
+          "fr": "bichonner",
+          "zh": "精心照料",
+          "en": "to pamper"
+        },
+        {
+          "fr": "une espèce menacée",
+          "zh": "濒危物种",
+          "en": "an endangered species"
+        },
+        {
+          "fr": "un détracteur",
+          "zh": "批评者",
+          "en": "a critic"
+        },
+        {
+          "fr": "balayer d'un revers de main",
+          "zh": "一口回绝",
+          "en": "to brush aside"
+        },
+        {
+          "fr": "fulgurant",
+          "zh": "迅猛的",
+          "en": "meteoric"
+        }
+      ],
+      "question": {
+        "prompt": "Combien d'animaux la réserve de Vantara héberge-t-elle selon la vidéo ?",
+        "choices": [
+          "15 000",
+          "1 500",
+          "2 000",
+          "150 000"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "视频说“150 000 animaux… y sont hébergés”，共15万只动物。"
       }
     }
   ]
