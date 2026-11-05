@@ -1,0 +1,701 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-05T12:25:54Z",
+  "items": [
+    {
+      "postId": "2118303564909195733",
+      "url": "https://x.com/LeTemps/status/2118303564909195733",
+      "author": "LeTemps",
+      "postedAt": "2026-11-05T11:25:00.000Z",
+      "excerpt": "A partir de cette fin de semaine et jusqu'en décembre 2027, l'OSR livre l'intégrale des symphonies de Beethoven sous la direction du chef Daniele Gatti. Neuf opus, et neuf bonnes raisons de jouer cette somme musicale de haute...",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "从本周末起至2027年12月，瑞士罗曼德管弦乐团（OSR）将在指挥家达尼埃莱·加蒂带领下演奏贝多芬全部九部交响曲。",
+      "summaryEn": "From this weekend until December 2027, the Orchestre de la Suisse Romande performs all nine Beethoven symphonies under conductor Daniele Gatti.",
+      "vocab": [
+        {
+          "fr": "l'intégrale",
+          "zh": "全集",
+          "en": "the complete works"
+        },
+        {
+          "fr": "un chef d'orchestre",
+          "zh": "指挥",
+          "en": "a conductor"
+        },
+        {
+          "fr": "sous la direction de",
+          "zh": "在……的指挥下",
+          "en": "under the direction of"
+        },
+        {
+          "fr": "un opus",
+          "zh": "作品",
+          "en": "an opus, a work"
+        }
+      ],
+      "question": {
+        "prompt": "Jusqu'à quand l'OSR jouera-t-elle les symphonies de Beethoven ?",
+        "choices": [
+          "Jusqu'à la fin de la semaine",
+          "Jusqu'en décembre 2026",
+          "Jusqu'en septembre 2027",
+          "Jusqu'en décembre 2027"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "原文说 jusqu'en décembre 2027，即一直演到2027年12月。"
+      }
+    },
+    {
+      "postId": "2118275800126410905",
+      "url": "https://x.com/LeTemps/status/2118275800126410905",
+      "author": "LeTemps",
+      "postedAt": "2026-11-05T09:34:41.000Z",
+      "excerpt": "Les visiteurs étrangers comme suisses ont davantage fréquenté les établissements du pays. Sur les neuf premiers mois de l’année, la tendance reste stable malgré un léger recul de la clientèle internationale",
+      "level": "B2",
+      "topic": "actualité",
+      "summaryZh": "瑞士酒店接待的外国和本国游客都有所增加；今年前九个月整体趋势保持稳定，但国际客源略有下降。",
+      "summaryEn": "Swiss hotels drew more foreign and Swiss visitors; over the first nine months the trend is stable despite a slight drop in international guests.",
+      "vocab": [
+        {
+          "fr": "fréquenter",
+          "zh": "常去，光顾",
+          "en": "to frequent"
+        },
+        {
+          "fr": "un établissement",
+          "zh": "机构（此处指酒店）",
+          "en": "an establishment"
+        },
+        {
+          "fr": "un léger recul",
+          "zh": "小幅下降",
+          "en": "a slight decline"
+        },
+        {
+          "fr": "la clientèle",
+          "zh": "客源，顾客",
+          "en": "the clientele"
+        }
+      ],
+      "question": {
+        "prompt": "D'après le texte, qu'est-ce qui a légèrement reculé ?",
+        "choices": [
+          "La clientèle suisse",
+          "La clientèle internationale",
+          "Le nombre d'hôtels",
+          "Le prix des chambres"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文说 malgré un léger recul de la clientèle internationale，即国际客源略有下降。"
+      }
+    },
+    {
+      "postId": "2118256201523949611",
+      "url": "https://x.com/LeTemps/status/2118256201523949611",
+      "author": "LeTemps",
+      "postedAt": "2026-11-05T08:16:48.000Z",
+      "excerpt": "Un nouveau site dédié aux requérants d’asile mineurs non accompagnés (RMNA) a ouvert ses portes cet été à Aïre-Le Lignon. Une intégration pour le moment réussie au sein du quartier",
+      "level": "B2",
+      "topic": "immigration",
+      "summaryZh": "今年夏天，日内瓦艾尔-勒利尼翁开设了一处安置无人陪伴未成年寻求庇护者（RMNA）的新场所，目前融入社区的情况良好。",
+      "summaryEn": "A new site for unaccompanied minor asylum seekers (RMNA) opened this summer in Aïre-Le Lignon; so far it has integrated well into the neighbourhood.",
+      "vocab": [
+        {
+          "fr": "un requérant d'asile",
+          "zh": "（瑞士用语）寻求庇护者",
+          "en": "an asylum seeker"
+        },
+        {
+          "fr": "mineur non accompagné",
+          "zh": "无人陪伴的未成年人",
+          "en": "unaccompanied minor"
+        },
+        {
+          "fr": "ouvrir ses portes",
+          "zh": "启用，开门",
+          "en": "to open its doors"
+        },
+        {
+          "fr": "le quartier",
+          "zh": "街区",
+          "en": "the neighbourhood"
+        }
+      ],
+      "question": {
+        "prompt": "Comment se passe l'intégration du nouveau site pour l'instant ?",
+        "choices": [
+          "Elle est très difficile",
+          "Elle n'a pas encore commencé",
+          "Elle est réussie",
+          "Elle est rejetée par le quartier"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文说 Une intégration pour le moment réussie，即目前融入得很成功。"
+      }
+    },
+    {
+      "postId": "2118298530435465656",
+      "url": "https://x.com/ONU_fr/status/2118298530435465656",
+      "author": "ONU_fr",
+      "postedAt": "2026-11-05T11:05:00.000Z",
+      "excerpt": "Le harcèlement scolaire, y compris en ligne, nuit à la santé mentale des enfants et porte atteinte à leur droit à l’éducation. Jeudi, c'est la Journée Internationale NonAuHarcèlement.",
+      "level": "B1",
+      "topic": "santé",
+      "summaryZh": "校园霸凌（包括网络霸凌）损害儿童的心理健康，并侵犯他们的受教育权。本周四是反对校园欺凌国际日。",
+      "summaryEn": "School bullying, including online, harms children's mental health and undermines their right to education. Thursday is the International Day against bullying.",
+      "vocab": [
+        {
+          "fr": "le harcèlement scolaire",
+          "zh": "校园霸凌",
+          "en": "school bullying"
+        },
+        {
+          "fr": "nuire à",
+          "zh": "损害",
+          "en": "to harm"
+        },
+        {
+          "fr": "la santé mentale",
+          "zh": "心理健康",
+          "en": "mental health"
+        },
+        {
+          "fr": "porter atteinte à",
+          "zh": "侵犯，损害",
+          "en": "to undermine"
+        }
+      ],
+      "question": {
+        "prompt": "Selon le message, à quel droit le harcèlement scolaire porte-t-il atteinte ?",
+        "choices": [
+          "Au droit de vote",
+          "Au droit à l'éducation",
+          "Au droit au logement",
+          "À la liberté de la presse"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文说 porte atteinte à leur droit à l'éducation，即侵犯受教育权。"
+      }
+    },
+    {
+      "postId": "2118026990489948348",
+      "url": "https://x.com/ONU_fr/status/2118026990489948348",
+      "author": "ONU_fr",
+      "postedAt": "2026-11-04T17:06:00.000Z",
+      "excerpt": "Alors que le monde se dirige vers un réchauffement supérieur à 1,5 °C, l'adaptation au climat est trop lente. Les financements destinés à aider les communautés à s’adapter sont largement insuffisants, indique le rapport AdaptationGap de l'UNEP.",
+      "level": "B2",
+      "topic": "météo",
+      "summaryZh": "世界正走向超过1.5°C的升温，而气候适应进展太慢；联合国环境署报告指出，帮助社区适应的资金严重不足。",
+      "summaryEn": "As the world heads for warming above 1.5°C, climate adaptation is too slow; a UNEP report says funding to help communities adapt is far from enough.",
+      "vocab": [
+        {
+          "fr": "le réchauffement",
+          "zh": "变暖",
+          "en": "warming"
+        },
+        {
+          "fr": "l'adaptation au climat",
+          "zh": "气候适应",
+          "en": "climate adaptation"
+        },
+        {
+          "fr": "un financement",
+          "zh": "资金",
+          "en": "funding"
+        },
+        {
+          "fr": "insuffisant",
+          "zh": "不足的",
+          "en": "insufficient"
+        }
+      ],
+      "question": {
+        "prompt": "Selon le rapport, comment sont les financements pour l'adaptation ?",
+        "choices": [
+          "Largement insuffisants",
+          "Trop élevés",
+          "Suffisants",
+          "En forte hausse"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文说 Les financements ... sont largement insuffisants，资金严重不足。"
+      }
+    },
+    {
+      "postId": "2117990306574475282",
+      "url": "https://x.com/UNESCO_fr/status/2117990306574475282",
+      "author": "UNESCO_fr",
+      "postedAt": "2026-11-04T14:40:14.000Z",
+      "excerpt": "80 ans d'histoire au service de la paix. À l’occasion de son 80e anniversaire, l’UNESCO revient sur les règles et les normes communes que ses États membres ont établies au fil des décennies, à travers des conventions et des recommandations. De la protection des biens culturels en 1954 à l’éthique des neurotechnologies en 2025, découvrez les grandes étapes qui ont marqué l’histoire de l’Organisation.",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "值此成立80周年之际，教科文组织回顾成员国几十年来通过公约和建议书确立的共同规则，从1954年保护文化财产到2025年神经技术伦理。",
+      "summaryEn": "For its 80th anniversary, UNESCO reviews the common rules set by its member states through conventions, from cultural property protection in 1954 to neurotechnology ethics in 2025.",
+      "vocab": [
+        {
+          "fr": "un anniversaire",
+          "zh": "周年纪念",
+          "en": "an anniversary"
+        },
+        {
+          "fr": "une norme",
+          "zh": "规范，标准",
+          "en": "a standard"
+        },
+        {
+          "fr": "une convention",
+          "zh": "公约",
+          "en": "a convention"
+        },
+        {
+          "fr": "les biens culturels",
+          "zh": "文化财产",
+          "en": "cultural property"
+        },
+        {
+          "fr": "l'éthique",
+          "zh": "伦理",
+          "en": "ethics"
+        }
+      ],
+      "question": {
+        "prompt": "Quel thème marque l'année 2025 dans l'histoire de l'UNESCO ?",
+        "choices": [
+          "La protection des biens culturels",
+          "L'éducation des filles",
+          "L'éthique des neurotechnologies",
+          "La protection des océans"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文说 à l'éthique des neurotechnologies en 2025，2025年是神经技术伦理。"
+      }
+    },
+    {
+      "postId": "2118002914853523735",
+      "url": "https://x.com/StatCan_fra/status/2118002914853523735",
+      "author": "StatCan_fra",
+      "postedAt": "2026-11-04T15:30:20.000Z",
+      "excerpt": "En septembre 2026, les exportations de marchandises du Canada ont affiché une légère hausse de 0,2 %, tandis que les importations ont diminué de 0,3 %.",
+      "level": "B1",
+      "topic": "travail",
+      "summaryZh": "2026年9月，加拿大商品出口小幅增长0.2%，进口则下降0.3%。",
+      "summaryEn": "In September 2026, Canada's merchandise exports rose slightly by 0.2%, while imports fell by 0.3%.",
+      "vocab": [
+        {
+          "fr": "les exportations",
+          "zh": "出口",
+          "en": "exports"
+        },
+        {
+          "fr": "les importations",
+          "zh": "进口",
+          "en": "imports"
+        },
+        {
+          "fr": "une hausse",
+          "zh": "上升",
+          "en": "a rise"
+        },
+        {
+          "fr": "diminuer",
+          "zh": "减少",
+          "en": "to decrease"
+        },
+        {
+          "fr": "tandis que",
+          "zh": "而，然而",
+          "en": "while"
+        }
+      ],
+      "question": {
+        "prompt": "Comment ont évolué les importations du Canada en septembre 2026 ?",
+        "choices": [
+          "Hausse de 0,2 %",
+          "Hausse de 0,3 %",
+          "Pas de changement",
+          "Baisse de 0,3 %"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "原文说 les importations ont diminué de 0,3 %，进口下降0.3%。"
+      }
+    },
+    {
+      "postId": "2117663363958210702",
+      "url": "https://x.com/CitImmCanFR/status/2117663363958210702",
+      "author": "CitImmCanFR",
+      "postedAt": "2026-11-03T17:01:04.000Z",
+      "excerpt": "De nouvelles règles sont désormais en vigueur afin de fournir des renseignements plus clairs aux demandeurs d’asile, ce qui contribue à réduire les retards inutiles tout en garantissant l’accès à la protection à ceux qui en ont besoin. Notre nouvelle page Web explique : les critères d’admissibilité; notre processus d’asile modernisé; la désignation de représentants désignés pour offrir un soutien.",
+      "level": "B2",
+      "topic": "immigration",
+      "summaryZh": "加拿大移民部新规已生效，为庇护申请人提供更清晰的信息以减少不必要的延误；新网页介绍资格标准、现代化庇护流程和指定代表。",
+      "summaryEn": "New IRCC rules now give asylum claimants clearer information to cut needless delays; a new web page explains eligibility, the modernised process and designated representatives.",
+      "vocab": [
+        {
+          "fr": "en vigueur",
+          "zh": "生效的",
+          "en": "in force"
+        },
+        {
+          "fr": "un demandeur d'asile",
+          "zh": "庇护申请人",
+          "en": "an asylum claimant"
+        },
+        {
+          "fr": "les critères d'admissibilité",
+          "zh": "资格标准",
+          "en": "eligibility criteria"
+        },
+        {
+          "fr": "un retard",
+          "zh": "延误",
+          "en": "a delay"
+        },
+        {
+          "fr": "garantir",
+          "zh": "保证",
+          "en": "to guarantee"
+        }
+      ],
+      "question": {
+        "prompt": "Quel est l'un des objectifs des nouvelles règles ?",
+        "choices": [
+          "Réduire les retards inutiles",
+          "Fermer le système d'asile",
+          "Augmenter les frais de demande",
+          "Supprimer les représentants"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文说 contribue à réduire les retards inutiles，即减少不必要的延误。"
+      }
+    },
+    {
+      "postId": "2118267245835239633",
+      "url": "https://x.com/Sciences_Avenir/status/2118267245835239633",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-05T09:00:41.000Z",
+      "excerpt": "Des chercheurs révèlent des différences subtiles mais généralisées dans l’expression génétique entre les cerveaux masculins et féminins. Elles pourraient influer sur le risque de développer certaines maladies.",
+      "level": "B2",
+      "topic": "santé",
+      "summaryZh": "研究人员发现，男性和女性大脑在基因表达上存在细微但普遍的差异，这可能影响罹患某些疾病的风险。",
+      "summaryEn": "Researchers reveal subtle but widespread differences in gene expression between male and female brains, which could affect the risk of certain diseases.",
+      "vocab": [
+        {
+          "fr": "l'expression génétique",
+          "zh": "基因表达",
+          "en": "gene expression"
+        },
+        {
+          "fr": "subtil",
+          "zh": "细微的",
+          "en": "subtle"
+        },
+        {
+          "fr": "généralisé",
+          "zh": "普遍的",
+          "en": "widespread"
+        },
+        {
+          "fr": "influer sur",
+          "zh": "影响",
+          "en": "to influence"
+        }
+      ],
+      "question": {
+        "prompt": "Sur quoi ces différences pourraient-elles influer ?",
+        "choices": [
+          "La taille du cerveau",
+          "L'intelligence",
+          "Le risque de certaines maladies",
+          "La mémoire à court terme"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文说 Elles pourraient influer sur le risque de développer certaines maladies。"
+      }
+    },
+    {
+      "postId": "2117960049716765068",
+      "url": "https://x.com/laBnF/status/2117960049716765068",
+      "author": "laBnF",
+      "postedAt": "2026-11-04T12:40:00.000Z",
+      "excerpt": "Visitez l’exposition \"Photographies japonaises\" avec nos visites guidées ! Les samedis 14 novembre 2026 et 9 janvier 2027 la visite en langue des signes française propose une traversée se focalisant sur les pièces majeures de l’exposition.",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "法国国家图书馆推出“日本摄影”展导览；2026年11月14日和2027年1月9日（周六）提供法语手语导览，聚焦主要展品。",
+      "summaryEn": "The BnF offers guided tours of its Japanese Photographs exhibition; on Saturdays 14 November 2026 and 9 January 2027, a French Sign Language tour covers the key pieces.",
+      "vocab": [
+        {
+          "fr": "une visite guidée",
+          "zh": "导览",
+          "en": "a guided tour"
+        },
+        {
+          "fr": "la langue des signes",
+          "zh": "手语",
+          "en": "sign language"
+        },
+        {
+          "fr": "une exposition",
+          "zh": "展览",
+          "en": "an exhibition"
+        },
+        {
+          "fr": "se focaliser sur",
+          "zh": "聚焦于",
+          "en": "to focus on"
+        }
+      ],
+      "question": {
+        "prompt": "Quelle visite est proposée les 14 novembre et 9 janvier ?",
+        "choices": [
+          "Une visite en anglais",
+          "Une visite en langue des signes française",
+          "Une visite nocturne",
+          "Une visite pour enfants"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文说 la visite en langue des signes française，即法语手语导览。"
+      }
+    },
+    {
+      "postId": "2118251984176189640",
+      "url": "https://x.com/CEA_Officiel/status/2118251984176189640",
+      "author": "CEA_Officiel",
+      "postedAt": "2026-11-05T08:00:02.000Z",
+      "excerpt": "Comment former les 1ers spécialistes du nucléaire, à une époque où les connaissances dans ce domaine sont encore largement inédites ? À l’occasion des 70 ans de l’INSTN, @Mangeon4 retrace cette histoire en vidéo.",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "法国国家核科学与技术学院（INSTN）成立70周年，视频借CEA档案回顾其自1956年起培养核能人才的历史。",
+      "summaryEn": "The French nuclear science institute INSTN turns 70; using CEA archives, the video retraces how it has trained nuclear specialists since 1956.",
+      "vocab": [
+        {
+          "fr": "les archives",
+          "zh": "档案",
+          "en": "archives"
+        },
+        {
+          "fr": "le génie atomique",
+          "zh": "原子工程",
+          "en": "atomic engineering"
+        },
+        {
+          "fr": "un pionnier",
+          "zh": "先驱",
+          "en": "a pioneer"
+        },
+        {
+          "fr": "former",
+          "zh": "培养，培训",
+          "en": "to train"
+        },
+        {
+          "fr": "transmettre les connaissances",
+          "zh": "传授知识",
+          "en": "to pass on knowledge"
+        }
+      ],
+      "question": {
+        "prompt": "En quelle année l'INSTN est-il officiellement né ?",
+        "choices": [
+          "1956",
+          "1954",
+          "1961",
+          "1945"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "视频说“le 18 juin 1956, naît officiellement l'INSTN”，即1956年正式成立。"
+      }
+    },
+    {
+      "postId": "2118086017517236331",
+      "url": "https://x.com/franceinfo/status/2118086017517236331",
+      "author": "franceinfo",
+      "postedAt": "2026-11-04T21:00:33.000Z",
+      "excerpt": "Faut-il prendre des compléments de vitamine C en hiver ? Tout dépend de son alimentation et il est inutile d’en prendre trop puisque le corps ne la stocke pas.",
+      "level": "B1",
+      "topic": "santé",
+      "summaryZh": "人体无法制造和储存维生素C，每天约需100毫克；吃两个橙子或一个橙子加一个猕猴桃就够了，不必额外吃高剂量补充剂。",
+      "summaryEn": "The body can neither make nor store vitamin C and needs about 100 mg a day; two oranges, or an orange and a kiwi, are enough, so high-dose tablets aren't needed.",
+      "vocab": [
+        {
+          "fr": "un complément alimentaire",
+          "zh": "营养补充剂",
+          "en": "a dietary supplement"
+        },
+        {
+          "fr": "stocker",
+          "zh": "储存",
+          "en": "to store"
+        },
+        {
+          "fr": "un comprimé",
+          "zh": "药片",
+          "en": "a tablet"
+        },
+        {
+          "fr": "l'immunité",
+          "zh": "免疫力",
+          "en": "immunity"
+        },
+        {
+          "fr": "quotidien",
+          "zh": "每日的",
+          "en": "daily"
+        }
+      ],
+      "question": {
+        "prompt": "Combien de vitamine C notre corps a-t-il besoin chaque jour ?",
+        "choices": [
+          "1000 mg",
+          "10 mg",
+          "500 mg",
+          "Environ 100 mg"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "视频说身体“il lui en faut tous les jours environ 100 mg”，每天约需100毫克。"
+      }
+    },
+    {
+      "postId": "2118007671630467317",
+      "url": "https://x.com/OIFrancophonie/status/2118007671630467317",
+      "author": "OIFrancophonie",
+      "postedAt": "2026-11-04T15:49:14.000Z",
+      "excerpt": "Le 20e Sommet de la Francophonie sera un moment majeur de dialogue et de coopération. Ce rendez-vous s’accompagnera de plusieurs temps forts, dont la 48e Conférence ministérielle, le Village de la Francophonie, FrancoTech et la 6e Rencontre des entrepreneurs francophones. Autant d’occasions de valoriser la richesse culturelle, l’innovation et les échanges économiques dans l’espace francophone.",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "第20届法语国家峰会将于2026年11月15日至16日在柬埔寨金边举行，同期还有部长级会议、法语国家村和企业家会议等活动。",
+      "summaryEn": "The 20th Francophonie Summit will be held in Phnom Penh, Cambodia, on 15–16 November 2026, alongside a ministerial conference, a Francophonie Village and an entrepreneurs' meeting.",
+      "vocab": [
+        {
+          "fr": "un sommet",
+          "zh": "峰会",
+          "en": "a summit"
+        },
+        {
+          "fr": "accueillir",
+          "zh": "接待，举办",
+          "en": "to host"
+        },
+        {
+          "fr": "se tenir",
+          "zh": "举行",
+          "en": "to be held"
+        },
+        {
+          "fr": "l'entrepreneuriat",
+          "zh": "创业",
+          "en": "entrepreneurship"
+        },
+        {
+          "fr": "rapprocher les peuples",
+          "zh": "拉近各国人民",
+          "en": "to bring peoples together"
+        }
+      ],
+      "question": {
+        "prompt": "Quand aura lieu le 20e Sommet de la Francophonie ?",
+        "choices": [
+          "Le 14 novembre",
+          "Du 13 au 17 novembre",
+          "Les 15 et 16 novembre",
+          "Le 17 novembre"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "视频说“Le 20e Sommet de la Francophonie se tiendra les 15 et 16 novembre”。"
+      }
+    },
+    {
+      "postId": "2118010387446501444",
+      "url": "https://x.com/tv5mondeinfo/status/2118010387446501444",
+      "author": "tv5mondeinfo",
+      "postedAt": "2026-11-04T16:00:01.000Z",
+      "excerpt": "Saviez-vous qu’au Cambodge, la Gen Z se met à apprendre le français ? À Siem Reap, Noy, chauffeur de tuk-tuk, l’apprend tout seul. Entre deux ou trois séances de karaoké de Joe Dassin, d’Indila ou des Kids United, il se prépare à passer l’examen pour devenir guide francophone dans les temples d'Angkor.",
+      "level": "B1",
+      "topic": "travail",
+      "summaryZh": "柬埔寨暹粒的嘟嘟车司机Noy自学法语，希望成为吴哥窟的法语导游；他说会法语更容易找工作，收入也更高。",
+      "summaryEn": "In Siem Reap, tuk-tuk driver Noy is teaching himself French to become a French-speaking guide at Angkor; he says French makes finding work easier and pays better.",
+      "vocab": [
+        {
+          "fr": "un rêve",
+          "zh": "梦想",
+          "en": "a dream"
+        },
+        {
+          "fr": "le salaire",
+          "zh": "工资",
+          "en": "salary"
+        },
+        {
+          "fr": "un guide francophone",
+          "zh": "法语导游",
+          "en": "a French-speaking guide"
+        },
+        {
+          "fr": "des perspectives d'avenir",
+          "zh": "未来的前景",
+          "en": "future prospects"
+        }
+      ],
+      "question": {
+        "prompt": "Pourquoi Noy veut-il parler français ?",
+        "choices": [
+          "Pour étudier en France",
+          "Pour chanter au karaoké",
+          "Pour parler avec sa famille",
+          "Pour devenir guide francophone"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "Noy说“Je voudrais être guide francophone”，他想成为法语导游。"
+      }
+    },
+    {
+      "postId": "2118272621988979140",
+      "url": "https://x.com/tv5mondeinfo/status/2118272621988979140",
+      "author": "tv5mondeinfo",
+      "postedAt": "2026-11-05T09:22:03.000Z",
+      "excerpt": "Tous les cinq ans, le rapport PASEC évalue le niveau des élèves en Afrique francophone. Le dernier bilan est alarmant : trois élèves sur quatre terminent le primaire sans maîtriser les bases en mathématiques.",
+      "level": "B2",
+      "topic": "actualité",
+      "summaryZh": "PASEC报告显示，科特迪瓦77%的学生读完小学仍未掌握基本数学能力；班级人数过多，私人家教市场随之扩张。",
+      "summaryEn": "The PASEC report finds 77% of Ivorian pupils finish primary school without basic maths skills; overcrowded classes are fuelling a booming private tutoring market.",
+      "vocab": [
+        {
+          "fr": "le soutien scolaire",
+          "zh": "课外辅导",
+          "en": "tutoring"
+        },
+        {
+          "fr": "un effectif",
+          "zh": "（班级）人数",
+          "en": "class size, headcount"
+        },
+        {
+          "fr": "un professeur particulier",
+          "zh": "私人家教",
+          "en": "a private tutor"
+        },
+        {
+          "fr": "maîtriser",
+          "zh": "掌握",
+          "en": "to master"
+        },
+        {
+          "fr": "le taux de réussite",
+          "zh": "通过率",
+          "en": "pass rate"
+        }
+      ],
+      "question": {
+        "prompt": "Selon le professeur, combien d'élèves y avait-il par classe il y a 30 ans ?",
+        "choices": [
+          "70 à 80",
+          "45",
+          "85",
+          "31"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "老师说“Il y a 30 ans, on avait des effectifs de 45 élèves”，30年前一个班45人。"
+      }
+    }
+  ]
+}
