@@ -1,154 +1,22 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-06T12:44:15Z",
+  "generatedAt": "2026-11-06T12:59:17Z",
   "items": [
-    {
-      "postId": "2118674947795046781",
-      "url": "https://x.com/Sciences_Avenir/status/2118674947795046781",
-      "author": "Sciences_Avenir",
-      "postedAt": "2026-11-06T12:00:45Z",
-      "excerpt": "Il y a 3200 ans, après s’être affrontés pendant des décennies, l’Égypte de Ramsès II conclut avec le royaume hittite le « traité de paix » de Qadesh, l’un des plus anciens au monde. On vient d’en retrouver un fragment en Turquie.",
-      "level": "B2",
-      "topic": "culture",
-      "summaryZh": "约3200年前拉美西斯二世与赫梯签订卡叠什和约；土耳其新发现该条约残片。",
-      "summaryEn": "A fragment of the Qadesh peace treaty between Ramses II and the Hittites was found in Turkey.",
-      "vocab": [
-        {
-          "fr": "un traité de paix",
-          "zh": "和平条约",
-          "en": "a peace treaty"
-        },
-        {
-          "fr": "conclure",
-          "zh": "缔结",
-          "en": "to conclude"
-        },
-        {
-          "fr": "un fragment",
-          "zh": "残片；碎片",
-          "en": "a fragment"
-        },
-        {
-          "fr": "retrouver",
-          "zh": "重新发现",
-          "en": "to find again"
-        }
-      ],
-      "question": {
-        "prompt": "Que vient-on de retrouver en Turquie ?",
-        "choices": [
-          "Un fragment du traité de paix de Qadesh.",
-          "La tombe de Ramsès II.",
-          "Une nouvelle capitale hittite intacte.",
-          "Un temple grec du IIe siècle."
-        ],
-        "answerIndex": 0,
-        "explanationZh": "原文说 on vient d’en retrouver un fragment en Turquie。"
-      }
-    },
-    {
-      "postId": "2118434767091675643",
-      "url": "https://x.com/Sciences_Avenir/status/2118434767091675643",
-      "author": "Sciences_Avenir",
-      "postedAt": "2026-11-05T20:06:21Z",
-      "excerpt": "Le télescope Hubble a dévoilé des images intrigantes de Saturne. Son hémisphère Sud exhibe une onde atmosphérique en forme de décagone, plus de 40 ans après la découverte d'un hexagone au pôle Nord par les sondes Voyager.",
-      "level": "B2",
-      "topic": "actualité",
-      "summaryZh": "哈勃拍到土星南半球十边形大气波，距北半球六边形发现已四十多年。",
-      "summaryEn": "Hubble showed a decagon-shaped atmospheric wave at Saturn's south pole, decades after Voyager's north-pole hexagon.",
-      "vocab": [
-        {
-          "fr": "un télescope",
-          "zh": "望远镜",
-          "en": "a telescope"
-        },
-        {
-          "fr": "dévoiler",
-          "zh": "揭示；公布",
-          "en": "to unveil"
-        },
-        {
-          "fr": "un hémisphère",
-          "zh": "半球",
-          "en": "a hemisphere"
-        },
-        {
-          "fr": "une onde",
-          "zh": "波",
-          "en": "a wave"
-        }
-      ],
-      "question": {
-        "prompt": "Que montre l'hémisphère Sud de Saturne ?",
-        "choices": [
-          "Un hexagone au pôle Nord.",
-          "Une onde atmosphérique en forme de décagone.",
-          "Des anneaux disparus.",
-          "Un nouveau satellite."
-        ],
-        "answerIndex": 1,
-        "explanationZh": "原文：une onde atmosphérique en forme de décagone。"
-      }
-    },
-    {
-      "postId": "2118613995477205045",
-      "url": "https://x.com/Sciences_Avenir/status/2118613995477205045",
-      "author": "Sciences_Avenir",
-      "postedAt": "2026-11-06T07:58:33Z",
-      "excerpt": "La réintroduction des loups a des influences écologiques positives sur les arbres des écosystèmes riverains.",
-      "level": "B1",
-      "topic": "actualité",
-      "summaryZh": "狼的重新引入对河岸生态系统中的树木有积极生态影响。",
-      "summaryEn": "Reintroducing wolves has positive ecological effects on trees in riverside ecosystems.",
-      "vocab": [
-        {
-          "fr": "la réintroduction",
-          "zh": "重新引入",
-          "en": "reintroduction"
-        },
-        {
-          "fr": "un loup",
-          "zh": "狼",
-          "en": "a wolf"
-        },
-        {
-          "fr": "écologique",
-          "zh": "生态的",
-          "en": "ecological"
-        },
-        {
-          "fr": "un écosystème",
-          "zh": "生态系统",
-          "en": "an ecosystem"
-        }
-      ],
-      "question": {
-        "prompt": "Sur quoi les loups ont-ils une influence positive ?",
-        "choices": [
-          "Sur le tourisme seulement.",
-          "Sur les routes.",
-          "Sur les arbres des écosystèmes riverains.",
-          "Sur les trains."
-        ],
-        "answerIndex": 2,
-        "explanationZh": "原文说 des influences écologiques positives sur les arbres des écosystèmes riverains。"
-      }
-    },
     {
       "postId": "2118676932871266718",
       "url": "https://x.com/LeTemps/status/2118676932871266718",
       "author": "LeTemps",
-      "postedAt": "2026-11-06T12:08:38Z",
-      "excerpt": "Fin octobre, les forêts suisses avaient un visage bigarré avec un certain nombre d’individus encore verts à cause des températures clémentes, alors que d’autres arborent du brun depuis cet été. Fleurs et bourgeons font aussi partie de ce tableau en mosaïque.",
+      "postedAt": "2026-11-06T12:08:38.000Z",
+      "excerpt": "Fin octobre, les forêts suisses avaient un visage bigarré avec un certain nombre d'individus encore verts à cause des températures clémentes, alors que d'autres arborent du brun depuis cet été. Fleurs et bourgeons font aussi partie de ce tableau en mosaïque",
       "level": "B2",
       "topic": "météo",
-      "summaryZh": "十月末瑞士森林颜色斑驳：暖秋使部分树木仍绿，另一些自夏天起已发褐。",
-      "summaryEn": "Late October Swiss forests looked patchy: mild temperatures kept some trees green while others have been brown since summer.",
+      "summaryZh": "瑞士森林秋色错乱：暖秋让部分树木仍绿，另一些自夏末已褐；花与芽也出现在这幅马赛克里。",
+      "summaryEn": "Swiss forests look patchy: mild autumn kept some trees green while others browned since summer; flowers and buds join the mosaic.",
       "vocab": [
         {
           "fr": "bigarré",
-          "zh": "斑驳的；杂色的",
-          "en": "multicoloured, patchy"
+          "zh": "斑驳的，五颜六色的",
+          "en": "multicoloured / patchy"
         },
         {
           "fr": "clément",
@@ -156,290 +24,569 @@
           "en": "mild"
         },
         {
-          "fr": "arborer",
-          "zh": "呈现；披上",
-          "en": "to display, to wear"
-        },
-        {
           "fr": "un bourgeon",
           "zh": "芽",
           "en": "a bud"
+        },
+        {
+          "fr": "la sécheresse",
+          "zh": "干旱",
+          "en": "drought"
         }
       ],
       "question": {
-        "prompt": "Pourquoi certains arbres sont-ils encore verts fin octobre ?",
+        "prompt": "Pourquoi certaines forêts restent-elles vertes fin octobre ?",
         "choices": [
-          "À cause du gel.",
-          "À cause des températures clémentes.",
-          "Parce qu'on les a peints.",
-          "Parce qu'il n'y a plus de soleil."
+          "À cause du froid",
+          "À cause des températures clémentes",
+          "À cause de la neige",
+          "À cause des insectes"
         ],
         "answerIndex": 1,
-        "explanationZh": "原文：encore verts à cause des températures clémentes。"
+        "explanationZh": "文中写因温度温和（températures clémentes）部分树木仍绿。"
+      }
+    },
+    {
+      "postId": "2118670480551084379",
+      "url": "https://x.com/laBnF/status/2118670480551084379",
+      "author": "laBnF",
+      "postedAt": "2026-11-06T11:43:00.000Z",
+      "excerpt": "Jusque dans les années 1970, pour les photographes japonais, le véritable aboutissement de leur travail, c'est le livre. Le 18 novembre, venez découvrir les liens entre photographie et édition au Japon depuis les années 1950 dans notre conférence",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "直到1970年代，日本摄影师真正的作品完成形态是摄影书；11月18日讲座探讨1950年代以来摄影与出版的关系。",
+      "summaryEn": "Until the 1970s, for Japanese photographers the true culmination of their work was the book; a 18 Nov talk explores photo and publishing since the 1950s.",
+      "vocab": [
+        {
+          "fr": "un aboutissement",
+          "zh": "最终成果",
+          "en": "a culmination"
+        },
+        {
+          "fr": "une conférence",
+          "zh": "讲座",
+          "en": "a lecture"
+        },
+        {
+          "fr": "l'édition",
+          "zh": "出版",
+          "en": "publishing"
+        },
+        {
+          "fr": "un photographe",
+          "zh": "摄影师",
+          "en": "a photographer"
+        }
+      ],
+      "question": {
+        "prompt": "Quel est, jusqu'aux années 1970, l'aboutissement du travail des photographes japonais ?",
+        "choices": [
+          "Une expo",
+          "Un film",
+          "Le livre",
+          "Un site web"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文：真正的完成形态是 le livre。"
+      }
+    },
+    {
+      "postId": "2118659693207753213",
+      "url": "https://x.com/MinistereCC/status/2118659693207753213",
+      "author": "MinistereCC",
+      "postedAt": "2026-11-06T11:00:08.000Z",
+      "excerpt": "Les 21 et 22 novembre 2026 à la Cité de la langue française, assistez au Festival international de théâtre amateur francophone ! Six troupes pour un théâtre généreux, créatif, engagé et accessible (5 €/spectacle)",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "11月21–22日在法语语言城举办国际法语业余戏剧节，六支剧团演出，每场5欧元。",
+      "summaryEn": "On 21–22 Nov 2026 the International Francophone Amateur Theatre Festival hosts six troupes at 5 € per show.",
+      "vocab": [
+        {
+          "fr": "une troupe",
+          "zh": "剧团",
+          "en": "a theatre troupe"
+        },
+        {
+          "fr": "accessible",
+          "zh": "平易近人的；价格可及的",
+          "en": "accessible / affordable"
+        },
+        {
+          "fr": "un spectacle",
+          "zh": "演出",
+          "en": "a show"
+        },
+        {
+          "fr": "amateur",
+          "zh": "业余的",
+          "en": "amateur"
+        }
+      ],
+      "question": {
+        "prompt": "Combien coûtent les spectacles du festival ?",
+        "choices": [
+          "Gratuit",
+          "5 euros",
+          "15 euros",
+          "50 euros"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文写 5 €/spectacle。"
       }
     },
     {
       "postId": "2118654881481310262",
       "url": "https://x.com/LeTemps/status/2118654881481310262",
       "author": "LeTemps",
-      "postedAt": "2026-11-06T10:41:01Z",
-      "excerpt": "Le Grand Conseil a privilégié jeudi une solution informatique pour traquer les abus. Un numéro officiel devra être attribué à chaque bien loué, permettant d’alerter les autorités dès le dépassement du seuil légal de 90 nuitées.",
+      "postedAt": "2026-11-06T10:41:01.000Z",
+      "excerpt": "Le Grand Conseil a privilégié une solution informatique pour traquer les abus. Un numéro officiel devra être attribué à chaque bien loué, permettant d'alerter les autorités dès le dépassement du seuil légal de 90 nuitées",
       "level": "B2",
       "topic": "logement",
-      "summaryZh": "日内瓦议会通过信息化方案监管短租：每套房需官方编号，超90晚即告警。",
-      "summaryEn": "Geneva chose a digital system to track short-let abuses: each rented property gets an official number and alerts at over 90 nights.",
+      "summaryZh": "日内瓦加强Airbnb监管：每套房源须有官方编号，超过法定90晚即警报，未新设监管机构。",
+      "summaryEn": "Geneva tightens Airbnb checks: each rental gets an official number that alerts authorities past the legal 90-night cap.",
       "vocab": [
         {
-          "fr": "traquer",
-          "zh": "追查；盯防",
-          "en": "to track down"
+          "fr": "un bien loué",
+          "zh": "出租房产",
+          "en": "a rented property"
         },
         {
-          "fr": "attribuer",
-          "zh": "分配；赋予",
-          "en": "to assign"
-        },
-        {
-          "fr": "un seuil",
-          "zh": "门槛；上限",
-          "en": "a threshold"
+          "fr": "le seuil",
+          "zh": "门槛，上限",
+          "en": "the threshold / cap"
         },
         {
           "fr": "une nuitée",
-          "zh": "过夜（次数）",
+          "zh": "过夜（一晚）",
           "en": "an overnight stay"
+        },
+        {
+          "fr": "traquer",
+          "zh": "追踪",
+          "en": "to track"
         }
       ],
       "question": {
-        "prompt": "Que se passe-t-il si un bien dépasse 90 nuitées ?",
+        "prompt": "Quel est le seuil légal de nuitées mentionné ?",
         "choices": [
-          "Rien du tout.",
-          "Le loyer baisse automatiquement.",
-          "Les autorités sont alertées.",
-          "Le bien est détruit."
+          "30",
+          "60",
+          "90",
+          "120"
         ],
         "answerIndex": 2,
-        "explanationZh": "原文：alerter les autorités dès le dépassement du seuil légal de 90 nuitées。"
+        "explanationZh": "文中写 seuil légal de 90 nuitées。"
       }
     },
     {
       "postId": "2118632824966119433",
       "url": "https://x.com/LeTemps/status/2118632824966119433",
       "author": "LeTemps",
-      "postedAt": "2026-11-06T09:13:22Z",
-      "excerpt": "La formation commerciale initiale conserve sa position de premier des apprentissages du pays, malgré un certain recul. Quelles perspectives alors que l’intelligence artificielle permet d’automatiser toujours davantage de tâches administratives ?",
+      "postedAt": "2026-11-06T09:13:22.000Z",
+      "excerpt": "La formation commerciale initiale conserve sa position de premier des apprentissages du pays, malgré un certain recul. Quelles perspectives alors que l'intelligence artificielle permet d'automatiser toujours davantage de tâches administratives ?",
       "level": "B2",
       "topic": "travail",
-      "summaryZh": "商业学徒仍是瑞士最热门学徒方向，但AI正自动化更多行政工作，前景引关注。",
-      "summaryEn": "Commercial apprenticeships remain Switzerland's top training path, even as AI automates more administrative tasks.",
+      "summaryZh": "瑞士商业学徒仍是最热门学徒工种，尽管略有下降；面对AI自动化行政工作，前景引人关注。",
+      "summaryEn": "Switzerland's commercial apprenticeship remains the top training path despite a dip; AI automating admin work raises questions about its future.",
       "vocab": [
         {
           "fr": "un apprentissage",
-          "zh": "学徒制；培训",
+          "zh": "学徒制",
           "en": "an apprenticeship"
         },
         {
-          "fr": "malgré",
-          "zh": "尽管",
-          "en": "despite"
-        },
-        {
           "fr": "automatiser",
-          "zh": "使自动化",
+          "zh": "自动化",
           "en": "to automate"
         },
         {
           "fr": "une tâche administrative",
           "zh": "行政工作",
           "en": "an administrative task"
+        },
+        {
+          "fr": "un recul",
+          "zh": "下降",
+          "en": "a decline"
         }
       ],
       "question": {
         "prompt": "Quelle formation reste la plus prisée en Suisse ?",
         "choices": [
-          "La plomberie uniquement.",
-          "La formation commerciale initiale.",
-          "Le pilotage d'avion.",
-          "La cuisine moléculaire."
+          "L'informatique",
+          "La formation commerciale initiale",
+          "La médecine",
+          "Le droit"
         ],
         "answerIndex": 1,
-        "explanationZh": "原文：conserve sa position de premier des apprentissages du pays。"
+        "explanationZh": "文中写商业初始培训仍居学徒之首。"
+      }
+    },
+    {
+      "postId": "2118674947795046781",
+      "url": "https://x.com/Sciences_Avenir/status/2118674947795046781",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-06T12:00:45.000Z",
+      "excerpt": "Il y a 3200 ans, après s'être affrontés pendant des décennies, l'Égypte de Ramsès II conclut avec le royaume hittite le « traité de paix » de Qadesh, l'un des plus anciens au monde. On vient d'en retrouver un fragment en Turquie",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "约3200年前拉美西斯二世埃及与赫梯缔结卡迭石和约；土耳其发现该条约残片，是世界最古老和约之一。",
+      "summaryEn": "About 3200 years ago Egypt under Ramses II and the Hittites sealed the Qadesh peace treaty; a fragment was found in Turkey.",
+      "vocab": [
+        {
+          "fr": "un traité de paix",
+          "zh": "和平条约",
+          "en": "a peace treaty"
+        },
+        {
+          "fr": "un fragment",
+          "zh": "残片",
+          "en": "a fragment"
+        },
+        {
+          "fr": "un royaume",
+          "zh": "王国",
+          "en": "a kingdom"
+        },
+        {
+          "fr": "conclure",
+          "zh": "缔结",
+          "en": "to conclude (a treaty)"
+        }
+      ],
+      "question": {
+        "prompt": "Où a-t-on retrouvé un fragment du traité de Qadesh ?",
+        "choices": [
+          "En Égypte",
+          "En Turquie",
+          "En Grèce",
+          "En Italie"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文：On vient d'en retrouver un fragment en Turquie。"
+      }
+    },
+    {
+      "postId": "2118418257581424925",
+      "url": "https://x.com/UNESCO_fr/status/2118418257581424925",
+      "author": "UNESCO_fr",
+      "postedAt": "2026-11-05T19:00:45.000Z",
+      "excerpt": "Parlée sous 17 dialectes et comptant environ 33 000 mots, la langue romani porte en elle l'histoire, les traditions et l'identité de millions de personnes. À l'occasion de la Journée mondiale de la langue romani, l'UNESCO met en lumière la richesse de la diversité linguistique et réaffirme son engagement en faveur de la préservation des langues",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "罗姆语约有17种方言、三万三千词；世界罗姆语日，教科文组织强调语言多样性与保护。",
+      "summaryEn": "Romani has some 17 dialects and ~33,000 words; on World Romani Language Day UNESCO highlights linguistic diversity and language preservation.",
+      "vocab": [
+        {
+          "fr": "un dialecte",
+          "zh": "方言",
+          "en": "a dialect"
+        },
+        {
+          "fr": "la préservation",
+          "zh": "保护",
+          "en": "preservation"
+        },
+        {
+          "fr": "la diversité linguistique",
+          "zh": "语言多样性",
+          "en": "linguistic diversity"
+        },
+        {
+          "fr": "l'identité",
+          "zh": "身份认同",
+          "en": "identity"
+        }
+      ],
+      "question": {
+        "prompt": "Combien de dialectes la langue romani compte-t-elle environ ?",
+        "choices": [
+          "7",
+          "17",
+          "70",
+          "170"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文：Parlée sous 17 dialectes。"
+      }
+    },
+    {
+      "postId": "2118384231944712401",
+      "url": "https://x.com/OIFrancophonie/status/2118384231944712401",
+      "author": "OIFrancophonie",
+      "postedAt": "2026-11-05T16:45:33.000Z",
+      "excerpt": "À quelques jours du 20e Sommet de la Francophonie, découvrez « Destins francophones – 30 femmes au cœur de l'action », un ouvrage publié par l'OIF et les éditions Autrement. Entre portraits et récits engagés, ce beau livre illustré rend hommage à 30 femmes de 28 pays dont les parcours contribuent à la transformation de leurs sociétés",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "法语国家峰会前夕，OIF推出《法语世界命运》画册，致敬28国30位推动社会变革的女性。",
+      "summaryEn": "Ahead of the Francophonie Summit, OIF publishes an illustrated book honouring 30 women from 28 countries driving social change.",
+      "vocab": [
+        {
+          "fr": "un ouvrage",
+          "zh": "著作，书籍",
+          "en": "a work / book"
+        },
+        {
+          "fr": "rendre hommage",
+          "zh": "致敬",
+          "en": "to pay tribute"
+        },
+        {
+          "fr": "un parcours",
+          "zh": "经历",
+          "en": "a life path"
+        },
+        {
+          "fr": "la transformation",
+          "zh": "变革",
+          "en": "transformation"
+        }
+      ],
+      "question": {
+        "prompt": "Combien de femmes sont mises à l'honneur dans l'ouvrage ?",
+        "choices": [
+          "20",
+          "28",
+          "30",
+          "48"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "书名与正文写 30 femmes。"
+      }
+    },
+    {
+      "postId": "2118434767091675643",
+      "url": "https://x.com/Sciences_Avenir/status/2118434767091675643",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-05T20:06:21.000Z",
+      "excerpt": "Le télescope Hubble a dévoilé des images intrigantes de Saturne. Son hémisphère Sud exhibe une onde atmosphérique en forme de décagone, plus de 40 ans après la découverte d'un hexagone au pôle Nord par les sondes Voyager",
+      "level": "B2",
+      "topic": "actualité",
+      "summaryZh": "哈勃拍到土星南半球十边形大气波；四十多年前旅行者号曾在北极发现六边形。",
+      "summaryEn": "Hubble shows a decagonal atmospheric wave at Saturn's south pole, over 40 years after Voyager found a hexagon at the north.",
+      "vocab": [
+        {
+          "fr": "un télescope",
+          "zh": "望远镜",
+          "en": "a telescope"
+        },
+        {
+          "fr": "un hémisphère",
+          "zh": "半球",
+          "en": "a hemisphere"
+        },
+        {
+          "fr": "une sonde",
+          "zh": "探测器",
+          "en": "a space probe"
+        },
+        {
+          "fr": "dévoiler",
+          "zh": "揭示",
+          "en": "to unveil"
+        }
+      ],
+      "question": {
+        "prompt": "Quelle forme a l'onde observée au pôle Sud de Saturne ?",
+        "choices": [
+          "Un cercle",
+          "Un hexagone",
+          "Un décagone",
+          "Un triangle"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "南半球是 décagone（十边形）。"
       }
     },
     {
       "postId": "2118667298160738520",
       "url": "https://x.com/franceinfo/status/2118667298160738520",
       "author": "franceinfo",
-      "postedAt": "2026-11-06T11:30:21Z",
-      "excerpt": "Jamais un mois d'octobre n'avait été si chaud, annonce le laboratoire Copernicus, qui ajoute que 2026 sera probablement la 2e année la plus chaude.",
+      "postedAt": "2026-11-06T11:30:21.000Z",
+      "excerpt": "Jamais un mois d'octobre n'avait été si chaud, annonce le laboratoire Copernicus, qui ajoute que 2026 sera probablement la 2e année la plus chaude",
       "level": "B1",
       "topic": "météo",
-      "summaryZh": "哥白尼实验室称：有记录以来最热的十月，2026年可能成第二热年份。",
-      "summaryEn": "Copernicus says October was the warmest on record and 2026 will likely be the second-hottest year.",
+      "summaryZh": "哥白尼观测所称今年10月是有记录以来最热的10月，并预计2026年可能是第二热的年份。",
+      "summaryEn": "Copernicus says October was the hottest on record and 2026 will likely be the second-hottest year.",
       "vocab": [
         {
-          "fr": "annoncer",
-          "zh": "宣布",
-          "en": "to announce"
+          "fr": "un laboratoire",
+          "zh": "实验室（观测机构）",
+          "en": "a laboratory / centre"
         },
         {
-          "fr": "un laboratoire",
-          "zh": "实验室",
-          "en": "a laboratory"
+          "fr": "probablement",
+          "zh": "很可能",
+          "en": "probably"
         },
         {
           "fr": "chaud",
           "zh": "热的",
-          "en": "hot, warm"
+          "en": "hot"
         },
         {
-          "fr": "probablement",
-          "zh": "大概；可能",
-          "en": "probably"
+          "fr": "un record",
+          "zh": "纪录",
+          "en": "a record"
         }
       ],
       "question": {
-        "prompt": "Que dit Copernicus à propos d'octobre ?",
+        "prompt": "Selon Copernicus, 2026 sera probablement…",
         "choices": [
-          "Il a neigé partout.",
-          "Il a été le plus froid.",
-          "Il n'y a pas de données.",
-          "Ce fut le mois d'octobre le plus chaud jamais enregistré."
-        ],
-        "answerIndex": 3,
-        "explanationZh": "原文：Jamais un mois d'octobre n'avait été si chaud。"
-      }
-    },
-    {
-      "postId": "2118681781926764905",
-      "url": "https://x.com/franceinfo/status/2118681781926764905",
-      "author": "franceinfo",
-      "postedAt": "2026-11-06T12:27:54Z",
-      "excerpt": "L'A69 vient d'ouvrir et son prix fait grincer des dents. Avec ses 20,40 euros aller-retour, elle devient l'une des autoroutes les plus chères de France. Ce qu'a déploré Christophe Ramond, président socialiste du département du Tarn.",
-      "level": "B2",
-      "topic": "transport",
-      "summaryZh": "新建A69高速往返通行费20.40欧元，成法国最贵之一，Tarn省长表示不满。",
-      "summaryEn": "Newly opened A69 costs €20.40 round-trip, among France's priciest motorways, drawing criticism in the Tarn.",
-      "vocab": [
-        {
-          "fr": "une autoroute",
-          "zh": "高速公路",
-          "en": "a motorway"
-        },
-        {
-          "fr": "aller-retour",
-          "zh": "往返",
-          "en": "round trip"
-        },
-        {
-          "fr": "cher",
-          "zh": "昂贵的",
-          "en": "expensive"
-        },
-        {
-          "fr": "déplorer",
-          "zh": "对……表示遗憾",
-          "en": "to deplore"
-        }
-      ],
-      "question": {
-        "prompt": "Pourquoi l'A69 fait-elle grincer des dents ?",
-        "choices": [
-          "Parce que son péage est très élevé.",
-          "Parce qu'elle est gratuite.",
-          "Parce qu'elle n'existe pas.",
-          "Parce qu'elle est trop courte."
-        ],
-        "answerIndex": 0,
-        "explanationZh": "原文：son prix fait grincer des dents；20,40 euros aller-retour。"
-      }
-    },
-    {
-      "postId": "2118629477517578725",
-      "url": "https://x.com/ONUinfo/status/2118629477517578725",
-      "author": "ONUinfo",
-      "postedAt": "2026-11-06T09:00:04Z",
-      "excerpt": "Si on dépasse 1,5 °C, pourquoi continuer à lutter contre le changement climatique ? « Dépasser ce seuil ne signifie pas capituler », affirme Selwin Hart, conseiller de l’ONU sur le climat.",
-      "level": "B2",
-      "topic": "actualité",
-      "summaryZh": "联合国气候顾问称：即便超过1.5°C也不应放弃，继续减排仍有意义。",
-      "summaryEn": "A UN climate adviser says exceeding 1.5°C is not a reason to give up the fight against climate change.",
-      "vocab": [
-        {
-          "fr": "dépasser",
-          "zh": "超过",
-          "en": "to exceed"
-        },
-        {
-          "fr": "lutter contre",
-          "zh": "与……斗争",
-          "en": "to fight against"
-        },
-        {
-          "fr": "un seuil",
-          "zh": "阈值；门槛",
-          "en": "a threshold"
-        },
-        {
-          "fr": "capituler",
-          "zh": "投降；放弃",
-          "en": "to capitulate, to give up"
-        }
-      ],
-      "question": {
-        "prompt": "Que signifie dépasser 1,5 °C selon Selwin Hart ?",
-        "choices": [
-          "Qu'il faut tout arrêter.",
-          "Que le climat s'améliore.",
-          "Que l'ONU ferme ses bureaux.",
-          "Que cela ne signifie pas capituler."
-        ],
-        "answerIndex": 3,
-        "explanationZh": "原文：Dépasser ce seuil ne signifie pas capituler。"
-      }
-    },
-    {
-      "postId": "2118458393082171741",
-      "url": "https://x.com/LeDevoir/status/2118458393082171741",
-      "author": "LeDevoir",
-      "postedAt": "2026-11-05T21:40:14Z",
-      "excerpt": "Les seuils d’immigration du Canada restent au même niveau.",
-      "level": "A2",
-      "topic": "immigration",
-      "summaryZh": "加拿大移民配额门槛维持不变。",
-      "summaryEn": "Canada's immigration thresholds stay at the same level.",
-      "vocab": [
-        {
-          "fr": "un seuil",
-          "zh": "门槛；上限",
-          "en": "a threshold"
-        },
-        {
-          "fr": "l'immigration",
-          "zh": "移民",
-          "en": "immigration"
-        },
-        {
-          "fr": "rester",
-          "zh": "保持；停留",
-          "en": "to remain"
-        },
-        {
-          "fr": "le même niveau",
-          "zh": "同一水平",
-          "en": "the same level"
-        }
-      ],
-      "question": {
-        "prompt": "Que font les seuils d'immigration du Canada ?",
-        "choices": [
-          "Ils doublent.",
-          "Ils restent au même niveau.",
-          "Ils disparaissent.",
-          "Ils ne concernent que Québec."
+          "l'année la plus froide",
+          "la 2e année la plus chaude",
+          "une année sans été",
+          "identique à 2025"
         ],
         "answerIndex": 1,
-        "explanationZh": "原文：restent au même niveau。"
+        "explanationZh": "原文：probablement la 2e année la plus chaude。"
+      }
+    },
+    {
+      "postId": "2118675442173677873",
+      "url": "https://x.com/franceinfo/status/2118675442173677873",
+      "author": "franceinfo",
+      "postedAt": "2026-11-06T12:02:43.000Z",
+      "excerpt": "Après deux ans d'attente le TGV nouvelle génération est enfin sur les rails. Plus spacieux, coloré, recyclable, les premiers voyageurs ont pu prendre place. À quoi ressemble-t-il ?",
+      "level": "B1",
+      "topic": "transport",
+      "summaryZh": "新一代TGV更宽敞、可回收、更省电；速度不变但多载约百人，头枕可调，巴黎—地中海干线已有少量列车运行。",
+      "summaryEn": "The next-gen TGV is roomier, recyclable and more efficient; speed unchanged but ~100 more seats; a few trains already run Paris–Mediterranean.",
+      "vocab": [
+        {
+          "fr": "recyclable",
+          "zh": "可回收的",
+          "en": "recyclable"
+        },
+        {
+          "fr": "un appui-tête",
+          "zh": "头枕",
+          "en": "a headrest"
+        },
+        {
+          "fr": "le bilan carbone",
+          "zh": "碳足迹",
+          "en": "carbon footprint"
+        },
+        {
+          "fr": "emporter",
+          "zh": "运载",
+          "en": "to carry"
+        },
+        {
+          "fr": "une prise",
+          "zh": "插座",
+          "en": "a power socket"
+        }
+      ],
+      "question": {
+        "prompt": "Combien de passagers en plus ce TGV peut-il emporter ?",
+        "choices": [
+          "Une dizaine",
+          "Une centaine",
+          "Un millier",
+          "Aucun"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "视频说「une centaine de plus」，即大约多载一百名乘客。"
+      }
+    },
+    {
+      "postId": "2118674762050555963",
+      "url": "https://x.com/tv5mondeinfo/status/2118674762050555963",
+      "author": "tv5mondeinfo",
+      "postedAt": "2026-11-06T12:00:01.000Z",
+      "excerpt": "À Yaoundé, B-boy Oliver nous partage sa passion pour le breakdance. Fier de la culture camerounaise, il a intégré les sonorités locales comme le Makossa et le Bikutsi dans son art.",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "雅温得20岁B-boy Oliver把makossa、bikutsi等本土音乐融入霹雳舞，梦想入选奥运代表喀麦隆。",
+      "summaryEn": "In Yaoundé, 20-year-old B-boy Oliver blends makossa and bikutsi into breakdance and dreams of representing Cameroon at the Olympics.",
+      "vocab": [
+        {
+          "fr": "le breakdance",
+          "zh": "霹雳舞",
+          "en": "breakdance"
+        },
+        {
+          "fr": "valoriser",
+          "zh": "弘扬，突出",
+          "en": "to showcase"
+        },
+        {
+          "fr": "une discipline",
+          "zh": "（体育）项目",
+          "en": "a discipline"
+        },
+        {
+          "fr": "représenter",
+          "zh": "代表",
+          "en": "to represent"
+        },
+        {
+          "fr": "une sonorité",
+          "zh": "音色，曲风",
+          "en": "a sound / musical colour"
+        }
+      ],
+      "question": {
+        "prompt": "Quel âge a B-boy Oliver ?",
+        "choices": [
+          "15 ans",
+          "20 ans",
+          "25 ans",
+          "30 ans"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "他说自己「âgé de 20 ans」。"
+      }
+    },
+    {
+      "postId": "2118584168250745105",
+      "url": "https://x.com/tv5mondeinfo/status/2118584168250745105",
+      "author": "tv5mondeinfo",
+      "postedAt": "2026-11-06T06:00:01.000Z",
+      "excerpt": "Il y a très longtemps, ces masques permettaient à de nombreux peuples africains de traverser des frontières. On les appelle masques passeports, mais connaissez-vous leur histoire ?",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "西非“护照面具”曾用于标识身份与族群；木制微型面具或青铜小像伴随旅行，如今多成装饰品。",
+      "summaryEn": "West African “passport masks” once identified travellers’ communities; wooden miniatures or bronze figures, today often mere decor.",
+      "vocab": [
+        {
+          "fr": "un masque passeport",
+          "zh": "护照面具",
+          "en": "a passport mask"
+        },
+        {
+          "fr": "une scarification",
+          "zh": "疤痕纹饰",
+          "en": "scarification"
+        },
+        {
+          "fr": "un sculpteur",
+          "zh": "雕刻师",
+          "en": "a sculptor"
+        },
+        {
+          "fr": "une tribu",
+          "zh": "部落",
+          "en": "a tribe"
+        },
+        {
+          "fr": "le rang social",
+          "zh": "社会地位",
+          "en": "social rank"
+        }
+      ],
+      "question": {
+        "prompt": "Où retrouvait-on principalement les masques passeports ?",
+        "choices": [
+          "En Afrique de l'Est",
+          "En Afrique du Nord",
+          "En Afrique de l'Ouest",
+          "En Europe"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "视频说「On les retrouvait principalement en Afrique de l'Ouest」。"
       }
     }
   ]
