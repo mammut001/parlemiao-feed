@@ -1,0 +1,446 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-06T12:44:15Z",
+  "items": [
+    {
+      "postId": "2118674947795046781",
+      "url": "https://x.com/Sciences_Avenir/status/2118674947795046781",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-06T12:00:45Z",
+      "excerpt": "Il y a 3200 ans, après s’être affrontés pendant des décennies, l’Égypte de Ramsès II conclut avec le royaume hittite le « traité de paix » de Qadesh, l’un des plus anciens au monde. On vient d’en retrouver un fragment en Turquie.",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "约3200年前拉美西斯二世与赫梯签订卡叠什和约；土耳其新发现该条约残片。",
+      "summaryEn": "A fragment of the Qadesh peace treaty between Ramses II and the Hittites was found in Turkey.",
+      "vocab": [
+        {
+          "fr": "un traité de paix",
+          "zh": "和平条约",
+          "en": "a peace treaty"
+        },
+        {
+          "fr": "conclure",
+          "zh": "缔结",
+          "en": "to conclude"
+        },
+        {
+          "fr": "un fragment",
+          "zh": "残片；碎片",
+          "en": "a fragment"
+        },
+        {
+          "fr": "retrouver",
+          "zh": "重新发现",
+          "en": "to find again"
+        }
+      ],
+      "question": {
+        "prompt": "Que vient-on de retrouver en Turquie ?",
+        "choices": [
+          "Un fragment du traité de paix de Qadesh.",
+          "La tombe de Ramsès II.",
+          "Une nouvelle capitale hittite intacte.",
+          "Un temple grec du IIe siècle."
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文说 on vient d’en retrouver un fragment en Turquie。"
+      }
+    },
+    {
+      "postId": "2118434767091675643",
+      "url": "https://x.com/Sciences_Avenir/status/2118434767091675643",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-05T20:06:21Z",
+      "excerpt": "Le télescope Hubble a dévoilé des images intrigantes de Saturne. Son hémisphère Sud exhibe une onde atmosphérique en forme de décagone, plus de 40 ans après la découverte d'un hexagone au pôle Nord par les sondes Voyager.",
+      "level": "B2",
+      "topic": "actualité",
+      "summaryZh": "哈勃拍到土星南半球十边形大气波，距北半球六边形发现已四十多年。",
+      "summaryEn": "Hubble showed a decagon-shaped atmospheric wave at Saturn's south pole, decades after Voyager's north-pole hexagon.",
+      "vocab": [
+        {
+          "fr": "un télescope",
+          "zh": "望远镜",
+          "en": "a telescope"
+        },
+        {
+          "fr": "dévoiler",
+          "zh": "揭示；公布",
+          "en": "to unveil"
+        },
+        {
+          "fr": "un hémisphère",
+          "zh": "半球",
+          "en": "a hemisphere"
+        },
+        {
+          "fr": "une onde",
+          "zh": "波",
+          "en": "a wave"
+        }
+      ],
+      "question": {
+        "prompt": "Que montre l'hémisphère Sud de Saturne ?",
+        "choices": [
+          "Un hexagone au pôle Nord.",
+          "Une onde atmosphérique en forme de décagone.",
+          "Des anneaux disparus.",
+          "Un nouveau satellite."
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文：une onde atmosphérique en forme de décagone。"
+      }
+    },
+    {
+      "postId": "2118613995477205045",
+      "url": "https://x.com/Sciences_Avenir/status/2118613995477205045",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-06T07:58:33Z",
+      "excerpt": "La réintroduction des loups a des influences écologiques positives sur les arbres des écosystèmes riverains.",
+      "level": "B1",
+      "topic": "actualité",
+      "summaryZh": "狼的重新引入对河岸生态系统中的树木有积极生态影响。",
+      "summaryEn": "Reintroducing wolves has positive ecological effects on trees in riverside ecosystems.",
+      "vocab": [
+        {
+          "fr": "la réintroduction",
+          "zh": "重新引入",
+          "en": "reintroduction"
+        },
+        {
+          "fr": "un loup",
+          "zh": "狼",
+          "en": "a wolf"
+        },
+        {
+          "fr": "écologique",
+          "zh": "生态的",
+          "en": "ecological"
+        },
+        {
+          "fr": "un écosystème",
+          "zh": "生态系统",
+          "en": "an ecosystem"
+        }
+      ],
+      "question": {
+        "prompt": "Sur quoi les loups ont-ils une influence positive ?",
+        "choices": [
+          "Sur le tourisme seulement.",
+          "Sur les routes.",
+          "Sur les arbres des écosystèmes riverains.",
+          "Sur les trains."
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文说 des influences écologiques positives sur les arbres des écosystèmes riverains。"
+      }
+    },
+    {
+      "postId": "2118676932871266718",
+      "url": "https://x.com/LeTemps/status/2118676932871266718",
+      "author": "LeTemps",
+      "postedAt": "2026-11-06T12:08:38Z",
+      "excerpt": "Fin octobre, les forêts suisses avaient un visage bigarré avec un certain nombre d’individus encore verts à cause des températures clémentes, alors que d’autres arborent du brun depuis cet été. Fleurs et bourgeons font aussi partie de ce tableau en mosaïque.",
+      "level": "B2",
+      "topic": "météo",
+      "summaryZh": "十月末瑞士森林颜色斑驳：暖秋使部分树木仍绿，另一些自夏天起已发褐。",
+      "summaryEn": "Late October Swiss forests looked patchy: mild temperatures kept some trees green while others have been brown since summer.",
+      "vocab": [
+        {
+          "fr": "bigarré",
+          "zh": "斑驳的；杂色的",
+          "en": "multicoloured, patchy"
+        },
+        {
+          "fr": "clément",
+          "zh": "温和的",
+          "en": "mild"
+        },
+        {
+          "fr": "arborer",
+          "zh": "呈现；披上",
+          "en": "to display, to wear"
+        },
+        {
+          "fr": "un bourgeon",
+          "zh": "芽",
+          "en": "a bud"
+        }
+      ],
+      "question": {
+        "prompt": "Pourquoi certains arbres sont-ils encore verts fin octobre ?",
+        "choices": [
+          "À cause du gel.",
+          "À cause des températures clémentes.",
+          "Parce qu'on les a peints.",
+          "Parce qu'il n'y a plus de soleil."
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文：encore verts à cause des températures clémentes。"
+      }
+    },
+    {
+      "postId": "2118654881481310262",
+      "url": "https://x.com/LeTemps/status/2118654881481310262",
+      "author": "LeTemps",
+      "postedAt": "2026-11-06T10:41:01Z",
+      "excerpt": "Le Grand Conseil a privilégié jeudi une solution informatique pour traquer les abus. Un numéro officiel devra être attribué à chaque bien loué, permettant d’alerter les autorités dès le dépassement du seuil légal de 90 nuitées.",
+      "level": "B2",
+      "topic": "logement",
+      "summaryZh": "日内瓦议会通过信息化方案监管短租：每套房需官方编号，超90晚即告警。",
+      "summaryEn": "Geneva chose a digital system to track short-let abuses: each rented property gets an official number and alerts at over 90 nights.",
+      "vocab": [
+        {
+          "fr": "traquer",
+          "zh": "追查；盯防",
+          "en": "to track down"
+        },
+        {
+          "fr": "attribuer",
+          "zh": "分配；赋予",
+          "en": "to assign"
+        },
+        {
+          "fr": "un seuil",
+          "zh": "门槛；上限",
+          "en": "a threshold"
+        },
+        {
+          "fr": "une nuitée",
+          "zh": "过夜（次数）",
+          "en": "an overnight stay"
+        }
+      ],
+      "question": {
+        "prompt": "Que se passe-t-il si un bien dépasse 90 nuitées ?",
+        "choices": [
+          "Rien du tout.",
+          "Le loyer baisse automatiquement.",
+          "Les autorités sont alertées.",
+          "Le bien est détruit."
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文：alerter les autorités dès le dépassement du seuil légal de 90 nuitées。"
+      }
+    },
+    {
+      "postId": "2118632824966119433",
+      "url": "https://x.com/LeTemps/status/2118632824966119433",
+      "author": "LeTemps",
+      "postedAt": "2026-11-06T09:13:22Z",
+      "excerpt": "La formation commerciale initiale conserve sa position de premier des apprentissages du pays, malgré un certain recul. Quelles perspectives alors que l’intelligence artificielle permet d’automatiser toujours davantage de tâches administratives ?",
+      "level": "B2",
+      "topic": "travail",
+      "summaryZh": "商业学徒仍是瑞士最热门学徒方向，但AI正自动化更多行政工作，前景引关注。",
+      "summaryEn": "Commercial apprenticeships remain Switzerland's top training path, even as AI automates more administrative tasks.",
+      "vocab": [
+        {
+          "fr": "un apprentissage",
+          "zh": "学徒制；培训",
+          "en": "an apprenticeship"
+        },
+        {
+          "fr": "malgré",
+          "zh": "尽管",
+          "en": "despite"
+        },
+        {
+          "fr": "automatiser",
+          "zh": "使自动化",
+          "en": "to automate"
+        },
+        {
+          "fr": "une tâche administrative",
+          "zh": "行政工作",
+          "en": "an administrative task"
+        }
+      ],
+      "question": {
+        "prompt": "Quelle formation reste la plus prisée en Suisse ?",
+        "choices": [
+          "La plomberie uniquement.",
+          "La formation commerciale initiale.",
+          "Le pilotage d'avion.",
+          "La cuisine moléculaire."
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文：conserve sa position de premier des apprentissages du pays。"
+      }
+    },
+    {
+      "postId": "2118667298160738520",
+      "url": "https://x.com/franceinfo/status/2118667298160738520",
+      "author": "franceinfo",
+      "postedAt": "2026-11-06T11:30:21Z",
+      "excerpt": "Jamais un mois d'octobre n'avait été si chaud, annonce le laboratoire Copernicus, qui ajoute que 2026 sera probablement la 2e année la plus chaude.",
+      "level": "B1",
+      "topic": "météo",
+      "summaryZh": "哥白尼实验室称：有记录以来最热的十月，2026年可能成第二热年份。",
+      "summaryEn": "Copernicus says October was the warmest on record and 2026 will likely be the second-hottest year.",
+      "vocab": [
+        {
+          "fr": "annoncer",
+          "zh": "宣布",
+          "en": "to announce"
+        },
+        {
+          "fr": "un laboratoire",
+          "zh": "实验室",
+          "en": "a laboratory"
+        },
+        {
+          "fr": "chaud",
+          "zh": "热的",
+          "en": "hot, warm"
+        },
+        {
+          "fr": "probablement",
+          "zh": "大概；可能",
+          "en": "probably"
+        }
+      ],
+      "question": {
+        "prompt": "Que dit Copernicus à propos d'octobre ?",
+        "choices": [
+          "Il a neigé partout.",
+          "Il a été le plus froid.",
+          "Il n'y a pas de données.",
+          "Ce fut le mois d'octobre le plus chaud jamais enregistré."
+        ],
+        "answerIndex": 3,
+        "explanationZh": "原文：Jamais un mois d'octobre n'avait été si chaud。"
+      }
+    },
+    {
+      "postId": "2118681781926764905",
+      "url": "https://x.com/franceinfo/status/2118681781926764905",
+      "author": "franceinfo",
+      "postedAt": "2026-11-06T12:27:54Z",
+      "excerpt": "L'A69 vient d'ouvrir et son prix fait grincer des dents. Avec ses 20,40 euros aller-retour, elle devient l'une des autoroutes les plus chères de France. Ce qu'a déploré Christophe Ramond, président socialiste du département du Tarn.",
+      "level": "B2",
+      "topic": "transport",
+      "summaryZh": "新建A69高速往返通行费20.40欧元，成法国最贵之一，Tarn省长表示不满。",
+      "summaryEn": "Newly opened A69 costs €20.40 round-trip, among France's priciest motorways, drawing criticism in the Tarn.",
+      "vocab": [
+        {
+          "fr": "une autoroute",
+          "zh": "高速公路",
+          "en": "a motorway"
+        },
+        {
+          "fr": "aller-retour",
+          "zh": "往返",
+          "en": "round trip"
+        },
+        {
+          "fr": "cher",
+          "zh": "昂贵的",
+          "en": "expensive"
+        },
+        {
+          "fr": "déplorer",
+          "zh": "对……表示遗憾",
+          "en": "to deplore"
+        }
+      ],
+      "question": {
+        "prompt": "Pourquoi l'A69 fait-elle grincer des dents ?",
+        "choices": [
+          "Parce que son péage est très élevé.",
+          "Parce qu'elle est gratuite.",
+          "Parce qu'elle n'existe pas.",
+          "Parce qu'elle est trop courte."
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文：son prix fait grincer des dents；20,40 euros aller-retour。"
+      }
+    },
+    {
+      "postId": "2118629477517578725",
+      "url": "https://x.com/ONUinfo/status/2118629477517578725",
+      "author": "ONUinfo",
+      "postedAt": "2026-11-06T09:00:04Z",
+      "excerpt": "Si on dépasse 1,5 °C, pourquoi continuer à lutter contre le changement climatique ? « Dépasser ce seuil ne signifie pas capituler », affirme Selwin Hart, conseiller de l’ONU sur le climat.",
+      "level": "B2",
+      "topic": "actualité",
+      "summaryZh": "联合国气候顾问称：即便超过1.5°C也不应放弃，继续减排仍有意义。",
+      "summaryEn": "A UN climate adviser says exceeding 1.5°C is not a reason to give up the fight against climate change.",
+      "vocab": [
+        {
+          "fr": "dépasser",
+          "zh": "超过",
+          "en": "to exceed"
+        },
+        {
+          "fr": "lutter contre",
+          "zh": "与……斗争",
+          "en": "to fight against"
+        },
+        {
+          "fr": "un seuil",
+          "zh": "阈值；门槛",
+          "en": "a threshold"
+        },
+        {
+          "fr": "capituler",
+          "zh": "投降；放弃",
+          "en": "to capitulate, to give up"
+        }
+      ],
+      "question": {
+        "prompt": "Que signifie dépasser 1,5 °C selon Selwin Hart ?",
+        "choices": [
+          "Qu'il faut tout arrêter.",
+          "Que le climat s'améliore.",
+          "Que l'ONU ferme ses bureaux.",
+          "Que cela ne signifie pas capituler."
+        ],
+        "answerIndex": 3,
+        "explanationZh": "原文：Dépasser ce seuil ne signifie pas capituler。"
+      }
+    },
+    {
+      "postId": "2118458393082171741",
+      "url": "https://x.com/LeDevoir/status/2118458393082171741",
+      "author": "LeDevoir",
+      "postedAt": "2026-11-05T21:40:14Z",
+      "excerpt": "Les seuils d’immigration du Canada restent au même niveau.",
+      "level": "A2",
+      "topic": "immigration",
+      "summaryZh": "加拿大移民配额门槛维持不变。",
+      "summaryEn": "Canada's immigration thresholds stay at the same level.",
+      "vocab": [
+        {
+          "fr": "un seuil",
+          "zh": "门槛；上限",
+          "en": "a threshold"
+        },
+        {
+          "fr": "l'immigration",
+          "zh": "移民",
+          "en": "immigration"
+        },
+        {
+          "fr": "rester",
+          "zh": "保持；停留",
+          "en": "to remain"
+        },
+        {
+          "fr": "le même niveau",
+          "zh": "同一水平",
+          "en": "the same level"
+        }
+      ],
+      "question": {
+        "prompt": "Que font les seuils d'immigration du Canada ?",
+        "choices": [
+          "Ils doublent.",
+          "Ils restent au même niveau.",
+          "Ils disparaissent.",
+          "Ils ne concernent que Québec."
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文：restent au même niveau。"
+      }
+    }
+  ]
+}
