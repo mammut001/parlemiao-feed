@@ -1,592 +1,656 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-06T12:59:17Z",
+  "generatedAt": "2026-11-07T12:29:59Z",
   "items": [
     {
-      "postId": "2118676932871266718",
-      "url": "https://x.com/LeTemps/status/2118676932871266718",
-      "author": "LeTemps",
-      "postedAt": "2026-11-06T12:08:38.000Z",
-      "excerpt": "Fin octobre, les forêts suisses avaient un visage bigarré avec un certain nombre d'individus encore verts à cause des températures clémentes, alors que d'autres arborent du brun depuis cet été. Fleurs et bourgeons font aussi partie de ce tableau en mosaïque",
-      "level": "B2",
-      "topic": "météo",
-      "summaryZh": "瑞士森林秋色错乱：暖秋让部分树木仍绿，另一些自夏末已褐；花与芽也出现在这幅马赛克里。",
-      "summaryEn": "Swiss forests look patchy: mild autumn kept some trees green while others browned since summer; flowers and buds join the mosaic.",
+      "postId": "2119037225098744266",
+      "url": "https://x.com/CitImmCanFR/status/2119037225098744266",
+      "author": "CitImmCanFR",
+      "postedAt": "2026-11-07T12:00:18.000Z",
+      "excerpt": "AIDE DE SERVICE EN LIGNE: Les services en ligne liés au Portail d’IRCC seront inaccessibles le 7 novembre de 19h00 jusqu'à le 8 novembre 7h00 HNE. Assurez-vous de supprimer le contenu de la mémoire cache de votre navigateur Internet lorsque le service sera de retour.",
+      "level": "B1",
+      "topic": "immigration",
+      "summaryZh": "IRCC门户网站的在线服务将于11月7日19:00至11月8日7:00（东部时间）暂停；服务恢复后请清除浏览器缓存。",
+      "summaryEn": "IRCC Portal online services will be unavailable from 7 p.m. Nov. 7 to 7 a.m. Nov. 8 (ET); clear your browser cache once service returns.",
       "vocab": [
         {
-          "fr": "bigarré",
-          "zh": "斑驳的，五颜六色的",
-          "en": "multicoloured / patchy"
+          "fr": "inaccessible",
+          "zh": "无法访问的",
+          "en": "unavailable"
         },
         {
-          "fr": "clément",
-          "zh": "温和的",
-          "en": "mild"
+          "fr": "la mémoire cache",
+          "zh": "缓存",
+          "en": "the cache"
         },
         {
-          "fr": "un bourgeon",
-          "zh": "芽",
-          "en": "a bud"
+          "fr": "un navigateur",
+          "zh": "浏览器",
+          "en": "a browser"
         },
         {
-          "fr": "la sécheresse",
-          "zh": "干旱",
-          "en": "drought"
+          "fr": "être de retour",
+          "zh": "恢复，回来",
+          "en": "to be back"
         }
       ],
       "question": {
-        "prompt": "Pourquoi certaines forêts restent-elles vertes fin octobre ?",
+        "prompt": "Que faut-il faire quand le service sera de retour ?",
         "choices": [
-          "À cause du froid",
-          "À cause des températures clémentes",
-          "À cause de la neige",
-          "À cause des insectes"
+          "Créer un nouveau compte",
+          "Appeler IRCC",
+          "Changer de mot de passe",
+          "Supprimer le cache du navigateur"
         ],
-        "answerIndex": 1,
-        "explanationZh": "文中写因温度温和（températures clémentes）部分树木仍绿。"
+        "answerIndex": 3,
+        "explanationZh": "原文要求 supprimer le contenu de la mémoire cache de votre navigateur，即清除浏览器缓存。"
       }
     },
     {
-      "postId": "2118670480551084379",
-      "url": "https://x.com/laBnF/status/2118670480551084379",
-      "author": "laBnF",
-      "postedAt": "2026-11-06T11:43:00.000Z",
-      "excerpt": "Jusque dans les années 1970, pour les photographes japonais, le véritable aboutissement de leur travail, c'est le livre. Le 18 novembre, venez découvrir les liens entre photographie et édition au Japon depuis les années 1950 dans notre conférence",
+      "postId": "2119023433795383624",
+      "url": "https://x.com/LeTemps/status/2119023433795383624",
+      "author": "LeTemps",
+      "postedAt": "2026-11-07T11:05:30.000Z",
+      "excerpt": "Depuis le mois d’août, l’Olympique de Tambourine dispute sa première saison officielle en 5e ligue genevoise. Ses dirigeants parlent de Champions League mais leur vraie ambition est sociale: faire de ce nouveau club un acteur...",
       "level": "B2",
       "topic": "culture",
-      "summaryZh": "直到1970年代，日本摄影师真正的作品完成形态是摄影书；11月18日讲座探讨1950年代以来摄影与出版的关系。",
-      "summaryEn": "Until the 1970s, for Japanese photographers the true culmination of their work was the book; a 18 Nov talk explores photo and publishing since the 1950s.",
+      "summaryZh": "日内瓦新球会“Olympique de Tambourine”自8月起首次参加第五级联赛；管理层嘴上谈欧冠，真正目标却是社会性的。",
+      "summaryEn": "Since August, Olympique de Tambourine has played its first official season in Geneva's 5th league; its leaders joke about the Champions League but their real aim is social.",
       "vocab": [
         {
-          "fr": "un aboutissement",
-          "zh": "最终成果",
-          "en": "a culmination"
+          "fr": "disputer une saison",
+          "zh": "参加一个赛季的比赛",
+          "en": "to play a season"
         },
         {
-          "fr": "une conférence",
-          "zh": "讲座",
-          "en": "a lecture"
+          "fr": "une ligue",
+          "zh": "联赛",
+          "en": "a league"
         },
         {
-          "fr": "l'édition",
-          "zh": "出版",
-          "en": "publishing"
+          "fr": "un dirigeant",
+          "zh": "负责人，领导",
+          "en": "a club official"
         },
         {
-          "fr": "un photographe",
-          "zh": "摄影师",
-          "en": "a photographer"
+          "fr": "une ambition",
+          "zh": "抱负，目标",
+          "en": "an ambition"
         }
       ],
       "question": {
-        "prompt": "Quel est, jusqu'aux années 1970, l'aboutissement du travail des photographes japonais ?",
+        "prompt": "Quelle est la vraie ambition du club ?",
         "choices": [
-          "Une expo",
-          "Un film",
-          "Le livre",
-          "Un site web"
+          "Gagner la Champions League",
+          "Construire un stade",
+          "Recruter des stars",
+          "Une ambition sociale"
         ],
-        "answerIndex": 2,
-        "explanationZh": "原文：真正的完成形态是 le livre。"
+        "answerIndex": 3,
+        "explanationZh": "原文说 leur vraie ambition est sociale，真正目标是社会性的。"
       }
     },
     {
-      "postId": "2118659693207753213",
-      "url": "https://x.com/MinistereCC/status/2118659693207753213",
+      "postId": "2119011758325268954",
+      "url": "https://x.com/LeTemps/status/2119011758325268954",
+      "author": "LeTemps",
+      "postedAt": "2026-11-07T10:19:07.000Z",
+      "excerpt": "Toujours captivant, le metteur en scène essore la grande pièce de Goethe et projette Faust et son désir de puissance dans un asile glacial. A l’Odéon, avant le Théâtre de Vidy, cette traversée de l’enfer piquée d’ironie marque...",
+      "level": "C1",
+      "topic": "culture",
+      "summaryZh": "导演重新演绎歌德名剧《浮士德》，把主角对权力的渴望搬进冰冷的收容所；该剧先在巴黎奥德翁剧院上演，之后去维迪剧院。",
+      "summaryEn": "A director reworks Goethe's Faust, placing its hunger for power in an icy asylum; staged at the Odéon before the Théâtre de Vidy, with a dose of irony.",
+      "vocab": [
+        {
+          "fr": "un metteur en scène",
+          "zh": "（戏剧）导演",
+          "en": "a stage director"
+        },
+        {
+          "fr": "une pièce",
+          "zh": "剧本，戏剧",
+          "en": "a play"
+        },
+        {
+          "fr": "le désir de puissance",
+          "zh": "权力欲",
+          "en": "the desire for power"
+        },
+        {
+          "fr": "glacial",
+          "zh": "冰冷的",
+          "en": "icy"
+        },
+        {
+          "fr": "piqué d'ironie",
+          "zh": "带着讽刺意味的",
+          "en": "laced with irony"
+        }
+      ],
+      "question": {
+        "prompt": "Où le spectacle est-il joué avant le Théâtre de Vidy ?",
+        "choices": [
+          "À l'Odéon",
+          "À la Comédie-Française",
+          "À l'Opéra de Genève",
+          "Au Châtelet"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文说 A l'Odéon, avant le Théâtre de Vidy，先在奥德翁剧院演出。"
+      }
+    },
+    {
+      "postId": "2118971791859183884",
+      "url": "https://x.com/Sciences_Avenir/status/2118971791859183884",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-07T07:40:18.000Z",
+      "excerpt": "On n'attrape pas froid, on attrape des virus (ou des bactéries). Mais alors, pourquoi les attrape-t-on surtout en hiver ?",
+      "level": "A2",
+      "topic": "santé",
+      "summaryZh": "我们不是“着凉”生病，而是感染了病毒或细菌。那为什么冬天更容易被感染呢？",
+      "summaryEn": "We don't catch cold, we catch viruses (or bacteria). So why do we mostly catch them in winter?",
+      "vocab": [
+        {
+          "fr": "attraper froid",
+          "zh": "着凉",
+          "en": "to catch a chill"
+        },
+        {
+          "fr": "un virus",
+          "zh": "病毒",
+          "en": "a virus"
+        },
+        {
+          "fr": "une bactérie",
+          "zh": "细菌",
+          "en": "a bacterium"
+        },
+        {
+          "fr": "surtout",
+          "zh": "尤其，主要",
+          "en": "mostly"
+        }
+      ],
+      "question": {
+        "prompt": "Selon le message, qu'est-ce qu'on attrape vraiment ?",
+        "choices": [
+          "Le froid",
+          "Des virus ou des bactéries",
+          "La pluie",
+          "Des allergies"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文说 on attrape des virus (ou des bactéries)，真正感染的是病毒或细菌。"
+      }
+    },
+    {
+      "postId": "2118962255433802227",
+      "url": "https://x.com/Sciences_Avenir/status/2118962255433802227",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-07T07:02:24.000Z",
+      "excerpt": "C’est un effet connu, la peau des doigts se plisse au bout d’un certain temps passé dans l’eau. Mais plus étonnant : le motif des plis reste toujours le même, comme l’ont montré deux scientifiques.",
+      "level": "B1",
+      "topic": "santé",
+      "summaryZh": "手指在水里泡久了皮肤会起皱，这众所周知；更令人惊讶的是，两位科学家发现褶皱的图案每次都一样。",
+      "summaryEn": "Fingers wrinkle after time in water, a known effect; more surprising, two scientists showed the wrinkle pattern is always the same.",
+      "vocab": [
+        {
+          "fr": "se plisser",
+          "zh": "起皱",
+          "en": "to wrinkle"
+        },
+        {
+          "fr": "au bout de",
+          "zh": "在……之后",
+          "en": "after"
+        },
+        {
+          "fr": "un motif",
+          "zh": "图案",
+          "en": "a pattern"
+        },
+        {
+          "fr": "étonnant",
+          "zh": "令人惊讶的",
+          "en": "surprising"
+        }
+      ],
+      "question": {
+        "prompt": "Qu'est-ce qui est le plus étonnant selon le texte ?",
+        "choices": [
+          "Les doigts ne se plissent jamais",
+          "L'eau froide empêche les plis",
+          "Le motif des plis reste toujours le même",
+          "Les plis disparaissent en une seconde"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文说 le motif des plis reste toujours le même，褶皱图案始终一样。"
+      }
+    },
+    {
+      "postId": "2118933211686551693",
+      "url": "https://x.com/ONU_fr/status/2118933211686551693",
+      "author": "ONU_fr",
+      "postedAt": "2026-11-07T05:07:00.000Z",
+      "excerpt": "Alors que le monde se donne rendez-vous à Antalya pour la COP31 la semaine prochaine, découvrez les temps forts et les enjeux de la Conférence de l'ONU sur le climat.",
+      "level": "B1",
+      "topic": "météo",
+      "summaryZh": "下周世界将齐聚安塔利亚参加COP31，联合国介绍本次气候大会的亮点和关键议题。",
+      "summaryEn": "As the world meets in Antalya for COP31 next week, discover the highlights and stakes of the UN climate conference.",
+      "vocab": [
+        {
+          "fr": "se donner rendez-vous",
+          "zh": "相约，齐聚",
+          "en": "to meet up"
+        },
+        {
+          "fr": "les temps forts",
+          "zh": "亮点，重要环节",
+          "en": "the highlights"
+        },
+        {
+          "fr": "un enjeu",
+          "zh": "关键问题，利害",
+          "en": "a stake"
+        },
+        {
+          "fr": "le climat",
+          "zh": "气候",
+          "en": "the climate"
+        }
+      ],
+      "question": {
+        "prompt": "Où aura lieu la COP31 ?",
+        "choices": [
+          "À Paris",
+          "À Antalya",
+          "À Genève",
+          "À Montréal"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文说 à Antalya pour la COP31，COP31在安塔利亚举行。"
+      }
+    },
+    {
+      "postId": "2119022079781540198",
+      "url": "https://x.com/MinistereCC/status/2119022079781540198",
       "author": "MinistereCC",
-      "postedAt": "2026-11-06T11:00:08.000Z",
-      "excerpt": "Les 21 et 22 novembre 2026 à la Cité de la langue française, assistez au Festival international de théâtre amateur francophone ! Six troupes pour un théâtre généreux, créatif, engagé et accessible (5 €/spectacle)",
+      "postedAt": "2026-11-07T11:00:08.000Z",
+      "excerpt": "Découvrez la richesse patrimoniale et culturelle de la commune de Trois-Rivières avec l'application mobile \"3 Rivières à la carte\" ! Cet outil numérique est soutenu par la Direction des affaires culturelles de Guadeloupe.",
       "level": "B1",
       "topic": "culture",
-      "summaryZh": "11月21–22日在法语语言城举办国际法语业余戏剧节，六支剧团演出，每场5欧元。",
-      "summaryEn": "On 21–22 Nov 2026 the International Francophone Amateur Theatre Festival hosts six troupes at 5 € per show.",
+      "summaryZh": "通过手机应用“3 Rivières à la carte”探索瓜德罗普特鲁瓦-里维耶尔市的文化遗产；该工具由瓜德罗普文化事务局支持。",
+      "summaryEn": "Discover the heritage of Trois-Rivières with the mobile app \"3 Rivières à la carte\", supported by Guadeloupe's Directorate of Cultural Affairs.",
       "vocab": [
         {
-          "fr": "une troupe",
-          "zh": "剧团",
-          "en": "a theatre troupe"
+          "fr": "le patrimoine",
+          "zh": "遗产",
+          "en": "heritage"
         },
         {
-          "fr": "accessible",
-          "zh": "平易近人的；价格可及的",
-          "en": "accessible / affordable"
+          "fr": "une commune",
+          "zh": "市镇",
+          "en": "a municipality"
         },
         {
-          "fr": "un spectacle",
-          "zh": "演出",
-          "en": "a show"
+          "fr": "une application mobile",
+          "zh": "手机应用",
+          "en": "a mobile app"
         },
         {
-          "fr": "amateur",
-          "zh": "业余的",
-          "en": "amateur"
+          "fr": "un outil numérique",
+          "zh": "数字工具",
+          "en": "a digital tool"
         }
       ],
       "question": {
-        "prompt": "Combien coûtent les spectacles du festival ?",
+        "prompt": "Qui soutient l'application ?",
         "choices": [
-          "Gratuit",
-          "5 euros",
-          "15 euros",
-          "50 euros"
+          "Une entreprise privée",
+          "La Direction des affaires culturelles de Guadeloupe",
+          "L'UNESCO",
+          "Une école"
         ],
         "answerIndex": 1,
-        "explanationZh": "原文写 5 €/spectacle。"
+        "explanationZh": "原文说 soutenu par la Direction des affaires culturelles de Guadeloupe。"
       }
     },
     {
-      "postId": "2118654881481310262",
-      "url": "https://x.com/LeTemps/status/2118654881481310262",
-      "author": "LeTemps",
-      "postedAt": "2026-11-06T10:41:01.000Z",
-      "excerpt": "Le Grand Conseil a privilégié une solution informatique pour traquer les abus. Un numéro officiel devra être attribué à chaque bien loué, permettant d'alerter les autorités dès le dépassement du seuil légal de 90 nuitées",
+      "postId": "2119039663914778960",
+      "url": "https://x.com/laBnF/status/2119039663914778960",
+      "author": "laBnF",
+      "postedAt": "2026-11-07T12:10:00.000Z",
+      "excerpt": "Du 16 novembre au 7 février 2027, des travaux vont être réalisés successivement dans les locaux internes desservant les banques de certaines salles de la Bibliothèque de recherche (site François-Mitterrand).",
       "level": "B2",
-      "topic": "logement",
-      "summaryZh": "日内瓦加强Airbnb监管：每套房源须有官方编号，超过法定90晚即警报，未新设监管机构。",
-      "summaryEn": "Geneva tightens Airbnb checks: each rental gets an official number that alerts authorities past the legal 90-night cap.",
+      "topic": "culture",
+      "summaryZh": "2026年11月16日至2027年2月7日，法国国家图书馆密特朗馆研究图书馆部分阅览室服务台的内部区域将陆续施工。",
+      "summaryEn": "From 16 November to 7 February 2027, works will take place in the internal areas serving desks of some reading rooms at the BnF research library.",
       "vocab": [
         {
-          "fr": "un bien loué",
-          "zh": "出租房产",
-          "en": "a rented property"
+          "fr": "des travaux",
+          "zh": "施工，工程",
+          "en": "works"
         },
         {
-          "fr": "le seuil",
-          "zh": "门槛，上限",
-          "en": "the threshold / cap"
+          "fr": "successivement",
+          "zh": "依次，陆续",
+          "en": "successively"
         },
         {
-          "fr": "une nuitée",
-          "zh": "过夜（一晚）",
-          "en": "an overnight stay"
+          "fr": "des locaux",
+          "zh": "场所，房间",
+          "en": "premises"
         },
         {
-          "fr": "traquer",
-          "zh": "追踪",
-          "en": "to track"
+          "fr": "desservir",
+          "zh": "为……服务",
+          "en": "to serve"
         }
       ],
       "question": {
-        "prompt": "Quel est le seuil légal de nuitées mentionné ?",
+        "prompt": "Jusqu'à quand dureront les travaux ?",
         "choices": [
-          "30",
-          "60",
-          "90",
-          "120"
+          "Jusqu'au 7 février 2027",
+          "Jusqu'au 16 novembre",
+          "Jusqu'au 31 décembre",
+          "Jusqu'en juin 2027"
         ],
-        "answerIndex": 2,
-        "explanationZh": "文中写 seuil légal de 90 nuitées。"
+        "answerIndex": 0,
+        "explanationZh": "原文说 Du 16 novembre au 7 février 2027，施工持续到2027年2月7日。"
       }
     },
     {
-      "postId": "2118632824966119433",
-      "url": "https://x.com/LeTemps/status/2118632824966119433",
-      "author": "LeTemps",
-      "postedAt": "2026-11-06T09:13:22.000Z",
-      "excerpt": "La formation commerciale initiale conserve sa position de premier des apprentissages du pays, malgré un certain recul. Quelles perspectives alors que l'intelligence artificielle permet d'automatiser toujours davantage de tâches administratives ?",
-      "level": "B2",
+      "postId": "2119011356741619989",
+      "url": "https://x.com/franceinfo/status/2119011356741619989",
+      "author": "franceinfo",
+      "postedAt": "2026-11-07T10:17:31.000Z",
+      "excerpt": "REPORTAGE. \"Il faut faire des choix financiers\" : au salon Paris pour l'emploi, la hausse du coût de la vie et le niveau du salaire au centre des préoccupations",
+      "level": "B1",
       "topic": "travail",
-      "summaryZh": "瑞士商业学徒仍是最热门学徒工种，尽管略有下降；面对AI自动化行政工作，前景引人关注。",
-      "summaryEn": "Switzerland's commercial apprenticeship remains the top training path despite a dip; AI automating admin work raises questions about its future.",
+      "summaryZh": "在巴黎招聘会上，求职者最关心的是生活成本上涨和工资水平：“必须在财务上做取舍”。",
+      "summaryEn": "At the Paris job fair, rising living costs and salary levels are the main concerns: \"You have to make financial choices.\"",
       "vocab": [
         {
-          "fr": "un apprentissage",
-          "zh": "学徒制",
-          "en": "an apprenticeship"
+          "fr": "un salon pour l'emploi",
+          "zh": "招聘会",
+          "en": "a job fair"
         },
         {
-          "fr": "automatiser",
-          "zh": "自动化",
-          "en": "to automate"
+          "fr": "le coût de la vie",
+          "zh": "生活成本",
+          "en": "the cost of living"
         },
         {
-          "fr": "une tâche administrative",
-          "zh": "行政工作",
-          "en": "an administrative task"
+          "fr": "le salaire",
+          "zh": "工资",
+          "en": "the salary"
         },
         {
-          "fr": "un recul",
-          "zh": "下降",
-          "en": "a decline"
+          "fr": "une préoccupation",
+          "zh": "担忧，关注点",
+          "en": "a concern"
         }
       ],
       "question": {
-        "prompt": "Quelle formation reste la plus prisée en Suisse ?",
+        "prompt": "Qu'est-ce qui préoccupe les visiteurs du salon ?",
         "choices": [
-          "L'informatique",
-          "La formation commerciale initiale",
-          "La médecine",
-          "Le droit"
-        ],
-        "answerIndex": 1,
-        "explanationZh": "文中写商业初始培训仍居学徒之首。"
-      }
-    },
-    {
-      "postId": "2118674947795046781",
-      "url": "https://x.com/Sciences_Avenir/status/2118674947795046781",
-      "author": "Sciences_Avenir",
-      "postedAt": "2026-11-06T12:00:45.000Z",
-      "excerpt": "Il y a 3200 ans, après s'être affrontés pendant des décennies, l'Égypte de Ramsès II conclut avec le royaume hittite le « traité de paix » de Qadesh, l'un des plus anciens au monde. On vient d'en retrouver un fragment en Turquie",
-      "level": "B2",
-      "topic": "culture",
-      "summaryZh": "约3200年前拉美西斯二世埃及与赫梯缔结卡迭石和约；土耳其发现该条约残片，是世界最古老和约之一。",
-      "summaryEn": "About 3200 years ago Egypt under Ramses II and the Hittites sealed the Qadesh peace treaty; a fragment was found in Turkey.",
-      "vocab": [
-        {
-          "fr": "un traité de paix",
-          "zh": "和平条约",
-          "en": "a peace treaty"
-        },
-        {
-          "fr": "un fragment",
-          "zh": "残片",
-          "en": "a fragment"
-        },
-        {
-          "fr": "un royaume",
-          "zh": "王国",
-          "en": "a kingdom"
-        },
-        {
-          "fr": "conclure",
-          "zh": "缔结",
-          "en": "to conclude (a treaty)"
-        }
-      ],
-      "question": {
-        "prompt": "Où a-t-on retrouvé un fragment du traité de Qadesh ?",
-        "choices": [
-          "En Égypte",
-          "En Turquie",
-          "En Grèce",
-          "En Italie"
-        ],
-        "answerIndex": 1,
-        "explanationZh": "原文：On vient d'en retrouver un fragment en Turquie。"
-      }
-    },
-    {
-      "postId": "2118418257581424925",
-      "url": "https://x.com/UNESCO_fr/status/2118418257581424925",
-      "author": "UNESCO_fr",
-      "postedAt": "2026-11-05T19:00:45.000Z",
-      "excerpt": "Parlée sous 17 dialectes et comptant environ 33 000 mots, la langue romani porte en elle l'histoire, les traditions et l'identité de millions de personnes. À l'occasion de la Journée mondiale de la langue romani, l'UNESCO met en lumière la richesse de la diversité linguistique et réaffirme son engagement en faveur de la préservation des langues",
-      "level": "B2",
-      "topic": "culture",
-      "summaryZh": "罗姆语约有17种方言、三万三千词；世界罗姆语日，教科文组织强调语言多样性与保护。",
-      "summaryEn": "Romani has some 17 dialects and ~33,000 words; on World Romani Language Day UNESCO highlights linguistic diversity and language preservation.",
-      "vocab": [
-        {
-          "fr": "un dialecte",
-          "zh": "方言",
-          "en": "a dialect"
-        },
-        {
-          "fr": "la préservation",
-          "zh": "保护",
-          "en": "preservation"
-        },
-        {
-          "fr": "la diversité linguistique",
-          "zh": "语言多样性",
-          "en": "linguistic diversity"
-        },
-        {
-          "fr": "l'identité",
-          "zh": "身份认同",
-          "en": "identity"
-        }
-      ],
-      "question": {
-        "prompt": "Combien de dialectes la langue romani compte-t-elle environ ?",
-        "choices": [
-          "7",
-          "17",
-          "70",
-          "170"
-        ],
-        "answerIndex": 1,
-        "explanationZh": "原文：Parlée sous 17 dialectes。"
-      }
-    },
-    {
-      "postId": "2118384231944712401",
-      "url": "https://x.com/OIFrancophonie/status/2118384231944712401",
-      "author": "OIFrancophonie",
-      "postedAt": "2026-11-05T16:45:33.000Z",
-      "excerpt": "À quelques jours du 20e Sommet de la Francophonie, découvrez « Destins francophones – 30 femmes au cœur de l'action », un ouvrage publié par l'OIF et les éditions Autrement. Entre portraits et récits engagés, ce beau livre illustré rend hommage à 30 femmes de 28 pays dont les parcours contribuent à la transformation de leurs sociétés",
-      "level": "B1",
-      "topic": "culture",
-      "summaryZh": "法语国家峰会前夕，OIF推出《法语世界命运》画册，致敬28国30位推动社会变革的女性。",
-      "summaryEn": "Ahead of the Francophonie Summit, OIF publishes an illustrated book honouring 30 women from 28 countries driving social change.",
-      "vocab": [
-        {
-          "fr": "un ouvrage",
-          "zh": "著作，书籍",
-          "en": "a work / book"
-        },
-        {
-          "fr": "rendre hommage",
-          "zh": "致敬",
-          "en": "to pay tribute"
-        },
-        {
-          "fr": "un parcours",
-          "zh": "经历",
-          "en": "a life path"
-        },
-        {
-          "fr": "la transformation",
-          "zh": "变革",
-          "en": "transformation"
-        }
-      ],
-      "question": {
-        "prompt": "Combien de femmes sont mises à l'honneur dans l'ouvrage ?",
-        "choices": [
-          "20",
-          "28",
-          "30",
-          "48"
+          "La météo",
+          "Les vacances",
+          "Le coût de la vie et le salaire",
+          "Le sport"
         ],
         "answerIndex": 2,
-        "explanationZh": "书名与正文写 30 femmes。"
+        "explanationZh": "原文说 la hausse du coût de la vie et le niveau du salaire au centre des préoccupations。"
       }
     },
     {
-      "postId": "2118434767091675643",
-      "url": "https://x.com/Sciences_Avenir/status/2118434767091675643",
-      "author": "Sciences_Avenir",
-      "postedAt": "2026-11-05T20:06:21.000Z",
-      "excerpt": "Le télescope Hubble a dévoilé des images intrigantes de Saturne. Son hémisphère Sud exhibe une onde atmosphérique en forme de décagone, plus de 40 ans après la découverte d'un hexagone au pôle Nord par les sondes Voyager",
-      "level": "B2",
-      "topic": "actualité",
-      "summaryZh": "哈勃拍到土星南半球十边形大气波；四十多年前旅行者号曾在北极发现六边形。",
-      "summaryEn": "Hubble shows a decagonal atmospheric wave at Saturn's south pole, over 40 years after Voyager found a hexagon at the north.",
-      "vocab": [
-        {
-          "fr": "un télescope",
-          "zh": "望远镜",
-          "en": "a telescope"
-        },
-        {
-          "fr": "un hémisphère",
-          "zh": "半球",
-          "en": "a hemisphere"
-        },
-        {
-          "fr": "une sonde",
-          "zh": "探测器",
-          "en": "a space probe"
-        },
-        {
-          "fr": "dévoiler",
-          "zh": "揭示",
-          "en": "to unveil"
-        }
-      ],
-      "question": {
-        "prompt": "Quelle forme a l'onde observée au pôle Sud de Saturne ?",
-        "choices": [
-          "Un cercle",
-          "Un hexagone",
-          "Un décagone",
-          "Un triangle"
-        ],
-        "answerIndex": 2,
-        "explanationZh": "南半球是 décagone（十边形）。"
-      }
-    },
-    {
-      "postId": "2118667298160738520",
-      "url": "https://x.com/franceinfo/status/2118667298160738520",
-      "author": "franceinfo",
-      "postedAt": "2026-11-06T11:30:21.000Z",
-      "excerpt": "Jamais un mois d'octobre n'avait été si chaud, annonce le laboratoire Copernicus, qui ajoute que 2026 sera probablement la 2e année la plus chaude",
-      "level": "B1",
-      "topic": "météo",
-      "summaryZh": "哥白尼观测所称今年10月是有记录以来最热的10月，并预计2026年可能是第二热的年份。",
-      "summaryEn": "Copernicus says October was the hottest on record and 2026 will likely be the second-hottest year.",
-      "vocab": [
-        {
-          "fr": "un laboratoire",
-          "zh": "实验室（观测机构）",
-          "en": "a laboratory / centre"
-        },
-        {
-          "fr": "probablement",
-          "zh": "很可能",
-          "en": "probably"
-        },
-        {
-          "fr": "chaud",
-          "zh": "热的",
-          "en": "hot"
-        },
-        {
-          "fr": "un record",
-          "zh": "纪录",
-          "en": "a record"
-        }
-      ],
-      "question": {
-        "prompt": "Selon Copernicus, 2026 sera probablement…",
-        "choices": [
-          "l'année la plus froide",
-          "la 2e année la plus chaude",
-          "une année sans été",
-          "identique à 2025"
-        ],
-        "answerIndex": 1,
-        "explanationZh": "原文：probablement la 2e année la plus chaude。"
-      }
-    },
-    {
-      "postId": "2118675442173677873",
-      "url": "https://x.com/franceinfo/status/2118675442173677873",
-      "author": "franceinfo",
-      "postedAt": "2026-11-06T12:02:43.000Z",
-      "excerpt": "Après deux ans d'attente le TGV nouvelle génération est enfin sur les rails. Plus spacieux, coloré, recyclable, les premiers voyageurs ont pu prendre place. À quoi ressemble-t-il ?",
+      "postId": "2118803650818482234",
+      "url": "https://x.com/LeDevoir/status/2118803650818482234",
+      "author": "LeDevoir",
+      "postedAt": "2026-11-06T20:32:10.000Z",
+      "excerpt": "L’identité numérique s’en vient pour les voyageurs, annonce aussi le budget",
       "level": "B1",
       "topic": "transport",
-      "summaryZh": "新一代TGV更宽敞、可回收、更省电；速度不变但多载约百人，头枕可调，巴黎—地中海干线已有少量列车运行。",
-      "summaryEn": "The next-gen TGV is roomier, recyclable and more efficient; speed unchanged but ~100 more seats; a few trains already run Paris–Mediterranean.",
+      "summaryZh": "加拿大联邦预算还宣布：面向旅客的数字身份即将推出。",
+      "summaryEn": "The budget also announces that a digital identity is coming for travellers.",
       "vocab": [
         {
-          "fr": "recyclable",
-          "zh": "可回收的",
-          "en": "recyclable"
+          "fr": "l'identité numérique",
+          "zh": "数字身份",
+          "en": "digital identity"
         },
         {
-          "fr": "un appui-tête",
-          "zh": "头枕",
-          "en": "a headrest"
+          "fr": "s'en venir",
+          "zh": "（魁北克用语）即将到来",
+          "en": "to be coming"
         },
         {
-          "fr": "le bilan carbone",
-          "zh": "碳足迹",
-          "en": "carbon footprint"
+          "fr": "un voyageur",
+          "zh": "旅客",
+          "en": "a traveller"
         },
         {
-          "fr": "emporter",
-          "zh": "运载",
-          "en": "to carry"
-        },
-        {
-          "fr": "une prise",
-          "zh": "插座",
-          "en": "a power socket"
+          "fr": "le budget",
+          "zh": "预算",
+          "en": "the budget"
         }
       ],
       "question": {
-        "prompt": "Combien de passagers en plus ce TGV peut-il emporter ?",
+        "prompt": "Pour qui l'identité numérique est-elle prévue ?",
         "choices": [
-          "Une dizaine",
-          "Une centaine",
-          "Un millier",
-          "Aucun"
+          "Pour les voyageurs",
+          "Pour les étudiants",
+          "Pour les agriculteurs",
+          "Pour les retraités"
         ],
-        "answerIndex": 1,
-        "explanationZh": "视频说「une centaine de plus」，即大约多载一百名乘客。"
+        "answerIndex": 0,
+        "explanationZh": "原文说 L'identité numérique s'en vient pour les voyageurs，面向旅客。"
       }
     },
     {
-      "postId": "2118674762050555963",
-      "url": "https://x.com/tv5mondeinfo/status/2118674762050555963",
-      "author": "tv5mondeinfo",
-      "postedAt": "2026-11-06T12:00:01.000Z",
-      "excerpt": "À Yaoundé, B-boy Oliver nous partage sa passion pour le breakdance. Fier de la culture camerounaise, il a intégré les sonorités locales comme le Makossa et le Bikutsi dans son art.",
-      "level": "B1",
-      "topic": "culture",
-      "summaryZh": "雅温得20岁B-boy Oliver把makossa、bikutsi等本土音乐融入霹雳舞，梦想入选奥运代表喀麦隆。",
-      "summaryEn": "In Yaoundé, 20-year-old B-boy Oliver blends makossa and bikutsi into breakdance and dreams of representing Cameroon at the Olympics.",
-      "vocab": [
-        {
-          "fr": "le breakdance",
-          "zh": "霹雳舞",
-          "en": "breakdance"
-        },
-        {
-          "fr": "valoriser",
-          "zh": "弘扬，突出",
-          "en": "to showcase"
-        },
-        {
-          "fr": "une discipline",
-          "zh": "（体育）项目",
-          "en": "a discipline"
-        },
-        {
-          "fr": "représenter",
-          "zh": "代表",
-          "en": "to represent"
-        },
-        {
-          "fr": "une sonorité",
-          "zh": "音色，曲风",
-          "en": "a sound / musical colour"
-        }
-      ],
-      "question": {
-        "prompt": "Quel âge a B-boy Oliver ?",
-        "choices": [
-          "15 ans",
-          "20 ans",
-          "25 ans",
-          "30 ans"
-        ],
-        "answerIndex": 1,
-        "explanationZh": "他说自己「âgé de 20 ans」。"
-      }
-    },
-    {
-      "postId": "2118584168250745105",
-      "url": "https://x.com/tv5mondeinfo/status/2118584168250745105",
-      "author": "tv5mondeinfo",
-      "postedAt": "2026-11-06T06:00:01.000Z",
-      "excerpt": "Il y a très longtemps, ces masques permettaient à de nombreux peuples africains de traverser des frontières. On les appelle masques passeports, mais connaissez-vous leur histoire ?",
+      "postId": "2118992135189922254",
+      "url": "https://x.com/franceinfo/status/2118992135189922254",
+      "author": "franceinfo",
+      "postedAt": "2026-11-07T09:01:08.000Z",
+      "excerpt": "Au large de Stockholm, une épave du XVe siècle exceptionnellement bien conservée, est en cours d'exploration. Des archéologues sous-marins l'étudient minutieusement pour en découvrir tous ses secrets.",
       "level": "B2",
       "topic": "culture",
-      "summaryZh": "西非“护照面具”曾用于标识身份与族群；木制微型面具或青铜小像伴随旅行，如今多成装饰品。",
-      "summaryEn": "West African “passport masks” once identified travellers’ communities; wooden miniatures or bronze figures, today often mere decor.",
+      "summaryZh": "斯德哥尔摩近海，考古学家研究一艘15世纪沉船“Vrak 5”，它比瓦萨号更古老，是瑞典发现的最古老战舰，采用平接造船法。",
+      "summaryEn": "Off Stockholm, archaeologists study Vrak 5, a 15th-century wreck older than the Vasa and Sweden's oldest known warship, built with the carvel technique.",
       "vocab": [
         {
-          "fr": "un masque passeport",
-          "zh": "护照面具",
-          "en": "a passport mask"
+          "fr": "une épave",
+          "zh": "沉船残骸",
+          "en": "a wreck"
         },
         {
-          "fr": "une scarification",
-          "zh": "疤痕纹饰",
-          "en": "scarification"
+          "fr": "un archéologue sous-marin",
+          "zh": "水下考古学家",
+          "en": "an underwater archaeologist"
         },
         {
-          "fr": "un sculpteur",
-          "zh": "雕刻师",
-          "en": "a sculptor"
+          "fr": "couler",
+          "zh": "沉没",
+          "en": "to sink"
         },
         {
-          "fr": "une tribu",
-          "zh": "部落",
-          "en": "a tribe"
+          "fr": "un voyage inaugural",
+          "zh": "首航",
+          "en": "a maiden voyage"
         },
         {
-          "fr": "le rang social",
-          "zh": "社会地位",
-          "en": "social rank"
+          "fr": "la coque",
+          "zh": "船体",
+          "en": "the hull"
+        },
+        {
+          "fr": "englouti",
+          "zh": "沉没的",
+          "en": "sunken"
         }
       ],
       "question": {
-        "prompt": "Où retrouvait-on principalement les masques passeports ?",
+        "prompt": "Que signifie « Vrak 5 » ?",
         "choices": [
-          "En Afrique de l'Est",
-          "En Afrique du Nord",
-          "En Afrique de l'Ouest",
-          "En Europe"
+          "Canon numéro 5",
+          "Île numéro 5",
+          "Épave numéro 5",
+          "Port numéro 5"
         ],
         "answerIndex": 2,
-        "explanationZh": "视频说「On les retrouvait principalement en Afrique de l'Ouest」。"
+        "explanationZh": "视频说「Vrak 5, qui veut dire épave numéro 5」，意为5号沉船。"
+      }
+    },
+    {
+      "postId": "2118962155257053366",
+      "url": "https://x.com/franceinfo/status/2118962155257053366",
+      "author": "franceinfo",
+      "postedAt": "2026-11-07T07:02:00.000Z",
+      "excerpt": "La Finlande offre un voyage tous frais payés aux célibataires en 2027 avec un dîner-rencontre surprise. Le pays propose également un contrat de nez, payé 2 000 euros, des idées originales pour faire parler de ce pays scandinave et attirer des touristes.",
+      "level": "B1",
+      "topic": "actualité",
+      "summaryZh": "芬兰图尔库群岛招聘“鼻子”：年满18岁者在岛上待一周描述气味，签短期合同，报酬2000欧元，以吸引游客。",
+      "summaryEn": "Finland's Turku archipelago is hiring a 'nose': anyone 18+ spends a week describing the islands' smells on a fixed-term contract paid 2,000 euros, to draw tourists.",
+      "vocab": [
+        {
+          "fr": "tout frais payés",
+          "zh": "全部费用报销",
+          "en": "all expenses paid"
+        },
+        {
+          "fr": "un coup de com'",
+          "zh": "营销噱头",
+          "en": "a publicity stunt"
+        },
+        {
+          "fr": "postuler",
+          "zh": "申请（职位）",
+          "en": "to apply"
+        },
+        {
+          "fr": "un CDD",
+          "zh": "定期劳动合同",
+          "en": "a fixed-term contract"
+        },
+        {
+          "fr": "renifler",
+          "zh": "闻，嗅",
+          "en": "to sniff"
+        }
+      ],
+      "question": {
+        "prompt": "Quel âge faut-il avoir pour postuler ?",
+        "choices": [
+          "18 ans",
+          "16 ans",
+          "21 ans",
+          "25 ans"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "视频说「Pour postuler, il faut avoir 18 ans」。"
+      }
+    },
+    {
+      "postId": "2118726096787022245",
+      "url": "https://x.com/OIFrancophonie/status/2118726096787022245",
+      "author": "OIFrancophonie",
+      "postedAt": "2026-11-06T15:24:00.000Z",
+      "excerpt": "Le Cambodge, pays hôte du 20e Sommet de la Francophonie, accueillera dans quelques jours la communauté francophone. Riche d’un patrimoine millénaire et porté par une jeunesse dynamique, le Royaume entend saisir cette occasion historique pour valoriser sa richesse culturelle, son potentiel d’innovation et son ouverture sur le monde.",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "柬埔寨宣传片：2026年11月14日至16日将在金边举办第20届法语国家峰会，展示吴哥遗产、年轻活力与对外开放。",
+      "summaryEn": "Cambodia's video: Phnom Penh hosts the 20th Francophonie Summit on 14–16 November 2026, highlighting Angkor's heritage, its youth and its openness.",
+      "vocab": [
+        {
+          "fr": "un sommet",
+          "zh": "峰会",
+          "en": "a summit"
+        },
+        {
+          "fr": "millénaire",
+          "zh": "千年的",
+          "en": "ancient, millennia-old"
+        },
+        {
+          "fr": "le patrimoine",
+          "zh": "遗产",
+          "en": "heritage"
+        },
+        {
+          "fr": "l'hospitalité",
+          "zh": "好客",
+          "en": "hospitality"
+        },
+        {
+          "fr": "accueillir",
+          "zh": "接待，举办",
+          "en": "to host"
+        }
+      ],
+      "question": {
+        "prompt": "Dans quelle ville se tiendra le 20e Sommet de la Francophonie ?",
+        "choices": [
+          "Siem Reap",
+          "Phnom Penh",
+          "Battambang",
+          "Paris"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "视频说「accueillir à Phnom Penh le 20e Sommet de la Francophonie」。"
+      }
+    },
+    {
+      "postId": "2118946554690011329",
+      "url": "https://x.com/tv5mondeinfo/status/2118946554690011329",
+      "author": "tv5mondeinfo",
+      "postedAt": "2026-11-07T06:00:01.000Z",
+      "excerpt": "Peut-on gagner sa vie en publiant des vidéos sur YouTube ? En France, en Allemagne, aux États-Unis, des créateurs de contenu y parviennent. Mais, paradoxalement, la grande majorité des pays d'Afrique ne sont pas éligibles à la monétisation. Justine Ryst, directrice générale de YouTube France, est l’invitée du nouvel épisode de Parlons Éco.",
+      "level": "B2",
+      "topic": "travail",
+      "summaryZh": "YouTube法国总经理解释：平台把55%收入分给频道主，收益随各国CPM不同；许多非洲国家因缺少合作协议仍无法变现。",
+      "summaryEn": "YouTube France's head explains creators get 55% of revenue, earnings vary with each market's CPM, and many African countries still can't monetise for lack of partnerships.",
+      "vocab": [
+        {
+          "fr": "gagner sa vie",
+          "zh": "谋生",
+          "en": "to earn a living"
+        },
+        {
+          "fr": "un abonné",
+          "zh": "订阅者",
+          "en": "a subscriber"
+        },
+        {
+          "fr": "la monétisation",
+          "zh": "变现",
+          "en": "monetisation"
+        },
+        {
+          "fr": "un palier",
+          "zh": "门槛，级别",
+          "en": "a threshold, tier"
+        },
+        {
+          "fr": "le chiffre d'affaires",
+          "zh": "营业额",
+          "en": "revenue, turnover"
+        },
+        {
+          "fr": "être rémunéré",
+          "zh": "获得报酬",
+          "en": "to be paid"
+        }
+      ],
+      "question": {
+        "prompt": "Quelle part du chiffre d'affaires YouTube reverse-t-il aux détenteurs de chaînes ?",
+        "choices": [
+          "25 %",
+          "40 %",
+          "50 %",
+          "55 %"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "她说「55 % du chiffre d'affaires de YouTube est reversé aux détenteurs de chaînes」。"
       }
     }
   ]
