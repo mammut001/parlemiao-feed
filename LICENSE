@@ -1,13 +1,87 @@
-Copyright (c) 2026 Dong Payton Pei. All rights reserved.
+# Licensing
 
-This repository and its contents are proprietary and confidential.
+This repository contains two distinct kinds of material, and they are licensed
+differently. Read this file before reusing anything here.
 
-No part of this repository may be copied, reproduced, modified, distributed,
-published, sublicensed, or used to create derivative works, in whole or in
-part, without the prior written permission of the copyright holder.
+## 1. Structure and tooling — MIT
 
-The software is provided "as is", without warranty of any kind, express or
-implied, including but not limited to the warranties of merchantability,
-fitness for a particular purpose and noninfringement. In no event shall the
-author be liable for any claim, damages or other liability arising from, out
-of or in connection with the software or its use.
+The following are released under the MIT licence (full text below):
+
+- this README, this licensing notice, and any other documentation written for
+  this repository;
+- the JSON schema and file conventions of the files under `daily/` — that is,
+  the shape of the data (field names, types, ordering rules, the
+  `daily/latest.json` plus `daily/YYYY-MM-DD.json` archive layout);
+- any scripts or configuration added to this repository.
+
+You may reuse that structure, schema and documentation freely, including
+commercially, provided the copyright notice below is retained.
+
+## 2. Feed content — third-party rights reserved
+
+The excerpts under `daily/` are **not** covered by the MIT licence and are
+**not** the copyright of the repository owner.
+
+Every item is a short quotation of a post published on X by a third party,
+stored together with a link to the original and machine-generated study
+material (translation summaries, vocabulary glosses, comprehension
+questions). The source accounts include, among others:
+
+- **Media:** RFI, Le Devoir, Radio-Canada Info, TV5 Monde Info, Le Temps,
+  franceinfo, RTBF Info, Les Echos, Le Journal de Montréal, TVA Nouvelles
+- **Government and international:** IRCC (`CitImmCanFR`), Statistics Canada
+  (`StatCan_fra`), United Nations (`ONUinfo`, `ONU_fr`), OIF
+  (`OIFrancophonie`), UNESCO (`UNESCO_fr`)
+- **Science and culture:** Sciences et Avenir, CNES, CEA, Ministère de la
+  Culture (`MinistereCC`), BnF (`laBnF`)
+
+Copyright in each quoted post remains with its author or publisher. The
+quotations are stored and redistributed here for language-study and
+commentary purposes, and each item links back to its source. **No licence is
+granted by this repository to reuse that third-party text for any other
+purpose.** If you want to republish, translate or build on the quoted content
+itself, you must clear that with the original rights holder.
+
+Government of Canada content is subject to the
+[Crown Copyright](https://www.canada.ca/en/transparency/terms.html) terms;
+material from Radio-Canada, RFI, TV5 Monde, Le Devoir, Le Temps and similar
+outlets is subject to each outlet's own terms of use.
+
+Machine-generated summaries, translations, glosses and questions in this
+repository were produced automatically and are offered under the same terms as
+the quoted text they accompany — they are study aids, not authoritative
+translations, and should not be relied on as legal or official renderings.
+
+## 3. Trademarks and attribution
+
+Account handles, publication names and logos referenced in the data remain the
+trademarks of their owners. Their appearance here is nominative: it identifies
+the source of a quotation and does not imply endorsement or affiliation.
+
+---
+
+## MIT License
+
+Copyright (c) 2026 Dong Payton Pei
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+The MIT grant above applies only to the structure, schema and documentation
+described in section 1. It does not extend to the third-party feed content
+described in section 2.

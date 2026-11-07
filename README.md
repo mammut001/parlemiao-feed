@@ -54,3 +54,18 @@ Text posts and video posts come from **one run**, started at about 07:00 Toronto
 | `question.explanationZh` | at most 120 characters |
 
 The backend validates every field again. Invalid items are dropped, and valid ones go live automatically.
+## Licensing
+
+Two different things live in this repository and they are licensed differently —
+see [LICENSE](LICENSE) for the full text.
+
+- **Structure, schema and documentation: MIT.** The JSON schema, file
+  conventions, layout rules and this README may be reused freely, including
+  commercially.
+- **Feed content: third-party rights reserved.** Every item under `daily/` quotes
+  a post published on X by a media outlet, a government body or an
+  international organisation. Copyright stays with the original publisher, each
+  item links back to its source, and this repository grants no right to reuse
+  that quoted text. Government of Canada material is under Crown Copyright.
+
+The MIT notice does not cover the quoted posts.
