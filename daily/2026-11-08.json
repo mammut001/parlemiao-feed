@@ -1,0 +1,696 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-08T12:25:53Z",
+  "items": [
+    {
+      "postId": "2119067449878270425",
+      "url": "https://x.com/CitImmCanFR/status/2119067449878270425",
+      "author": "CitImmCanFR",
+      "postedAt": "2026-11-07T14:00:25.000Z",
+      "excerpt": "Chaque année, le Canada dépose un plan des niveaux d'immigration décrivant les cibles d'admissions de résidents temporaires et permanents pour les trois années suivantes. Il s'articule autour de trois priorités : maintenir le contrôle du système d'immigration en fixant un objectif de 370 000 nouveaux arrivants ayant le statut de résident temporaire et de 380 000 admissions de résidents permanents pour chacune des trois prochaines années.",
+      "level": "B2",
+      "topic": "immigration",
+      "summaryZh": "加拿大公布2027–2029移民水平计划：每年约37万临时居民和38万永久居民录取名额。",
+      "summaryEn": "Canada released its 2027–2029 immigration levels plan, targeting 370,000 temporary residents and 380,000 permanent residents each year.",
+      "vocab": [
+        {
+          "fr": "un plan des niveaux d'immigration",
+          "zh": "移民水平计划",
+          "en": "an immigration levels plan"
+        },
+        {
+          "fr": "un résident permanent",
+          "zh": "永久居民",
+          "en": "a permanent resident"
+        },
+        {
+          "fr": "un résident temporaire",
+          "zh": "临时居民",
+          "en": "a temporary resident"
+        },
+        {
+          "fr": "une admission",
+          "zh": "录取，接收",
+          "en": "an admission"
+        },
+        {
+          "fr": "un nouvel arrivant",
+          "zh": "新移民，新来者",
+          "en": "a newcomer"
+        }
+      ],
+      "question": {
+        "prompt": "Quels objectifs annuels le plan 2027-2029 fixe-t-il pour les trois prochaines années ?",
+        "choices": [
+          "370 000 résidents temporaires et 380 000 résidents permanents",
+          "500 000 résidents permanents seulement",
+          "200 000 travailleurs étrangers temporaires",
+          "Aucune cible chiffrée n'est indiquée"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "计划写明每年37万临时居民和38万永久居民录取目标。"
+      }
+    },
+    {
+      "postId": "2118765511060197797",
+      "url": "https://x.com/CitImmCanFR/status/2118765511060197797",
+      "author": "CitImmCanFR",
+      "postedAt": "2026-11-06T18:00:37.000Z",
+      "excerpt": "Nous mettons en place une nouvelle mesure à durée déterminée qui soutiendra les efforts visant à réformer le système d'immigration. Cette mesure aidera jusqu'à 200 000 personnes résidant déjà au Canada à obtenir la résidence permanente dans le cadre de deux catégories : une catégorie de travailleurs et une catégorie humanitaire.",
+      "level": "B2",
+      "topic": "immigration",
+      "summaryZh": "加拿大推出一项定期措施，帮助最多20万名已在境内的人通过工人或人道主义类别获得永居。",
+      "summaryEn": "Canada is introducing a time-limited measure to help up to 200,000 people already in the country obtain permanent residence, via a worker stream and a humanitarian stream.",
+      "vocab": [
+        {
+          "fr": "la résidence permanente",
+          "zh": "永久居留",
+          "en": "permanent residence"
+        },
+        {
+          "fr": "une mesure à durée déterminée",
+          "zh": "有期限的措施",
+          "en": "a time-limited measure"
+        },
+        {
+          "fr": "une catégorie humanitaire",
+          "zh": "人道主义类别",
+          "en": "a humanitarian category"
+        },
+        {
+          "fr": "un employeur",
+          "zh": "雇主",
+          "en": "an employer"
+        }
+      ],
+      "question": {
+        "prompt": "Combien de personnes déjà au Canada cette mesure pourra-t-elle aider à obtenir la résidence permanente ?",
+        "choices": [
+          "Jusqu'à 20 000",
+          "Jusqu'à 100 000",
+          "Jusqu'à 200 000",
+          "Jusqu'à 370 000"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文写明最多帮助20万人（jusqu'à 200 000 personnes）获得永久居民身份。"
+      }
+    },
+    {
+      "postId": "2119173103385264220",
+      "url": "https://x.com/CitImmCanFR/status/2119173103385264220",
+      "author": "CitImmCanFR",
+      "postedAt": "2026-11-07T21:00:14.000Z",
+      "excerpt": "Nous recrutons des travailleurs d'expression française hautement qualifiés de partout au Canada ayant de l'expérience de travail dans des professions prioritaires, afin de renforcer notre effectif et de contribuer à la prospérité économique du Canada. Si vous avez la formation, les titres de compétences et l'expérience que nous recherchons, découvrez nos voies d'accès à l'immigration et construisez votre avenir au Canada :",
+      "level": "B1",
+      "topic": "immigration",
+      "summaryZh": "加拿大正在招募有优先职业经验的法语高技能工作者，并介绍相关移民途径。",
+      "summaryEn": "Canada is recruiting highly skilled French-speaking workers with experience in priority occupations, and points them to immigration pathways.",
+      "vocab": [
+        {
+          "fr": "un travailleur d'expression française",
+          "zh": "法语工作者",
+          "en": "a French-speaking worker"
+        },
+        {
+          "fr": "hautement qualifié",
+          "zh": "高技能的",
+          "en": "highly skilled"
+        },
+        {
+          "fr": "une profession prioritaire",
+          "zh": "优先职业",
+          "en": "a priority occupation"
+        },
+        {
+          "fr": "un titre de compétence",
+          "zh": "资质，文凭",
+          "en": "a qualification"
+        }
+      ],
+      "question": {
+        "prompt": "Quel type de travailleurs le Canada dit-il recruter dans ce message ?",
+        "choices": [
+          "Des travailleurs d'expression française hautement qualifiés",
+          "Uniquement des travailleurs saisonniers agricoles",
+          "Des retraités sans expérience professionnelle",
+          "Des étudiants sans diplôme"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "帖子写明招募有优先职业经验的法语高技能工作者。"
+      }
+    },
+    {
+      "postId": "2119384455978647713",
+      "url": "https://x.com/MinistereCC/status/2119384455978647713",
+      "author": "MinistereCC",
+      "postedAt": "2026-11-08T11:00:05.000Z",
+      "excerpt": "À l'occasion du centième anniversaire de la mort de Mary Cassatt, le musée d'Orsay se penche sur une artiste qui se forgea une identité unique de part et d'autre de l'Atlantique, et qui fut un pilier du groupe impressionniste.",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "为纪念玛丽·卡萨特逝世一百周年，奥赛博物馆回顾这位横跨大西洋、印象派团体中的重要艺术家。",
+      "summaryEn": "For the hundredth anniversary of Mary Cassatt's death, the Musée d'Orsay looks at an artist who built a unique identity on both sides of the Atlantic and was a pillar of the Impressionists.",
+      "vocab": [
+        {
+          "fr": "le musée d'Orsay",
+          "zh": "奥赛博物馆",
+          "en": "the Musée d'Orsay"
+        },
+        {
+          "fr": "un pilier",
+          "zh": "支柱，中坚",
+          "en": "a pillar"
+        },
+        {
+          "fr": "l'impressionnisme",
+          "zh": "印象派",
+          "en": "Impressionism"
+        },
+        {
+          "fr": "se forger une identité",
+          "zh": "塑造一种身份",
+          "en": "to forge an identity"
+        }
+      ],
+      "question": {
+        "prompt": "Quel musée consacre une attention particulière à Mary Cassatt pour le centième anniversaire de sa mort ?",
+        "choices": [
+          "Le Louvre",
+          "Le musée d'Orsay",
+          "Le Centre Pompidou",
+          "Le musée Rodin"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文写的是奥赛博物馆（le musée d'Orsay）在回顾这位艺术家。"
+      }
+    },
+    {
+      "postId": "2119295348011049371",
+      "url": "https://x.com/ONU_fr/status/2119295348011049371",
+      "author": "ONU_fr",
+      "postedAt": "2026-11-08T05:06:00.000Z",
+      "excerpt": "Diwali est célébrée par de nombreuses communautés en Inde et dans le monde. Des lampes à huile sont allumées, symbole d'espoir & du triomphe de la connaissance sur l'ignorance et du bien sur le mal. Nous souhaitons un joyeux Diwali à toutes celles & ceux qui le célèbrent !",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "联合国法语账号祝贺排灯节：人们点起油灯，象征希望以及知识战胜无知、善良战胜邪恶。",
+      "summaryEn": "The UN French account wishes a happy Diwali: oil lamps are lit as symbols of hope and of knowledge triumphing over ignorance, good over evil.",
+      "vocab": [
+        {
+          "fr": "une lampe à huile",
+          "zh": "油灯",
+          "en": "an oil lamp"
+        },
+        {
+          "fr": "un symbole",
+          "zh": "象征",
+          "en": "a symbol"
+        },
+        {
+          "fr": "le triomphe",
+          "zh": "胜利",
+          "en": "triumph"
+        },
+        {
+          "fr": "l'ignorance",
+          "zh": "无知",
+          "en": "ignorance"
+        }
+      ],
+      "question": {
+        "prompt": "Que symbolisent les lampes à huile allumées pour Diwali, selon ce message ?",
+        "choices": [
+          "La fin de l'année scolaire",
+          "L'espoir et le triomphe de la connaissance sur l'ignorance",
+          "Une interdiction des fêtes religieuses",
+          "Un appel à éteindre toutes les lumières"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文写油灯象征希望，以及知识战胜无知、善良战胜邪恶。"
+      }
+    },
+    {
+      "postId": "2119400793463791624",
+      "url": "https://x.com/ONU_fr/status/2119400793463791624",
+      "author": "ONU_fr",
+      "postedAt": "2026-11-08T12:05:00.000Z",
+      "excerpt": "Les femmes n'occupent que 30 % des postes de direction à l'échelle mondiale, pourtant toute entreprise repose sur le talent. Un nouveau rapport de l'@OITinfo appelle à des initiatives plus rigoureuses pour l'égalité entre les sexes au travail.",
+      "level": "B1",
+      "topic": "travail",
+      "summaryZh": "全球女性仅占领导职位的30%。国际劳工组织新报告呼吁采取更有力的职场性别平等行动。",
+      "summaryEn": "Women hold only 30% of leadership posts worldwide. A new ILO report calls for stronger action on gender equality at work.",
+      "vocab": [
+        {
+          "fr": "un poste de direction",
+          "zh": "领导职位",
+          "en": "a leadership position"
+        },
+        {
+          "fr": "l'égalité entre les sexes",
+          "zh": "性别平等",
+          "en": "gender equality"
+        },
+        {
+          "fr": "à l'échelle mondiale",
+          "zh": "在全球范围内",
+          "en": "worldwide"
+        },
+        {
+          "fr": "une initiative",
+          "zh": "举措，行动",
+          "en": "an initiative"
+        }
+      ],
+      "question": {
+        "prompt": "Quelle part des postes de direction les femmes occupent-elles dans le monde, selon ce message ?",
+        "choices": [
+          "10 %",
+          "30 %",
+          "50 %",
+          "70 %"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文写明女性只占全球领导职位的30%。"
+      }
+    },
+    {
+      "postId": "2119100507260321837",
+      "url": "https://x.com/Sciences_Avenir/status/2119100507260321837",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-07T16:11:46.000Z",
+      "excerpt": "Mercure, la plus petite planète du Système, a été repérée pour la première fois par Pierre Gassendi le 7 novembre 1631, il y a 395 ans. À peine plus grosse que la Lune, elle a rétréci il y a plusieurs milliards d'années… et continuerait à le faire !",
+      "level": "B2",
+      "topic": "actualité",
+      "summaryZh": "395年前的11月7日，皮埃尔·伽桑狄首次观测到水星。这颗比月球略大的行星数十亿年前开始收缩，而且可能仍在缩小。",
+      "summaryEn": "395 years ago, on 7 November 1631, Pierre Gassendi first observed Mercury. Barely bigger than the Moon, it shrank billions of years ago and may still be shrinking.",
+      "vocab": [
+        {
+          "fr": "une planète",
+          "zh": "行星",
+          "en": "a planet"
+        },
+        {
+          "fr": "repérer",
+          "zh": "发现，观测到",
+          "en": "to spot"
+        },
+        {
+          "fr": "rétrécir",
+          "zh": "缩小",
+          "en": "to shrink"
+        },
+        {
+          "fr": "le Système (solaire)",
+          "zh": "太阳系",
+          "en": "the (solar) system"
+        }
+      ],
+      "question": {
+        "prompt": "Qui a observé Mercure pour la première fois, le 7 novembre 1631 ?",
+        "choices": [
+          "Galilée",
+          "Pierre Gassendi",
+          "Isaac Newton",
+          "Copernic"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "帖子写明皮埃尔·伽桑狄（Pierre Gassendi）在1631年11月7日首次观测到水星。"
+      }
+    },
+    {
+      "postId": "2119350259294019602",
+      "url": "https://x.com/Sciences_Avenir/status/2119350259294019602",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-08T08:44:12.000Z",
+      "excerpt": "Thérapies ciblées, intelligence artificielle, dépistage… À la tête du premier centre de lutte contre le cancer d'Europe, le Pr Fabrice Barlesi présente les avancées qui doivent permettre de guérir 80 % des patients d'ici à 2040.",
+      "level": "B1",
+      "topic": "santé",
+      "summaryZh": "欧洲最大抗癌中心负责人巴尔莱西教授介绍靶向治疗、人工智能和筛查等进展，目标是到2040年治愈80%的患者。",
+      "summaryEn": "Professor Fabrice Barlesi, who heads Europe's leading cancer centre, outlines advances in targeted therapies, AI and screening that could cure 80% of patients by 2040.",
+      "vocab": [
+        {
+          "fr": "une thérapie ciblée",
+          "zh": "靶向治疗",
+          "en": "a targeted therapy"
+        },
+        {
+          "fr": "le dépistage",
+          "zh": "筛查",
+          "en": "screening"
+        },
+        {
+          "fr": "guérir",
+          "zh": "治愈",
+          "en": "to cure"
+        },
+        {
+          "fr": "un patient",
+          "zh": "患者",
+          "en": "a patient"
+        }
+      ],
+      "question": {
+        "prompt": "Quel objectif de guérison le Pr Barlesi présente-t-il pour 2040 ?",
+        "choices": [
+          "Guérir 50 % des patients",
+          "Guérir 80 % des patients",
+          "Éradiquer tous les cancers dès 2030",
+          "Remplacer tous les traitements par l'IA"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文说这些进展应能在2040年前治愈80%的患者。"
+      }
+    },
+    {
+      "postId": "2119067425031266572",
+      "url": "https://x.com/Sciences_Avenir/status/2119067425031266572",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-07T14:00:19.000Z",
+      "excerpt": "Pendant longtemps, la science a tenté de définir un âge d'or universel de nos facultés cognitives. Mais des recherches de 2025 dessinent un paysage bien plus nuancé : il n'existe pas un pic global, mais plusieurs sommets.",
+      "level": "B2",
+      "topic": "santé",
+      "summaryZh": "2025年的研究显示，认知能力并没有一个统一的黄金年龄，而是有多个高峰。",
+      "summaryEn": "2025 research suggests there is no single golden age for our cognitive abilities, but several different peaks instead.",
+      "vocab": [
+        {
+          "fr": "les facultés cognitives",
+          "zh": "认知能力",
+          "en": "cognitive abilities"
+        },
+        {
+          "fr": "un âge d'or",
+          "zh": "黄金时代",
+          "en": "a golden age"
+        },
+        {
+          "fr": "nuancé",
+          "zh": "细致的，有层次的",
+          "en": "nuanced"
+        },
+        {
+          "fr": "un pic",
+          "zh": "高峰",
+          "en": "a peak"
+        }
+      ],
+      "question": {
+        "prompt": "Que concluent les recherches de 2025 sur les facultés cognitives ?",
+        "choices": [
+          "Il n'existe pas un pic global, mais plusieurs sommets",
+          "Toutes nos facultés atteignent leur maximum à 25 ans",
+          "Les facultés cognitives ne changent jamais",
+          "Il existe un âge d'or unique pour tout le monde"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "研究描绘的是更细的图景：不存在一个总高峰，而是有多个高峰。"
+      }
+    },
+    {
+      "postId": "2119356833416593891",
+      "url": "https://x.com/franceinfo/status/2119356833416593891",
+      "author": "franceinfo",
+      "postedAt": "2026-11-08T09:10:19.000Z",
+      "excerpt": "Le skippeur de SVR-Lazartigue a rallié Pointe-à-Pitre, en Guadeloupe, dans la nuit du samedi 7 au dimanche 8 novembre, à 3h34 heure de Paris. Le navigateur de 29 ans bat d'environ 6 heures le précédent record de la course, qui appartenait à Charles Caudrelier et datait de 2022.",
+      "level": "B1",
+      "topic": "actualité",
+      "summaryZh": "SVR-Lazartigue的29岁帆船手于巴黎时间11月8日凌晨3点34分抵达瓜德罗普的皮特尔角城，比2022年科德雷利耶的纪录快约6小时。",
+      "summaryEn": "The 29-year-old skipper of SVR-Lazartigue reached Pointe-à-Pitre, Guadeloupe, at 3:34 a.m. Paris time, beating Charles Caudrelier's 2022 race record by about six hours.",
+      "vocab": [
+        {
+          "fr": "un skippeur",
+          "zh": "帆船手，船长",
+          "en": "a skipper"
+        },
+        {
+          "fr": "rallier",
+          "zh": "抵达",
+          "en": "to reach"
+        },
+        {
+          "fr": "un record",
+          "zh": "纪录",
+          "en": "a record"
+        },
+        {
+          "fr": "un navigateur",
+          "zh": "航海者",
+          "en": "a sailor"
+        }
+      ],
+      "question": {
+        "prompt": "De combien le skippeur de SVR-Lazartigue a-t-il battu le record de Charles Caudrelier ?",
+        "choices": [
+          "D'environ 6 minutes",
+          "D'environ 6 heures",
+          "D'un jour entier",
+          "Il n'a pas battu le record"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文写他比2022年科德雷利耶的纪录快了大约6小时。"
+      }
+    },
+    {
+      "postId": "2119369767526015262",
+      "url": "https://x.com/franceinfo/status/2119369767526015262",
+      "author": "franceinfo",
+      "postedAt": "2026-11-08T10:01:43.000Z",
+      "excerpt": "Un vaccin thérapeutique à base d'ARN messager a montré de très bon résultats contre le mélanome. Un succès salué comme une potentielle \"révolution\" dans les traitements contre le cancer.",
+      "level": "B2",
+      "topic": "santé",
+      "summaryZh": "一种个性化mRNA治疗性疫苗联合免疫疗法，把已手术黑色素瘤的复发或死亡风险降低近一半。",
+      "summaryEn": "A personalised mRNA therapeutic vaccine, added to immunotherapy, cut the risk of melanoma recurrence or death after surgery by nearly half.",
+      "vocab": [
+        {
+          "fr": "un vaccin thérapeutique",
+          "zh": "治疗性疫苗",
+          "en": "a therapeutic vaccine"
+        },
+        {
+          "fr": "l'ARN messager",
+          "zh": "信使核糖核酸（mRNA）",
+          "en": "messenger RNA"
+        },
+        {
+          "fr": "un mélanome",
+          "zh": "黑色素瘤",
+          "en": "a melanoma"
+        },
+        {
+          "fr": "une récidive",
+          "zh": "复发",
+          "en": "a recurrence"
+        },
+        {
+          "fr": "l'immunothérapie",
+          "zh": "免疫疗法",
+          "en": "immunotherapy"
+        }
+      ],
+      "question": {
+        "prompt": "De combien le vaccin à ARN messager a-t-il réduit le risque de récidive ou de décès après un mélanome opéré ?",
+        "choices": [
+          "D'environ 10 %",
+          "D'environ 25 %",
+          "De près de moitié",
+          "Il l'a légèrement augmenté"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "视频说该疫苗把复发或死亡风险降低了近一半（de près de moitié）。"
+      }
+    },
+    {
+      "postId": "2119147950257430557",
+      "url": "https://x.com/tv5mondeinfo/status/2119147950257430557",
+      "author": "tv5mondeinfo",
+      "postedAt": "2026-11-07T19:20:17.000Z",
+      "excerpt": "C’est une première au Royaume-Uni : des millions d’archives concernant les personnes réduites en esclavage dans les anciennes colonies britanniques sont désormais accessibles sur Internet. Une ressource historique majeure qui doit notamment permettre à leurs descendants de retracer leur histoire familiale, parfois près de deux siècles plus tard.",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "英国殖民时期奴隶制档案现已上网。保罗寻根30年，数字化登记簿让他五分钟找到缺失线索。",
+      "summaryEn": "Millions of British colonial slavery records are now online. After 30 years of research, digitised registers let Paul find a missing family clue in five minutes.",
+      "vocab": [
+        {
+          "fr": "un arbre généalogique",
+          "zh": "家谱，族谱",
+          "en": "a family tree"
+        },
+        {
+          "fr": "les archives",
+          "zh": "档案",
+          "en": "the archives"
+        },
+        {
+          "fr": "la numérisation",
+          "zh": "数字化",
+          "en": "digitisation"
+        },
+        {
+          "fr": "un ancêtre",
+          "zh": "祖先",
+          "en": "an ancestor"
+        },
+        {
+          "fr": "retracer",
+          "zh": "追溯，探寻",
+          "en": "to trace back"
+        }
+      ],
+      "question": {
+        "prompt": "Combien de temps Paul Crookes cherchait-il l'information qu'il a trouvée en cinq minutes ?",
+        "choices": [
+          "Trente ans",
+          "Cinq ans",
+          "Dix ans",
+          "Deux siècles"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "他重复说找了30年（depuis 30 ans），五分钟就找到了。"
+      }
+    },
+    {
+      "postId": "2119229328412017127",
+      "url": "https://x.com/RFI/status/2119229328412017127",
+      "author": "RFI",
+      "postedAt": "2026-11-08T00:43:39.000Z",
+      "excerpt": "Basket 3x3 féminin, futsal masculin, les sports collectifs sénégalais étaient sur le pont ce samedi 7 novembre. Avec plus ou moins de réussite, mais toujours soutenus jusqu'au bout par ses très nombreux supporters.",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "达喀尔青奥会：塞内加尔女篮3x3战胜法国，气氛热烈；男足五人制小组赛失利，未能完美收官。",
+      "summaryEn": "At the Dakar Youth Olympics, Senegal's women beat France in 3x3 basketball in a lively atmosphere, but the men's futsal side lost its group-stage match.",
+      "vocab": [
+        {
+          "fr": "un supporter",
+          "zh": "球迷，支持者",
+          "en": "a supporter"
+        },
+        {
+          "fr": "l'ambiance",
+          "zh": "气氛",
+          "en": "the atmosphere"
+        },
+        {
+          "fr": "s'incliner",
+          "zh": "落败，认输",
+          "en": "to be defeated"
+        },
+        {
+          "fr": "une phase de poule",
+          "zh": "小组赛阶段",
+          "en": "a group stage"
+        },
+        {
+          "fr": "le futsal",
+          "zh": "五人制足球",
+          "en": "futsal"
+        }
+      ],
+      "question": {
+        "prompt": "Contre quelle équipe les Lionnes sénégalaises ont-elles gagné en basket 3x3 ?",
+        "choices": [
+          "le Brésil",
+          "l'Allemagne",
+          "l'Espagne",
+          "la France"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "视频说女狮队在三人篮球中战胜了法国（face à la France）。"
+      }
+    },
+    {
+      "postId": "2118741844687298844",
+      "url": "https://x.com/LeTemps/status/2118741844687298844",
+      "author": "LeTemps",
+      "postedAt": "2026-11-06T16:26:34.000Z",
+      "excerpt": "Il a beau fondre comme le reste des Alpes, le Cervin est si beau qu'il rejoint la liste des sites les plus remarquables du patrimoine géologique mondial de l’Unesco. On vous explique les opportunités et les contraintes que cela représente pour la Suisse",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "马特洪峰入选联合国教科文组织世界地质遗产名录。入选既带来游客，也要求泽尔马特加以保护。",
+      "summaryEn": "The Matterhorn has joined UNESCO's world geological heritage list of 300 sites. Listing brings pride and visitors, but also a duty to protect the mountain.",
+      "vocab": [
+        {
+          "fr": "le patrimoine",
+          "zh": "遗产",
+          "en": "heritage"
+        },
+        {
+          "fr": "une nuitée",
+          "zh": "过夜人次",
+          "en": "an overnight stay"
+        },
+        {
+          "fr": "une ascension",
+          "zh": "攀登",
+          "en": "an ascent"
+        },
+        {
+          "fr": "déclasser",
+          "zh": "降级，除名",
+          "en": "to downgrade"
+        },
+        {
+          "fr": "un emblème",
+          "zh": "象征，标志",
+          "en": "an emblem"
+        }
+      ],
+      "question": {
+        "prompt": "Combien de nuitées Zermatt a-t-elle comptabilisées durant l'exercice 2024-2025 ?",
+        "choices": [
+          "1,26 million",
+          "2,56 millions",
+          "3,56 millions",
+          "256 000"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "视频说泽尔马特在2024-2025年度录得256万过夜人次。"
+      }
+    },
+    {
+      "postId": "2119158122040168710",
+      "url": "https://x.com/franceinfo/status/2119158122040168710",
+      "author": "franceinfo",
+      "postedAt": "2026-11-07T20:00:43.000Z",
+      "excerpt": "Pour un reportage en pleine mer sur une plateforme gazière, notre journaliste a dû passer le HUET : un exercice obligatoire de survie dans une réplique d'hélicoptère. On te plonge dans une piscine, on retourne la cabine et tu dois t’échapper.",
+      "level": "B1",
+      "topic": "actualité",
+      "summaryZh": "记者为报道尼日利亚海上天然气平台，在泳池里完成直升机水下逃生训练，通过后才获准登机。",
+      "summaryEn": "To report from an offshore gas platform in Nigeria, a journalist must pass HUET training: a helicopter mock-up in a pool flips over and trainees escape.",
+      "vocab": [
+        {
+          "fr": "une plateforme gazière",
+          "zh": "天然气海上平台",
+          "en": "a gas platform"
+        },
+        {
+          "fr": "s'extraire",
+          "zh": "自行脱离，逃出",
+          "en": "to extract oneself"
+        },
+        {
+          "fr": "un crash",
+          "zh": "坠毁",
+          "en": "a crash"
+        },
+        {
+          "fr": "désorienté",
+          "zh": "迷失方向的",
+          "en": "disoriented"
+        },
+        {
+          "fr": "une formation",
+          "zh": "培训，训练",
+          "en": "a training course"
+        }
+      ],
+      "question": {
+        "prompt": "Que simule la machine placée dans la piscine ?",
+        "choices": [
+          "Un incendie en mer",
+          "Un crash d'hélicoptère",
+          "Une tempête sur la plateforme",
+          "Une fuite de gaz"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "记者说泳池里的机器将模拟一次直升机坠毁（simuler un crash d'hélicoptère）。"
+      }
+    }
+  ]
+}
