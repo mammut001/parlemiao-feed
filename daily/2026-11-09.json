@@ -1,0 +1,662 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-09T12:27:04Z",
+  "items": [
+    {
+      "postId": "2119746849133228327",
+      "url": "https://x.com/MinistereCC/status/2119746849133228327",
+      "author": "MinistereCC",
+      "postedAt": "2026-11-09T11:00:06Z",
+      "excerpt": "Idée de sortie | Les 21 et 22 novembre 2026, les 22 Fonds régionaux d’art contemporain (Frac) ouvriront grand leurs portes à l’occasion de la 10e édition du Week-end des Frac (WEFRAC) ! Festif, gratuit et accessible à tous les publics.",
+      "level": "A2",
+      "topic": "culture",
+      "summaryZh": "2026年11月21日至22日，法国22个地区当代艺术基金会（Frac）将举办第10届“Frac周末”开放活动，免费且面向所有公众。",
+      "summaryEn": "On 21–22 November 2026, France's 22 regional contemporary art funds (Frac) open their doors for the 10th Frac Weekend: festive, free and open to all.",
+      "vocab": [
+        {
+          "fr": "ouvrir ses portes",
+          "zh": "开放，敞开大门",
+          "en": "to open its doors"
+        },
+        {
+          "fr": "une édition",
+          "zh": "（活动的）届",
+          "en": "an edition"
+        },
+        {
+          "fr": "gratuit",
+          "zh": "免费的",
+          "en": "free of charge"
+        },
+        {
+          "fr": "accessible à tous",
+          "zh": "人人可参加",
+          "en": "open to everyone"
+        }
+      ],
+      "question": {
+        "prompt": "Combien coûte l'entrée au Week-end des Frac ?",
+        "choices": [
+          "10 euros",
+          "22 euros",
+          "Seulement pour les abonnés",
+          "C'est gratuit"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "原文写 Festif, gratuit et accessible à tous les publics，即免费。"
+      }
+    },
+    {
+      "postId": "2119733339515175049",
+      "url": "https://x.com/Sciences_Avenir/status/2119733339515175049",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-09T10:06:25Z",
+      "excerpt": "S'occuper de ses petits-enfants ne serait pas qu'un plaisir familial, mais également un atout pour mieux vieillir. Des études ont mis en évidence ses effets protecteurs sur la cognition, le corps et le lien social.",
+      "level": "B1",
+      "topic": "santé",
+      "summaryZh": "研究表明，照顾孙辈不仅是家庭乐趣，还有助于老年人更好地变老，对认知、身体和社交联系都有保护作用。",
+      "summaryEn": "Looking after grandchildren may help people age better: studies show protective effects on cognition, the body and social ties.",
+      "vocab": [
+        {
+          "fr": "les petits-enfants",
+          "zh": "孙辈",
+          "en": "grandchildren"
+        },
+        {
+          "fr": "vieillir",
+          "zh": "变老",
+          "en": "to age, grow old"
+        },
+        {
+          "fr": "un atout",
+          "zh": "优势",
+          "en": "an asset"
+        },
+        {
+          "fr": "le lien social",
+          "zh": "社会联系",
+          "en": "social ties"
+        }
+      ],
+      "question": {
+        "prompt": "Selon le post, s'occuper de ses petits-enfants…",
+        "choices": [
+          "fatigue surtout le corps",
+          "aide à mieux vieillir",
+          "est déconseillé par les médecins",
+          "n'a aucun effet mesuré"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文说这是 un atout pour mieux vieillir，有助于更好地变老。"
+      }
+    },
+    {
+      "postId": "2119550650795303186",
+      "url": "https://x.com/Sciences_Avenir/status/2119550650795303186",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-08T22:00:29Z",
+      "excerpt": "La Lune ne se contente pas d'éclairer nos nuits : elle joue un rôle essentiel dans l'équilibre de la Terre. Sans elle, l'axe de rotation de notre planète deviendrait beaucoup plus instable, bouleversant le rythme des saisons. Notre article de cet été.",
+      "level": "B2",
+      "topic": "actualité",
+      "summaryZh": "月球不仅照亮夜空，还对地球的平衡至关重要。没有月球，地球自转轴会变得更不稳定，打乱四季节律。",
+      "summaryEn": "The Moon does more than light our nights: it stabilises Earth. Without it, the planet's rotation axis would be far less stable, upsetting the seasons.",
+      "vocab": [
+        {
+          "fr": "se contenter de",
+          "zh": "满足于，仅仅",
+          "en": "to settle for, merely"
+        },
+        {
+          "fr": "l'axe de rotation",
+          "zh": "自转轴",
+          "en": "rotation axis"
+        },
+        {
+          "fr": "instable",
+          "zh": "不稳定的",
+          "en": "unstable"
+        },
+        {
+          "fr": "bouleverser",
+          "zh": "打乱，颠覆",
+          "en": "to upset, disrupt"
+        }
+      ],
+      "question": {
+        "prompt": "Que se passerait-il sans la Lune ?",
+        "choices": [
+          "Les nuits seraient plus claires",
+          "La Terre tournerait plus vite autour du Soleil",
+          "L'axe de la Terre serait plus instable",
+          "Les jours dureraient deux fois moins longtemps"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文说 l'axe de rotation deviendrait beaucoup plus instable。"
+      }
+    },
+    {
+      "postId": "2119693722820698311",
+      "url": "https://x.com/laBnF/status/2119693722820698311",
+      "author": "laBnF",
+      "postedAt": "2026-11-09T07:29:00Z",
+      "excerpt": "La Poste émet des timbres inédits pour célébrer les 30 ans de la bibliothèque François-Mitterrand. Dès le 9 novembre 2026, découvrez un bloc d’un timbre et un souvenir philatélique en l'honneur de notre institution.",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "法国邮政发行全新邮票，庆祝法国国家图书馆密特朗馆建成30周年，自2026年11月9日起发售邮票小全张和集邮纪念品。",
+      "summaryEn": "La Poste is issuing new stamps for the 30th anniversary of the François-Mitterrand library; from 9 November 2026 a stamp block and philatelic souvenir are available.",
+      "vocab": [
+        {
+          "fr": "émettre",
+          "zh": "发行",
+          "en": "to issue"
+        },
+        {
+          "fr": "un timbre",
+          "zh": "邮票",
+          "en": "a stamp"
+        },
+        {
+          "fr": "inédit",
+          "zh": "全新的，前所未有的",
+          "en": "new, never seen before"
+        },
+        {
+          "fr": "philatélique",
+          "zh": "集邮的",
+          "en": "philatelic"
+        }
+      ],
+      "question": {
+        "prompt": "Que célèbrent ces timbres ?",
+        "choices": [
+          "Les 30 ans de la bibliothèque François-Mitterrand",
+          "Les 100 ans de La Poste",
+          "L'ouverture d'un nouveau musée",
+          "La fête nationale"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文说 célébrer les 30 ans de la bibliothèque François-Mitterrand。"
+      }
+    },
+    {
+      "postId": "2119708217051582863",
+      "url": "https://x.com/OIFrancophonie/status/2119708217051582863",
+      "author": "OIFrancophonie",
+      "postedAt": "2026-11-09T08:26:35Z",
+      "excerpt": "J-6 avant le 20e Sommet de la Francophonie ! Au Cambodge, les arts et les traditions perpétuent un héritage millénaire et témoignent de la richesse culturelle du Royaume. À Phnom Penh, la communauté francophone se retrouvera pour un grand rendez-vous où la diversité des cultures rencontrera les ambitions communes de paix, de stabilité et de prospérité partagée.",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "距第20届法语国家峰会还有6天。柬埔寨的艺术与传统延续千年遗产；法语国家社群将在金边相聚，共谋和平、稳定与共同繁荣。",
+      "summaryEn": "Six days to the 20th Francophonie Summit: Cambodia's arts carry a millennia-old heritage, and the francophone community meets in Phnom Penh around peace, stability and prosperity.",
+      "vocab": [
+        {
+          "fr": "J-6",
+          "zh": "倒计时6天",
+          "en": "six days to go"
+        },
+        {
+          "fr": "perpétuer",
+          "zh": "延续，使永存",
+          "en": "to perpetuate"
+        },
+        {
+          "fr": "un héritage",
+          "zh": "遗产，传承",
+          "en": "a heritage"
+        },
+        {
+          "fr": "un rendez-vous",
+          "zh": "聚会，约会",
+          "en": "a gathering, meeting"
+        },
+        {
+          "fr": "la prospérité",
+          "zh": "繁荣",
+          "en": "prosperity"
+        }
+      ],
+      "question": {
+        "prompt": "Où se retrouvera la communauté francophone ?",
+        "choices": [
+          "À Paris",
+          "À Siem Reap",
+          "À Québec",
+          "À Phnom Penh"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "原文说 À Phnom Penh, la communauté francophone se retrouvera。"
+      }
+    },
+    {
+      "postId": "2119707883294126534",
+      "url": "https://x.com/LeTemps/status/2119707883294126534",
+      "author": "LeTemps",
+      "postedAt": "2026-11-09T08:25:16Z",
+      "excerpt": "Alors que les valeurs de l’IA accusent le coup à la bourse, le segment de la cybersécurité affiche de belles performances. Il est notamment porté par une demande que l’essor des attaques pilotées par l’IA ne cesse de renforcer.",
+      "level": "C1",
+      "topic": "travail",
+      "summaryZh": "AI股票在股市受挫之际，网络安全板块表现亮眼，主要受AI驱动的网络攻击增多所带来的需求推动。",
+      "summaryEn": "While AI stocks take a hit on the stock market, cybersecurity performs well, driven by demand fuelled by the rise of AI-powered attacks.",
+      "vocab": [
+        {
+          "fr": "accuser le coup",
+          "zh": "受到打击",
+          "en": "to take a hit"
+        },
+        {
+          "fr": "la bourse",
+          "zh": "股市",
+          "en": "the stock market"
+        },
+        {
+          "fr": "la cybersécurité",
+          "zh": "网络安全",
+          "en": "cybersecurity"
+        },
+        {
+          "fr": "l'essor",
+          "zh": "迅速发展",
+          "en": "the rise, boom"
+        }
+      ],
+      "question": {
+        "prompt": "Qu'est-ce qui soutient le secteur de la cybersécurité ?",
+        "choices": [
+          "La hausse des attaques pilotées par l'IA",
+          "La baisse des prix de l'énergie",
+          "Les subventions de l'État",
+          "La fin du télétravail"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文说需求由 l'essor des attaques pilotées par l'IA 推动。"
+      }
+    },
+    {
+      "postId": "2119748798293655949",
+      "url": "https://x.com/LeTemps/status/2119748798293655949",
+      "author": "LeTemps",
+      "postedAt": "2026-11-09T11:07:51Z",
+      "excerpt": "La marque de jeux vidéo de Microsoft pourrait aujourd’hui jouer sa survie avec une restructuration drastique de son empire. Vingt-cinq ans après ses débuts, un «game over» n’a jamais semblé aussi plausible.",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "微软旗下电子游戏品牌可能因大刀阔斧的重组而面临存亡考验；诞生25年后，“游戏结束”从未显得如此可能。",
+      "summaryEn": "Microsoft's video game brand may be fighting for survival amid a drastic restructuring; 25 years after its debut, 'game over' has never seemed so plausible.",
+      "vocab": [
+        {
+          "fr": "jouer sa survie",
+          "zh": "生死攸关",
+          "en": "to fight for survival"
+        },
+        {
+          "fr": "une restructuration",
+          "zh": "重组",
+          "en": "a restructuring"
+        },
+        {
+          "fr": "drastique",
+          "zh": "剧烈的，严厉的",
+          "en": "drastic"
+        },
+        {
+          "fr": "plausible",
+          "zh": "可能的，可信的",
+          "en": "plausible"
+        }
+      ],
+      "question": {
+        "prompt": "Depuis combien de temps existe cette marque de jeux vidéo ?",
+        "choices": [
+          "Dix ans",
+          "Quinze ans",
+          "Vingt-cinq ans",
+          "Cinquante ans"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文说 Vingt-cinq ans après ses débuts，即25年。"
+      }
+    },
+    {
+      "postId": "2119506740945334449",
+      "url": "https://x.com/ONU_fr/status/2119506740945334449",
+      "author": "ONU_fr",
+      "postedAt": "2026-11-08T19:06:00Z",
+      "excerpt": "Qu’est-ce que la Conférence des Nations Unies sur les changements climatiques et pourquoi est-elle importante ? Apprenez-en plus sur la COP31, une occasion cruciale pour les pays d’accélérer l’action en faveur du climat et de renforcer leur coopération.",
+      "level": "B1",
+      "topic": "actualité",
+      "summaryZh": "联合国介绍气候变化大会及其重要性：COP31是各国加快气候行动、加强合作的关键机会。",
+      "summaryEn": "The UN explains what its climate change conference is and why it matters: COP31 is a crucial chance for countries to speed up climate action and cooperate more.",
+      "vocab": [
+        {
+          "fr": "les changements climatiques",
+          "zh": "气候变化",
+          "en": "climate change"
+        },
+        {
+          "fr": "une occasion",
+          "zh": "机会",
+          "en": "an opportunity"
+        },
+        {
+          "fr": "crucial",
+          "zh": "关键的",
+          "en": "crucial"
+        },
+        {
+          "fr": "accélérer",
+          "zh": "加快",
+          "en": "to speed up"
+        }
+      ],
+      "question": {
+        "prompt": "D'après le post, la COP31 est une occasion pour les pays de…",
+        "choices": [
+          "réduire leurs budgets",
+          "accélérer l'action pour le climat",
+          "fermer leurs frontières",
+          "organiser des élections"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文说 accélérer l’action en faveur du climat。"
+      }
+    },
+    {
+      "postId": "2119764324663308362",
+      "url": "https://x.com/franceinfo/status/2119764324663308362",
+      "author": "franceinfo",
+      "postedAt": "2026-11-09T12:09:32Z",
+      "excerpt": "Faire la vaisselle, sortir les poubelles, défaire les lits… Ce que les propriétaires ne pourront plus imposer aux voyageurs sur Airbnb.",
+      "level": "B1",
+      "topic": "logement",
+      "summaryZh": "洗碗、倒垃圾、拆床单……Airbnb房东今后将不能再强制要求房客做这些家务。",
+      "summaryEn": "Washing dishes, taking out the bins, stripping beds: what Airbnb hosts will no longer be able to require of guests.",
+      "vocab": [
+        {
+          "fr": "faire la vaisselle",
+          "zh": "洗碗",
+          "en": "to do the dishes"
+        },
+        {
+          "fr": "sortir les poubelles",
+          "zh": "倒垃圾",
+          "en": "to take out the bins"
+        },
+        {
+          "fr": "un propriétaire",
+          "zh": "房东，业主",
+          "en": "an owner, host"
+        },
+        {
+          "fr": "imposer",
+          "zh": "强制要求",
+          "en": "to impose"
+        }
+      ],
+      "question": {
+        "prompt": "De quoi parle cet article ?",
+        "choices": [
+          "Des nouveaux prix des billets de train",
+          "Des règles pour acheter un logement",
+          "Des tâches que les hôtes Airbnb ne pourront plus exiger",
+          "Des horaires des déchetteries"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文说房东 ne pourront plus imposer aux voyageurs 这些家务。"
+      }
+    },
+    {
+      "postId": "2119656981069808067",
+      "url": "https://x.com/ONU_fr/status/2119656981069808067",
+      "author": "ONU_fr",
+      "postedAt": "2026-11-09T05:03:00Z",
+      "excerpt": "La science est essentielle pour comprendre notre monde et bâtir un avenir meilleur pour toutes et tous. En cette Semaine internationale de la science et de la paix, découvrez le lien essentiel entre science, technologie et paix.",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "科学对理解世界、为所有人建设更美好的未来至关重要。在国际科学与和平周，了解科学、技术与和平之间的密切联系。",
+      "summaryEn": "Science is essential to understand our world and build a better future for all. During International Week of Science and Peace, discover the link between science, technology and peace.",
+      "vocab": [
+        {
+          "fr": "bâtir",
+          "zh": "建设",
+          "en": "to build"
+        },
+        {
+          "fr": "un avenir",
+          "zh": "未来",
+          "en": "a future"
+        },
+        {
+          "fr": "la paix",
+          "zh": "和平",
+          "en": "peace"
+        },
+        {
+          "fr": "le lien",
+          "zh": "联系",
+          "en": "the link"
+        }
+      ],
+      "question": {
+        "prompt": "Quelle semaine internationale est mentionnée ?",
+        "choices": [
+          "La Semaine de la science et de la paix",
+          "La Semaine du climat",
+          "La Semaine de la langue française",
+          "La Semaine de la santé"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文说 Semaine internationale de la science et de la paix。"
+      }
+    },
+    {
+      "postId": "2119685354772939102",
+      "url": "https://x.com/franceinfo/status/2119685354772939102",
+      "author": "franceinfo",
+      "postedAt": "2026-11-09T06:55:45Z",
+      "excerpt": "État de santé des jeunes : \"Depuis plusieurs années, la santé mentale des jeunes se dégrade et on constate une accélération de cette dégradation depuis l'après-Covid\", déclare Étienne Pot, médecin et directeur général de Santé publique France.",
+      "level": "B2",
+      "topic": "santé",
+      "summaryZh": "法国公共卫生署新署长艾蒂安·波表示，11至17岁青少年心理健康多年持续恶化，新冠后加速，这是全球趋势，女孩尤其受影响。",
+      "summaryEn": "The new head of Santé publique France says the mental health of 11-17-year-olds has been worsening for years, faster since Covid; a global trend hitting girls especially.",
+      "vocab": [
+        {
+          "fr": "se dégrader",
+          "zh": "恶化",
+          "en": "to deteriorate"
+        },
+        {
+          "fr": "une tendance de fond",
+          "zh": "深层趋势",
+          "en": "an underlying trend"
+        },
+        {
+          "fr": "un facteur de risque",
+          "zh": "风险因素",
+          "en": "a risk factor"
+        },
+        {
+          "fr": "la prévention",
+          "zh": "预防",
+          "en": "prevention"
+        },
+        {
+          "fr": "interpeller",
+          "zh": "引起关注，警示",
+          "en": "to challenge, alert"
+        }
+      ],
+      "question": {
+        "prompt": "Selon Étienne Pot, depuis quand la dégradation s'accélère-t-elle ?",
+        "choices": [
+          "Depuis la rentrée 2026",
+          "Depuis les années 1990",
+          "Depuis la fin des examens",
+          "Depuis l'après-Covid"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "他说 on constate une accélération de cette dégradation depuis l'après Covid。"
+      }
+    },
+    {
+      "postId": "2119759286041485554",
+      "url": "https://x.com/franceinfo/status/2119759286041485554",
+      "author": "franceinfo",
+      "postedAt": "2026-11-09T11:49:31Z",
+      "excerpt": "\"[Nous allons] anticiper la hausse du Smic au 1er décembre et porter cette augmentation à 1,6 % (...) On passe la barre des 1 500 euros, on est à 1 502 euros. Au cours de l’année 2026, le Smic aura augmenté de 5,3 %\", affirme Jean-Pierre Farandou, ministre du Travail.",
+      "level": "B1",
+      "topic": "travail",
+      "summaryZh": "法国劳动部长宣布：最低工资上调提前到12月1日，涨幅1.6%，月薪达1502欧元；2026年全年最低工资累计上涨5.3%。",
+      "summaryEn": "France's labour minister announces the minimum wage rise is brought forward to 1 December at 1.6%, reaching 1,502 euros; up 5.3% over 2026.",
+      "vocab": [
+        {
+          "fr": "le SMIC",
+          "zh": "法定最低工资",
+          "en": "the minimum wage"
+        },
+        {
+          "fr": "une hausse",
+          "zh": "上涨",
+          "en": "a rise"
+        },
+        {
+          "fr": "anticiper",
+          "zh": "提前",
+          "en": "to bring forward"
+        },
+        {
+          "fr": "arrondir",
+          "zh": "取整",
+          "en": "to round"
+        },
+        {
+          "fr": "les organisations syndicales",
+          "zh": "工会组织",
+          "en": "trade unions"
+        },
+        {
+          "fr": "substantiel",
+          "zh": "实质性的",
+          "en": "substantial"
+        }
+      ],
+      "question": {
+        "prompt": "À partir de quand la hausse du SMIC s'appliquera-t-elle ?",
+        "choices": [
+          "Le 1er janvier",
+          "Le 1er décembre",
+          "Le 21 octobre",
+          "Le 1er juillet"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "部长说 anticiper la hausse du SMIC au 1er décembre，即12月1日。"
+      }
+    },
+    {
+      "postId": "2119713392990495156",
+      "url": "https://x.com/Sciences_Avenir/status/2119713392990495156",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-09T08:47:09Z",
+      "excerpt": "Des intelligences artificielles s’attaquent aux problèmes qui ont fait l’histoire des mathématiques. Si ces derniers remontent à Euclide, ils deviennent un objectif en soi assez tardivement.",
+      "level": "B2",
+      "topic": "actualité",
+      "summaryZh": "从欧几里得《几何原本》到希尔伯特23问题和千禧年难题，视频回顾数学难题史，并提到OpenAI称用AI智能体证明了纳维-斯托克斯方程，尚待验证。",
+      "summaryEn": "From Euclid's Elements to Hilbert's 23 problems and the Millennium Prize Problems; OpenAI claims AI agents proved Navier-Stokes, pending verification.",
+      "vocab": [
+        {
+          "fr": "s'attaquer à",
+          "zh": "着手解决，攻克",
+          "en": "to tackle"
+        },
+        {
+          "fr": "une démonstration",
+          "zh": "证明",
+          "en": "a proof"
+        },
+        {
+          "fr": "résoudre",
+          "zh": "解决",
+          "en": "to solve"
+        },
+        {
+          "fr": "insurmontable",
+          "zh": "无法克服的",
+          "en": "insurmountable"
+        },
+        {
+          "fr": "un prix",
+          "zh": "奖金，奖项",
+          "en": "a prize"
+        },
+        {
+          "fr": "une ère",
+          "zh": "时代",
+          "en": "an era"
+        }
+      ],
+      "question": {
+        "prompt": "Combien de problèmes du millénaire ont été officiellement résolus à ce jour ?",
+        "choices": [
+          "Aucun",
+          "Trois",
+          "Un seul",
+          "Vingt-trois"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "视频说 À ce jour, un seul a été officiellement résolu，即庞加莱猜想。"
+      }
+    },
+    {
+      "postId": "2119435630169985244",
+      "url": "https://x.com/tv5mondeinfo/status/2119435630169985244",
+      "author": "tv5mondeinfo",
+      "postedAt": "2026-11-08T14:23:26Z",
+      "excerpt": "Dans le Grand Nord canadien, les Territoires du Nord-Ouest comptent plus de 45 000 habitants, parmi lesquels une minorité de francophones dans un océan anglophone.",
+      "level": "B2",
+      "topic": "immigration",
+      "summaryZh": "加拿大西北地区约4.5万居民中有约2500名法语者；耶洛奈夫法语学校爆满，非洲法语移民不断加入，社群计划2028年建北方高等教育网络。",
+      "summaryEn": "About 2,500 of the Northwest Territories' 45,000 residents speak French; Yellowknife's French school is full, African francophone immigrants keep arriving.",
+      "vocab": [
+        {
+          "fr": "une immensité",
+          "zh": "辽阔的地域",
+          "en": "a vast expanse"
+        },
+        {
+          "fr": "les inscriptions",
+          "zh": "入学注册人数",
+          "en": "enrolment"
+        },
+        {
+          "fr": "déborder",
+          "zh": "满溢，超出",
+          "en": "to overflow"
+        },
+        {
+          "fr": "le métissage",
+          "zh": "融合，混合",
+          "en": "blending, mixing"
+        },
+        {
+          "fr": "mutualiser",
+          "zh": "共享，汇集",
+          "en": "to pool"
+        },
+        {
+          "fr": "apprivoiser",
+          "zh": "熟悉，驯服",
+          "en": "to get to know, tame"
+        }
+      ],
+      "question": {
+        "prompt": "Combien d'élèves compte l'école francophone de Yellowknife ?",
+        "choices": [
+          "225",
+          "2 500",
+          "45 000",
+          "30"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "视频说 225 élèves, 30 enseignants，即225名学生。"
+      }
+    }
+  ]
+}
