@@ -20,6 +20,17 @@ Text posts and video posts come from **one run**, started at about 07:00 Toronto
 - The limits below count video posts too: at most 3 per account, at most 2 for the three politician accounts together, at most 20 items in the file. The backend silently drops whatever goes over, so a video post that loses a slot in the JSON still goes live from its package, but then it is missing from this repo.
 - `5–10 items per day` below counts the **non-video** posts. Video posts are on top of that.
 
+## Detailed explanation (`explain`)
+
+Every item may carry an `explain` object: the excerpt taught sentence by sentence for Chinese-speaking learners. It is optional; an invalid `explain` is dropped on its own and the item still goes live.
+
+- `sentences`: 1–8 entries that cover the whole `excerpt` in order. Each `fr` is copied character for character from `excerpt` (same accents, apostrophes and punctuation).
+- `zh`: Chinese translation of the sentence. `structureZh`: Chinese explanation of the main clause, what each clause does, and the tense or mood and why.
+- `points`: 1–5 per sentence, each taken from that sentence: an expression, a verb construction in dictionary form (`ne pas se contenter de + inf.`), a grammar point, or a word a B1 learner would not know. A point must name a word of its sentence, or be written as a pattern with `+` (`être + participe passé`); other points are dropped one by one.
+- `styleZh` (optional): what kind of text it is and how it is built.
+- For video items, explain the post text, not the video.
+- See `daily/example.json` for a full sample.
+
 ## Rules
 - Use only original posts (no reposts, no replies) from the last 48 hours by these accounts:
   - Media: `RFI`, `LeDevoir`, `tv5mondeinfo`, `RadioCanadaInfo`, `RTBFinfo`, `lesoir`, `franceinfo`, `LeTemps`, `JdeMontreal`, `tvanouvelles`
@@ -52,6 +63,12 @@ Text posts and video posts come from **one run**, started at about 07:00 Toronto
 | `question.choices` | exactly 4 |
 | `question.answerIndex` | 0–3 |
 | `question.explanationZh` | at most 120 characters |
+| `explain.styleZh` | at most 150 characters, optional |
+| `explain.sentences` | 1–8 items, together the whole `excerpt` |
+| `explain.sentences[].zh` | at most 200 characters, Chinese |
+| `explain.sentences[].structureZh` | at most 300 characters, Chinese |
+| `explain.sentences[].points` | 1–5 items; `fr` at most 80, `zh` at most 120 characters |
+| `explain` (whole object) | at most 8 KB |
 
 The backend validates every field again. Invalid items are dropped, and valid ones go live automatically.
 ## Licensing
