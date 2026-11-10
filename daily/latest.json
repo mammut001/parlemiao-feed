@@ -1,661 +1,1156 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-09T12:27:04Z",
+  "generatedAt": "2026-11-10T12:35:24Z",
   "items": [
     {
-      "postId": "2119746849133228327",
-      "url": "https://x.com/MinistereCC/status/2119746849133228327",
-      "author": "MinistereCC",
-      "postedAt": "2026-11-09T11:00:06Z",
-      "excerpt": "Idée de sortie | Les 21 et 22 novembre 2026, les 22 Fonds régionaux d’art contemporain (Frac) ouvriront grand leurs portes à l’occasion de la 10e édition du Week-end des Frac (WEFRAC) ! Festif, gratuit et accessible à tous les publics.",
-      "level": "A2",
-      "topic": "culture",
-      "summaryZh": "2026年11月21日至22日，法国22个地区当代艺术基金会（Frac）将举办第10届“Frac周末”开放活动，免费且面向所有公众。",
-      "summaryEn": "On 21–22 November 2026, France's 22 regional contemporary art funds (Frac) open their doors for the 10th Frac Weekend: festive, free and open to all.",
+      "postId": "2119805216098758867",
+      "url": "https://x.com/CitImmCanFR/status/2119805216098758867",
+      "author": "CitImmCanFR",
+      "postedAt": "2026-11-09T14:52:02Z",
+      "excerpt": "Le Programme pilote d’immigration dans les communautés rurales est maintenant un programme permanent. Il s’agit d’une étape importante visant à renforcer le système d’immigration économique du Canada et à soutenir sa main-d’œuvre nationale.",
+      "level": "B1",
+      "topic": "immigration",
+      "summaryZh": "加拿大农村社区移民试点项目转为常设项目，旨在加强经济移民体系，帮助偏远社区缓解劳动力短缺并维持医疗、教育等服务。",
+      "summaryEn": "Canada's Rural Community Immigration Pilot is now permanent, to strengthen economic immigration and help remote communities with labour shortages.",
       "vocab": [
         {
-          "fr": "ouvrir ses portes",
-          "zh": "开放，敞开大门",
-          "en": "to open its doors"
+          "fr": "un programme pilote",
+          "zh": "试点项目",
+          "en": "a pilot program"
         },
         {
-          "fr": "une édition",
-          "zh": "（活动的）届",
-          "en": "an edition"
+          "fr": "permanent",
+          "zh": "常设的",
+          "en": "permanent"
         },
         {
-          "fr": "gratuit",
-          "zh": "免费的",
-          "en": "free of charge"
+          "fr": "la main-d’œuvre",
+          "zh": "劳动力",
+          "en": "the workforce"
         },
         {
-          "fr": "accessible à tous",
-          "zh": "人人可参加",
-          "en": "open to everyone"
+          "fr": "viser à",
+          "zh": "旨在",
+          "en": "to aim to"
+        },
+        {
+          "fr": "renforcer",
+          "zh": "加强",
+          "en": "to strengthen"
         }
       ],
       "question": {
-        "prompt": "Combien coûte l'entrée au Week-end des Frac ?",
+        "prompt": "Quel est le changement annoncé ?",
         "choices": [
-          "10 euros",
-          "22 euros",
-          "Seulement pour les abonnés",
-          "C'est gratuit"
+          "Le programme pilote devient permanent.",
+          "Le programme est suspendu jusqu'en 2027.",
+          "Le programme est supprimé.",
+          "Le programme est réservé aux grandes villes."
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文说 est maintenant un programme permanent，试点项目变为常设项目。"
+      },
+      "explain": {
+        "styleZh": "加拿大移民部的政策公告：先宣布结论（试点转为常设），再说明这一变化的意义。",
+        "sentences": [
+          {
+            "fr": "Le Programme pilote d’immigration dans les communautés rurales est maintenant un programme permanent.",
+            "zh": "农村社区移民试点项目现已成为常设项目。",
+            "structureZh": "主语是 Le Programme pilote d’immigration dans les communautés rurales（农村社区移民试点项目），谓语 est 是 être 的直陈式现在时，表语 un programme permanent；maintenant 强调状态已经改变。",
+            "points": [
+              {
+                "fr": "un programme pilote",
+                "zh": "试点项目"
+              },
+              {
+                "fr": "permanent",
+                "zh": "常设的，永久的"
+              },
+              {
+                "fr": "les communautés rurales",
+                "zh": "农村社区"
+              }
+            ]
+          },
+          {
+            "fr": "Il s’agit d’une étape importante visant à renforcer le système d’immigration économique du Canada et à soutenir sa main-d’œuvre nationale.",
+            "zh": "这是加强加拿大经济移民体系、支持本国劳动力的重要一步。",
+            "structureZh": "主句 Il s’agit de + 名词 是无人称结构，意为“这是……”；现在分词 visant 引出两个并列的不定式 à renforcer… et à soutenir…，说明这一步的目的。",
+            "points": [
+              {
+                "fr": "il s’agit de + nom",
+                "zh": "这是……，涉及……"
+              },
+              {
+                "fr": "viser à + inf.",
+                "zh": "旨在做某事"
+              },
+              {
+                "fr": "la main-d’œuvre",
+                "zh": "劳动力"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2119820118070824986",
+      "url": "https://x.com/CitImmCanFR/status/2119820118070824986",
+      "author": "CitImmCanFR",
+      "postedAt": "2026-11-09T15:51:15Z",
+      "excerpt": "Le Programme d’immigration dans les communautés rurales aide les travailleurs qualifiés et les diplômés étrangers à obtenir le statut de résident permanent au Canada. Nous collaborons avec les organismes locaux de développement économique afin d’attirer, d’accueillir et de retenir les nouveaux arrivants dans les communautés rurales et les petites communautés. Découvrez les communautés choisies et le fonctionnement du programme.",
+      "level": "B1",
+      "topic": "immigration",
+      "summaryZh": "加拿大农村社区移民项目帮助技术工人和外国毕业生获得永久居民身份，移民部与地方经济发展机构合作吸引并留住新移民。",
+      "summaryEn": "Canada's Rural Community Immigration Program helps skilled workers and foreign graduates get permanent residence, working with local economic development groups.",
+      "vocab": [
+        {
+          "fr": "un travailleur qualifié",
+          "zh": "技术工人",
+          "en": "a skilled worker"
+        },
+        {
+          "fr": "le statut de résident permanent",
+          "zh": "永久居民身份",
+          "en": "permanent resident status"
+        },
+        {
+          "fr": "retenir",
+          "zh": "留住",
+          "en": "to retain"
+        },
+        {
+          "fr": "un nouvel arrivant",
+          "zh": "新移民",
+          "en": "a newcomer"
+        }
+      ],
+      "question": {
+        "prompt": "Avec qui le ministère collabore-t-il ?",
+        "choices": [
+          "Avec les universités étrangères",
+          "Avec les grandes entreprises",
+          "Avec les agences de voyage",
+          "Avec les organismes locaux de développement économique"
         ],
         "answerIndex": 3,
-        "explanationZh": "原文写 Festif, gratuit et accessible à tous les publics，即免费。"
+        "explanationZh": "原文说 Nous collaborons avec les organismes locaux de développement économique。"
+      },
+      "explain": {
+        "styleZh": "政府机构的项目介绍：先说明项目帮助谁、得到什么，再说明政府如何合作，最后用命令式引导读者了解详情。",
+        "sentences": [
+          {
+            "fr": "Le Programme d’immigration dans les communautés rurales aide les travailleurs qualifiés et les diplômés étrangers à obtenir le statut de résident permanent au Canada.",
+            "zh": "农村社区移民项目帮助技术工人和外国毕业生获得加拿大永久居民身份。",
+            "structureZh": "主语是 Le Programme d’immigration dans les communautés rurales；谓语 aide 是直陈式现在时，结构为 aider qn à + inf.：帮助 les travailleurs qualifiés et les diplômés étrangers 去 obtenir le statut de résident permanent。",
+            "points": [
+              {
+                "fr": "aider qn à + inf.",
+                "zh": "帮助某人做某事"
+              },
+              {
+                "fr": "un travailleur qualifié",
+                "zh": "技术工人"
+              },
+              {
+                "fr": "un diplômé",
+                "zh": "毕业生"
+              },
+              {
+                "fr": "le statut de résident permanent",
+                "zh": "永久居民身份"
+              }
+            ]
+          },
+          {
+            "fr": "Nous collaborons avec les organismes locaux de développement économique afin d’attirer, d’accueillir et de retenir les nouveaux arrivants dans les communautés rurales et les petites communautés.",
+            "zh": "我们与地方经济发展机构合作，以吸引、接待并留住来到农村和小型社区的新移民。",
+            "structureZh": "主句 Nous collaborons avec…，collaborer 的直陈式现在时；afin de + inf. 表示目的，后接三个并列不定式 attirer、accueillir、retenir，共用宾语 les nouveaux arrivants。",
+            "points": [
+              {
+                "fr": "collaborer avec",
+                "zh": "与……合作"
+              },
+              {
+                "fr": "afin de + inf.",
+                "zh": "为了做某事"
+              },
+              {
+                "fr": "retenir",
+                "zh": "留住"
+              },
+              {
+                "fr": "les nouveaux arrivants",
+                "zh": "新移民，新来者"
+              }
+            ]
+          },
+          {
+            "fr": "Découvrez les communautés choisies et le fonctionnement du programme.",
+            "zh": "了解入选的社区以及项目的运作方式。",
+            "structureZh": "命令式第二人称复数 Découvrez，用于号召读者；两个并列宾语 les communautés choisies（过去分词 choisies 作定语）和 le fonctionnement du programme。",
+            "points": [
+              {
+                "fr": "le fonctionnement",
+                "zh": "运作方式"
+              },
+              {
+                "fr": "choisi",
+                "zh": "被选中的（choisir 的过去分词）"
+              }
+            ]
+          }
+        ]
       }
     },
     {
-      "postId": "2119733339515175049",
-      "url": "https://x.com/Sciences_Avenir/status/2119733339515175049",
-      "author": "Sciences_Avenir",
-      "postedAt": "2026-11-09T10:06:25Z",
-      "excerpt": "S'occuper de ses petits-enfants ne serait pas qu'un plaisir familial, mais également un atout pour mieux vieillir. Des études ont mis en évidence ses effets protecteurs sur la cognition, le corps et le lien social.",
-      "level": "B1",
-      "topic": "santé",
-      "summaryZh": "研究表明，照顾孙辈不仅是家庭乐趣，还有助于老年人更好地变老，对认知、身体和社交联系都有保护作用。",
-      "summaryEn": "Looking after grandchildren may help people age better: studies show protective effects on cognition, the body and social ties.",
-      "vocab": [
-        {
-          "fr": "les petits-enfants",
-          "zh": "孙辈",
-          "en": "grandchildren"
-        },
-        {
-          "fr": "vieillir",
-          "zh": "变老",
-          "en": "to age, grow old"
-        },
-        {
-          "fr": "un atout",
-          "zh": "优势",
-          "en": "an asset"
-        },
-        {
-          "fr": "le lien social",
-          "zh": "社会联系",
-          "en": "social ties"
-        }
-      ],
-      "question": {
-        "prompt": "Selon le post, s'occuper de ses petits-enfants…",
-        "choices": [
-          "fatigue surtout le corps",
-          "aide à mieux vieillir",
-          "est déconseillé par les médecins",
-          "n'a aucun effet mesuré"
-        ],
-        "answerIndex": 1,
-        "explanationZh": "原文说这是 un atout pour mieux vieillir，有助于更好地变老。"
-      }
-    },
-    {
-      "postId": "2119550650795303186",
-      "url": "https://x.com/Sciences_Avenir/status/2119550650795303186",
-      "author": "Sciences_Avenir",
-      "postedAt": "2026-11-08T22:00:29Z",
-      "excerpt": "La Lune ne se contente pas d'éclairer nos nuits : elle joue un rôle essentiel dans l'équilibre de la Terre. Sans elle, l'axe de rotation de notre planète deviendrait beaucoup plus instable, bouleversant le rythme des saisons. Notre article de cet été.",
+      "postId": "2120018676929732848",
+      "url": "https://x.com/UNESCO_fr/status/2120018676929732848",
+      "author": "UNESCO_fr",
+      "postedAt": "2026-11-10T05:00:15Z",
+      "excerpt": "Du changement climatique à la santé publique, la science joue un rôle essentiel pour relever les défis auxquels nous sommes collectivement confrontés. À l’occasion de la Journée de la science, l’UNESCO met en lumière le pouvoir de la science pour rapprocher les peuples, éclairer les sociétés et soutenir le développement durable. Alors que la Décennie internationale des sciences au service du développement durable (2024-2033) est en cours, il est temps de faire progresser la science pour tous.",
       "level": "B2",
       "topic": "actualité",
-      "summaryZh": "月球不仅照亮夜空，还对地球的平衡至关重要。没有月球，地球自转轴会变得更不稳定，打乱四季节律。",
-      "summaryEn": "The Moon does more than light our nights: it stabilises Earth. Without it, the planet's rotation axis would be far less stable, upsetting the seasons.",
+      "summaryZh": "联合国教科文组织借科学日强调科学在应对气候变化、公共卫生等挑战中的关键作用，呼吁推动“人人享有科学”。",
+      "summaryEn": "For Science Day, UNESCO highlights science's role in tackling shared challenges from climate change to public health and calls for science for all.",
       "vocab": [
         {
-          "fr": "se contenter de",
-          "zh": "满足于，仅仅",
-          "en": "to settle for, merely"
+          "fr": "relever un défi",
+          "zh": "迎接挑战",
+          "en": "to meet a challenge"
         },
         {
-          "fr": "l'axe de rotation",
-          "zh": "自转轴",
-          "en": "rotation axis"
+          "fr": "mettre en lumière",
+          "zh": "突出，强调",
+          "en": "to highlight"
         },
         {
-          "fr": "instable",
-          "zh": "不稳定的",
-          "en": "unstable"
+          "fr": "le développement durable",
+          "zh": "可持续发展",
+          "en": "sustainable development"
         },
         {
-          "fr": "bouleverser",
-          "zh": "打乱，颠覆",
-          "en": "to upset, disrupt"
+          "fr": "une décennie",
+          "zh": "十年",
+          "en": "a decade"
         }
       ],
       "question": {
-        "prompt": "Que se passerait-il sans la Lune ?",
+        "prompt": "Que demande l'UNESCO à la fin du message ?",
         "choices": [
-          "Les nuits seraient plus claires",
-          "La Terre tournerait plus vite autour du Soleil",
-          "L'axe de la Terre serait plus instable",
-          "Les jours dureraient deux fois moins longtemps"
+          "De réduire les budgets de recherche",
+          "De fermer les laboratoires publics",
+          "De faire progresser la science pour tous",
+          "De reporter la Journée de la science"
         ],
         "answerIndex": 2,
-        "explanationZh": "原文说 l'axe de rotation deviendrait beaucoup plus instable。"
+        "explanationZh": "最后一句说 il est temps de faire progresser la science pour tous。"
+      },
+      "explain": {
+        "styleZh": "国际组织的纪念日宣传文：先提出科学的重要性，再点明节日与机构立场，最后用 il est temps de 发出呼吁。",
+        "sentences": [
+          {
+            "fr": "Du changement climatique à la santé publique, la science joue un rôle essentiel pour relever les défis auxquels nous sommes collectivement confrontés.",
+            "zh": "从气候变化到公共卫生，科学在应对我们共同面临的挑战方面发挥着至关重要的作用。",
+            "structureZh": "句首 Du… à… 表示范围；主句 la science joue un rôle essentiel，pour + inf. 表目的；auxquels nous sommes confrontés 是关系从句，因为 être confronté à 要求介词 à，所以用 auxquels（à + lesquels）。",
+            "points": [
+              {
+                "fr": "de + nom à + nom",
+                "zh": "从……到……（Du… à…，列举范围）"
+              },
+              {
+                "fr": "jouer un rôle essentiel",
+                "zh": "发挥关键作用"
+              },
+              {
+                "fr": "relever un défi",
+                "zh": "迎接挑战"
+              },
+              {
+                "fr": "être confronté à",
+                "zh": "面临……"
+              }
+            ]
+          },
+          {
+            "fr": "À l’occasion de la Journée de la science, l’UNESCO met en lumière le pouvoir de la science pour rapprocher les peuples, éclairer les sociétés et soutenir le développement durable.",
+            "zh": "值此科学日之际，联合国教科文组织强调科学拉近各国人民、启迪社会、支持可持续发展的力量。",
+            "structureZh": "À l’occasion de 引出时间背景；主句 l’UNESCO met en lumière le pouvoir de la science，mettre 的直陈式现在时；pour 后接三个并列不定式 rapprocher、éclairer、soutenir 说明科学的作用。",
+            "points": [
+              {
+                "fr": "à l’occasion de",
+                "zh": "值此……之际"
+              },
+              {
+                "fr": "mettre en lumière",
+                "zh": "突出，强调"
+              },
+              {
+                "fr": "rapprocher",
+                "zh": "拉近"
+              },
+              {
+                "fr": "le développement durable",
+                "zh": "可持续发展"
+              }
+            ]
+          },
+          {
+            "fr": "Alors que la Décennie internationale des sciences au service du développement durable (2024-2033) est en cours, il est temps de faire progresser la science pour tous.",
+            "zh": "在“科学促进可持续发展国际十年”（2024-2033）进行之际，是时候推动“人人享有科学”了。",
+            "structureZh": "Alors que 引出时间/背景从句（……之际），谓语 est en cours 表示正在进行；主句 il est temps de + inf. 是无人称结构，表示“是时候做……”；faire progresser 是使役结构 faire + inf.。",
+            "points": [
+              {
+                "fr": "alors que",
+                "zh": "当……之时；而"
+              },
+              {
+                "fr": "être en cours",
+                "zh": "正在进行"
+              },
+              {
+                "fr": "il est temps de + inf.",
+                "zh": "是时候做某事"
+              },
+              {
+                "fr": "faire + inf.",
+                "zh": "使……（使役结构）"
+              }
+            ]
+          }
+        ]
       }
     },
     {
-      "postId": "2119693722820698311",
-      "url": "https://x.com/laBnF/status/2119693722820698311",
-      "author": "laBnF",
-      "postedAt": "2026-11-09T07:29:00Z",
-      "excerpt": "La Poste émet des timbres inédits pour célébrer les 30 ans de la bibliothèque François-Mitterrand. Dès le 9 novembre 2026, découvrez un bloc d’un timbre et un souvenir philatélique en l'honneur de notre institution.",
-      "level": "B1",
-      "topic": "culture",
-      "summaryZh": "法国邮政发行全新邮票，庆祝法国国家图书馆密特朗馆建成30周年，自2026年11月9日起发售邮票小全张和集邮纪念品。",
-      "summaryEn": "La Poste is issuing new stamps for the 30th anniversary of the François-Mitterrand library; from 9 November 2026 a stamp block and philatelic souvenir are available.",
-      "vocab": [
-        {
-          "fr": "émettre",
-          "zh": "发行",
-          "en": "to issue"
-        },
-        {
-          "fr": "un timbre",
-          "zh": "邮票",
-          "en": "a stamp"
-        },
-        {
-          "fr": "inédit",
-          "zh": "全新的，前所未有的",
-          "en": "new, never seen before"
-        },
-        {
-          "fr": "philatélique",
-          "zh": "集邮的",
-          "en": "philatelic"
-        }
-      ],
-      "question": {
-        "prompt": "Que célèbrent ces timbres ?",
-        "choices": [
-          "Les 30 ans de la bibliothèque François-Mitterrand",
-          "Les 100 ans de La Poste",
-          "L'ouverture d'un nouveau musée",
-          "La fête nationale"
-        ],
-        "answerIndex": 0,
-        "explanationZh": "原文说 célébrer les 30 ans de la bibliothèque François-Mitterrand。"
-      }
-    },
-    {
-      "postId": "2119708217051582863",
-      "url": "https://x.com/OIFrancophonie/status/2119708217051582863",
-      "author": "OIFrancophonie",
-      "postedAt": "2026-11-09T08:26:35Z",
-      "excerpt": "J-6 avant le 20e Sommet de la Francophonie ! Au Cambodge, les arts et les traditions perpétuent un héritage millénaire et témoignent de la richesse culturelle du Royaume. À Phnom Penh, la communauté francophone se retrouvera pour un grand rendez-vous où la diversité des cultures rencontrera les ambitions communes de paix, de stabilité et de prospérité partagée.",
+      "postId": "2119843434383253717",
+      "url": "https://x.com/UNESCO_fr/status/2119843434383253717",
+      "author": "UNESCO_fr",
+      "postedAt": "2026-11-09T17:23:54Z",
+      "excerpt": "Environ 2 milliards de personnes dépendent de l’eau des glaciers, de la fonte des neiges et du ruissellement de montagne. La cryosphère renferme près de 70 % de l’eau douce de la planète. À la COP31, le Programme hydrologique intergouvernemental de l’UNESCO met en avant des initiatives scientifiques pour aider les pays à anticiper l’évolution des ressources en eau face à la fonte des glaces.",
       "level": "B2",
-      "topic": "culture",
-      "summaryZh": "距第20届法语国家峰会还有6天。柬埔寨的艺术与传统延续千年遗产；法语国家社群将在金边相聚，共谋和平、稳定与共同繁荣。",
-      "summaryEn": "Six days to the 20th Francophonie Summit: Cambodia's arts carry a millennia-old heritage, and the francophone community meets in Phnom Penh around peace, stability and prosperity.",
-      "vocab": [
-        {
-          "fr": "J-6",
-          "zh": "倒计时6天",
-          "en": "six days to go"
-        },
-        {
-          "fr": "perpétuer",
-          "zh": "延续，使永存",
-          "en": "to perpetuate"
-        },
-        {
-          "fr": "un héritage",
-          "zh": "遗产，传承",
-          "en": "a heritage"
-        },
-        {
-          "fr": "un rendez-vous",
-          "zh": "聚会，约会",
-          "en": "a gathering, meeting"
-        },
-        {
-          "fr": "la prospérité",
-          "zh": "繁荣",
-          "en": "prosperity"
-        }
-      ],
-      "question": {
-        "prompt": "Où se retrouvera la communauté francophone ?",
-        "choices": [
-          "À Paris",
-          "À Siem Reap",
-          "À Québec",
-          "À Phnom Penh"
-        ],
-        "answerIndex": 3,
-        "explanationZh": "原文说 À Phnom Penh, la communauté francophone se retrouvera。"
-      }
-    },
-    {
-      "postId": "2119707883294126534",
-      "url": "https://x.com/LeTemps/status/2119707883294126534",
-      "author": "LeTemps",
-      "postedAt": "2026-11-09T08:25:16Z",
-      "excerpt": "Alors que les valeurs de l’IA accusent le coup à la bourse, le segment de la cybersécurité affiche de belles performances. Il est notamment porté par une demande que l’essor des attaques pilotées par l’IA ne cesse de renforcer.",
-      "level": "C1",
-      "topic": "travail",
-      "summaryZh": "AI股票在股市受挫之际，网络安全板块表现亮眼，主要受AI驱动的网络攻击增多所带来的需求推动。",
-      "summaryEn": "While AI stocks take a hit on the stock market, cybersecurity performs well, driven by demand fuelled by the rise of AI-powered attacks.",
-      "vocab": [
-        {
-          "fr": "accuser le coup",
-          "zh": "受到打击",
-          "en": "to take a hit"
-        },
-        {
-          "fr": "la bourse",
-          "zh": "股市",
-          "en": "the stock market"
-        },
-        {
-          "fr": "la cybersécurité",
-          "zh": "网络安全",
-          "en": "cybersecurity"
-        },
-        {
-          "fr": "l'essor",
-          "zh": "迅速发展",
-          "en": "the rise, boom"
-        }
-      ],
-      "question": {
-        "prompt": "Qu'est-ce qui soutient le secteur de la cybersécurité ?",
-        "choices": [
-          "La hausse des attaques pilotées par l'IA",
-          "La baisse des prix de l'énergie",
-          "Les subventions de l'État",
-          "La fin du télétravail"
-        ],
-        "answerIndex": 0,
-        "explanationZh": "原文说需求由 l'essor des attaques pilotées par l'IA 推动。"
-      }
-    },
-    {
-      "postId": "2119748798293655949",
-      "url": "https://x.com/LeTemps/status/2119748798293655949",
-      "author": "LeTemps",
-      "postedAt": "2026-11-09T11:07:51Z",
-      "excerpt": "La marque de jeux vidéo de Microsoft pourrait aujourd’hui jouer sa survie avec une restructuration drastique de son empire. Vingt-cinq ans après ses débuts, un «game over» n’a jamais semblé aussi plausible.",
-      "level": "B2",
-      "topic": "culture",
-      "summaryZh": "微软旗下电子游戏品牌可能因大刀阔斧的重组而面临存亡考验；诞生25年后，“游戏结束”从未显得如此可能。",
-      "summaryEn": "Microsoft's video game brand may be fighting for survival amid a drastic restructuring; 25 years after its debut, 'game over' has never seemed so plausible.",
-      "vocab": [
-        {
-          "fr": "jouer sa survie",
-          "zh": "生死攸关",
-          "en": "to fight for survival"
-        },
-        {
-          "fr": "une restructuration",
-          "zh": "重组",
-          "en": "a restructuring"
-        },
-        {
-          "fr": "drastique",
-          "zh": "剧烈的，严厉的",
-          "en": "drastic"
-        },
-        {
-          "fr": "plausible",
-          "zh": "可能的，可信的",
-          "en": "plausible"
-        }
-      ],
-      "question": {
-        "prompt": "Depuis combien de temps existe cette marque de jeux vidéo ?",
-        "choices": [
-          "Dix ans",
-          "Quinze ans",
-          "Vingt-cinq ans",
-          "Cinquante ans"
-        ],
-        "answerIndex": 2,
-        "explanationZh": "原文说 Vingt-cinq ans après ses débuts，即25年。"
-      }
-    },
-    {
-      "postId": "2119506740945334449",
-      "url": "https://x.com/ONU_fr/status/2119506740945334449",
-      "author": "ONU_fr",
-      "postedAt": "2026-11-08T19:06:00Z",
-      "excerpt": "Qu’est-ce que la Conférence des Nations Unies sur les changements climatiques et pourquoi est-elle importante ? Apprenez-en plus sur la COP31, une occasion cruciale pour les pays d’accélérer l’action en faveur du climat et de renforcer leur coopération.",
-      "level": "B1",
       "topic": "actualité",
-      "summaryZh": "联合国介绍气候变化大会及其重要性：COP31是各国加快气候行动、加强合作的关键机会。",
-      "summaryEn": "The UN explains what its climate change conference is and why it matters: COP31 is a crucial chance for countries to speed up climate action and cooperate more.",
+      "summaryZh": "约20亿人依赖冰川和山区融水，冰冻圈储存地球近70%的淡水；教科文组织在COP31推介科学倡议，帮助各国预判水资源变化。",
+      "summaryEn": "About 2 billion people rely on glacier and mountain water; the cryosphere holds nearly 70% of fresh water. At COP31 UNESCO showcases science initiatives.",
       "vocab": [
         {
-          "fr": "les changements climatiques",
-          "zh": "气候变化",
-          "en": "climate change"
+          "fr": "un glacier",
+          "zh": "冰川",
+          "en": "a glacier"
         },
         {
-          "fr": "une occasion",
-          "zh": "机会",
-          "en": "an opportunity"
+          "fr": "l’eau douce",
+          "zh": "淡水",
+          "en": "fresh water"
         },
         {
-          "fr": "crucial",
-          "zh": "关键的",
-          "en": "crucial"
-        },
-        {
-          "fr": "accélérer",
-          "zh": "加快",
-          "en": "to speed up"
-        }
-      ],
-      "question": {
-        "prompt": "D'après le post, la COP31 est une occasion pour les pays de…",
-        "choices": [
-          "réduire leurs budgets",
-          "accélérer l'action pour le climat",
-          "fermer leurs frontières",
-          "organiser des élections"
-        ],
-        "answerIndex": 1,
-        "explanationZh": "原文说 accélérer l’action en faveur du climat。"
-      }
-    },
-    {
-      "postId": "2119764324663308362",
-      "url": "https://x.com/franceinfo/status/2119764324663308362",
-      "author": "franceinfo",
-      "postedAt": "2026-11-09T12:09:32Z",
-      "excerpt": "Faire la vaisselle, sortir les poubelles, défaire les lits… Ce que les propriétaires ne pourront plus imposer aux voyageurs sur Airbnb.",
-      "level": "B1",
-      "topic": "logement",
-      "summaryZh": "洗碗、倒垃圾、拆床单……Airbnb房东今后将不能再强制要求房客做这些家务。",
-      "summaryEn": "Washing dishes, taking out the bins, stripping beds: what Airbnb hosts will no longer be able to require of guests.",
-      "vocab": [
-        {
-          "fr": "faire la vaisselle",
-          "zh": "洗碗",
-          "en": "to do the dishes"
-        },
-        {
-          "fr": "sortir les poubelles",
-          "zh": "倒垃圾",
-          "en": "to take out the bins"
-        },
-        {
-          "fr": "un propriétaire",
-          "zh": "房东，业主",
-          "en": "an owner, host"
-        },
-        {
-          "fr": "imposer",
-          "zh": "强制要求",
-          "en": "to impose"
-        }
-      ],
-      "question": {
-        "prompt": "De quoi parle cet article ?",
-        "choices": [
-          "Des nouveaux prix des billets de train",
-          "Des règles pour acheter un logement",
-          "Des tâches que les hôtes Airbnb ne pourront plus exiger",
-          "Des horaires des déchetteries"
-        ],
-        "answerIndex": 2,
-        "explanationZh": "原文说房东 ne pourront plus imposer aux voyageurs 这些家务。"
-      }
-    },
-    {
-      "postId": "2119656981069808067",
-      "url": "https://x.com/ONU_fr/status/2119656981069808067",
-      "author": "ONU_fr",
-      "postedAt": "2026-11-09T05:03:00Z",
-      "excerpt": "La science est essentielle pour comprendre notre monde et bâtir un avenir meilleur pour toutes et tous. En cette Semaine internationale de la science et de la paix, découvrez le lien essentiel entre science, technologie et paix.",
-      "level": "B1",
-      "topic": "culture",
-      "summaryZh": "科学对理解世界、为所有人建设更美好的未来至关重要。在国际科学与和平周，了解科学、技术与和平之间的密切联系。",
-      "summaryEn": "Science is essential to understand our world and build a better future for all. During International Week of Science and Peace, discover the link between science, technology and peace.",
-      "vocab": [
-        {
-          "fr": "bâtir",
-          "zh": "建设",
-          "en": "to build"
-        },
-        {
-          "fr": "un avenir",
-          "zh": "未来",
-          "en": "a future"
-        },
-        {
-          "fr": "la paix",
-          "zh": "和平",
-          "en": "peace"
-        },
-        {
-          "fr": "le lien",
-          "zh": "联系",
-          "en": "the link"
-        }
-      ],
-      "question": {
-        "prompt": "Quelle semaine internationale est mentionnée ?",
-        "choices": [
-          "La Semaine de la science et de la paix",
-          "La Semaine du climat",
-          "La Semaine de la langue française",
-          "La Semaine de la santé"
-        ],
-        "answerIndex": 0,
-        "explanationZh": "原文说 Semaine internationale de la science et de la paix。"
-      }
-    },
-    {
-      "postId": "2119685354772939102",
-      "url": "https://x.com/franceinfo/status/2119685354772939102",
-      "author": "franceinfo",
-      "postedAt": "2026-11-09T06:55:45Z",
-      "excerpt": "État de santé des jeunes : \"Depuis plusieurs années, la santé mentale des jeunes se dégrade et on constate une accélération de cette dégradation depuis l'après-Covid\", déclare Étienne Pot, médecin et directeur général de Santé publique France.",
-      "level": "B2",
-      "topic": "santé",
-      "summaryZh": "法国公共卫生署新署长艾蒂安·波表示，11至17岁青少年心理健康多年持续恶化，新冠后加速，这是全球趋势，女孩尤其受影响。",
-      "summaryEn": "The new head of Santé publique France says the mental health of 11-17-year-olds has been worsening for years, faster since Covid; a global trend hitting girls especially.",
-      "vocab": [
-        {
-          "fr": "se dégrader",
-          "zh": "恶化",
-          "en": "to deteriorate"
-        },
-        {
-          "fr": "une tendance de fond",
-          "zh": "深层趋势",
-          "en": "an underlying trend"
-        },
-        {
-          "fr": "un facteur de risque",
-          "zh": "风险因素",
-          "en": "a risk factor"
-        },
-        {
-          "fr": "la prévention",
-          "zh": "预防",
-          "en": "prevention"
-        },
-        {
-          "fr": "interpeller",
-          "zh": "引起关注，警示",
-          "en": "to challenge, alert"
-        }
-      ],
-      "question": {
-        "prompt": "Selon Étienne Pot, depuis quand la dégradation s'accélère-t-elle ?",
-        "choices": [
-          "Depuis la rentrée 2026",
-          "Depuis les années 1990",
-          "Depuis la fin des examens",
-          "Depuis l'après-Covid"
-        ],
-        "answerIndex": 3,
-        "explanationZh": "他说 on constate une accélération de cette dégradation depuis l'après Covid。"
-      }
-    },
-    {
-      "postId": "2119759286041485554",
-      "url": "https://x.com/franceinfo/status/2119759286041485554",
-      "author": "franceinfo",
-      "postedAt": "2026-11-09T11:49:31Z",
-      "excerpt": "\"[Nous allons] anticiper la hausse du Smic au 1er décembre et porter cette augmentation à 1,6 % (...) On passe la barre des 1 500 euros, on est à 1 502 euros. Au cours de l’année 2026, le Smic aura augmenté de 5,3 %\", affirme Jean-Pierre Farandou, ministre du Travail.",
-      "level": "B1",
-      "topic": "travail",
-      "summaryZh": "法国劳动部长宣布：最低工资上调提前到12月1日，涨幅1.6%，月薪达1502欧元；2026年全年最低工资累计上涨5.3%。",
-      "summaryEn": "France's labour minister announces the minimum wage rise is brought forward to 1 December at 1.6%, reaching 1,502 euros; up 5.3% over 2026.",
-      "vocab": [
-        {
-          "fr": "le SMIC",
-          "zh": "法定最低工资",
-          "en": "the minimum wage"
-        },
-        {
-          "fr": "une hausse",
-          "zh": "上涨",
-          "en": "a rise"
+          "fr": "la fonte des glaces",
+          "zh": "冰川融化",
+          "en": "ice melt"
         },
         {
           "fr": "anticiper",
-          "zh": "提前",
-          "en": "to bring forward"
-        },
-        {
-          "fr": "arrondir",
-          "zh": "取整",
-          "en": "to round"
-        },
-        {
-          "fr": "les organisations syndicales",
-          "zh": "工会组织",
-          "en": "trade unions"
-        },
-        {
-          "fr": "substantiel",
-          "zh": "实质性的",
-          "en": "substantial"
+          "zh": "预判",
+          "en": "to anticipate"
         }
       ],
       "question": {
-        "prompt": "À partir de quand la hausse du SMIC s'appliquera-t-elle ?",
+        "prompt": "Quelle part de l'eau douce de la planète se trouve dans la cryosphère ?",
         "choices": [
-          "Le 1er janvier",
-          "Le 1er décembre",
-          "Le 21 octobre",
-          "Le 1er juillet"
-        ],
-        "answerIndex": 1,
-        "explanationZh": "部长说 anticiper la hausse du SMIC au 1er décembre，即12月1日。"
-      }
-    },
-    {
-      "postId": "2119713392990495156",
-      "url": "https://x.com/Sciences_Avenir/status/2119713392990495156",
-      "author": "Sciences_Avenir",
-      "postedAt": "2026-11-09T08:47:09Z",
-      "excerpt": "Des intelligences artificielles s’attaquent aux problèmes qui ont fait l’histoire des mathématiques. Si ces derniers remontent à Euclide, ils deviennent un objectif en soi assez tardivement.",
-      "level": "B2",
-      "topic": "actualité",
-      "summaryZh": "从欧几里得《几何原本》到希尔伯特23问题和千禧年难题，视频回顾数学难题史，并提到OpenAI称用AI智能体证明了纳维-斯托克斯方程，尚待验证。",
-      "summaryEn": "From Euclid's Elements to Hilbert's 23 problems and the Millennium Prize Problems; OpenAI claims AI agents proved Navier-Stokes, pending verification.",
-      "vocab": [
-        {
-          "fr": "s'attaquer à",
-          "zh": "着手解决，攻克",
-          "en": "to tackle"
-        },
-        {
-          "fr": "une démonstration",
-          "zh": "证明",
-          "en": "a proof"
-        },
-        {
-          "fr": "résoudre",
-          "zh": "解决",
-          "en": "to solve"
-        },
-        {
-          "fr": "insurmontable",
-          "zh": "无法克服的",
-          "en": "insurmountable"
-        },
-        {
-          "fr": "un prix",
-          "zh": "奖金，奖项",
-          "en": "a prize"
-        },
-        {
-          "fr": "une ère",
-          "zh": "时代",
-          "en": "an era"
-        }
-      ],
-      "question": {
-        "prompt": "Combien de problèmes du millénaire ont été officiellement résolus à ce jour ?",
-        "choices": [
-          "Aucun",
-          "Trois",
-          "Un seul",
-          "Vingt-trois"
-        ],
-        "answerIndex": 2,
-        "explanationZh": "视频说 À ce jour, un seul a été officiellement résolu，即庞加莱猜想。"
-      }
-    },
-    {
-      "postId": "2119435630169985244",
-      "url": "https://x.com/tv5mondeinfo/status/2119435630169985244",
-      "author": "tv5mondeinfo",
-      "postedAt": "2026-11-08T14:23:26Z",
-      "excerpt": "Dans le Grand Nord canadien, les Territoires du Nord-Ouest comptent plus de 45 000 habitants, parmi lesquels une minorité de francophones dans un océan anglophone.",
-      "level": "B2",
-      "topic": "immigration",
-      "summaryZh": "加拿大西北地区约4.5万居民中有约2500名法语者；耶洛奈夫法语学校爆满，非洲法语移民不断加入，社群计划2028年建北方高等教育网络。",
-      "summaryEn": "About 2,500 of the Northwest Territories' 45,000 residents speak French; Yellowknife's French school is full, African francophone immigrants keep arriving.",
-      "vocab": [
-        {
-          "fr": "une immensité",
-          "zh": "辽阔的地域",
-          "en": "a vast expanse"
-        },
-        {
-          "fr": "les inscriptions",
-          "zh": "入学注册人数",
-          "en": "enrolment"
-        },
-        {
-          "fr": "déborder",
-          "zh": "满溢，超出",
-          "en": "to overflow"
-        },
-        {
-          "fr": "le métissage",
-          "zh": "融合，混合",
-          "en": "blending, mixing"
-        },
-        {
-          "fr": "mutualiser",
-          "zh": "共享，汇集",
-          "en": "to pool"
-        },
-        {
-          "fr": "apprivoiser",
-          "zh": "熟悉，驯服",
-          "en": "to get to know, tame"
-        }
-      ],
-      "question": {
-        "prompt": "Combien d'élèves compte l'école francophone de Yellowknife ?",
-        "choices": [
-          "225",
-          "2 500",
-          "45 000",
-          "30"
+          "Près de 70 %",
+          "Moins de 10 %",
+          "Environ 2 %",
+          "Exactement 50 %"
         ],
         "answerIndex": 0,
-        "explanationZh": "视频说 225 élèves, 30 enseignants，即225名学生。"
+        "explanationZh": "原文说 La cryosphère renferme près de 70 % de l’eau douce。"
+      },
+      "explain": {
+        "styleZh": "科普加机构动态：先用两个数据说明冰冻圈与水资源的关系，再介绍教科文组织在 COP31 上的举措。",
+        "sentences": [
+          {
+            "fr": "Environ 2 milliards de personnes dépendent de l’eau des glaciers, de la fonte des neiges et du ruissellement de montagne.",
+            "zh": "约20亿人依赖冰川、融雪和山区径流的水。",
+            "structureZh": "主语 Environ 2 milliards de personnes，谓语 dépendent de 是直陈式现在时；介词 de 后接三个并列的名词短语：l’eau des glaciers、la fonte des neiges、le ruissellement de montagne。",
+            "points": [
+              {
+                "fr": "dépendre de",
+                "zh": "依赖……"
+              },
+              {
+                "fr": "la fonte des neiges",
+                "zh": "融雪"
+              },
+              {
+                "fr": "le ruissellement",
+                "zh": "地表径流"
+              }
+            ]
+          },
+          {
+            "fr": "La cryosphère renferme près de 70 % de l’eau douce de la planète.",
+            "zh": "冰冻圈储存着地球近70%的淡水。",
+            "structureZh": "简单句：主语 La cryosphère，谓语 renferme（renfermer，包含、蕴藏）直陈式现在时，表示客观事实；près de 表示“将近”。",
+            "points": [
+              {
+                "fr": "la cryosphère",
+                "zh": "冰冻圈"
+              },
+              {
+                "fr": "renfermer",
+                "zh": "包含，蕴藏"
+              },
+              {
+                "fr": "l’eau douce",
+                "zh": "淡水"
+              }
+            ]
+          },
+          {
+            "fr": "À la COP31, le Programme hydrologique intergouvernemental de l’UNESCO met en avant des initiatives scientifiques pour aider les pays à anticiper l’évolution des ressources en eau face à la fonte des glaces.",
+            "zh": "在COP31上，教科文组织政府间水文计划推介多项科学倡议，帮助各国预判冰川融化背景下水资源的变化。",
+            "structureZh": "主语是 le Programme hydrologique intergouvernemental de l’UNESCO，谓语 met en avant 为直陈式现在时；pour aider les pays à anticiper 表目的，嵌套 aider qn à + inf.；face à 表示“面对”。",
+            "points": [
+              {
+                "fr": "mettre en avant",
+                "zh": "推出，突出"
+              },
+              {
+                "fr": "anticiper",
+                "zh": "预判，预先应对"
+              },
+              {
+                "fr": "face à",
+                "zh": "面对"
+              },
+              {
+                "fr": "les ressources en eau",
+                "zh": "水资源"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2120078208011829587",
+      "url": "https://x.com/OIFrancophonie/status/2120078208011829587",
+      "author": "OIFrancophonie",
+      "postedAt": "2026-11-10T08:56:48Z",
+      "excerpt": "J-5 avant le 20e Sommet de la Francophonie ! Phnom Penh s’apprête à devenir le point de rencontre de la communauté francophone pour un rendez-vous placé sous le signe du dialogue et de la coopération. Au-delà des échanges politiques, cette 20e édition mettra à l’honneur la diversité culturelle, l’innovation et le dynamisme économique de l’espace francophone.",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "第20届法语国家峰会倒计时5天，将在金边举行，以对话与合作为主题，并展示法语区的文化多样性、创新和经济活力。",
+      "summaryEn": "Five days to the 20th Francophonie Summit in Phnom Penh, focused on dialogue and cooperation and showcasing cultural diversity, innovation and economic dynamism.",
+      "vocab": [
+        {
+          "fr": "un sommet",
+          "zh": "峰会",
+          "en": "a summit"
+        },
+        {
+          "fr": "s’apprêter à",
+          "zh": "即将",
+          "en": "to be about to"
+        },
+        {
+          "fr": "mettre à l’honneur",
+          "zh": "突出展示",
+          "en": "to showcase"
+        },
+        {
+          "fr": "la diversité culturelle",
+          "zh": "文化多样性",
+          "en": "cultural diversity"
+        }
+      ],
+      "question": {
+        "prompt": "Où se tiendra le 20e Sommet de la Francophonie ?",
+        "choices": [
+          "À Dakar",
+          "À Phnom Penh",
+          "À Paris",
+          "À Québec"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文说 Phnom Penh s’apprête à devenir le point de rencontre…，峰会在金边。"
+      },
+      "explain": {
+        "styleZh": "倒计时式活动预告：先用 J-5 制造期待，再介绍举办地和主题，最后说明本届峰会的亮点。",
+        "sentences": [
+          {
+            "fr": "J-5 avant le 20e Sommet de la Francophonie !",
+            "zh": "距离第20届法语国家峰会还有5天！",
+            "structureZh": "无动词的感叹句，J-5 意为“倒数第5天”（J = jour）；le 20e Sommet de la Francophonie 是序数词 + 名词。",
+            "points": [
+              {
+                "fr": "J-5 avant + nom",
+                "zh": "距离……还有5天（J = jour）"
+              },
+              {
+                "fr": "un sommet",
+                "zh": "峰会"
+              }
+            ]
+          },
+          {
+            "fr": "Phnom Penh s’apprête à devenir le point de rencontre de la communauté francophone pour un rendez-vous placé sous le signe du dialogue et de la coopération.",
+            "zh": "金边即将成为法语社群的汇聚地，迎接一场以对话与合作为主题的盛会。",
+            "structureZh": "主语 Phnom Penh，谓语 s’apprête à devenir（s’apprêter à + inf.，即将、准备做）；placé sous le signe de 是过去分词短语，修饰 un rendez-vous，表示“以……为主题”。",
+            "points": [
+              {
+                "fr": "s’apprêter à + inf.",
+                "zh": "即将做某事，准备做某事"
+              },
+              {
+                "fr": "le point de rencontre",
+                "zh": "汇聚点"
+              },
+              {
+                "fr": "sous le signe de",
+                "zh": "以……为标志，以……为主题"
+              }
+            ]
+          },
+          {
+            "fr": "Au-delà des échanges politiques, cette 20e édition mettra à l’honneur la diversité culturelle, l’innovation et le dynamisme économique de l’espace francophone.",
+            "zh": "除了政治交流，本届峰会还将展示法语区的文化多样性、创新和经济活力。",
+            "structureZh": "Au-delà de 表示“除了……之外还”；主语 cette 20e édition，谓语 mettra à l’honneur 是简单将来时，表示计划中的事；三个并列宾语 la diversité culturelle、l’innovation、le dynamisme économique。",
+            "points": [
+              {
+                "fr": "au-delà de",
+                "zh": "除了……之外，超越"
+              },
+              {
+                "fr": "mettre à l’honneur",
+                "zh": "表彰，突出展示"
+              },
+              {
+                "fr": "une édition",
+                "zh": "（活动的）届"
+              },
+              {
+                "fr": "le dynamisme",
+                "zh": "活力"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2119905092505682030",
+      "url": "https://x.com/Sciences_Avenir/status/2119905092505682030",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-09T21:28:54Z",
+      "excerpt": "Une horloge atomique développée à Singapour bat un record de précision : une seconde de décalage en plus de 260 milliards d'années. Grâce à un ion lutétium-176, elle pourrait contribuer à redéfinir la seconde.",
+      "level": "B2",
+      "topic": "actualité",
+      "summaryZh": "新加坡研制的原子钟创精度纪录，超过2600亿年仅误差一秒；借助镥-176离子，它或可帮助重新定义“秒”。",
+      "summaryEn": "An atomic clock built in Singapore sets a precision record, drifting one second in over 260 billion years; it could help redefine the second.",
+      "vocab": [
+        {
+          "fr": "une horloge atomique",
+          "zh": "原子钟",
+          "en": "an atomic clock"
+        },
+        {
+          "fr": "battre un record",
+          "zh": "打破纪录",
+          "en": "to break a record"
+        },
+        {
+          "fr": "la précision",
+          "zh": "精度",
+          "en": "precision"
+        },
+        {
+          "fr": "un décalage",
+          "zh": "误差",
+          "en": "a drift, offset"
+        }
+      ],
+      "question": {
+        "prompt": "Que pourrait permettre cette horloge ?",
+        "choices": [
+          "Mesurer la température",
+          "Remplacer les satellites",
+          "Prévoir la météo",
+          "Redéfinir la seconde"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "原文说 elle pourrait contribuer à redéfinir la seconde。"
+      },
+      "explain": {
+        "styleZh": "科学新闻快讯：第一句给出纪录与数据，第二句说明原理和潜在意义。",
+        "sentences": [
+          {
+            "fr": "Une horloge atomique développée à Singapour bat un record de précision : une seconde de décalage en plus de 260 milliards d'années.",
+            "zh": "新加坡研制的一台原子钟创下精度纪录：超过2600亿年才误差一秒。",
+            "structureZh": "主语 Une horloge atomique，développée à Singapour 是过去分词作定语；谓语 bat un record（battre un record，打破纪录）为直陈式现在时；冒号后是无动词的解释部分，具体说明精度。",
+            "points": [
+              {
+                "fr": "une horloge atomique",
+                "zh": "原子钟"
+              },
+              {
+                "fr": "battre un record",
+                "zh": "打破纪录"
+              },
+              {
+                "fr": "un décalage",
+                "zh": "偏差，误差"
+              }
+            ]
+          },
+          {
+            "fr": "Grâce à un ion lutétium-176, elle pourrait contribuer à redéfinir la seconde.",
+            "zh": "借助一个镥-176离子，它可能有助于重新定义“秒”。",
+            "structureZh": "Grâce à 表示积极的原因；主语 elle 指代原子钟；pourrait 是 pouvoir 的条件式现在时，表示可能性、推测而非确定；contribuer à + inf. 表示“有助于”。",
+            "points": [
+              {
+                "fr": "grâce à",
+                "zh": "多亏，借助"
+              },
+              {
+                "fr": "conditionnel de pouvoir",
+                "zh": "pourrait 表示可能、推测"
+              },
+              {
+                "fr": "contribuer à + inf.",
+                "zh": "有助于做某事"
+              },
+              {
+                "fr": "redéfinir",
+                "zh": "重新定义"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2120129363899510910",
+      "url": "https://x.com/Sciences_Avenir/status/2120129363899510910",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-10T12:20:05Z",
+      "excerpt": "Essentiels au bon fonctionnement de l'organisme, les antioxydants aident à protéger nos cellules du vieillissement, à condition d'être consommés dans le cadre d'une alimentation variée et équilibrée.",
+      "level": "B1",
+      "topic": "santé",
+      "summaryZh": "抗氧化物对身体运转必不可少，能帮助保护细胞延缓衰老，但前提是通过多样、均衡的饮食摄入。",
+      "summaryEn": "Antioxidants are essential to the body and help protect cells from ageing, provided they come from a varied and balanced diet.",
+      "vocab": [
+        {
+          "fr": "un antioxydant",
+          "zh": "抗氧化物",
+          "en": "an antioxidant"
+        },
+        {
+          "fr": "l'organisme",
+          "zh": "身体，机体",
+          "en": "the body"
+        },
+        {
+          "fr": "le vieillissement",
+          "zh": "衰老",
+          "en": "ageing"
+        },
+        {
+          "fr": "équilibré",
+          "zh": "均衡的",
+          "en": "balanced"
+        }
+      ],
+      "question": {
+        "prompt": "À quelle condition les antioxydants sont-ils utiles ?",
+        "choices": [
+          "S'ils sont pris en comprimés",
+          "S'ils sont consommés le soir",
+          "S'ils font partie d'une alimentation variée et équilibrée",
+          "S'ils remplacent les repas"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文说 à condition d'être consommés dans le cadre d'une alimentation variée et équilibrée。"
+      },
+      "explain": {
+        "styleZh": "健康科普句：一个长句先用形容词短语说明背景，再给出作用，最后加上条件。",
+        "sentences": [
+          {
+            "fr": "Essentiels au bon fonctionnement de l'organisme, les antioxydants aident à protéger nos cellules du vieillissement, à condition d'être consommés dans le cadre d'une alimentation variée et équilibrée.",
+            "zh": "抗氧化物对身体正常运转必不可少，有助于保护细胞免于衰老，前提是在多样均衡的饮食中摄入。",
+            "structureZh": "句首 Essentiels au bon fonctionnement de l'organisme 是同位形容词短语，修饰主语 les antioxydants（阳性复数配合）；谓语 aident à protéger；protéger qc de qc 表示“保护……免受……”；à condition de + 不定式被动 être consommés 表示条件。",
+            "points": [
+              {
+                "fr": "essentiel à",
+                "zh": "对……必不可少"
+              },
+              {
+                "fr": "protéger qc de qc",
+                "zh": "保护……免受……"
+              },
+              {
+                "fr": "à condition de + inf.",
+                "zh": "条件是……"
+              },
+              {
+                "fr": "une alimentation équilibrée",
+                "zh": "均衡饮食"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2119995246469677442",
+      "url": "https://x.com/LeTemps/status/2119995246469677442",
+      "author": "LeTemps",
+      "postedAt": "2026-11-10T03:27:09Z",
+      "excerpt": "Obligation de signaler les risques liés à l’IA, évaluation indépendante des modèles de pointe… l’Australie va obliger les entreprises du secteur à se conformer à de nouvelles mesures de protection «obligatoires»",
+      "level": "B2",
+      "topic": "actualité",
+      "summaryZh": "澳大利亚将要求人工智能企业遵守新的强制性保护措施，包括报告AI相关风险、对前沿模型进行独立评估。",
+      "summaryEn": "Australia will require AI companies to comply with new mandatory safeguards, including reporting AI risks and independent evaluation of frontier models.",
+      "vocab": [
+        {
+          "fr": "signaler",
+          "zh": "报告，指出",
+          "en": "to report"
+        },
+        {
+          "fr": "une évaluation indépendante",
+          "zh": "独立评估",
+          "en": "an independent evaluation"
+        },
+        {
+          "fr": "se conformer à",
+          "zh": "遵守",
+          "en": "to comply with"
+        },
+        {
+          "fr": "obligatoire",
+          "zh": "强制性的",
+          "en": "mandatory"
+        }
+      ],
+      "question": {
+        "prompt": "Que va faire l'Australie ?",
+        "choices": [
+          "Imposer des mesures de protection obligatoires aux entreprises de l'IA",
+          "Financer des start-up d'IA",
+          "Interdire totalement l'IA",
+          "Supprimer les évaluations des modèles"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文说 l’Australie va obliger les entreprises du secteur à se conformer à de nouvelles mesures…。"
+      },
+      "explain": {
+        "styleZh": "新闻导语：先用省略号列出两项具体措施吸引注意，再给出主句点明主体和动作。",
+        "sentences": [
+          {
+            "fr": "Obligation de signaler les risques liés à l’IA, évaluation indépendante des modèles de pointe… l’Australie va obliger les entreprises du secteur à se conformer à de nouvelles mesures de protection «obligatoires»",
+            "zh": "必须报告与人工智能相关的风险、对前沿模型进行独立评估……澳大利亚将强制该行业企业遵守新的“强制性”保护措施。",
+            "structureZh": "句首两个名词短语并列列举措施，省略号表示未尽；主句 l’Australie va obliger…，va + inf. 是最近将来时；obliger qn à + inf. 表示“强迫某人做”；se conformer à 意为“遵守”；liés à l’IA 是过去分词定语。",
+            "points": [
+              {
+                "fr": "obliger qn à + inf.",
+                "zh": "强制某人做某事"
+              },
+              {
+                "fr": "se conformer à",
+                "zh": "遵守，符合"
+              },
+              {
+                "fr": "liés à + nom",
+                "zh": "与……相关的（过去分词作定语，与 risques 配合）"
+              },
+              {
+                "fr": "de pointe",
+                "zh": "尖端的，前沿的"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2119985649797550119",
+      "url": "https://x.com/LeTemps/status/2119985649797550119",
+      "author": "LeTemps",
+      "postedAt": "2026-11-10T02:49:00Z",
+      "excerpt": "Les émissions mondiales de CO2 devraient baisser de 0,4% cette année, selon un rapport scientifique publié à l’occasion de l’ouverture de la COP31 à Antalya (Turquie).",
+      "level": "B2",
+      "topic": "actualité",
+      "summaryZh": "一份在COP31开幕之际发布的科学报告预计，今年全球二氧化碳排放量将下降0.4%。",
+      "summaryEn": "Global CO2 emissions should fall by 0.4% this year, according to a scientific report released as COP31 opened in Antalya, Turkey.",
+      "vocab": [
+        {
+          "fr": "les émissions",
+          "zh": "排放量",
+          "en": "emissions"
+        },
+        {
+          "fr": "baisser",
+          "zh": "下降",
+          "en": "to fall"
+        },
+        {
+          "fr": "un rapport scientifique",
+          "zh": "科学报告",
+          "en": "a scientific report"
+        },
+        {
+          "fr": "l’ouverture",
+          "zh": "开幕",
+          "en": "the opening"
+        }
+      ],
+      "question": {
+        "prompt": "Selon le rapport, comment évolueront les émissions mondiales de CO2 cette année ?",
+        "choices": [
+          "Elles augmenteront de 4 %",
+          "Elles doubleront",
+          "Elles resteront stables",
+          "Elles baisseront de 0,4 %"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "原文说 devraient baisser de 0,4% cette année。"
+      },
+      "explain": {
+        "styleZh": "新闻导语：一句话给出数据、时间与消息来源。",
+        "sentences": [
+          {
+            "fr": "Les émissions mondiales de CO2 devraient baisser de 0,4% cette année, selon un rapport scientifique publié à l’occasion de l’ouverture de la COP31 à Antalya (Turquie).",
+            "zh": "根据COP31在土耳其安塔利亚开幕之际发布的一份科学报告，今年全球二氧化碳排放量预计将下降0.4%。",
+            "structureZh": "主语 Les émissions mondiales de CO2，谓语 devraient baisser：devoir 的条件式现在时 + 不定式，表示预测（预计会）；baisser de 0,4% 中 de 表示幅度；selon 引出消息来源，publié 为过去分词作定语修饰 rapport。",
+            "points": [
+              {
+                "fr": "devoir (conditionnel) + inf.",
+                "zh": "devraient baisser：表示预计、按理会"
+              },
+              {
+                "fr": "baisser de + pourcentage",
+                "zh": "下降……（幅度）"
+              },
+              {
+                "fr": "selon",
+                "zh": "根据"
+              },
+              {
+                "fr": "à l’occasion de",
+                "zh": "值此……之际"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2119871179746107884",
+      "url": "https://x.com/EmmanuelMacron/status/2119871179746107884",
+      "author": "EmmanuelMacron",
+      "postedAt": "2026-11-09T19:14:09Z",
+      "excerpt": "L’intelligence artificielle avance très vite. On l’a déjà vu : cela implique des risques réels pour notre sécurité collective. Notre travail pour developper nos technologies doit aussi être celui de l’anticipation et de la maîtrise de ses risques.",
+      "level": "B2",
+      "topic": "actualité",
+      "summaryZh": "马克龙表示人工智能发展极快，已带来对集体安全的真实风险，发展技术的同时必须预判并掌控其风险。",
+      "summaryEn": "Macron says AI is advancing very fast and poses real risks to collective security; developing it must go hand in hand with anticipating and controlling its risks.",
+      "vocab": [
+        {
+          "fr": "avancer",
+          "zh": "发展，前进",
+          "en": "to advance"
+        },
+        {
+          "fr": "impliquer",
+          "zh": "带来，意味着",
+          "en": "to involve"
+        },
+        {
+          "fr": "la maîtrise",
+          "zh": "掌控",
+          "en": "control, mastery"
+        },
+        {
+          "fr": "l’anticipation",
+          "zh": "预判",
+          "en": "anticipation"
+        }
+      ],
+      "question": {
+        "prompt": "Selon le message, que doit aussi inclure le développement des technologies ?",
+        "choices": [
+          "La baisse des prix",
+          "L'arrêt de la recherche",
+          "L'anticipation et la maîtrise des risques",
+          "La publicité"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文说 doit aussi être celui de l’anticipation et de la maîtrise de ses risques。"
+      },
+      "explain": {
+        "styleZh": "政治人物的简短表态：先陈述现象，再指出风险，最后提出应有的态度。",
+        "sentences": [
+          {
+            "fr": "L’intelligence artificielle avance très vite.",
+            "zh": "人工智能发展得非常快。",
+            "structureZh": "简单句：主语 L’intelligence artificielle，谓语 avance（直陈式现在时）表示当前的事实，très vite 是副词短语作状语。",
+            "points": [
+              {
+                "fr": "l’intelligence artificielle",
+                "zh": "人工智能"
+              },
+              {
+                "fr": "avancer",
+                "zh": "前进，发展"
+              }
+            ]
+          },
+          {
+            "fr": "On l’a déjà vu : cela implique des risques réels pour notre sécurité collective.",
+            "zh": "我们已经看到：这带来了对我们集体安全的真实风险。",
+            "structureZh": "On l’a déjà vu 是复合过去时，l’ 指代前面提到的情况；冒号后 cela implique… 为直陈式现在时，implique 意为“意味着，带来”。",
+            "points": [
+              {
+                "fr": "avoir + participe passé",
+                "zh": "复合过去时 l’a vu，表示已完成的动作"
+              },
+              {
+                "fr": "impliquer",
+                "zh": "意味着，牵涉"
+              },
+              {
+                "fr": "la sécurité collective",
+                "zh": "集体安全"
+              }
+            ]
+          },
+          {
+            "fr": "Notre travail pour developper nos technologies doit aussi être celui de l’anticipation et de la maîtrise de ses risques.",
+            "zh": "我们发展技术的工作，也必须是预判和掌控其风险的工作。",
+            "structureZh": "主语 Notre travail pour developper nos technologies（原文 developper 少了重音，标准写法为 développer）；谓语 doit être，devoir + inf. 表示义务；指示代词 celui 代替 le travail，避免重复。",
+            "points": [
+              {
+                "fr": "devoir + inf.",
+                "zh": "必须做某事"
+              },
+              {
+                "fr": "celui de",
+                "zh": "……的那个（指示代词，代替前面的阳性名词）"
+              },
+              {
+                "fr": "la maîtrise",
+                "zh": "掌控"
+              },
+              {
+                "fr": "l’anticipation",
+                "zh": "预判，预见"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2120057777674473685",
+      "url": "https://x.com/franceinfo/status/2120057777674473685",
+      "author": "franceinfo",
+      "postedAt": "2026-11-10T07:35:37Z",
+      "excerpt": "\"Le coup de pouce que nous avons décidé n'abîmera pas l'emploi\", assure Jean-Pierre Farandou, ministre du Travail et des Solidarités.",
+      "level": "B2",
+      "topic": "travail",
+      "summaryZh": "法国劳动部长法朗杜称最低工资额外上调不会损害就业：12月1日起月薪税后1502欧元，DARES估计仅5000至2万个岗位受影响，全年涨5.3%。",
+      "summaryEn": "Labour minister Farandou says the SMIC boost won't hurt jobs: 1,502 euros net from 1 December; DARES sees only 5,000-20,000 jobs affected; up 5.3% this year.",
+      "vocab": [
+        {
+          "fr": "un coup de pouce",
+          "zh": "额外上调",
+          "en": "a boost"
+        },
+        {
+          "fr": "abîmer l'emploi",
+          "zh": "损害就业",
+          "en": "to harm employment"
+        },
+        {
+          "fr": "le pouvoir d'achat",
+          "zh": "购买力",
+          "en": "purchasing power"
+        },
+        {
+          "fr": "la prime d'activité",
+          "zh": "就业补贴",
+          "en": "in-work benefit"
+        },
+        {
+          "fr": "négligeable",
+          "zh": "可忽略的",
+          "en": "negligible"
+        },
+        {
+          "fr": "les minima conventionnels",
+          "zh": "集体协议最低工资",
+          "en": "agreed minimum wages"
+        }
+      ],
+      "question": {
+        "prompt": "Selon le ministre, combien d'emplois pourraient être affectés par la hausse du SMIC ?",
+        "choices": [
+          "Plus de 100 000",
+          "Entre 5 000 et 20 000",
+          "Exactement 47 000",
+          "Aucun"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "部长引用DARES的评估：seulement 5 000 à 20 000 emplois qui pourraient être affectés。"
+      },
+      "explain": {
+        "styleZh": "新闻引语式配文：直接引用部长原话，再交代说话人身份。",
+        "sentences": [
+          {
+            "fr": "\"Le coup de pouce que nous avons décidé n'abîmera pas l'emploi\", assure Jean-Pierre Farandou, ministre du Travail et des Solidarités.",
+            "zh": "“我们决定的这次额外上调不会损害就业。”劳动与团结部长让-皮埃尔·法朗杜保证说。",
+            "structureZh": "引语在前、说话人在后，assure 与主语 Jean-Pierre Farandou 倒装，这是新闻引语的常见写法；引语中 que nous avons décidé 是关系从句修饰 le coup de pouce（复合过去时）；n'abîmera pas 是 abîmer 的简单将来时否定式，表示对未来的保证。",
+            "points": [
+              {
+                "fr": "un coup de pouce",
+                "zh": "额外推动；（最低工资的）额外上调"
+              },
+              {
+                "fr": "abîmer",
+                "zh": "损害，弄坏"
+              },
+              {
+                "fr": "assurer",
+                "zh": "保证，肯定地说"
+              },
+              {
+                "fr": "citation + verbe + sujet",
+                "zh": "引语后主谓倒装：assure Jean-Pierre Farandou"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2120082515616837688",
+      "url": "https://x.com/tv5mondeinfo/status/2120082515616837688",
+      "author": "tv5mondeinfo",
+      "postedAt": "2026-11-10T09:13:55Z",
+      "excerpt": "Phnom Penh s'apprête à accueillir le 20e Sommet de la Francophonie. Parmi les phares de cette francophonie dans le monde, il y a l'Université Senghor à Alexandrie, en Égypte. Rencontre avec une étudiante malgache qui s'exprime aussi par le slam.",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "埃及亚历山大的桑戈尔大学每年用法语培养450多名非洲学生；30岁的马达加斯加slam诗人奥尔塞尼在此深造，希望回国推动文化发展。",
+      "summaryEn": "Senghor University in Alexandria trains 450+ African students in French yearly; Olseni, a 30-year-old Malagasy slam artist, studies there to boost her country's culture.",
+      "vocab": [
+        {
+          "fr": "reprendre les études",
+          "zh": "重返校园",
+          "en": "to go back to school"
+        },
+        {
+          "fr": "bâtir sa carrière",
+          "zh": "建立事业",
+          "en": "to build a career"
+        },
+        {
+          "fr": "un trait d'union",
+          "zh": "纽带，桥梁",
+          "en": "a link, bridge"
+        },
+        {
+          "fr": "un recteur",
+          "zh": "校长",
+          "en": "a rector"
+        },
+        {
+          "fr": "le cursus",
+          "zh": "学业课程",
+          "en": "course of study"
+        },
+        {
+          "fr": "une compétence",
+          "zh": "技能",
+          "en": "a skill"
+        }
+      ],
+      "question": {
+        "prompt": "Pourquoi Olseni a-t-elle repris ses études à 30 ans ?",
+        "choices": [
+          "Pour devenir professeure de français",
+          "Pour acquérir plus de compétences et bâtir une carrière durable",
+          "Pour quitter définitivement Madagascar",
+          "Pour apprendre l'arabe"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "她说为了走得更远、让事业长久，il faut rajouter plus de compétences。"
+      },
+      "explain": {
+        "styleZh": "电视台短视频配文：先用峰会作新闻由头，再引出主题学校，最后预告人物故事。",
+        "sentences": [
+          {
+            "fr": "Phnom Penh s'apprête à accueillir le 20e Sommet de la Francophonie.",
+            "zh": "金边即将迎来第20届法语国家峰会。",
+            "structureZh": "主语 Phnom Penh，谓语 s'apprête à accueillir：s'apprêter à + inf. 表示“即将、准备做”，直陈式现在时；宾语 le 20e Sommet de la Francophonie。",
+            "points": [
+              {
+                "fr": "s'apprêter à + inf.",
+                "zh": "即将做某事"
+              },
+              {
+                "fr": "accueillir",
+                "zh": "接待，举办"
+              },
+              {
+                "fr": "un sommet",
+                "zh": "峰会"
+              }
+            ]
+          },
+          {
+            "fr": "Parmi les phares de cette francophonie dans le monde, il y a l'Université Senghor à Alexandrie, en Égypte.",
+            "zh": "在世界法语圈的“灯塔”中，有一所位于埃及亚历山大的桑戈尔大学。",
+            "structureZh": "Parmi + 复数名词 置于句首，表示“在……之中”；主句 il y a 引出存在的事物 l'Université Senghor；à Alexandrie, en Égypte 说明地点，城市用 à，阴性国名用 en。",
+            "points": [
+              {
+                "fr": "parmi",
+                "zh": "在……之中"
+              },
+              {
+                "fr": "un phare",
+                "zh": "灯塔；比喻标杆、引领者"
+              },
+              {
+                "fr": "à + ville, en + pays féminin",
+                "zh": "城市前用 à，阴性国名前用 en"
+              }
+            ]
+          },
+          {
+            "fr": "Rencontre avec une étudiante malgache qui s'exprime aussi par le slam.",
+            "zh": "走近一位也用slam（口语诗）表达自我的马达加斯加女学生。",
+            "structureZh": "无动词的标题式句子，Rencontre avec… 意为“与……见面”；qui s'exprime 是关系从句，修饰 une étudiante malgache；s'exprimer par 表示“通过……表达自己”。",
+            "points": [
+              {
+                "fr": "une rencontre avec",
+                "zh": "与……的见面（报道栏目常用语）"
+              },
+              {
+                "fr": "malgache",
+                "zh": "马达加斯加的"
+              },
+              {
+                "fr": "s'exprimer par",
+                "zh": "通过……表达自己"
+              },
+              {
+                "fr": "le slam",
+                "zh": "slam，口语诗表演"
+              }
+            ]
+          }
+        ]
       }
     }
   ]
