@@ -13,8 +13,16 @@
       "summaryZh": "从一月起，工作许可申请的处理速度将加快。",
       "summaryEn": "Work permit applications will be processed faster starting in January.",
       "vocab": [
-        { "fr": "un permis de travail", "zh": "工作许可", "en": "work permit" },
-        { "fr": "traiter une demande", "zh": "处理申请", "en": "to process an application" }
+        {
+          "fr": "un permis de travail",
+          "zh": "工作许可",
+          "en": "work permit"
+        },
+        {
+          "fr": "traiter une demande",
+          "zh": "处理申请",
+          "en": "to process an application"
+        }
       ],
       "question": {
         "prompt": "Qu'est-ce qui va changer en janvier ?",
@@ -26,6 +34,30 @@
         ],
         "answerIndex": 0,
         "explanationZh": "原句说 seront traitées plus rapidement，即处理得更快。"
+      },
+      "explain": {
+        "styleZh": "新闻标题式的一句话快讯：只交代变化本身（什么、何时），没有背景。",
+        "sentences": [
+          {
+            "fr": "Les demandes de permis de travail seront traitées plus rapidement dès janvier.",
+            "zh": "从一月起，工作许可申请将得到更快的处理。",
+            "structureZh": "主语是 Les demandes de permis de travail（工作许可的申请）；谓语 seront traitées 是被动语态的简单将来时（être 的将来时 seront + 过去分词 traitées，与阴性复数主语配合）；plus rapidement 是比较级副词；dès janvier 表示时间起点。",
+            "points": [
+              {
+                "fr": "être + participe passé（被动语态）",
+                "zh": "seront traitées = 将被处理；过去分词要与主语性数配合"
+              },
+              {
+                "fr": "traiter une demande",
+                "zh": "处理申请"
+              },
+              {
+                "fr": "dès + date",
+                "zh": "从……起（强调从这个时间点立即开始）"
+              }
+            ]
+          }
+        ]
       }
     }
   ]
