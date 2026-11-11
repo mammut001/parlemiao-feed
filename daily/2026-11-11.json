@@ -1,0 +1,1236 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-11T12:26:10Z",
+  "items": [
+    {
+      "postId": "2120221370604728372",
+      "url": "https://x.com/CNES/status/2120221370604728372",
+      "author": "CNES",
+      "postedAt": "2026-11-10T18:25:41Z",
+      "excerpt": "À 60 km de distance, Hera révèle une face inédite de Didymos. Le petit éclat en bas, c’est Dimorphos, l’astéroïde dont DART a modifié l’orbite en le percutant en 2022. Le 25 novembre, l’ESA dévoilera des images détaillées des deux astéroïdes.",
+      "level": "B1",
+      "topic": "actualité",
+      "summaryZh": "欧空局Hera探测器在60公里外拍到迪迪莫斯小行星前所未见的一面，画面中的小亮点是2022年被DART撞击改变轨道的迪莫弗斯；11月25日将公布详细图像。",
+      "summaryEn": "ESA's Hera probe imaged an unseen side of asteroid Didymos from 60 km; the small dot is Dimorphos, whose orbit DART changed in 2022. Detailed images come on 25 November.",
+      "vocab": [
+        {
+          "fr": "un astéroïde",
+          "zh": "小行星",
+          "en": "an asteroid"
+        },
+        {
+          "fr": "l’orbite",
+          "zh": "轨道",
+          "en": "the orbit"
+        },
+        {
+          "fr": "percuter",
+          "zh": "撞击",
+          "en": "to hit, strike"
+        },
+        {
+          "fr": "dévoiler",
+          "zh": "公布，揭开",
+          "en": "to unveil"
+        },
+        {
+          "fr": "inédit",
+          "zh": "前所未见的",
+          "en": "never seen before"
+        }
+      ],
+      "question": {
+        "prompt": "Qu’est-ce que DART a fait en 2022 ?",
+        "choices": [
+          "Il a photographié Didymos à 60 km.",
+          "Il a découvert un nouvel astéroïde.",
+          "Il a modifié l’orbite de Dimorphos en le percutant.",
+          "Il a ramené des roches sur Terre."
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文：l’astéroïde dont DART a modifié l’orbite en le percutant en 2022。"
+      },
+      "explain": {
+        "styleZh": "航天机构的图片说明：先描述照片内容，再解释画面中的小天体，最后预告后续发布的日期。",
+        "sentences": [
+          {
+            "fr": "À 60 km de distance, Hera révèle une face inédite de Didymos.",
+            "zh": "在60公里的距离上，Hera探测器揭示了迪迪莫斯小行星前所未见的一面。",
+            "structureZh": "句首 À 60 km de distance 是地点状语，说明拍摄距离；主语 Hera（欧空局探测器），谓语 révèle 是 révéler 的直陈式现在时，新闻图片说明常用现在时让画面更有现场感；宾语 une face inédite de Didymos。",
+            "points": [
+              {
+                "fr": "à + distance + de distance",
+                "zh": "在……距离上"
+              },
+              {
+                "fr": "révèle（révéler qch）",
+                "zh": "揭示，展现某物"
+              },
+              {
+                "fr": "inédit",
+                "zh": "前所未见的，未发表过的"
+              }
+            ]
+          },
+          {
+            "fr": "Le petit éclat en bas, c’est Dimorphos, l’astéroïde dont DART a modifié l’orbite en le percutant en 2022.",
+            "zh": "下方那个小亮点就是迪莫弗斯，也就是2022年DART探测器撞击并改变了其轨道的那颗小行星。",
+            "structureZh": "Le petit éclat en bas, c’est… 是强调结构：先提出话题，再用 c’est 指明身份。dont 引导关系从句，相当于 de qui/de laquelle，因为 l’orbite de l’astéroïde 中有 de；a modifié 是复合过去时，讲2022年已完成的事；en le percutant 是副动词（en + 现在分词），说明改变轨道的方式，le 指 l’astéroïde。",
+            "points": [
+              {
+                "fr": "dont（关系代词）",
+                "zh": "代替 de + 先行词：l’astéroïde dont… l’orbite = l’orbite de l’astéroïde"
+              },
+              {
+                "fr": "en + participe présent",
+                "zh": "副动词，表示方式：通过……"
+              },
+              {
+                "fr": "percuter qch",
+                "zh": "撞击某物"
+              },
+              {
+                "fr": "un éclat",
+                "zh": "亮点，闪光；碎片"
+              }
+            ]
+          },
+          {
+            "fr": "Le 25 novembre, l’ESA dévoilera des images détaillées des deux astéroïdes.",
+            "zh": "11月25日，欧洲航天局将公布这两颗小行星的详细图像。",
+            "structureZh": "Le 25 novembre 是时间状语；主语 l’ESA（欧洲航天局，元音前省音 l’）；dévoilera 是 dévoiler 的简单将来时，因为讲的是确定的未来安排。des deux astéroïdes 中 des = de + les 的缩合。",
+            "points": [
+              {
+                "fr": "dévoiler qch",
+                "zh": "揭开，公布某物"
+              },
+              {
+                "fr": "détaillé",
+                "zh": "详细的"
+              },
+              {
+                "fr": "简单将来时 dévoilera",
+                "zh": "表示已确定的未来事件"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2120233556722999779",
+      "url": "https://x.com/CitImmCanFR/status/2120233556722999779",
+      "author": "CitImmCanFR",
+      "postedAt": "2026-11-10T19:14:06Z",
+      "excerpt": "Le Canada oriente ses efforts en matière d’immigration vers les secteurs où cela peut le mieux soutenir notre l’économie, notamment les communautés rurales et éloignées confrontées à des pénuries de main-d’œuvre. Hier, la ministre Metlege Diab a annoncé que le Programme pilote d’immigration pour les communautés rurales est maintenant un programme permanent.",
+      "level": "B1",
+      "topic": "immigration",
+      "summaryZh": "加拿大把移民工作重点放在最能支持经济的领域，尤其是缺乏劳动力的农村和偏远社区；部长宣布农村社区移民试点项目已转为常设项目。",
+      "summaryEn": "Canada focuses immigration where it best supports the economy, especially rural and remote communities short of workers; the rural immigration pilot is now permanent.",
+      "vocab": [
+        {
+          "fr": "orienter ses efforts",
+          "zh": "调整工作方向",
+          "en": "to focus one's efforts"
+        },
+        {
+          "fr": "une pénurie",
+          "zh": "短缺",
+          "en": "a shortage"
+        },
+        {
+          "fr": "la main-d’œuvre",
+          "zh": "劳动力",
+          "en": "the workforce"
+        },
+        {
+          "fr": "éloigné",
+          "zh": "偏远的",
+          "en": "remote"
+        },
+        {
+          "fr": "permanent",
+          "zh": "常设的",
+          "en": "permanent"
+        }
+      ],
+      "question": {
+        "prompt": "Quelles communautés sont surtout visées ?",
+        "choices": [
+          "Les communautés rurales et éloignées qui manquent de main-d’œuvre",
+          "Les quartiers universitaires",
+          "Les grandes métropoles",
+          "Les communautés à l’étranger"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文：notamment les communautés rurales et éloignées confrontées à des pénuries de main-d’œuvre。"
+      },
+      "explain": {
+        "styleZh": "政府移民部门的政策说明：先说明整体方向（移民服务经济、偏远社区），再用 Hier 引出具体的部长公告。",
+        "sentences": [
+          {
+            "fr": "Le Canada oriente ses efforts en matière d’immigration vers les secteurs où cela peut le mieux soutenir notre l’économie, notamment les communautés rurales et éloignées confrontées à des pénuries de main-d’œuvre.",
+            "zh": "加拿大将移民工作的重点放在最能支持经济的领域，尤其是面临劳动力短缺的农村和偏远社区。",
+            "structureZh": "主句 Le Canada oriente ses efforts… vers les secteurs，orienter qch vers 表示“把……引向”；où 引导关系从句修饰 les secteurs，le mieux 是最高级“最好地”。notamment 引出举例；confrontées 是过去分词作定语，与 communautés 阴性复数配合。原文 notre l’économie 是发帖笔误，应为 notre économie。",
+            "points": [
+              {
+                "fr": "orienter qch vers",
+                "zh": "把某事引向……"
+              },
+              {
+                "fr": "en matière de",
+                "zh": "在……方面"
+              },
+              {
+                "fr": "notamment",
+                "zh": "尤其，特别是"
+              },
+              {
+                "fr": "être confronté à",
+                "zh": "面临……"
+              },
+              {
+                "fr": "une pénurie de main-d’œuvre",
+                "zh": "劳动力短缺"
+              }
+            ]
+          },
+          {
+            "fr": "Hier, la ministre Metlege Diab a annoncé que le Programme pilote d’immigration pour les communautés rurales est maintenant un programme permanent.",
+            "zh": "昨天，梅特莱奇·迪亚布部长宣布，农村社区移民试点项目现已成为常设项目。",
+            "structureZh": "主句 la ministre… a annoncé 是复合过去时，讲昨天已完成的宣布；que 引导宾语从句，从句用现在时 est，因为“现已成为常设项目”在说话时仍然成立，所以不必改成未完成过去时。",
+            "points": [
+              {
+                "fr": "annoncer que + indicatif",
+                "zh": "宣布……"
+              },
+              {
+                "fr": "un programme pilote",
+                "zh": "试点项目"
+              },
+              {
+                "fr": "permanent",
+                "zh": "常设的，永久的"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2120267207330390500",
+      "url": "https://x.com/CitImmCanFR/status/2120267207330390500",
+      "author": "CitImmCanFR",
+      "postedAt": "2026-11-10T21:27:49Z",
+      "excerpt": "Aujourd’hui, au Quai 21, la ministre Metlege Diab a présenté les investissements prévus dans le Budget de 2026 pour soutenir la culture canadienne, renforcer les industries créatives et rendre les arts et le patrimoine plus accessibles partout au pays.",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "加拿大部长在哈利法克斯21号码头介绍2026年预算中的文化投资，用于支持加拿大文化、加强创意产业，让全国各地更容易接触艺术和文化遗产。",
+      "summaryEn": "At Pier 21, Minister Metlege Diab presented Budget 2026 investments to support Canadian culture, strengthen creative industries and make arts and heritage more accessible.",
+      "vocab": [
+        {
+          "fr": "un investissement",
+          "zh": "投资",
+          "en": "an investment"
+        },
+        {
+          "fr": "le patrimoine",
+          "zh": "文化遗产",
+          "en": "heritage"
+        },
+        {
+          "fr": "accessible",
+          "zh": "易于接触的",
+          "en": "accessible"
+        },
+        {
+          "fr": "renforcer",
+          "zh": "加强",
+          "en": "to strengthen"
+        },
+        {
+          "fr": "créatif",
+          "zh": "创意的",
+          "en": "creative"
+        }
+      ],
+      "question": {
+        "prompt": "Quel est l’un des objectifs des investissements présentés ?",
+        "choices": [
+          "Réduire le nombre de musées",
+          "Fermer le Quai 21",
+          "Augmenter le prix des billets",
+          "Rendre les arts et le patrimoine plus accessibles"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "原文：rendre les arts et le patrimoine plus accessibles partout au pays。"
+      },
+      "explain": {
+        "styleZh": "政府公告式长句：时间、地点开头，主句说明部长做了什么，再用三个并列的 pour + 不定式列出目标。",
+        "sentences": [
+          {
+            "fr": "Aujourd’hui, au Quai 21, la ministre Metlege Diab a présenté les investissements prévus dans le Budget de 2026 pour soutenir la culture canadienne, renforcer les industries créatives et rendre les arts et le patrimoine plus accessibles partout au pays.",
+            "zh": "今天在21号码头，梅特莱奇·迪亚布部长介绍了2026年预算中计划用于支持加拿大文化、加强创意产业，并让全国各地更容易接触艺术和文化遗产的投资。",
+            "structureZh": "句首 Aujourd’hui, au Quai 21 是时间和地点状语（Quai 21 是哈利法克斯的移民博物馆）。主句 la ministre… a présenté les investissements 用复合过去时，表示今天已完成的动作；prévus 是过去分词作定语，“计划中的”。pour 后接三个并列不定式 soutenir、renforcer、rendre，说明投资目的；rendre qch + adj. 意为“使某物变得……”。partout au pays 是加拿大法语常见说法。",
+            "points": [
+              {
+                "fr": "prévu dans",
+                "zh": "在……中计划的"
+              },
+              {
+                "fr": "rendre qch + adjectif",
+                "zh": "使某物变得……"
+              },
+              {
+                "fr": "le patrimoine",
+                "zh": "文化遗产"
+              },
+              {
+                "fr": "les industries créatives",
+                "zh": "创意产业"
+              },
+              {
+                "fr": "partout au pays",
+                "zh": "在全国各地（加拿大法语）"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2120483374750113869",
+      "url": "https://x.com/LeTemps/status/2120483374750113869",
+      "author": "LeTemps",
+      "postedAt": "2026-11-11T11:46:47Z",
+      "excerpt": "Près de 28% des personnes au bénéfice d’un apprentissage gagnent moins de 5000 francs par mois. Une initiative populaire pourrait voir le jour dès l’an prochain pour revaloriser les CFC",
+      "level": "B2",
+      "topic": "travail",
+      "summaryZh": "瑞士近28%完成学徒培训的人月薪不足5000法郎；最早明年可能出现一项公民动议，要求提高学徒结业证书持有者的待遇。",
+      "summaryEn": "Nearly 28% of Swiss apprenticeship graduates earn under 5,000 francs a month; a popular initiative to upgrade the CFC certificate could be launched next year.",
+      "vocab": [
+        {
+          "fr": "un apprentissage",
+          "zh": "学徒培训",
+          "en": "an apprenticeship"
+        },
+        {
+          "fr": "voir le jour",
+          "zh": "诞生",
+          "en": "to come into being"
+        },
+        {
+          "fr": "revaloriser",
+          "zh": "提高价值",
+          "en": "to upgrade, revalue"
+        },
+        {
+          "fr": "une initiative populaire",
+          "zh": "公民动议",
+          "en": "a popular initiative"
+        }
+      ],
+      "question": {
+        "prompt": "Combien gagnent près de 28 % des personnes issues d’un apprentissage ?",
+        "choices": [
+          "Exactement 6000 francs par mois",
+          "Moins de 5000 francs par mois",
+          "Plus de 8000 francs par mois",
+          "Moins de 2000 francs par an"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文：gagnent moins de 5000 francs par mois。"
+      },
+      "explain": {
+        "styleZh": "瑞士报纸的新闻导语：先给出一个数据，再引出可能的后续行动。",
+        "sentences": [
+          {
+            "fr": "Près de 28% des personnes au bénéfice d’un apprentissage gagnent moins de 5000 francs par mois.",
+            "zh": "近28%完成学徒培训的人月薪不到5000瑞士法郎。",
+            "structureZh": "主语是 Près de 28% des personnes au bénéfice d’un apprentissage，près de 表示“将近”；谓语 gagnent 是直陈式现在时，陈述普遍事实。au bénéfice de 是瑞士法语常用说法，意为“拥有、持有（某种资格）”。francs 指瑞士法郎。",
+            "points": [
+              {
+                "fr": "près de + nombre",
+                "zh": "将近……"
+              },
+              {
+                "fr": "au bénéfice de",
+                "zh": "持有（某资格）（瑞士法语用法）"
+              },
+              {
+                "fr": "un apprentissage",
+                "zh": "学徒培训"
+              },
+              {
+                "fr": "gagner + somme + par mois",
+                "zh": "每月挣……"
+              }
+            ]
+          },
+          {
+            "fr": "Une initiative populaire pourrait voir le jour dès l’an prochain pour revaloriser les CFC",
+            "zh": "一项公民动议最早可能在明年提出，以提高联邦职业能力证书（CFC）的价值。",
+            "structureZh": "主语 Une initiative populaire（瑞士的公民动议）；pourrait 是 pouvoir 的条件式现在时，表示可能性、尚未确定，新闻中常用来避免把消息说死。voir le jour 意为“诞生、出现”；dès 表示“最早从……起”；pour + 不定式 revaloriser 表目的。CFC = certificat fédéral de capacité，瑞士学徒结业证书。",
+            "points": [
+              {
+                "fr": "voir le jour",
+                "zh": "诞生，问世"
+              },
+              {
+                "fr": "pouvoir 条件式 pourrait",
+                "zh": "表示可能、未经证实"
+              },
+              {
+                "fr": "dès + temps",
+                "zh": "最早从……起"
+              },
+              {
+                "fr": "revaloriser qch",
+                "zh": "提高……的价值或待遇"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2120418481417953428",
+      "url": "https://x.com/LeTemps/status/2120418481417953428",
+      "author": "LeTemps",
+      "postedAt": "2026-11-11T07:28:56Z",
+      "excerpt": "En marge de la COP31, plusieurs organisations environnementales publient ce mercredi un classement climatique, dans lequel la Suisse gagne deux places.",
+      "level": "B2",
+      "topic": "actualité",
+      "summaryZh": "COP31期间，多个环保组织周三发布气候排名，瑞士上升了两位。",
+      "summaryEn": "On the sidelines of COP31, several environmental groups published a climate ranking on Wednesday in which Switzerland rose two places.",
+      "vocab": [
+        {
+          "fr": "en marge de",
+          "zh": "在……期间",
+          "en": "on the sidelines of"
+        },
+        {
+          "fr": "un classement",
+          "zh": "排名",
+          "en": "a ranking"
+        },
+        {
+          "fr": "environnemental",
+          "zh": "环境的",
+          "en": "environmental"
+        },
+        {
+          "fr": "gagner des places",
+          "zh": "名次上升",
+          "en": "to move up"
+        }
+      ],
+      "question": {
+        "prompt": "Quel est le résultat de la Suisse dans ce classement ?",
+        "choices": [
+          "Elle est première.",
+          "Elle n’est pas classée.",
+          "Elle perd deux places.",
+          "Elle gagne deux places."
+        ],
+        "answerIndex": 3,
+        "explanationZh": "原文：la Suisse gagne deux places。"
+      },
+      "explain": {
+        "styleZh": "新闻导语：一句话交代背景（COP31）、事件（发布气候排名）和瑞士的结果。",
+        "sentences": [
+          {
+            "fr": "En marge de la COP31, plusieurs organisations environnementales publient ce mercredi un classement climatique, dans lequel la Suisse gagne deux places.",
+            "zh": "在COP31期间，多个环保组织于本周三发布了一份气候排名，瑞士在其中上升了两位。",
+            "structureZh": "En marge de 表示“在……之外、期间的场外”；主句 plusieurs organisations environnementales publient… un classement climatique，用现在时报道当天的事；dans lequel 是“介词 + lequel”构成的关系代词，指 un classement（阳性单数），引出从句 la Suisse gagne deux places。",
+            "points": [
+              {
+                "fr": "en marge de",
+                "zh": "在……期间（场外）"
+              },
+              {
+                "fr": "dans lequel",
+                "zh": "介词 + lequel 引导关系从句"
+              },
+              {
+                "fr": "un classement",
+                "zh": "排名"
+              },
+              {
+                "fr": "gagner deux places",
+                "zh": "上升两位"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2120396266551026157",
+      "url": "https://x.com/Sciences_Avenir/status/2120396266551026157",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-11T06:00:39Z",
+      "excerpt": "La Lune formée en quelques heures ! Ce résultat est le fruit de simulations informatiques révisant l'hypothèse de la collision entre la Terre et un corps de la taille de Mars en incorporant cette fois la résistance au choc.",
+      "level": "B2",
+      "topic": "actualité",
+      "summaryZh": "新的计算机模拟修正了地球与火星大小天体相撞的假说，加入了抗冲击能力因素，结果显示月球可能只用了几小时就形成了。",
+      "summaryEn": "New computer simulations revising the giant-impact hypothesis, now including shock resistance, suggest the Moon may have formed in just a few hours.",
+      "vocab": [
+        {
+          "fr": "une simulation informatique",
+          "zh": "计算机模拟",
+          "en": "a computer simulation"
+        },
+        {
+          "fr": "une hypothèse",
+          "zh": "假说",
+          "en": "a hypothesis"
+        },
+        {
+          "fr": "une collision",
+          "zh": "碰撞",
+          "en": "a collision"
+        },
+        {
+          "fr": "le fruit de",
+          "zh": "……的成果",
+          "en": "the result of"
+        },
+        {
+          "fr": "réviser",
+          "zh": "修正",
+          "en": "to revise"
+        }
+      ],
+      "question": {
+        "prompt": "Sur quoi repose ce résultat ?",
+        "choices": [
+          "Sur des simulations informatiques",
+          "Sur une mission habitée",
+          "Sur des observations d’un télescope",
+          "Sur des roches lunaires rapportées en 2022"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文：Ce résultat est le fruit de simulations informatiques。"
+      },
+      "explain": {
+        "styleZh": "科普杂志的标题加解释：先用省略动词的惊叹句抓眼球，再用一句长句说明研究方法。",
+        "sentences": [
+          {
+            "fr": "La Lune formée en quelques heures !",
+            "zh": "月球在几小时内形成！",
+            "structureZh": "这是省略了助动词的标题式句子，完整说法是 La Lune s’est formée / a été formée en quelques heures。formée 是过去分词，与阴性的 la Lune 配合。en + 时间 表示“在……时间内完成”。",
+            "points": [
+              {
+                "fr": "en + durée",
+                "zh": "在……时间内（完成）"
+              },
+              {
+                "fr": "formée（标题省略 s’est）",
+                "zh": "标题中常省略助动词，只保留过去分词"
+              }
+            ]
+          },
+          {
+            "fr": "Ce résultat est le fruit de simulations informatiques révisant l'hypothèse de la collision entre la Terre et un corps de la taille de Mars en incorporant cette fois la résistance au choc.",
+            "zh": "这一结果来自计算机模拟：模拟修正了地球与一个火星大小天体相撞的假说，这次把抗冲击能力也纳入了计算。",
+            "structureZh": "主句 Ce résultat est le fruit de… “这一结果是……的成果”。révisant 是现在分词，相当于 qui révisent，修饰 simulations；en incorporant 是副动词，表示方式。un corps de la taille de Mars 意为“火星大小的天体”。cette fois 强调与以往模拟的不同。",
+            "points": [
+              {
+                "fr": "être le fruit de",
+                "zh": "是……的成果"
+              },
+              {
+                "fr": "participe présent : révisant",
+                "zh": "现在分词作定语 = qui révisent"
+              },
+              {
+                "fr": "en + participe présent",
+                "zh": "副动词，表示方式"
+              },
+              {
+                "fr": "de la taille de",
+                "zh": "……大小的"
+              },
+              {
+                "fr": "incorporer qch",
+                "zh": "纳入，加入某物"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2120475995459424433",
+      "url": "https://x.com/Sciences_Avenir/status/2120475995459424433",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-11T11:17:28Z",
+      "excerpt": "Transports, vêtements, produits d'hygiène… Rares sont les objets ou les activités de notre quotidien qui échappent à l'emprise du pétrole. Mais pour parvenir à s'en défaire, une véritable transition énergétique doit être amorcée",
+      "level": "B2",
+      "topic": "actualité",
+      "summaryZh": "交通、服装、卫生用品，日常生活几乎处处离不开石油；要想摆脱石油依赖，必须启动真正的能源转型。",
+      "summaryEn": "Transport, clothes, hygiene products: few things in daily life escape oil's grip. To break free, a real energy transition must be launched.",
+      "vocab": [
+        {
+          "fr": "l'emprise",
+          "zh": "控制，支配",
+          "en": "grip, hold"
+        },
+        {
+          "fr": "échapper à",
+          "zh": "摆脱",
+          "en": "to escape"
+        },
+        {
+          "fr": "se défaire de",
+          "zh": "摆脱",
+          "en": "to get rid of"
+        },
+        {
+          "fr": "amorcer",
+          "zh": "启动",
+          "en": "to initiate"
+        },
+        {
+          "fr": "la transition énergétique",
+          "zh": "能源转型",
+          "en": "energy transition"
+        }
+      ],
+      "question": {
+        "prompt": "Que faut-il, selon le texte, pour se défaire du pétrole ?",
+        "choices": [
+          "Augmenter la production de pétrole",
+          "Acheter moins de vêtements",
+          "Amorcer une véritable transition énergétique",
+          "Arrêter tous les transports"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文：une véritable transition énergétique doit être amorcée。"
+      },
+      "explain": {
+        "styleZh": "科普导语：先列举日常物品，再用倒装句强调石油无处不在，最后用 Mais 转折提出能源转型。",
+        "sentences": [
+          {
+            "fr": "Transports, vêtements, produits d'hygiène… Rares sont les objets ou les activités de notre quotidien qui échappent à l'emprise du pétrole.",
+            "zh": "交通、衣服、卫生用品……我们日常生活中很少有物品或活动能摆脱石油的控制。",
+            "structureZh": "开头三个名词并列、省略号表示列举未尽。Rares sont les objets… 是表语前置的倒装句，正常语序为 Les objets… sont rares，前置 Rares 起强调作用。qui échappent 是关系从句，échapper à qch 表示“逃脱，不受……影响”。",
+            "points": [
+              {
+                "fr": "Rares sont + nom",
+                "zh": "倒装强调：很少有……"
+              },
+              {
+                "fr": "échapper à qch",
+                "zh": "逃脱，不受……影响"
+              },
+              {
+                "fr": "l'emprise de",
+                "zh": "……的控制、支配"
+              },
+              {
+                "fr": "le quotidien",
+                "zh": "日常生活"
+              }
+            ]
+          },
+          {
+            "fr": "Mais pour parvenir à s'en défaire, une véritable transition énergétique doit être amorcée",
+            "zh": "但要想摆脱石油，就必须启动真正的能源转型。",
+            "structureZh": "Mais 表示转折；pour parvenir à + inf. 是目的状语，parvenir à 意为“成功做到”。s'en défaire 中 en 代替 du pétrole，因为 se défaire de qch 要求 de。主句 une véritable transition énergétique doit être amorcée 是 devoir + 被动不定式（être amorcée），amorcée 与阴性主语配合。",
+            "points": [
+              {
+                "fr": "parvenir à + inf.",
+                "zh": "成功做到某事"
+              },
+              {
+                "fr": "se défaire de qch",
+                "zh": "摆脱某物"
+              },
+              {
+                "fr": "s'en défaire（代词 en）",
+                "zh": "en 代替 du pétrole"
+              },
+              {
+                "fr": "amorcer qch",
+                "zh": "启动，开始某事"
+              },
+              {
+                "fr": "devoir + être + participe passé",
+                "zh": "必须被……（被动）"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2120433914049171513",
+      "url": "https://x.com/OIFrancophonie/status/2120433914049171513",
+      "author": "OIFrancophonie",
+      "postedAt": "2026-11-11T08:30:15Z",
+      "excerpt": "J-4 avant le 20e Sommet de la Francophonie ! Les jours se succèdent et nous rapprochent de ce grand rendez-vous qui réunira, dans la capitale cambodgienne, les délégations des 90 États et gouvernements membres de l’OIF. Cet événement international constitue une étape importante pour la Francophonie, présente sur les cinq continents, et revêt une dimension particulière pour son rayonnement en Asie.",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "第20届法语国家峰会倒计时4天，将在柬埔寨首都金边汇聚法语国家组织90个成员的代表团，对法语国家在亚洲的影响力具有特殊意义。",
+      "summaryEn": "Four days until the 20th Francophonie Summit in the Cambodian capital, gathering delegations of the OIF's 90 member states and governments; a key step for its reach in Asia.",
+      "vocab": [
+        {
+          "fr": "un sommet",
+          "zh": "峰会",
+          "en": "a summit"
+        },
+        {
+          "fr": "une délégation",
+          "zh": "代表团",
+          "en": "a delegation"
+        },
+        {
+          "fr": "le rayonnement",
+          "zh": "影响力",
+          "en": "influence, reach"
+        },
+        {
+          "fr": "se succéder",
+          "zh": "相继而来",
+          "en": "to follow one another"
+        },
+        {
+          "fr": "revêtir",
+          "zh": "具有",
+          "en": "to take on"
+        }
+      ],
+      "question": {
+        "prompt": "Combien d’États et gouvernements membres l’OIF compte-t-elle selon le message ?",
+        "choices": [
+          "60",
+          "90",
+          "5",
+          "20"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文：les délégations des 90 États et gouvernements membres de l’OIF。"
+      },
+      "explain": {
+        "styleZh": "国际组织的倒计时宣传：先用 J-4 标题造势，再说明峰会规模，最后强调其意义。",
+        "sentences": [
+          {
+            "fr": "J-4 avant le 20e Sommet de la Francophonie !",
+            "zh": "距第20届法语国家峰会还有4天！",
+            "structureZh": "标题式句子，没有动词。J-4 读作 J moins quatre，J 指 le jour J（活动当天），表示倒计时还有4天。20e 读作 vingtième。",
+            "points": [
+              {
+                "fr": "J-4 avant",
+                "zh": "距……还有4天（le jour J 前4天）"
+              },
+              {
+                "fr": "un sommet",
+                "zh": "峰会"
+              }
+            ]
+          },
+          {
+            "fr": "Les jours se succèdent et nous rapprochent de ce grand rendez-vous qui réunira, dans la capitale cambodgienne, les délégations des 90 États et gouvernements membres de l’OIF.",
+            "zh": "日子一天天过去，让我们越来越接近这场盛会，它将在柬埔寨首都汇聚法语国家组织90个成员国家和政府的代表团。",
+            "structureZh": "两个并列谓语 se succèdent 和 nous rapprochent de，都用现在时；rapprocher qn de qch 表示“使某人接近某事”。qui réunira 是关系从句，réunira 是简单将来时，因为峰会还没举行；插入语 dans la capitale cambodgienne 把地点放在动词和宾语之间。",
+            "points": [
+              {
+                "fr": "se succéder",
+                "zh": "接连发生，相继而来"
+              },
+              {
+                "fr": "rapprocher qn de qch",
+                "zh": "使某人接近某事"
+              },
+              {
+                "fr": "un rendez-vous",
+                "zh": "约会；盛会，重要活动"
+              },
+              {
+                "fr": "réunir",
+                "zh": "汇聚，召集"
+              }
+            ]
+          },
+          {
+            "fr": "Cet événement international constitue une étape importante pour la Francophonie, présente sur les cinq continents, et revêt une dimension particulière pour son rayonnement en Asie.",
+            "zh": "这一国际活动对遍布五大洲的法语国家组织来说是重要的一步，对其在亚洲的影响力也具有特殊意义。",
+            "structureZh": "主语 Cet événement international，两个并列谓语 constitue 和 revêt（revêtir 的现在时）。présente sur les cinq continents 是同位形容词短语，修饰 la Francophonie，所以用阴性 présente。son 指 la Francophonie。",
+            "points": [
+              {
+                "fr": "constituer qch",
+                "zh": "构成，是"
+              },
+              {
+                "fr": "revêtir une dimension",
+                "zh": "具有……的意义"
+              },
+              {
+                "fr": "le rayonnement",
+                "zh": "影响力，辐射力"
+              },
+              {
+                "fr": "une étape importante",
+                "zh": "重要的一步"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2120171204078141803",
+      "url": "https://x.com/ONU_fr/status/2120171204078141803",
+      "author": "ONU_fr",
+      "postedAt": "2026-11-10T15:06:20Z",
+      "excerpt": "Un financement durable de la science est nécessaire, car notre avenir commun en dépend. Nous célébrons ce mardi la Journée mondiale de la science au service de la paix & du développement.",
+      "level": "B1",
+      "topic": "actualité",
+      "summaryZh": "联合国在世界科学促进和平与发展日呼吁为科学提供可持续的资金，因为人类共同的未来取决于科学。",
+      "summaryEn": "On World Science Day for Peace and Development, the UN says science needs sustainable funding because our common future depends on it.",
+      "vocab": [
+        {
+          "fr": "le financement",
+          "zh": "资金支持",
+          "en": "funding"
+        },
+        {
+          "fr": "durable",
+          "zh": "可持续的",
+          "en": "sustainable"
+        },
+        {
+          "fr": "dépendre de",
+          "zh": "取决于",
+          "en": "to depend on"
+        },
+        {
+          "fr": "célébrer",
+          "zh": "庆祝",
+          "en": "to celebrate"
+        }
+      ],
+      "question": {
+        "prompt": "Pourquoi un financement durable de la science est-il nécessaire ?",
+        "choices": [
+          "Parce que notre avenir commun en dépend",
+          "Parce que mardi est un jour férié",
+          "Parce que la science coûte peu",
+          "Parce que les universités ferment"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文：car notre avenir commun en dépend。"
+      },
+      "explain": {
+        "styleZh": "国际组织纪念日短文：先提出观点并用 car 说明理由，再点明纪念日。",
+        "sentences": [
+          {
+            "fr": "Un financement durable de la science est nécessaire, car notre avenir commun en dépend.",
+            "zh": "科学需要可持续的资金支持，因为我们共同的未来取决于此。",
+            "structureZh": "主句 Un financement durable de la science est nécessaire；car 引出原因（比 parce que 更书面，只能放在句中）。en dépend 中 en 代替 de ce financement，因为 dépendre de qch 要求 de。",
+            "points": [
+              {
+                "fr": "dépendre de qch",
+                "zh": "取决于某事"
+              },
+              {
+                "fr": "en dépend（代词 en）",
+                "zh": "en 代替 de ce financement"
+              },
+              {
+                "fr": "nécessaire, car…",
+                "zh": "……是必要的，因为……（car 书面语，引出解释）"
+              },
+              {
+                "fr": "un financement durable",
+                "zh": "可持续的资金支持"
+              }
+            ]
+          },
+          {
+            "fr": "Nous célébrons ce mardi la Journée mondiale de la science au service de la paix & du développement.",
+            "zh": "本周二我们庆祝世界科学促进和平与发展日。",
+            "structureZh": "主语 Nous，谓语 célébrons 是直陈式现在时；ce mardi 表示“本周二”。au service de 意为“为……服务”，du développement 中 du = de + le。",
+            "points": [
+              {
+                "fr": "célébrer qch",
+                "zh": "庆祝，纪念某事"
+              },
+              {
+                "fr": "au service de",
+                "zh": "为……服务"
+              },
+              {
+                "fr": "la Journée mondiale",
+                "zh": "世界日，国际纪念日"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2120458396444791214",
+      "url": "https://x.com/franceinfo/status/2120458396444791214",
+      "author": "franceinfo",
+      "postedAt": "2026-11-11T10:07:32Z",
+      "excerpt": "\"Il faut augmenter les salaires, il faut que le travail paye plus, que nos enfants puissent acheter un appartement avec leurs salaires\", affirme Michel-Édouard Leclerc, président du comité stratégique des centres E. Leclerc",
+      "level": "B1",
+      "topic": "travail",
+      "summaryZh": "E. Leclerc超市集团的勒克莱尔表示，必须提高工资，让工作更有回报，让下一代能靠工资买房。",
+      "summaryEn": "Michel-Édouard Leclerc says wages must rise so that work pays more and young people can afford to buy a flat with their salaries.",
+      "vocab": [
+        {
+          "fr": "augmenter les salaires",
+          "zh": "提高工资",
+          "en": "to raise wages"
+        },
+        {
+          "fr": "le travail paye",
+          "zh": "工作有回报",
+          "en": "work pays"
+        },
+        {
+          "fr": "affirmer",
+          "zh": "表示",
+          "en": "to state"
+        },
+        {
+          "fr": "un appartement",
+          "zh": "公寓",
+          "en": "a flat"
+        }
+      ],
+      "question": {
+        "prompt": "Que souhaite Michel-Édouard Leclerc ?",
+        "choices": [
+          "Baisser les prix de l’immobilier",
+          "Fermer des magasins",
+          "Réduire le temps de travail",
+          "Augmenter les salaires"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "原文开头：Il faut augmenter les salaires。"
+      },
+      "explain": {
+        "styleZh": "新闻引语：先放受访者原话，再交代说话人身份，原话里用三个 il faut / que 结构排比。",
+        "sentences": [
+          {
+            "fr": "\"Il faut augmenter les salaires, il faut que le travail paye plus, que nos enfants puissent acheter un appartement avec leurs salaires\", affirme Michel-Édouard Leclerc, président du comité stratégique des centres E. Leclerc",
+            "zh": "“必须提高工资，必须让工作挣得更多，让我们的孩子能靠工资买得起公寓。”E. Leclerc超市集团战略委员会主席米歇尔-爱德华·勒克莱尔表示。",
+            "structureZh": "引语中 il faut + inf. 和 il faut que + 虚拟式 两种结构交替：paye（payer 的虚拟式）、puissent（pouvoir 的虚拟式），因为 il faut que 后必须用虚拟式；第三个 que 省略了 il faut。引语后 affirme Michel-Édouard Leclerc 主谓倒装，是新闻引语常规写法。",
+            "points": [
+              {
+                "fr": "il faut que + subjonctif",
+                "zh": "必须……（后接虚拟式）"
+              },
+              {
+                "fr": "payer（工作）",
+                "zh": "（工作）有回报，挣钱"
+              },
+              {
+                "fr": "puissent（pouvoir 虚拟式）",
+                "zh": "能够"
+              },
+              {
+                "fr": "affirmer",
+                "zh": "断言，表示"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2120227756525175264",
+      "url": "https://x.com/RFI/status/2120227756525175264",
+      "author": "RFI",
+      "postedAt": "2026-11-10T18:51:03Z",
+      "excerpt": "Le Sénégal à la fête, ce mardi 10 novembre, au stade Iba Mar Diop. Marie Sarr a offert une cinquième médaille d'or au pays de la Teranga, dans une ambiance chaude et intense.",
+      "level": "A2",
+      "topic": "actualité",
+      "summaryZh": "在达喀尔青奥会上，塞内加尔选手玛丽·萨尔为国家赢得第五枚金牌；她说比赛前一切都很艰难，能拿金牌要感谢教练和观众的鼓励。",
+      "summaryEn": "At the Dakar Youth Olympics, Marie Sarr won Senegal's fifth gold; she says it was hard getting there and thanks her coach and the crowd.",
+      "vocab": [
+        {
+          "fr": "une médaille d'or",
+          "zh": "金牌",
+          "en": "a gold medal"
+        },
+        {
+          "fr": "grâce à",
+          "zh": "多亏，由于",
+          "en": "thanks to"
+        },
+        {
+          "fr": "être derrière qn",
+          "zh": "支持某人",
+          "en": "to back someone"
+        },
+        {
+          "fr": "contente",
+          "zh": "高兴的",
+          "en": "happy"
+        }
+      ],
+      "question": {
+        "prompt": "À qui Marie Sarr attribue-t-elle surtout sa médaille ?",
+        "choices": [
+          "À son coach",
+          "À sa sœur",
+          "Au ministre",
+          "À la chance"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "她说 c'est grâce au coach que j'ai eu une médaille。"
+      },
+      "explain": {
+        "styleZh": "体育新闻短视频配文：先用无动词的标题句点出喜庆场面，再交代运动员和成绩。",
+        "sentences": [
+          {
+            "fr": "Le Sénégal à la fête, ce mardi 10 novembre, au stade Iba Mar Diop.",
+            "zh": "11月10日周二，伊巴·马尔·迪奥普体育场里，塞内加尔一片欢腾。",
+            "structureZh": "标题式句子，省略了动词 est：完整说法 Le Sénégal est à la fête。être à la fête 意为“欢庆、高兴”。ce mardi 10 novembre 是时间，au stade… 是地点（au = à + le）。",
+            "points": [
+              {
+                "fr": "être à la fête",
+                "zh": "欢庆，非常高兴"
+              },
+              {
+                "fr": "un stade",
+                "zh": "体育场"
+              }
+            ]
+          },
+          {
+            "fr": "Marie Sarr a offert une cinquième médaille d'or au pays de la Teranga, dans une ambiance chaude et intense.",
+            "zh": "玛丽·萨尔在热烈紧张的气氛中，为“特兰加之国”赢得了第五枚金牌。",
+            "structureZh": "主语 Marie Sarr，谓语 a offert 是 offrir 的复合过去时，讲已完成的结果；offrir qch à qn 意为“给某人带来某物”。le pays de la Teranga 是塞内加尔的别称（Teranga 在沃洛夫语中意为“好客”）。dans une ambiance… 说明气氛。",
+            "points": [
+              {
+                "fr": "a offert（offrir qch à qn）",
+                "zh": "给某人带来、献上某物"
+              },
+              {
+                "fr": "une médaille d'or",
+                "zh": "金牌"
+              },
+              {
+                "fr": "la Teranga",
+                "zh": "（沃洛夫语）好客；塞内加尔的别称"
+              },
+              {
+                "fr": "une ambiance",
+                "zh": "气氛"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2120166000234508459",
+      "url": "https://x.com/tv5mondeinfo/status/2120166000234508459",
+      "author": "tv5mondeinfo",
+      "postedAt": "2026-11-10T14:45:39Z",
+      "excerpt": "Injustice climatique, réparations... autant de sujets au cœur de la COP31 qui vient de s'ouvrir à Antalya en Turquie. L'Afrique doit faire face aux conséquences du dérèglement climatique sans moyens financiers supplémentaires.",
+      "level": "B2",
+      "topic": "actualité",
+      "summaryZh": "COP31在土耳其开幕，环保组织专家指出：非洲被要求出台新气候计划却缺乏资金，适应资金需要2024年300亿的十倍，这是气候不公问题。",
+      "summaryEn": "As COP31 opens in Turkey, an NGO expert says Africa is asked for new climate plans without funding; adaptation finance must be ten times the 30 billion of 2024.",
+      "vocab": [
+        {
+          "fr": "le nerf de la guerre",
+          "zh": "关键所在（尤指钱）",
+          "en": "the crux (money)"
+        },
+        {
+          "fr": "le dindon de la farce",
+          "zh": "冤大头，受骗者",
+          "en": "the dupe"
+        },
+        {
+          "fr": "l'adaptation",
+          "zh": "适应（气候变化）",
+          "en": "adaptation"
+        },
+        {
+          "fr": "asphyxié",
+          "zh": "窒息的，被压垮的",
+          "en": "choked"
+        },
+        {
+          "fr": "la tête haute",
+          "zh": "昂首挺胸，体面地",
+          "en": "with head held high"
+        },
+        {
+          "fr": "un seau d'eau",
+          "zh": "一桶水",
+          "en": "a bucket of water"
+        }
+      ],
+      "question": {
+        "prompt": "Selon l'experte, de combien faudrait-il multiplier le financement de l'adaptation ?",
+        "choices": [
+          "Par deux",
+          "Par trois",
+          "Par dix",
+          "Par trente"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "她说 Il y en avait 30 milliards en 2024, il en faut dix fois plus。"
+      },
+      "explain": {
+        "styleZh": "电视台访谈视频配文：先用名词列举点出议题，再概括非洲面临的处境。",
+        "sentences": [
+          {
+            "fr": "Injustice climatique, réparations... autant de sujets au cœur de la COP31 qui vient de s'ouvrir à Antalya en Turquie.",
+            "zh": "气候不公、赔偿……这些都是刚在土耳其安塔利亚开幕的COP31的核心议题。",
+            "structureZh": "句子省略了动词：完整说法是 ce sont autant de sujets…。autant de + 名词 在这里意为“这么多……”，总括前面列举的内容。qui vient de s'ouvrir 是关系从句，venir de + inf. 是“最近过去时”，表示刚刚发生。",
+            "points": [
+              {
+                "fr": "autant de + nom",
+                "zh": "这么多的……（总括前文）"
+              },
+              {
+                "fr": "venir de + inf.",
+                "zh": "刚刚做了某事（最近过去时）"
+              },
+              {
+                "fr": "au cœur de",
+                "zh": "在……的核心"
+              },
+              {
+                "fr": "une réparation",
+                "zh": "赔偿，补偿"
+              }
+            ]
+          },
+          {
+            "fr": "L'Afrique doit faire face aux conséquences du dérèglement climatique sans moyens financiers supplémentaires.",
+            "zh": "非洲必须在没有额外资金的情况下应对气候失调的后果。",
+            "structureZh": "主语 L'Afrique，谓语 doit faire face à（devoir + inf. 表示必须），aux = à + les 的缩合。sans + 名词（不带冠词）表示“没有……”。dérèglement climatique 比 changement climatique 更强调“失调、紊乱”。",
+            "points": [
+              {
+                "fr": "faire face à qch",
+                "zh": "面对，应对"
+              },
+              {
+                "fr": "le dérèglement climatique",
+                "zh": "气候失调"
+              },
+              {
+                "fr": "sans + nom sans article",
+                "zh": "没有……（名词前不加冠词）"
+              },
+              {
+                "fr": "supplémentaire",
+                "zh": "额外的"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2120441124561314241",
+      "url": "https://x.com/tv5mondeinfo/status/2120441124561314241",
+      "author": "tv5mondeinfo",
+      "postedAt": "2026-11-11T08:58:54Z",
+      "excerpt": "\"S'enjailler\", \"mon pain\"... Dans le journal satirique Gbich !, édiré en nouchi et publié en Côte d'Ivoire depuis 1999, les journalistes racontent avec humour la société et la politique du pays",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "科特迪瓦讽刺周报《Gbich!》自1999年起几乎全用努西语写作；这种法语与当地语言混合的俚语获法语国家组织认可，已有4个词进入法语词典。",
+      "summaryEn": "Ivorian satirical weekly Gbich!, since 1999, is written almost entirely in Nouchi, a French-local slang recognised by the OIF; four of its words are now in French dictionaries.",
+      "vocab": [
+        {
+          "fr": "un hebdomadaire",
+          "zh": "周报",
+          "en": "a weekly"
+        },
+        {
+          "fr": "satirique",
+          "zh": "讽刺的",
+          "en": "satirical"
+        },
+        {
+          "fr": "un argot",
+          "zh": "俚语",
+          "en": "slang"
+        },
+        {
+          "fr": "mêler A à B",
+          "zh": "把A与B混合",
+          "en": "to mix A with B"
+        },
+        {
+          "fr": "s'imposer comme une évidence",
+          "zh": "理所当然",
+          "en": "to be self-evident"
+        },
+        {
+          "fr": "l'ADN",
+          "zh": "DNA；本质特征",
+          "en": "DNA, core identity"
+        }
+      ],
+      "question": {
+        "prompt": "Combien de mots nouchi sont entrés dans les dictionnaires français, selon le reportage ?",
+        "choices": [
+          "Deux",
+          "Quatre",
+          "Vingt",
+          "Sept cents"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "视频结尾说 Quatre mots nouchi ont conquis les dictionnaires français，另有近700个在街头流传。"
+      },
+      "explain": {
+        "styleZh": "电视台短视频配文：先抛出两个有趣的俚语词，再介绍报纸的语言、出版地点和内容。",
+        "sentences": [
+          {
+            "fr": "\"S'enjailler\", \"mon pain\"...",
+            "zh": "“S'enjailler”（尽情玩乐）、“mon pain”（我男人）……",
+            "structureZh": "开头只列举两个努西语（nouchi）词语，没有动词，用引号表示引用的词，省略号表示还有更多，用来吸引读者兴趣。s'enjailler 来自英语 enjoy，是科特迪瓦法语的代词式动词。",
+            "points": [
+              {
+                "fr": "s'enjailler",
+                "zh": "（科特迪瓦法语）尽情玩乐，开心"
+              },
+              {
+                "fr": "mon pain",
+                "zh": "（努西语）我男人，我丈夫"
+              }
+            ]
+          },
+          {
+            "fr": "Dans le journal satirique Gbich !, édiré en nouchi et publié en Côte d'Ivoire depuis 1999, les journalistes racontent avec humour la société et la politique du pays",
+            "zh": "在用努西语编写、自1999年起在科特迪瓦出版的讽刺报纸《Gbich!》里，记者们用幽默讲述这个国家的社会和政治。",
+            "structureZh": "句首 Dans le journal satirique Gbich ! 是地点状语；两个过去分词短语 édiré（原文笔误，应为 édité）en nouchi 和 publié… depuis 1999 修饰报纸；depuis + 年份 与现在时连用，表示持续至今。主句 les journalistes racontent… 用直陈式现在时描述一贯的做法。avec humour 是方式状语。",
+            "points": [
+              {
+                "fr": "satirique",
+                "zh": "讽刺的"
+              },
+              {
+                "fr": "édiré（原文笔误，应为 édité）",
+                "zh": "éditer 的过去分词：编辑出版"
+              },
+              {
+                "fr": "depuis + date + présent",
+                "zh": "自……以来（一直）"
+              },
+              {
+                "fr": "raconter avec humour",
+                "zh": "用幽默的方式讲述"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
