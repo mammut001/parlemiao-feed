@@ -1,0 +1,1269 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-12T12:24:45Z",
+  "items": [
+    {
+      "postId": "2120839056418394476",
+      "url": "https://x.com/LeTemps/status/2120839056418394476",
+      "author": "LeTemps",
+      "postedAt": "2026-11-12T11:20:08Z",
+      "excerpt": "La marque parisienne s’est taillé une manufacture horlogère sur mesure à Genève. Tout a été pensé dans un seul but: rassembler le meilleur de l’industrie et de l’artisanat.",
+      "level": "B2",
+      "topic": "travail",
+      "summaryZh": "一家巴黎奢侈品牌在日内瓦建了一座量身定制的制表工坊，目标是把工业化生产和传统手工艺的精华汇聚在一起。",
+      "summaryEn": "A Parisian brand has built a made-to-measure watch manufacture in Geneva, designed to bring together the best of industry and craftsmanship.",
+      "vocab": [
+        {
+          "fr": "une manufacture",
+          "zh": "工坊，制造厂",
+          "en": "a manufacture, factory"
+        },
+        {
+          "fr": "horloger",
+          "zh": "钟表的",
+          "en": "watchmaking"
+        },
+        {
+          "fr": "sur mesure",
+          "zh": "量身定制的",
+          "en": "made-to-measure"
+        },
+        {
+          "fr": "l’artisanat",
+          "zh": "手工艺",
+          "en": "craftsmanship"
+        },
+        {
+          "fr": "rassembler",
+          "zh": "汇集",
+          "en": "to bring together"
+        }
+      ],
+      "question": {
+        "prompt": "Quel est le but de la nouvelle manufacture à Genève ?",
+        "choices": [
+          "Produire des voitures",
+          "Vendre uniquement en ligne",
+          "Rassembler le meilleur de l’industrie et de l’artisanat",
+          "Fermer les ateliers d’artisans"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文：Tout a été pensé dans un seul but: rassembler le meilleur de l’industrie et de l’artisanat。"
+      },
+      "explain": {
+        "styleZh": "瑞士报纸经济版导语：先交代事件（巴黎品牌在日内瓦建表厂），再用一句话说明其目标。",
+        "sentences": [
+          {
+            "fr": "La marque parisienne s’est taillé une manufacture horlogère sur mesure à Genève.",
+            "zh": "这家巴黎品牌在日内瓦为自己量身打造了一座制表工坊。",
+            "structureZh": "主语 La marque parisienne，谓语 s’est taillé 是代词式动词 se tailler qch 的复合过去时，意为“为自己开辟、打造某物”。这里 se 是间接宾语（为自己），直接宾语 une manufacture 在后面，所以过去分词 taillé 不配合。sur mesure 意为“量身定制的”。",
+            "points": [
+              {
+                "fr": "se tailler qch",
+                "zh": "为自己打造、赢得某物"
+              },
+              {
+                "fr": "une manufacture horlogère",
+                "zh": "制表工坊"
+              },
+              {
+                "fr": "sur mesure",
+                "zh": "量身定制的"
+              },
+              {
+                "fr": "s’est taillé（se 为间接宾语）",
+                "zh": "复合过去时中 se 是间接宾语，过去分词不配合"
+              }
+            ]
+          },
+          {
+            "fr": "Tout a été pensé dans un seul but: rassembler le meilleur de l’industrie et de l’artisanat.",
+            "zh": "一切都只为一个目标而设计：把工业和手工艺的精华汇聚在一起。",
+            "structureZh": "主语 Tout（一切），a été pensé 是被动语态的复合过去时（être 的复合过去时 a été + 过去分词）。dans un seul but 意为“只为一个目的”；冒号后的不定式 rassembler… 解释这个目的。le meilleur de 意为“……的精华”。",
+            "points": [
+              {
+                "fr": "être + participe passé",
+                "zh": "被动语态：a été pensé 被设计"
+              },
+              {
+                "fr": "dans un but",
+                "zh": "为了某个目的"
+              },
+              {
+                "fr": "rassembler",
+                "zh": "汇集，聚集"
+              },
+              {
+                "fr": "l’artisanat",
+                "zh": "手工艺"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2120765641544323250",
+      "url": "https://x.com/LeTemps/status/2120765641544323250",
+      "author": "LeTemps",
+      "postedAt": "2026-11-12T06:28:25Z",
+      "excerpt": "Selon un sondage exclusif réalisé pour «Le Temps» à l’occasion du Forum Santé, qui aura lieu le 24 novembre à Lausanne, un tiers des Suisses ignorent ce qu’est le bisphénol A, et près d’un quart le cadmium.",
+      "level": "B2",
+      "topic": "santé",
+      "summaryZh": "《时报》为洛桑健康论坛所做的独家民调显示，三分之一的瑞士人不知道双酚A是什么，近四分之一不了解镉。",
+      "summaryEn": "An exclusive poll for Le Temps ahead of the Lausanne Health Forum shows a third of Swiss people don't know what bisphenol A is, and nearly a quarter don't know cadmium.",
+      "vocab": [
+        {
+          "fr": "un sondage",
+          "zh": "民意调查",
+          "en": "a poll"
+        },
+        {
+          "fr": "avoir lieu",
+          "zh": "举行",
+          "en": "to take place"
+        },
+        {
+          "fr": "ignorer",
+          "zh": "不知道",
+          "en": "not to know"
+        },
+        {
+          "fr": "un tiers",
+          "zh": "三分之一",
+          "en": "a third"
+        },
+        {
+          "fr": "un quart",
+          "zh": "四分之一",
+          "en": "a quarter"
+        }
+      ],
+      "question": {
+        "prompt": "Quelle proportion de Suisses ignore ce qu’est le bisphénol A ?",
+        "choices": [
+          "Un tiers",
+          "Neuf sur dix",
+          "La moitié",
+          "Près d’un quart"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文：un tiers des Suisses ignorent ce qu’est le bisphénol A；近四分之一指的是镉。"
+      },
+      "explain": {
+        "styleZh": "报纸健康版导语：用 Selon 引出民调来源，再给出两个比例数字。",
+        "sentences": [
+          {
+            "fr": "Selon un sondage exclusif réalisé pour «Le Temps» à l’occasion du Forum Santé, qui aura lieu le 24 novembre à Lausanne, un tiers des Suisses ignorent ce qu’est le bisphénol A, et près d’un quart le cadmium.",
+            "zh": "根据为《时报》在健康论坛（11月24日在洛桑举行）之际所做的独家民调，三分之一的瑞士人不知道双酚A是什么，近四分之一的人不知道镉是什么。",
+            "structureZh": "Selon + 名词 引出信息来源；réalisé 是过去分词作定语修饰 sondage；qui aura lieu 是关系从句，avoir lieu 的简单将来时，因为论坛尚未举行。主句主语 un tiers des Suisses，动词 ignorent 用复数，与 des Suisses 配合。ce qu’est 引导间接疑问。最后 et près d’un quart le cadmium 省略了重复的动词 ignorent ce qu’est。",
+            "points": [
+              {
+                "fr": "selon + nom",
+                "zh": "根据……"
+              },
+              {
+                "fr": "avoir lieu",
+                "zh": "举行，发生"
+              },
+              {
+                "fr": "ignorer ce que + verbe",
+                "zh": "不知道……是什么"
+              },
+              {
+                "fr": "un tiers / un quart",
+                "zh": "三分之一 / 四分之一"
+              },
+              {
+                "fr": "près d’un quart le cadmium（省略）",
+                "zh": "后半句省略了与前文相同的动词 ignorent ce qu’est"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2120795596457926753",
+      "url": "https://x.com/LeTemps/status/2120795596457926753",
+      "author": "LeTemps",
+      "postedAt": "2026-11-12T08:27:27Z",
+      "excerpt": "Selon des neurologues suisses, les thérapies de stimulation cérébrale pour améliorer la parole donneraient des résultats trop modestes car elles sont basées sur une conception dépassée du langage.",
+      "level": "C1",
+      "topic": "santé",
+      "summaryZh": "瑞士神经学家认为，用来改善言语能力的脑刺激疗法效果有限，原因是这些疗法建立在过时的语言观念之上。",
+      "summaryEn": "Swiss neurologists say brain stimulation therapies to improve speech give modest results because they rest on an outdated idea of language.",
+      "vocab": [
+        {
+          "fr": "un neurologue",
+          "zh": "神经科医生",
+          "en": "a neurologist"
+        },
+        {
+          "fr": "la parole",
+          "zh": "言语能力",
+          "en": "speech"
+        },
+        {
+          "fr": "modeste",
+          "zh": "有限的",
+          "en": "modest"
+        },
+        {
+          "fr": "dépassé",
+          "zh": "过时的",
+          "en": "outdated"
+        },
+        {
+          "fr": "une conception",
+          "zh": "观念",
+          "en": "a conception"
+        }
+      ],
+      "question": {
+        "prompt": "Pourquoi ces thérapies donneraient-elles des résultats modestes ?",
+        "choices": [
+          "Les patients refusent de les suivre.",
+          "Elles coûtent trop cher.",
+          "Elles sont interdites en Suisse.",
+          "Elles reposent sur une conception dépassée du langage."
+        ],
+        "answerIndex": 3,
+        "explanationZh": "原文：car elles sont basées sur une conception dépassée du langage。"
+      },
+      "explain": {
+        "styleZh": "科学新闻导语：用 Selon 引出研究者观点，条件式表示转述且未证实，car 给出原因。",
+        "sentences": [
+          {
+            "fr": "Selon des neurologues suisses, les thérapies de stimulation cérébrale pour améliorer la parole donneraient des résultats trop modestes car elles sont basées sur une conception dépassée du langage.",
+            "zh": "据瑞士神经学家称，用于改善言语能力的脑刺激疗法效果太有限，因为它们基于一种过时的语言观念。",
+            "structureZh": "Selon 引出观点来源；主语 les thérapies de stimulation cérébrale，pour + 不定式 améliorer 说明疗法目的。donneraient 是 donner 的条件式现在时，新闻中用来转述他人说法、表示未经证实。car 引出原因；sont basées 是被动结构 être basé sur（基于），过去分词与 elles 阴性复数配合。",
+            "points": [
+              {
+                "fr": "donneraient（conditionnel journalistique）",
+                "zh": "新闻条件式：转述他人说法、未经证实"
+              },
+              {
+                "fr": "être basé sur",
+                "zh": "基于"
+              },
+              {
+                "fr": "dépassé",
+                "zh": "过时的"
+              },
+              {
+                "fr": "la stimulation cérébrale",
+                "zh": "脑刺激"
+              },
+              {
+                "fr": "car + cause",
+                "zh": "因为（连接原因）"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2120788794836238448",
+      "url": "https://x.com/OIFrancophonie/status/2120788794836238448",
+      "author": "OIFrancophonie",
+      "postedAt": "2026-11-12T08:00:25Z",
+      "excerpt": "J-3 avant le 20e Sommet de la Francophonie ! À Phnom Penh, le Village de la Francophonie sera l’un des temps forts de ce grand rendez-vous. Ouvert au public du 13 au 17 novembre, il mettra à l’honneur la diversité culturelle et les savoir-faire de l’espace francophone. Au-delà des conférences et des spectacles, les visiteurs pourront découvrir les spécialités gastronomiques des pays participants, dont le célèbre riz du Cambodge, mondialement reconnu pour sa qualité.",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "第20届法语国家峰会将在金边举行，法语国家村11月13日至17日向公众开放，展示法语世界的文化多样性与技艺，还有各国美食。",
+      "summaryEn": "Three days before the 20th Francophonie Summit in Phnom Penh, the Francophonie Village opens to the public 13–17 November with culture, know-how and food.",
+      "vocab": [
+        {
+          "fr": "un sommet",
+          "zh": "峰会",
+          "en": "a summit"
+        },
+        {
+          "fr": "un temps fort",
+          "zh": "亮点",
+          "en": "a highlight"
+        },
+        {
+          "fr": "mettre à l’honneur",
+          "zh": "突出展示",
+          "en": "to showcase"
+        },
+        {
+          "fr": "le savoir-faire",
+          "zh": "技艺",
+          "en": "know-how"
+        },
+        {
+          "fr": "une spécialité",
+          "zh": "特色菜",
+          "en": "a speciality"
+        }
+      ],
+      "question": {
+        "prompt": "Quand le Village de la Francophonie sera-t-il ouvert au public ?",
+        "choices": [
+          "Toute l’année",
+          "Du 13 au 17 novembre",
+          "Seulement le 20 novembre",
+          "Du 1er au 3 novembre"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文：Ouvert au public du 13 au 17 novembre。"
+      },
+      "explain": {
+        "styleZh": "国际组织活动预告：先倒计时，再介绍地点、开放时间和活动内容，多用简单将来时。",
+        "sentences": [
+          {
+            "fr": "J-3 avant le 20e Sommet de la Francophonie !",
+            "zh": "距第20届法语国家峰会还有3天！",
+            "structureZh": "无动词的标题句。J-3 读作 J moins trois，表示“倒数第3天”（J = jour J，活动当天）。20e 读作 vingtième。",
+            "points": [
+              {
+                "fr": "J-3 avant + événement",
+                "zh": "倒计时3天（jour J 前3天）"
+              },
+              {
+                "fr": "un sommet",
+                "zh": "峰会"
+              }
+            ]
+          },
+          {
+            "fr": "À Phnom Penh, le Village de la Francophonie sera l’un des temps forts de ce grand rendez-vous.",
+            "zh": "在金边，法语国家村将是这次盛会的亮点之一。",
+            "structureZh": "句首地点状语 À Phnom Penh；主语 le Village de la Francophonie，sera 是 être 的简单将来时，表示即将发生的安排。l’un des + 复数名词 意为“……之一”。",
+            "points": [
+              {
+                "fr": "un temps fort",
+                "zh": "亮点，高潮环节"
+              },
+              {
+                "fr": "l’un des + nom pluriel",
+                "zh": "……之一"
+              },
+              {
+                "fr": "un rendez-vous",
+                "zh": "（大型）活动，盛会"
+              }
+            ]
+          },
+          {
+            "fr": "Ouvert au public du 13 au 17 novembre, il mettra à l’honneur la diversité culturelle et les savoir-faire de l’espace francophone.",
+            "zh": "法语国家村将于11月13日至17日向公众开放，重点展示法语世界的文化多样性和传统技艺。",
+            "structureZh": "句首 Ouvert au public 是过去分词短语，修饰后面的主语 il（指 le Village）。du… au… 表示时间范围。mettra 是 mettre 的简单将来时；mettre qch à l’honneur 意为“突出、表彰某物”。",
+            "points": [
+              {
+                "fr": "ouvert au public",
+                "zh": "向公众开放"
+              },
+              {
+                "fr": "du + date + au + date",
+                "zh": "从……到……"
+              },
+              {
+                "fr": "mettre qch à l’honneur",
+                "zh": "突出展示，表彰"
+              },
+              {
+                "fr": "le savoir-faire",
+                "zh": "技艺，专业知识"
+              }
+            ]
+          },
+          {
+            "fr": "Au-delà des conférences et des spectacles, les visiteurs pourront découvrir les spécialités gastronomiques des pays participants, dont le célèbre riz du Cambodge, mondialement reconnu pour sa qualité.",
+            "zh": "除了讲座和演出，游客还能品尝各参与国的特色美食，其中包括以品质闻名世界的柬埔寨大米。",
+            "structureZh": "Au-delà de 意为“除了……之外（还有）”。主句 les visiteurs pourront découvrir，pouvoir 的简单将来时 + 不定式。dont 在这里意为“其中包括”；reconnu pour 是过去分词短语，修饰 le riz。",
+            "points": [
+              {
+                "fr": "au-delà de",
+                "zh": "除了……之外"
+              },
+              {
+                "fr": "une spécialité gastronomique",
+                "zh": "特色美食"
+              },
+              {
+                "fr": "dont（其中包括）",
+                "zh": "dont 引出列举中的一例"
+              },
+              {
+                "fr": "reconnu pour",
+                "zh": "因……而闻名"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2120592772755530157",
+      "url": "https://x.com/ONU_fr/status/2120592772755530157",
+      "author": "ONU_fr",
+      "postedAt": "2026-11-11T19:01:30Z",
+      "excerpt": "« C’est l’engagement des jeunes d’aujourd’hui qui me donne de l'espoir pour l’avenir. » À la COP31, António Guterres a échangé avec des jeunes venus du monde entier sur leurs préoccupations et leurs suggestions pour l’ActionClimatique.",
+      "level": "B1",
+      "topic": "actualité",
+      "summaryZh": "联合国秘书长古特雷斯在COP31上与世界各地的年轻人交流他们对气候行动的担忧和建议，并说年轻人的投入让他对未来抱有希望。",
+      "summaryEn": "At COP31, UN chief António Guterres talked with young people from around the world about their concerns and ideas for climate action, saying their engagement gives him hope.",
+      "vocab": [
+        {
+          "fr": "l’engagement",
+          "zh": "投入",
+          "en": "commitment"
+        },
+        {
+          "fr": "l’espoir",
+          "zh": "希望",
+          "en": "hope"
+        },
+        {
+          "fr": "échanger",
+          "zh": "交流",
+          "en": "to talk, exchange"
+        },
+        {
+          "fr": "une préoccupation",
+          "zh": "担忧",
+          "en": "a concern"
+        },
+        {
+          "fr": "l’action climatique",
+          "zh": "气候行动",
+          "en": "climate action"
+        }
+      ],
+      "question": {
+        "prompt": "Qu’est-ce qui donne de l’espoir à António Guterres ?",
+        "choices": [
+          "La baisse des températures",
+          "Les nouvelles technologies",
+          "Les accords commerciaux",
+          "L’engagement des jeunes"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "原文：C’est l’engagement des jeunes d’aujourd’hui qui me donne de l'espoir。"
+      },
+      "explain": {
+        "styleZh": "国际组织社交媒体帖：先放一句直接引语，再用一句话交代说话人和场合。",
+        "sentences": [
+          {
+            "fr": "« C’est l’engagement des jeunes d’aujourd’hui qui me donne de l'espoir pour l’avenir. »",
+            "zh": "“正是当今年轻人的投入让我对未来充满希望。”",
+            "structureZh": "C’est… qui… 是强调句型，突出主语 l’engagement des jeunes d’aujourd’hui。donner de l’espoir à qn 意为“给某人希望”，me 是间接宾语。动词用现在时，表达说话时的感受。",
+            "points": [
+              {
+                "fr": "c’est… qui…",
+                "zh": "强调句型，突出主语"
+              },
+              {
+                "fr": "l’engagement",
+                "zh": "投入，参与"
+              },
+              {
+                "fr": "donner de l’espoir",
+                "zh": "给人希望"
+              }
+            ]
+          },
+          {
+            "fr": "À la COP31, António Guterres a échangé avec des jeunes venus du monde entier sur leurs préoccupations et leurs suggestions pour l’ActionClimatique.",
+            "zh": "在COP31上，古特雷斯与来自世界各地的年轻人交流了他们的担忧和对气候行动的建议。",
+            "structureZh": "主语 António Guterres（联合国秘书长），a échangé 是 échanger 的复合过去时，讲已完成的交流；échanger avec qn sur qch 意为“就某事与某人交流”。venus du monde entier 是过去分词短语修饰 des jeunes。ActionClimatique 原为话题标签。",
+            "points": [
+              {
+                "fr": "échanger avec qn sur qch",
+                "zh": "就某事与某人交流"
+              },
+              {
+                "fr": "venu de",
+                "zh": "来自……的"
+              },
+              {
+                "fr": "une préoccupation",
+                "zh": "担忧，关切"
+              },
+              {
+                "fr": "une suggestion",
+                "zh": "建议"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2120743454300885038",
+      "url": "https://x.com/UNESCO_fr/status/2120743454300885038",
+      "author": "UNESCO_fr",
+      "postedAt": "2026-11-12T05:00:15Z",
+      "excerpt": "Des centaines de millions de personnes pourraient être contraintes de se déplacer d’ici la fin du siècle en raison de l’élévation du niveau de la mer, liée notamment à la fonte des glaciers et des calottes glaciaires. À la COP31, le Programme hydrologique intergouvernemental de l’UNESCO œuvre pour placer la cryosphère au cœur de l’action climatique, dans le cadre de la Décennie d’action des Nations Unies pour les sciences cryosphériques (2025-2034).",
+      "level": "C1",
+      "topic": "actualité",
+      "summaryZh": "联合国教科文组织指出，冰川和冰盖融化导致海平面上升，到本世纪末可能迫使数亿人迁移；其水文计划在COP31上推动把冰冻圈纳入气候行动核心。",
+      "summaryEn": "UNESCO warns sea-level rise from melting glaciers and ice sheets could displace hundreds of millions by 2100; at COP31 it pushes to put the cryosphere at the heart of climate action.",
+      "vocab": [
+        {
+          "fr": "l’élévation du niveau de la mer",
+          "zh": "海平面上升",
+          "en": "sea-level rise"
+        },
+        {
+          "fr": "la fonte",
+          "zh": "融化",
+          "en": "melting"
+        },
+        {
+          "fr": "un glacier",
+          "zh": "冰川",
+          "en": "a glacier"
+        },
+        {
+          "fr": "œuvrer",
+          "zh": "致力于",
+          "en": "to work towards"
+        },
+        {
+          "fr": "dans le cadre de",
+          "zh": "在……框架内",
+          "en": "as part of"
+        }
+      ],
+      "question": {
+        "prompt": "Quelle est la cause principale de l’élévation du niveau de la mer citée ?",
+        "choices": [
+          "La fonte des glaciers et des calottes glaciaires",
+          "Les fortes pluies",
+          "Les tremblements de terre",
+          "La pêche industrielle"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文：liée notamment à la fonte des glaciers et des calottes glaciaires。"
+      },
+      "explain": {
+        "styleZh": "国际组织科普帖：先用条件式提出预测和原因，再介绍机构在COP31上的行动。",
+        "sentences": [
+          {
+            "fr": "Des centaines de millions de personnes pourraient être contraintes de se déplacer d’ici la fin du siècle en raison de l’élévation du niveau de la mer, liée notamment à la fonte des glaciers et des calottes glaciaires.",
+            "zh": "到本世纪末，数亿人可能因海平面上升而被迫迁移，而海平面上升主要与冰川和冰盖融化有关。",
+            "structureZh": "主语 Des centaines de millions de personnes；pourraient 是 pouvoir 的条件式，表示预测的可能性；être contraint de + inf. 意为“被迫做某事”，contraintes 与 personnes 阴性复数配合。d’ici + 时间 表示“到……为止”；en raison de 表原因；liée 修饰 l’élévation（阴性）。",
+            "points": [
+              {
+                "fr": "être contraint de + inf.",
+                "zh": "被迫做某事"
+              },
+              {
+                "fr": "d’ici la fin du siècle",
+                "zh": "到本世纪末"
+              },
+              {
+                "fr": "en raison de",
+                "zh": "由于"
+              },
+              {
+                "fr": "la fonte des glaciers",
+                "zh": "冰川融化"
+              },
+              {
+                "fr": "une calotte glaciaire",
+                "zh": "冰盖"
+              }
+            ]
+          },
+          {
+            "fr": "À la COP31, le Programme hydrologique intergouvernemental de l’UNESCO œuvre pour placer la cryosphère au cœur de l’action climatique, dans le cadre de la Décennie d’action des Nations Unies pour les sciences cryosphériques (2025-2034).",
+            "zh": "在COP31上，联合国教科文组织政府间水文计划致力于把冰冻圈置于气候行动的核心，这是联合国冰冻圈科学行动十年（2025—2034年）的一部分。",
+            "structureZh": "主语 le Programme hydrologique intergouvernemental de l’UNESCO，谓语 œuvre pour + 不定式，意为“致力于”。placer qch au cœur de 意为“把……放在核心”。dans le cadre de 意为“在……框架内”。la cryosphère 指地球上冰雪覆盖的部分。",
+            "points": [
+              {
+                "fr": "œuvrer pour + inf.",
+                "zh": "致力于"
+              },
+              {
+                "fr": "au cœur de",
+                "zh": "在……的核心"
+              },
+              {
+                "fr": "dans le cadre de",
+                "zh": "在……框架内"
+              },
+              {
+                "fr": "la cryosphère",
+                "zh": "冰冻圈"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2120471618229076103",
+      "url": "https://x.com/MinistereCC/status/2120471618229076103",
+      "author": "MinistereCC",
+      "postedAt": "2026-11-11T11:00:04Z",
+      "excerpt": "Que signifiaient les couleurs à l'époque de la Première Guerre mondiale ? Au Musée de la Grande Guerre de Meaux, l'exposition d'intérêt national \"Couleurs de guerre\" raconte leur place dans la culture matérielle.",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "莫城一战博物馆举办国家级展览《战争的色彩》，介绍第一次世界大战时期颜色的含义及其在物质文化中的地位。",
+      "summaryEn": "The Meaux Great War Museum's exhibition \"Couleurs de guerre\" explores what colours meant during the First World War and their place in material culture.",
+      "vocab": [
+        {
+          "fr": "signifier",
+          "zh": "意味着",
+          "en": "to mean"
+        },
+        {
+          "fr": "une exposition",
+          "zh": "展览",
+          "en": "an exhibition"
+        },
+        {
+          "fr": "la Grande Guerre",
+          "zh": "第一次世界大战",
+          "en": "the Great War"
+        },
+        {
+          "fr": "la culture matérielle",
+          "zh": "物质文化",
+          "en": "material culture"
+        }
+      ],
+      "question": {
+        "prompt": "De quoi parle l’exposition « Couleurs de guerre » ?",
+        "choices": [
+          "Des drapeaux olympiques",
+          "De la mode actuelle",
+          "De la place des couleurs pendant la Première Guerre mondiale",
+          "Des peintres impressionnistes"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文：raconte leur place dans la culture matérielle，leur 指一战时期的颜色。"
+      },
+      "explain": {
+        "styleZh": "文化部的出行推荐：先抛出问题引起兴趣，再介绍展览地点、名称和主题。",
+        "sentences": [
+          {
+            "fr": "Que signifiaient les couleurs à l'époque de la Première Guerre mondiale ?",
+            "zh": "第一次世界大战时期，颜色意味着什么？",
+            "structureZh": "Que 引导的疑问句，主谓倒装：signifiaient les couleurs。signifiaient 是 signifier 的未完成过去时，用来描述过去某一时期持续存在的状态。à l’époque de 意为“在……时期”。",
+            "points": [
+              {
+                "fr": "signifier",
+                "zh": "意味着，表示"
+              },
+              {
+                "fr": "à l'époque de",
+                "zh": "在……时期"
+              },
+              {
+                "fr": "signifiaient（imparfait）",
+                "zh": "未完成过去时：描述过去持续的状态"
+              }
+            ]
+          },
+          {
+            "fr": "Au Musée de la Grande Guerre de Meaux, l'exposition d'intérêt national \"Couleurs de guerre\" raconte leur place dans la culture matérielle.",
+            "zh": "在莫城一战博物馆，“国家级重要展览”《战争的色彩》讲述了颜色在物质文化中的地位。",
+            "structureZh": "句首地点状语 Au Musée de la Grande Guerre de Meaux（la Grande Guerre 指第一次世界大战）。主语 l’exposition d’intérêt national，谓语 raconte 用现在时介绍展览内容。leur 指前一句的 les couleurs。",
+            "points": [
+              {
+                "fr": "d’intérêt national",
+                "zh": "具有国家意义的（展览称号）"
+              },
+              {
+                "fr": "la Grande Guerre",
+                "zh": "第一次世界大战"
+              },
+              {
+                "fr": "la culture matérielle",
+                "zh": "物质文化"
+              },
+              {
+                "fr": "raconter",
+                "zh": "讲述"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2120585814291644465",
+      "url": "https://x.com/Sciences_Avenir/status/2120585814291644465",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-11T18:33:51Z",
+      "excerpt": "Une équipe internationale d'astronomes a détecté de manière inédite une exoplanète par microlentille gravitationnelle via le télescope TESS. Une telle prouesse étend notre détection des planètes distantes de leur étoile.",
+      "level": "B2",
+      "topic": "actualité",
+      "summaryZh": "国际天文学家团队首次借助TESS望远镜，用引力微透镜法发现了一颗系外行星，扩大了人类探测远离恒星的行星的能力。",
+      "summaryEn": "An international team of astronomers has for the first time detected an exoplanet by gravitational microlensing with the TESS telescope, widening the search for planets far from their stars.",
+      "vocab": [
+        {
+          "fr": "un astronome",
+          "zh": "天文学家",
+          "en": "an astronomer"
+        },
+        {
+          "fr": "une exoplanète",
+          "zh": "系外行星",
+          "en": "an exoplanet"
+        },
+        {
+          "fr": "inédit",
+          "zh": "前所未有的",
+          "en": "unprecedented"
+        },
+        {
+          "fr": "une prouesse",
+          "zh": "壮举",
+          "en": "a feat"
+        },
+        {
+          "fr": "une étoile",
+          "zh": "恒星",
+          "en": "a star"
+        }
+      ],
+      "question": {
+        "prompt": "Quel télescope a permis cette détection ?",
+        "choices": [
+          "Hubble",
+          "TESS",
+          "Kepler",
+          "James Webb"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文：via le télescope TESS。"
+      },
+      "explain": {
+        "styleZh": "科普杂志导语：先报道一项天文发现，再评价其意义。",
+        "sentences": [
+          {
+            "fr": "Une équipe internationale d'astronomes a détecté de manière inédite une exoplanète par microlentille gravitationnelle via le télescope TESS.",
+            "zh": "一个国际天文学家团队首次通过TESS望远镜，利用引力微透镜法探测到了一颗系外行星。",
+            "structureZh": "主语 Une équipe internationale d’astronomes，a détecté 是复合过去时，报道已完成的发现。de manière inédite 意为“以前所未有的方式”；par 表示方法，via 表示借助的工具。",
+            "points": [
+              {
+                "fr": "de manière + adjectif",
+                "zh": "以……方式"
+              },
+              {
+                "fr": "inédit",
+                "zh": "前所未有的"
+              },
+              {
+                "fr": "une exoplanète",
+                "zh": "系外行星"
+              },
+              {
+                "fr": "la microlentille gravitationnelle",
+                "zh": "引力微透镜"
+              },
+              {
+                "fr": "via + instrument",
+                "zh": "通过，借助"
+              }
+            ]
+          },
+          {
+            "fr": "Une telle prouesse étend notre détection des planètes distantes de leur étoile.",
+            "zh": "这一壮举扩展了我们探测远离其恒星的行星的能力。",
+            "structureZh": "Une telle + 名词 意为“这样的……”，总括上一句的发现。谓语 étend 是 étendre 的现在时；distantes de 是形容词短语，与 planètes 阴性复数配合。",
+            "points": [
+              {
+                "fr": "un tel / une telle",
+                "zh": "这样的"
+              },
+              {
+                "fr": "une prouesse",
+                "zh": "壮举，成就"
+              },
+              {
+                "fr": "étendre",
+                "zh": "扩展"
+              },
+              {
+                "fr": "distant de",
+                "zh": "离……远的"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2120808006015455378",
+      "url": "https://x.com/Sciences_Avenir/status/2120808006015455378",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-12T09:16:45Z",
+      "excerpt": "La chaleur et le froid ont des conséquences sur notre corps, notamment sur notre système cardiovasculaire, qui peuvent mettre en danger la santé. Comment notre système cardiovasculaire répond-il à des températures très basses ?",
+      "level": "B1",
+      "topic": "santé",
+      "summaryZh": "冷热都会影响身体，尤其是心血管系统，可能危害健康；《科学与未来》介绍心血管系统如何应对极低温度。",
+      "summaryEn": "Heat and cold affect our bodies, especially the cardiovascular system, and can endanger health. How does the cardiovascular system respond to very low temperatures?",
+      "vocab": [
+        {
+          "fr": "la chaleur",
+          "zh": "炎热",
+          "en": "heat"
+        },
+        {
+          "fr": "le froid",
+          "zh": "寒冷",
+          "en": "cold"
+        },
+        {
+          "fr": "une conséquence",
+          "zh": "后果，影响",
+          "en": "a consequence"
+        },
+        {
+          "fr": "mettre en danger",
+          "zh": "危及",
+          "en": "to endanger"
+        },
+        {
+          "fr": "répondre à",
+          "zh": "对……作出反应",
+          "en": "to respond to"
+        }
+      ],
+      "question": {
+        "prompt": "Sur quel système du corps le texte insiste-t-il ?",
+        "choices": [
+          "Le système cardiovasculaire",
+          "Le système osseux",
+          "Le système nerveux",
+          "Le système digestif"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文：notamment sur notre système cardiovasculaire。"
+      },
+      "explain": {
+        "styleZh": "科普杂志社交帖：先陈述一般事实，再用问句引出文章主题。",
+        "sentences": [
+          {
+            "fr": "La chaleur et le froid ont des conséquences sur notre corps, notamment sur notre système cardiovasculaire, qui peuvent mettre en danger la santé.",
+            "zh": "炎热和寒冷都会影响我们的身体，尤其是心血管系统，这些影响可能危及健康。",
+            "structureZh": "主语 La chaleur et le froid，谓语 ont 用现在时陈述一般事实。avoir des conséquences sur 意为“对……产生影响”；notamment 引出重点举例；qui 引导关系从句，指 des conséquences，所以 peuvent 用复数。mettre en danger 意为“使……处于危险”。",
+            "points": [
+              {
+                "fr": "avoir des conséquences sur",
+                "zh": "对……产生影响"
+              },
+              {
+                "fr": "notamment",
+                "zh": "尤其，特别是"
+              },
+              {
+                "fr": "le système cardiovasculaire",
+                "zh": "心血管系统"
+              },
+              {
+                "fr": "mettre en danger",
+                "zh": "危及"
+              }
+            ]
+          },
+          {
+            "fr": "Comment notre système cardiovasculaire répond-il à des températures très basses ?",
+            "zh": "我们的心血管系统如何应对极低的温度？",
+            "structureZh": "复杂倒装疑问句：名词主语 notre système cardiovasculaire 在前，再用 répond-il 倒装。répondre à qch 意为“对……作出反应”。",
+            "points": [
+              {
+                "fr": "répondre à",
+                "zh": "对……作出反应"
+              },
+              {
+                "fr": "Comment + nom + verbe-il ?",
+                "zh": "复杂倒装疑问句"
+              },
+              {
+                "fr": "une température basse",
+                "zh": "低温"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2120608060137779588",
+      "url": "https://x.com/franceinfo/status/2120608060137779588",
+      "author": "franceinfo",
+      "postedAt": "2026-11-11T20:02:15Z",
+      "excerpt": "Le drainage lymphatique vendu à longueur de réseaux sociaux est-il vraiment le massage miracle ? S’il peut faire du bien et même être médicalement recommandé après certains cancers, les promesses de perdre du poids, de détruire la graisse et de supprimer la cellulite n’engagent que ceux qui y croient !",
+      "level": "B2",
+      "topic": "santé",
+      "summaryZh": "医生解释：社交网络热推的淋巴引流不能减肥或消脂，排水效果只维持一二十分钟；按压淋巴结毫无必要，但在乳腺癌等术后确有医疗价值。",
+      "summaryEn": "A doctor explains that lymphatic drainage, hyped on social media, won't make you lose weight; its effect lasts minutes, though it has real medical value after some cancer surgeries.",
+      "vocab": [
+        {
+          "fr": "vanter les mérites de",
+          "zh": "吹捧……的好处",
+          "en": "to praise"
+        },
+        {
+          "fr": "gonflé",
+          "zh": "肿胀的",
+          "en": "swollen"
+        },
+        {
+          "fr": "le ganglion",
+          "zh": "淋巴结",
+          "en": "lymph node"
+        },
+        {
+          "fr": "sous-cutané",
+          "zh": "皮下的",
+          "en": "subcutaneous"
+        },
+        {
+          "fr": "se rétablir",
+          "zh": "恢复",
+          "en": "to return to normal"
+        },
+        {
+          "fr": "bouché",
+          "zh": "堵塞的",
+          "en": "blocked"
+        }
+      ],
+      "question": {
+        "prompt": "D’après la vidéo, combien de temps dure l’effet d’un drainage lymphatique ?",
+        "choices": [
+          "Une semaine",
+          "Six mois",
+          "Toute la vie",
+          "Quelques minutes, une dizaine ou vingtaine"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "视频说效果 très bref，大约十到二十分钟后就恢复原状。"
+      },
+      "explain": {
+        "styleZh": "健康科普短视频配文：先用疑问句挑战流行说法，再用让步句区分真正的医疗用途与虚假承诺。",
+        "sentences": [
+          {
+            "fr": "Le drainage lymphatique vendu à longueur de réseaux sociaux est-il vraiment le massage miracle ?",
+            "zh": "社交网络上铺天盖地推销的淋巴引流，真的是神奇按摩吗？",
+            "structureZh": "复杂倒装疑问句：名词主语 Le drainage lymphatique 在前，再用 est-il 倒装。vendu 是过去分词作定语，“被推销的”；à longueur de 意为“整天、不断地”，à longueur de réseaux sociaux 是仿照 à longueur de journée 的说法。",
+            "points": [
+              {
+                "fr": "à longueur de + nom",
+                "zh": "整个……都在，不断地"
+              },
+              {
+                "fr": "le drainage lymphatique",
+                "zh": "淋巴引流"
+              },
+              {
+                "fr": "un massage miracle",
+                "zh": "神奇按摩"
+              },
+              {
+                "fr": "vendu（vendre）",
+                "zh": "过去分词作定语：被推销的"
+              }
+            ]
+          },
+          {
+            "fr": "S’il peut faire du bien et même être médicalement recommandé après certains cancers, les promesses de perdre du poids, de détruire la graisse et de supprimer la cellulite n’engagent que ceux qui y croient !",
+            "zh": "虽然它可能让人舒服，在某些癌症术后甚至有医学上的推荐，但减肥、消脂、去除橘皮组织这些承诺，只有相信的人才会当真！",
+            "structureZh": "S’il = si + il，这里 si 带让步意味（“即使……”）。主句主语是 les promesses，后接三个 de + 不定式 说明承诺内容。n’engager que ceux qui y croient 是固定说法，“只对相信的人有约束力”，即这些承诺不可信；ne… que 表示“只”，y 代替 à ces promesses。",
+            "points": [
+              {
+                "fr": "faire du bien",
+                "zh": "让人感觉好，有益"
+              },
+              {
+                "fr": "S’il… （si 表让步）",
+                "zh": "虽然，即使"
+              },
+              {
+                "fr": "perdre du poids",
+                "zh": "减肥"
+              },
+              {
+                "fr": "n’engager que ceux qui y croient",
+                "zh": "只有信的人才当真（暗示不可信）"
+              },
+              {
+                "fr": "ne + verbe + que",
+                "zh": "只，仅仅"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2120743873303412964",
+      "url": "https://x.com/franceinfo/status/2120743873303412964",
+      "author": "franceinfo",
+      "postedAt": "2026-11-12T05:01:55Z",
+      "excerpt": "Comment un seul club peut-il former autant de joueurs de l’équipe de France ? Jacquet, Doué, Dembélé, Camavinga, Diouf, Da Cunha, Truffert : tous sont passés par le centre de formation du Stade Rennais. Le club repère les jeunes dès 13 ans dans toute la France et les suit de près, avec leur famille et leur scolarité. Cette formation rapporte aussi beaucoup. En cinq ans, Rennes a vendu ses jeunes pour 330 millions d’euros, c’est le 2e club d’Europe derrière Chelsea.",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "雷恩俱乐部青训培养出7名法国国家队球员：从13岁起在全国物色苗子并跟进家庭与学业；五年卖球员收入3.3亿欧元，皮诺家族正投资新训练中心。",
+      "summaryEn": "Stade Rennais's academy has produced seven France players; it scouts kids from 13, earned 330 million euros from sales in five years, and is investing in a new training centre.",
+      "vocab": [
+        {
+          "fr": "le centre de formation",
+          "zh": "青训中心",
+          "en": "youth academy"
+        },
+        {
+          "fr": "repérer",
+          "zh": "物色，发现",
+          "en": "to scout"
+        },
+        {
+          "fr": "une pépite",
+          "zh": "（年轻）新星",
+          "en": "a gem, a prospect"
+        },
+        {
+          "fr": "le maillage",
+          "zh": "网络覆盖",
+          "en": "network coverage"
+        },
+        {
+          "fr": "la poule aux œufs d'or",
+          "zh": "摇钱树",
+          "en": "the golden goose"
+        },
+        {
+          "fr": "faramineux",
+          "zh": "惊人的（数额）",
+          "en": "staggering"
+        }
+      ],
+      "question": {
+        "prompt": "Selon le reportage, à partir de quel âge un joueur rejoint-il en général le centre de Rennes ?",
+        "choices": [
+          "10 ans",
+          "13 ans",
+          "15 ans",
+          "18 ans"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "视频中说 On peut contracter avec un garçon à partir de 13 ans, ils nous rejoindront à partir de 15 ans。"
+      },
+      "explain": {
+        "styleZh": "电视台短视频配文：先抛出问题，再用球员名单作答，接着说明招募方法和经济收益。",
+        "sentences": [
+          {
+            "fr": "Comment un seul club peut-il former autant de joueurs de l’équipe de France ?",
+            "zh": "一家俱乐部怎么能培养出这么多法国国家队球员？",
+            "structureZh": "这是复杂倒装疑问句：名词主语 un seul club 放在前面，再用代词 il 与动词 peut 倒装（peut-il）。Comment 询问方式；pouvoir + 不定式 former 表示“能够培养”；autant de + 名词 意为“这么多的……”。",
+            "points": [
+              {
+                "fr": "Comment… peut-il + inf. ?",
+                "zh": "复杂倒装疑问：名词主语 + 动词-il"
+              },
+              {
+                "fr": "former un joueur",
+                "zh": "培养一名球员"
+              },
+              {
+                "fr": "autant de + nom",
+                "zh": "这么多的……"
+              },
+              {
+                "fr": "l’équipe de France",
+                "zh": "法国国家队"
+              }
+            ]
+          },
+          {
+            "fr": "Jacquet, Doué, Dembélé, Camavinga, Diouf, Da Cunha, Truffert : tous sont passés par le centre de formation du Stade Rennais.",
+            "zh": "雅凯、杜埃、登贝莱、卡马文加、迪乌夫、达库尼亚、特吕费尔：他们都出自雷恩俱乐部的青训中心。",
+            "structureZh": "先列举七名球员，冒号后用 tous（代词，读出尾音 s）总括为主语。sont passés 是 passer 的复合过去时，表示“经过、待过”时用 être 作助动词，过去分词与主语阳性复数配合。",
+            "points": [
+              {
+                "fr": "passer par",
+                "zh": "经过，待过（某地/某机构）"
+              },
+              {
+                "fr": "le centre de formation",
+                "zh": "（体育）青训中心"
+              },
+              {
+                "fr": "tous（代词）",
+                "zh": "全体，他们都"
+              }
+            ]
+          },
+          {
+            "fr": "Le club repère les jeunes dès 13 ans dans toute la France et les suit de près, avec leur famille et leur scolarité.",
+            "zh": "俱乐部从13岁起就在全法国物色年轻球员，并密切跟进他们的家庭和学业情况。",
+            "structureZh": "主语 Le club 带两个并列谓语 repère 和 suit（suivre 的现在时），用现在时描述俱乐部的常规做法。les 是直接宾语代词，指 les jeunes，放在动词前。dès + 年龄 表示“从……起”。",
+            "points": [
+              {
+                "fr": "repérer qn（repère）",
+                "zh": "发现，物色某人"
+              },
+              {
+                "fr": "dès + âge",
+                "zh": "从……岁起"
+              },
+              {
+                "fr": "suivre qn de près",
+                "zh": "密切关注某人"
+              },
+              {
+                "fr": "la scolarité",
+                "zh": "学业，学校教育"
+              }
+            ]
+          },
+          {
+            "fr": "Cette formation rapporte aussi beaucoup.",
+            "zh": "这种青训也带来了大量收入。",
+            "structureZh": "简单句：主语 Cette formation，谓语 rapporte（rapporter 不及物用法，意为“带来收益”）。aussi 表示在体育成绩之外还有经济回报，引出下文的数字。",
+            "points": [
+              {
+                "fr": "rapporter",
+                "zh": "带来收益，赚钱"
+              },
+              {
+                "fr": "aussi",
+                "zh": "也，同样"
+              }
+            ]
+          },
+          {
+            "fr": "En cinq ans, Rennes a vendu ses jeunes pour 330 millions d’euros, c’est le 2e club d’Europe derrière Chelsea.",
+            "zh": "五年里，雷恩出售年轻球员的收入达3.3亿欧元，位列欧洲第二，仅次于切尔西。",
+            "structureZh": "En cinq ans 表示“在五年时间里”；a vendu 是复合过去时，总结已完成的结果；vendre qch pour + 金额 表示“以……价格卖出”。逗号后 c’est… 补充说明排名，口语化的并列写法。",
+            "points": [
+              {
+                "fr": "en + durée",
+                "zh": "在……时间内"
+              },
+              {
+                "fr": "vendre qch pour + somme",
+                "zh": "以……价钱卖出"
+              },
+              {
+                "fr": "derrière",
+                "zh": "在……之后"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2120642301827461255",
+      "url": "https://x.com/UNESCO_fr/status/2120642301827461255",
+      "author": "UNESCO_fr",
+      "postedAt": "2026-11-11T22:18:19Z",
+      "excerpt": "La science doit être accessible à toutes et à tous, partout dans le monde. Pour la professeure Rajaâ Cherkaoui El Moursli, physicienne nucléaire et présidente du jury du Prix international UNESCO-Guinée équatoriale pour la recherche en sciences de la vie, reconnaître l’excellence scientifique partout où elle s’exprime est essentiel pour construire une communauté scientifique plus inclusive.",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "核物理学家、联合国教科文组织奖项评委会主席表示：科学应属于全世界，尤其是发展中地区；人才无处不在但机会不均，科学须跨学科且包容。",
+      "summaryEn": "A nuclear physicist chairing a UNESCO prize jury says science must be for the whole world, especially developing regions: talent is everywhere, opportunities are not.",
+      "vocab": [
+        {
+          "fr": "primordial",
+          "zh": "至关重要的",
+          "en": "essential"
+        },
+        {
+          "fr": "en voie de développement",
+          "zh": "发展中的",
+          "en": "developing"
+        },
+        {
+          "fr": "mettre de côté",
+          "zh": "撇在一边",
+          "en": "to sideline"
+        },
+        {
+          "fr": "interdisciplinaire",
+          "zh": "跨学科的",
+          "en": "interdisciplinary"
+        },
+        {
+          "fr": "récompenser",
+          "zh": "奖励，表彰",
+          "en": "to reward"
+        },
+        {
+          "fr": "la persévérance",
+          "zh": "毅力",
+          "en": "perseverance"
+        }
+      ],
+      "question": {
+        "prompt": "Selon la professeure, qu’est-ce qui n’est pas partout ?",
+        "choices": [
+          "Le talent",
+          "Les opportunités",
+          "La science",
+          "Les chercheurs"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "她说 le talent, il est partout. Mais les opportunités ne sont pas partout。"
+      },
+      "explain": {
+        "styleZh": "国际组织短视频配文：先提出核心观点，再借评委会主席之口展开，句子主语是一个不定式短语。",
+        "sentences": [
+          {
+            "fr": "La science doit être accessible à toutes et à tous, partout dans le monde.",
+            "zh": "科学应该让世界各地的每一个人都能接触到。",
+            "structureZh": "主语 La science，devoir + 不定式 être accessible 表示义务、应当。à toutes et à tous 是包容性写法，同时点出女性和男性。partout dans le monde 是地点状语。",
+            "points": [
+              {
+                "fr": "devoir + inf.",
+                "zh": "应当，必须"
+              },
+              {
+                "fr": "accessible à",
+                "zh": "……可以接触、获得的"
+              },
+              {
+                "fr": "à toutes et à tous",
+                "zh": "每一个人（包容性写法）"
+              },
+              {
+                "fr": "partout dans le monde",
+                "zh": "世界各地"
+              }
+            ]
+          },
+          {
+            "fr": "Pour la professeure Rajaâ Cherkaoui El Moursli, physicienne nucléaire et présidente du jury du Prix international UNESCO-Guinée équatoriale pour la recherche en sciences de la vie, reconnaître l’excellence scientifique partout où elle s’exprime est essentiel pour construire une communauté scientifique plus inclusive.",
+            "zh": "在核物理学家、联合国教科文组织—赤道几内亚国际生命科学研究奖评委会主席拉贾·谢尔卡乌伊·埃尔穆尔斯利教授看来，无论卓越的科学成果出现在哪里都应给予认可，这对建设更具包容性的科学共同体至关重要。",
+            "structureZh": "Pour + 人 表示“在某人看来”，后面长长的同位语介绍她的身份。句子主语是不定式短语 reconnaître l’excellence scientifique partout où elle s’exprime，谓语 est essentiel；不定式可以直接作主语。partout où 意为“在……的任何地方”；pour + 不定式 construire 表目的。",
+            "points": [
+              {
+                "fr": "pour + personne",
+                "zh": "在某人看来"
+              },
+              {
+                "fr": "reconnaître l’excellence",
+                "zh": "认可卓越"
+              },
+              {
+                "fr": "partout où",
+                "zh": "在……的任何地方"
+              },
+              {
+                "fr": "être essentiel pour + inf.",
+                "zh": "对……至关重要"
+              },
+              {
+                "fr": "inclusif",
+                "zh": "包容的"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
