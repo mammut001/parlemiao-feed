@@ -1,0 +1,1273 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-13T12:39:03Z",
+  "items": [
+    {
+      "postId": "2121000268594544934",
+      "url": "https://x.com/Sciences_Avenir/status/2121000268594544934",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-12T22:00:44Z",
+      "excerpt": "En Malaisie, le nombre de nids de tortues vertes sur les Turtle Islands a triplé depuis les années 1970, dépassant désormais 20.000 par an. Une nouvelle porteuse d'espoir, à l'heure du déclin de nombreuses espèces.",
+      "level": "B1",
+      "topic": "actualité",
+      "summaryZh": "马来西亚海龟岛上绿海龟的巢穴数量自1970年代以来增加了两倍，每年超过两万个，在众多物种衰退之际令人振奋。",
+      "summaryEn": "In Malaysia, green turtle nests on the Turtle Islands have tripled since the 1970s to over 20,000 a year, a hopeful sign as many species decline.",
+      "vocab": [
+        {
+          "fr": "un nid",
+          "zh": "巢",
+          "en": "a nest"
+        },
+        {
+          "fr": "une tortue",
+          "zh": "龟",
+          "en": "a turtle"
+        },
+        {
+          "fr": "tripler",
+          "zh": "增至三倍",
+          "en": "to triple"
+        },
+        {
+          "fr": "désormais",
+          "zh": "如今",
+          "en": "now, from now on"
+        },
+        {
+          "fr": "le déclin",
+          "zh": "衰退",
+          "en": "decline"
+        },
+        {
+          "fr": "une espèce",
+          "zh": "物种",
+          "en": "a species"
+        }
+      ],
+      "question": {
+        "prompt": "Combien de nids de tortues vertes compte-t-on désormais par an ?",
+        "choices": [
+          "Environ 1 970",
+          "Plus de 20 000",
+          "Moins de 3 000",
+          "Exactement 10 000"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文：dépassant désormais 20.000 par an，每年超过两万个。"
+      },
+      "explain": {
+        "styleZh": "科普杂志的好消息快讯：第一句给出数据（增长倍数和数量），第二句是无动词的评论句，点明意义。",
+        "sentences": [
+          {
+            "fr": "En Malaisie, le nombre de nids de tortues vertes sur les Turtle Islands a triplé depuis les années 1970, dépassant désormais 20.000 par an.",
+            "zh": "在马来西亚，海龟岛上绿海龟的巢穴数量自1970年代以来增加了两倍，如今每年超过两万个。",
+            "structureZh": "主语 le nombre de nids de tortues vertes，谓语 a triplé 是 tripler 的复合过去时（“变为三倍”），depuis 表示从过去某时延续至今。dépassant 是现在分词，补充说明结果；désormais 意为“如今、从此”。法语用点 20.000 或空格分隔千位。",
+            "points": [
+              {
+                "fr": "tripler",
+                "zh": "变为三倍"
+              },
+              {
+                "fr": "nids de tortues",
+                "zh": "海龟的巢（nid 巢，窝）"
+              },
+              {
+                "fr": "une tortue verte",
+                "zh": "绿海龟"
+              },
+              {
+                "fr": "depuis les années 1970",
+                "zh": "自1970年代以来"
+              },
+              {
+                "fr": "dépasser（dépassant）",
+                "zh": "超过；现在分词表示伴随结果"
+              }
+            ]
+          },
+          {
+            "fr": "Une nouvelle porteuse d'espoir, à l'heure du déclin de nombreuses espèces.",
+            "zh": "在许多物种衰退之际，这是一个带来希望的消息。",
+            "structureZh": "无动词的名词句，用来评论上一句。核心是 Une nouvelle（消息），porteuse d’espoir 是形容词性短语修饰它（porteur 的阴性形式，与 nouvelle 配合）。à l’heure de 意为“在……的时候”。",
+            "points": [
+              {
+                "fr": "une nouvelle",
+                "zh": "消息（阴性名词）"
+              },
+              {
+                "fr": "porteur d'espoir",
+                "zh": "带来希望的"
+              },
+              {
+                "fr": "à l'heure de",
+                "zh": "在……之际"
+              },
+              {
+                "fr": "le déclin",
+                "zh": "衰退，减少"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2121161051714560101",
+      "url": "https://x.com/Sciences_Avenir/status/2121161051714560101",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-13T08:39:38Z",
+      "excerpt": "Dépression, anxiété, schizophrénie, TDAH... Les cas de maladies mentales ont doublé dans le monde depuis 1990, peu importe l'âge, le sexe ou le niveau de revenu des pays étudiés selon une grande étude du Lancet.",
+      "level": "B2",
+      "topic": "santé",
+      "summaryZh": "《柳叶刀》大型研究显示，自1990年以来全球抑郁、焦虑等精神疾病病例翻了一番，不分年龄、性别或国家收入水平。",
+      "summaryEn": "A large Lancet study finds mental illness cases such as depression and anxiety have doubled worldwide since 1990, regardless of age, sex or country income.",
+      "vocab": [
+        {
+          "fr": "une maladie mentale",
+          "zh": "精神疾病",
+          "en": "a mental illness"
+        },
+        {
+          "fr": "doubler",
+          "zh": "翻倍",
+          "en": "to double"
+        },
+        {
+          "fr": "peu importe",
+          "zh": "不论",
+          "en": "regardless of"
+        },
+        {
+          "fr": "le revenu",
+          "zh": "收入",
+          "en": "income"
+        },
+        {
+          "fr": "une étude",
+          "zh": "研究",
+          "en": "a study"
+        }
+      ],
+      "question": {
+        "prompt": "Depuis 1990, comment a évolué le nombre de cas de maladies mentales ?",
+        "choices": [
+          "Il a diminué de moitié.",
+          "Il est resté stable.",
+          "Il a doublé.",
+          "Il a triplé seulement chez les jeunes."
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文：Les cas de maladies mentales ont doublé dans le monde depuis 1990。"
+      },
+      "explain": {
+        "styleZh": "科普杂志社交帖：先列举病名吸引注意，再用一句长句给出研究结论和来源。",
+        "sentences": [
+          {
+            "fr": "Dépression, anxiété, schizophrénie, TDAH...",
+            "zh": "抑郁、焦虑、精神分裂症、注意缺陷多动障碍……",
+            "structureZh": "无动词的列举句，用省略号表示“还有更多”，引出下文的主题。TDAH 是 trouble du déficit de l’attention avec ou sans hyperactivité 的缩写。",
+            "points": [
+              {
+                "fr": "la dépression",
+                "zh": "抑郁症"
+              },
+              {
+                "fr": "anxiété",
+                "zh": "焦虑（阴性名词）"
+              },
+              {
+                "fr": "TDAH",
+                "zh": "注意缺陷多动障碍（缩写）"
+              }
+            ]
+          },
+          {
+            "fr": "Les cas de maladies mentales ont doublé dans le monde depuis 1990, peu importe l'âge, le sexe ou le niveau de revenu des pays étudiés selon une grande étude du Lancet.",
+            "zh": "根据《柳叶刀》的一项大型研究，自1990年以来全球精神疾病病例翻了一番，无论年龄、性别或所研究国家的收入水平如何。",
+            "structureZh": "主语 Les cas de maladies mentales，谓语 ont doublé 是 doubler 的复合过去时，与 depuis 1990 连用表示延续至今的变化。peu importe + 名词 意为“不论……”。selon + 来源 说明信息出处。",
+            "points": [
+              {
+                "fr": "doubler",
+                "zh": "翻一番"
+              },
+              {
+                "fr": "peu importe + nom",
+                "zh": "不论……，无论……"
+              },
+              {
+                "fr": "le niveau de revenu",
+                "zh": "收入水平"
+              },
+              {
+                "fr": "selon une étude",
+                "zh": "根据一项研究"
+              },
+              {
+                "fr": "une maladie mentale",
+                "zh": "精神疾病"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2121153093362471403",
+      "url": "https://x.com/LeTemps/status/2121153093362471403",
+      "author": "LeTemps",
+      "postedAt": "2026-11-13T08:08:01Z",
+      "excerpt": "L’Institut supérieur de formation bancaire lance pour début 2027 un fonds destiné aux employés en poste dans le domaine bancaire. L’idée: développer le réflexe de ne pas attendre qu’une situation professionnelle se dégrade pour adapter ses compétences. En toile de fond, les alertes qui se multiplient sur le retard du secteur dans le développement de l’IA",
+      "level": "B2",
+      "topic": "travail",
+      "summaryZh": "瑞士高等银行培训学院将于2027年初为银行在职员工设立培训基金，鼓励员工提前提升技能，背景是行业在人工智能方面落后的警告增多。",
+      "summaryEn": "A Swiss banking training institute will launch a fund in early 2027 for bank employees to update their skills early, amid warnings the sector lags in AI.",
+      "vocab": [
+        {
+          "fr": "un fonds",
+          "zh": "基金",
+          "en": "a fund"
+        },
+        {
+          "fr": "en poste",
+          "zh": "在职",
+          "en": "in post, employed"
+        },
+        {
+          "fr": "se dégrader",
+          "zh": "恶化",
+          "en": "to deteriorate"
+        },
+        {
+          "fr": "les compétences",
+          "zh": "技能",
+          "en": "skills"
+        },
+        {
+          "fr": "en toile de fond",
+          "zh": "背景是",
+          "en": "in the background"
+        },
+        {
+          "fr": "le retard",
+          "zh": "落后",
+          "en": "lag, delay"
+        }
+      ],
+      "question": {
+        "prompt": "Quel est le but du fonds lancé pour 2027 ?",
+        "choices": [
+          "Financer des vacances pour les employés",
+          "Aider les employés bancaires à adapter leurs compétences à temps",
+          "Ouvrir de nouvelles agences",
+          "Réduire le nombre d’employés"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文：développer le réflexe de ne pas attendre… pour adapter ses compétences。"
+      },
+      "explain": {
+        "styleZh": "瑞士报纸经济版导语：先报道新举措，再用“L’idée:”解释初衷，最后用 En toile de fond 交代背景。",
+        "sentences": [
+          {
+            "fr": "L’Institut supérieur de formation bancaire lance pour début 2027 un fonds destiné aux employés en poste dans le domaine bancaire.",
+            "zh": "高等银行培训学院将于2027年初推出一项基金，面向银行业的在职员工。",
+            "structureZh": "主语 L’Institut supérieur de formation bancaire，谓语 lance 用现在时表示已确定的计划。pour début 2027 表示时间。destiné à 意为“面向……的、专供……的”，过去分词修饰 un fonds。en poste 意为“在职的”。",
+            "points": [
+              {
+                "fr": "lancer un fonds",
+                "zh": "推出一项基金"
+              },
+              {
+                "fr": "destiné à",
+                "zh": "面向……的"
+              },
+              {
+                "fr": "en poste",
+                "zh": "在职"
+              },
+              {
+                "fr": "le domaine bancaire",
+                "zh": "银行业"
+              }
+            ]
+          },
+          {
+            "fr": "L’idée: développer le réflexe de ne pas attendre qu’une situation professionnelle se dégrade pour adapter ses compétences.",
+            "zh": "其想法是：培养一种习惯，不要等到职业处境恶化才去调整自己的技能。",
+            "structureZh": "L’idée: 后接不定式短语解释内容，是新闻常用的省略结构。ne pas attendre que + 虚拟式：attendre que 后面要用虚拟式，所以是 se dégrade（subjonctif présent）。否定不定式 ne pas 放在动词前。pour + 不定式表目的。",
+            "points": [
+              {
+                "fr": "attendre que + subjonctif",
+                "zh": "等到……（从句用虚拟式）"
+              },
+              {
+                "fr": "ne pas + infinitif",
+                "zh": "否定不定式，ne pas 放在一起"
+              },
+              {
+                "fr": "se dégrader",
+                "zh": "恶化"
+              },
+              {
+                "fr": "adapter ses compétences",
+                "zh": "调整技能"
+              },
+              {
+                "fr": "un réflexe",
+                "zh": "习惯，本能反应"
+              }
+            ]
+          },
+          {
+            "fr": "En toile de fond, les alertes qui se multiplient sur le retard du secteur dans le développement de l’IA",
+            "zh": "背景是：关于该行业在人工智能发展方面落后的警告越来越多。",
+            "structureZh": "En toile de fond 意为“在背景中、背景是”。这一句没有主句动词，核心是名词 les alertes，后接 qui se multiplient 关系从句。sur 引出警告的内容，le retard dans 意为“在……方面的落后”。",
+            "points": [
+              {
+                "fr": "en toile de fond",
+                "zh": "背景是，在背后"
+              },
+              {
+                "fr": "se multiplier",
+                "zh": "增多"
+              },
+              {
+                "fr": "le retard",
+                "zh": "落后，滞后"
+              },
+              {
+                "fr": "une alerte",
+                "zh": "警告"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2121094975895310718",
+      "url": "https://x.com/LeTemps/status/2121094975895310718",
+      "author": "LeTemps",
+      "postedAt": "2026-11-13T04:17:04Z",
+      "excerpt": "Un trio américain avait pronostiqué, il y a 66 ans dans «Science», une évolution de population telle que nous serions une infinité d’humains aujourd’hui.",
+      "level": "B2",
+      "topic": "actualité",
+      "summaryZh": "66年前，三位美国学者在《科学》杂志上预测人口会无限增长，以至于今天人类数量将达到无穷大；这项研究最近又在网上流传。",
+      "summaryEn": "66 years ago, three American researchers predicted in Science a population growth so fast that there would be an infinite number of humans today.",
+      "vocab": [
+        {
+          "fr": "un trio",
+          "zh": "三人组",
+          "en": "a trio"
+        },
+        {
+          "fr": "pronostiquer",
+          "zh": "预测",
+          "en": "to predict"
+        },
+        {
+          "fr": "une infinité",
+          "zh": "无穷",
+          "en": "an infinity"
+        },
+        {
+          "fr": "une évolution",
+          "zh": "变化，演变",
+          "en": "a change, trend"
+        },
+        {
+          "fr": "ressurgir",
+          "zh": "重新出现",
+          "en": "to resurface"
+        }
+      ],
+      "question": {
+        "prompt": "Qu’avait prédit le trio américain il y a 66 ans ?",
+        "choices": [
+          "La disparition de l’humanité",
+          "Une infinité d’humains aujourd’hui",
+          "Une population stable",
+          "La fin du journal «Science»"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文：une évolution de population telle que nous serions une infinité d’humains aujourd’hui。"
+      },
+      "explain": {
+        "styleZh": "报纸科学版导语：用愈过去时回溯旧研究，用条件式说明其（错误的）预测。",
+        "sentences": [
+          {
+            "fr": "Un trio américain avait pronostiqué, il y a 66 ans dans «Science», une évolution de population telle que nous serions une infinité d’humains aujourd’hui.",
+            "zh": "66年前，三位美国学者曾在《科学》杂志上预测，人口将如此增长，以至于今天人类会多到无穷。",
+            "structureZh": "主语 Un trio américain，avait pronostiqué 是愈过去时（plus-que-parfait），表示过去的过去，与今天形成对照。il y a 66 ans 意为“66年前”。telle que 引导结果从句：“如此……以至于”；serions 是 être 的条件式现在时，表示当时预测中的假设结果。",
+            "points": [
+              {
+                "fr": "pronostiquer",
+                "zh": "预测"
+              },
+              {
+                "fr": "il y a + durée",
+                "zh": "……以前"
+              },
+              {
+                "fr": "telle que",
+                "zh": "如此……以至于（tel 与名词配合）"
+              },
+              {
+                "fr": "nous serions（conditionnel）",
+                "zh": "条件式：假设中的结果"
+              },
+              {
+                "fr": "une infinité de",
+                "zh": "无穷多的"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2121177022781391008",
+      "url": "https://x.com/OIFrancophonie/status/2121177022781391008",
+      "author": "OIFrancophonie",
+      "postedAt": "2026-11-13T09:43:06Z",
+      "excerpt": "La jeunesse francophone porte sa voix au 20e Sommet de la Francophonie ! Au Pavillon de la Francophonie, les jeunes du RIJF et du PFJ ont remis à la Secrétaire générale les 10 recommandations issues de la consultation de Lomé, pour une Francophonie plus attentive aux aspirations et aux ambitions de sa jeunesse.",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "第20届法语国家峰会上，法语国家青年组织在法语国家馆向秘书长递交了洛美咨询会形成的10条建议，希望组织更重视青年的愿望。",
+      "summaryEn": "At the 20th Francophonie Summit, young people from two youth networks handed the Secretary-General 10 recommendations from the Lomé consultation.",
+      "vocab": [
+        {
+          "fr": "la jeunesse",
+          "zh": "青年",
+          "en": "youth"
+        },
+        {
+          "fr": "remettre",
+          "zh": "递交",
+          "en": "to hand over"
+        },
+        {
+          "fr": "une recommandation",
+          "zh": "建议",
+          "en": "a recommendation"
+        },
+        {
+          "fr": "issu de",
+          "zh": "来自……的",
+          "en": "resulting from"
+        },
+        {
+          "fr": "une aspiration",
+          "zh": "愿望",
+          "en": "an aspiration"
+        }
+      ],
+      "question": {
+        "prompt": "Qu’ont remis les jeunes à la Secrétaire générale ?",
+        "choices": [
+          "Un prix littéraire",
+          "Une pétition contre le Sommet",
+          "10 recommandations issues de la consultation de Lomé",
+          "Un drapeau"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文：ont remis à la Secrétaire générale les 10 recommandations issues de la consultation de Lomé。"
+      },
+      "explain": {
+        "styleZh": "国际组织活动帖：先用感叹句点题，再用一句长句说明谁、在哪里、做了什么、为了什么。",
+        "sentences": [
+          {
+            "fr": "La jeunesse francophone porte sa voix au 20e Sommet de la Francophonie !",
+            "zh": "法语国家青年在第20届法语国家峰会上发出自己的声音！",
+            "structureZh": "主语 La jeunesse francophone（集体名词，单数），谓语 porte 用现在时。porter sa voix 意为“发出声音、表达诉求”。20e 读作 vingtième。",
+            "points": [
+              {
+                "fr": "porter sa voix",
+                "zh": "发出自己的声音"
+              },
+              {
+                "fr": "la jeunesse",
+                "zh": "青年（集体名词）"
+              },
+              {
+                "fr": "un sommet",
+                "zh": "峰会"
+              }
+            ]
+          },
+          {
+            "fr": "Au Pavillon de la Francophonie, les jeunes du RIJF et du PFJ ont remis à la Secrétaire générale les 10 recommandations issues de la consultation de Lomé, pour une Francophonie plus attentive aux aspirations et aux ambitions de sa jeunesse.",
+            "zh": "在法语国家馆，RIJF 和 PFJ 的青年代表向秘书长递交了洛美咨询会形成的10条建议，希望法语国家组织更加关注青年的愿望和抱负。",
+            "structureZh": "主语 les jeunes du RIJF et du PFJ，谓语 ont remis 是 remettre 的复合过去时；remettre qch à qn 意为“把某物交给某人”。issues de 是过去分词短语，“来自……的”，与 recommandations 阴性复数配合。pour + 名词 表示目的；attentif à 意为“关注……的”。",
+            "points": [
+              {
+                "fr": "ont remis à + personne（remettre）",
+                "zh": "把某物交给某人"
+              },
+              {
+                "fr": "issu de",
+                "zh": "来自……的，产生于"
+              },
+              {
+                "fr": "une recommandation",
+                "zh": "建议"
+              },
+              {
+                "fr": "attentif à",
+                "zh": "关注……的"
+              },
+              {
+                "fr": "une aspiration",
+                "zh": "愿望，追求"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2121196393461154067",
+      "url": "https://x.com/MinistereCC/status/2121196393461154067",
+      "author": "MinistereCC",
+      "postedAt": "2026-11-13T11:00:04Z",
+      "excerpt": "Paris Photo s'installe au Grand Palais jusqu'au 15 novembre 2026. À cette occasion, regardez autrement l'histoire de la photographie, avec l'exposition \"Révéler\", proposée par le Centre Pompidou",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "巴黎摄影博览会在大皇宫举办至11月15日，文化部推荐借此参观蓬皮杜中心的《揭示》展，换个角度看摄影史。",
+      "summaryEn": "Paris Photo is at the Grand Palais until 15 November 2026; the ministry suggests seeing the Centre Pompidou's \"Révéler\" exhibition on photography's history.",
+      "vocab": [
+        {
+          "fr": "s'installer",
+          "zh": "入驻",
+          "en": "to set up"
+        },
+        {
+          "fr": "une exposition",
+          "zh": "展览",
+          "en": "an exhibition"
+        },
+        {
+          "fr": "la photographie",
+          "zh": "摄影",
+          "en": "photography"
+        },
+        {
+          "fr": "autrement",
+          "zh": "换个方式",
+          "en": "differently"
+        },
+        {
+          "fr": "à cette occasion",
+          "zh": "借此机会",
+          "en": "on this occasion"
+        }
+      ],
+      "question": {
+        "prompt": "Jusqu’à quand Paris Photo est-il au Grand Palais ?",
+        "choices": [
+          "Jusqu’au 15 novembre 2026",
+          "Jusqu’à la fin de l’année",
+          "Jusqu’au 1er décembre",
+          "Seulement le 13 novembre"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文：s'installe au Grand Palais jusqu'au 15 novembre 2026。"
+      },
+      "explain": {
+        "styleZh": "文化部的活动推荐：先交代展会地点和日期，再用命令式邀请读者参观展览。",
+        "sentences": [
+          {
+            "fr": "Paris Photo s'installe au Grand Palais jusqu'au 15 novembre 2026.",
+            "zh": "巴黎摄影博览会在大皇宫举办，一直持续到2026年11月15日。",
+            "structureZh": "主语 Paris Photo（展会名，原帖为其账号），谓语 s’installe 是代词式动词现在时，意为“入驻、落户”。jusqu’au = jusqu’à + le，表示“直到……”。",
+            "points": [
+              {
+                "fr": "s'installer",
+                "zh": "入驻，安顿"
+              },
+              {
+                "fr": "jusqu'au + date",
+                "zh": "直到某日"
+              }
+            ]
+          },
+          {
+            "fr": "À cette occasion, regardez autrement l'histoire de la photographie, avec l'exposition \"Révéler\", proposée par le Centre Pompidou",
+            "zh": "借此机会，通过蓬皮杜中心推出的展览《揭示》，换个角度看摄影史。",
+            "structureZh": "À cette occasion 意为“借此机会”。regardez 是 regarder 的命令式（vous），用来邀请读者。autrement 意为“以另一种方式”。proposée par 是过去分词短语，修饰 l’exposition，阴性配合。",
+            "points": [
+              {
+                "fr": "à cette occasion",
+                "zh": "借此机会"
+              },
+              {
+                "fr": "regardez（impératif）",
+                "zh": "命令式：请看"
+              },
+              {
+                "fr": "autrement",
+                "zh": "换一种方式"
+              },
+              {
+                "fr": "proposé par",
+                "zh": "由……推出的"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2121107035781812265",
+      "url": "https://x.com/ONU_fr/status/2121107035781812265",
+      "author": "ONU_fr",
+      "postedAt": "2026-11-13T05:05:00Z",
+      "excerpt": "Face à la haine, choisissons la bienveillance. Ensemble, créons des espaces sûrs, fondés sur le respect des droits humains, de la diversité et de la tolérance.",
+      "level": "A2",
+      "topic": "actualité",
+      "summaryZh": "联合国呼吁：面对仇恨，选择善意；一起创造以尊重人权、多样性和包容为基础的安全空间。",
+      "summaryEn": "The UN calls on people to answer hate with kindness and to create safe spaces built on respect for human rights, diversity and tolerance.",
+      "vocab": [
+        {
+          "fr": "la haine",
+          "zh": "仇恨",
+          "en": "hatred"
+        },
+        {
+          "fr": "la bienveillance",
+          "zh": "善意",
+          "en": "kindness"
+        },
+        {
+          "fr": "un espace sûr",
+          "zh": "安全空间",
+          "en": "a safe space"
+        },
+        {
+          "fr": "fondé sur",
+          "zh": "基于",
+          "en": "based on"
+        },
+        {
+          "fr": "la diversité",
+          "zh": "多样性",
+          "en": "diversity"
+        }
+      ],
+      "question": {
+        "prompt": "Que propose le message face à la haine ?",
+        "choices": [
+          "La colère",
+          "Le silence",
+          "La bienveillance",
+          "La compétition"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文：Face à la haine, choisissons la bienveillance。"
+      },
+      "explain": {
+        "styleZh": "联合国的倡议帖：两句都用 nous 的命令式，号召大家一起行动，语气积极。",
+        "sentences": [
+          {
+            "fr": "Face à la haine, choisissons la bienveillance.",
+            "zh": "面对仇恨，让我们选择善意。",
+            "structureZh": "Face à 意为“面对”。choisissons 是 choisir 的命令式第一人称复数（nous），意为“让我们选择”，用于号召。",
+            "points": [
+              {
+                "fr": "face à",
+                "zh": "面对"
+              },
+              {
+                "fr": "choisissons（impératif nous）",
+                "zh": "命令式 nous：让我们……"
+              },
+              {
+                "fr": "la bienveillance",
+                "zh": "善意，友善"
+              },
+              {
+                "fr": "la haine",
+                "zh": "仇恨"
+              }
+            ]
+          },
+          {
+            "fr": "Ensemble, créons des espaces sûrs, fondés sur le respect des droits humains, de la diversité et de la tolérance.",
+            "zh": "让我们一起创造安全的空间，以尊重人权、多样性和包容为基础。",
+            "structureZh": "Ensemble 意为“一起”。créons 是 créer 的命令式（nous）。fondés sur 是过去分词短语，修饰 des espaces（阳性复数配合），意为“建立在……之上的”。le respect de 后接三个并列名词。",
+            "points": [
+              {
+                "fr": "créons（créer）",
+                "zh": "命令式：让我们创造"
+              },
+              {
+                "fr": "fondé sur",
+                "zh": "以……为基础"
+              },
+              {
+                "fr": "les droits humains",
+                "zh": "人权"
+              },
+              {
+                "fr": "la tolérance",
+                "zh": "宽容，包容"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2121191968432693629",
+      "url": "https://x.com/RFI/status/2121191968432693629",
+      "author": "RFI",
+      "postedAt": "2026-11-13T10:42:29Z",
+      "excerpt": "Sommet de la Francophonie: au Cambodge, «le français est surtout une langue de spécialisation et de prestige»",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "法语国家峰会召开之际，RFI报道：在柬埔寨，法语主要是一门用于专业领域、带有声望的语言。",
+      "summaryEn": "As the Francophonie Summit opens, RFI reports that in Cambodia French is mainly a language of specialisation and prestige.",
+      "vocab": [
+        {
+          "fr": "un sommet",
+          "zh": "峰会",
+          "en": "a summit"
+        },
+        {
+          "fr": "surtout",
+          "zh": "主要",
+          "en": "mainly"
+        },
+        {
+          "fr": "la spécialisation",
+          "zh": "专业化",
+          "en": "specialisation"
+        },
+        {
+          "fr": "le prestige",
+          "zh": "声望",
+          "en": "prestige"
+        }
+      ],
+      "question": {
+        "prompt": "Selon le titre, quel est surtout le statut du français au Cambodge ?",
+        "choices": [
+          "Une langue de spécialisation et de prestige",
+          "La langue de la rue",
+          "Une langue interdite",
+          "La seule langue officielle"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文：le français est surtout une langue de spécialisation et de prestige。"
+      },
+      "explain": {
+        "styleZh": "广播电台标题：冒号前是话题和地点，引号内是受访者的原话。",
+        "sentences": [
+          {
+            "fr": "Sommet de la Francophonie: au Cambodge, «le français est surtout une langue de spécialisation et de prestige»",
+            "zh": "法语国家峰会：在柬埔寨，“法语主要是一种专业和声望的语言”。",
+            "structureZh": "新闻标题结构：冒号前是话题 Sommet de la Francophonie，冒号后是地点 au Cambodge 和引语。引号内是完整的句子：主语 le français，系动词 est，表语 une langue de…；surtout 意为“主要、尤其”。",
+            "points": [
+              {
+                "fr": "surtout",
+                "zh": "主要，尤其"
+              },
+              {
+                "fr": "une langue de spécialisation",
+                "zh": "专业领域使用的语言"
+              },
+              {
+                "fr": "le prestige",
+                "zh": "声望，威望"
+              },
+              {
+                "fr": "au Cambodge",
+                "zh": "在柬埔寨（阳性国名用 au）"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2121171177062142391",
+      "url": "https://x.com/franceinfo/status/2121171177062142391",
+      "author": "franceinfo",
+      "postedAt": "2026-11-13T09:19:52Z",
+      "excerpt": "Salut c’est Sarah, ça dit quoi ? Des vidéos catastrophistes se multiplient sur les réseaux sociaux et annoncent un black-out mondial ce mardi 17 novembre. Une Fake news qui reprend et transforme plusieurs éléments bien réels pour attiser la peur.",
+      "level": "B1",
+      "topic": "actualité",
+      "summaryZh": "网上流传11月17日全球大停电的视频是假新闻：它拼接了美国测试警报系统、欧盟建议备72小时应急包、网络攻击增多等真实信息。",
+      "summaryEn": "Viral videos predicting a global blackout on November 17 are fake: they twist real facts like a US alert test, the EU's 72-hour kit advice and rising cyberattacks.",
+      "vocab": [
+        {
+          "fr": "un black-out",
+          "zh": "大停电",
+          "en": "a blackout"
+        },
+        {
+          "fr": "catastrophiste",
+          "zh": "危言耸听的",
+          "en": "doom-mongering"
+        },
+        {
+          "fr": "une théorie du complot",
+          "zh": "阴谋论",
+          "en": "a conspiracy theory"
+        },
+        {
+          "fr": "un kit de survie",
+          "zh": "应急包",
+          "en": "a survival kit"
+        },
+        {
+          "fr": "extrapoler",
+          "zh": "过度推断",
+          "en": "to extrapolate"
+        },
+        {
+          "fr": "une coupure d'électricité",
+          "zh": "停电",
+          "en": "a power cut"
+        }
+      ],
+      "question": {
+        "prompt": "Selon la vidéo, que recommande l’Union européenne aux citoyens ?",
+        "choices": [
+          "De quitter les villes le 17 novembre",
+          "De préparer un kit de survie de 72 heures",
+          "D’éteindre leur téléphone",
+          "De retirer tout leur argent"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "视频说 l'Union européenne recommande aux citoyens de préparer un kit de survie de 72 heures。"
+      },
+      "explain": {
+        "styleZh": "电视台面向年轻人的辟谣栏目配文：口语化问候开场，接着描述网络现象，最后用名词句直接定性为假新闻。",
+        "sentences": [
+          {
+            "fr": "Salut c’est Sarah, ça dit quoi ?",
+            "zh": "嗨，我是萨拉，最近怎么样？",
+            "structureZh": "非常口语化的开场白。c’est + 名字 用来自我介绍；ça dit quoi ? 是年轻人的口语问候，相当于“怎么样？有什么新鲜事？”，句末不倒装、直接加问号。",
+            "points": [
+              {
+                "fr": "Salut",
+                "zh": "嗨（非正式问候）"
+              },
+              {
+                "fr": "ça dit quoi ?",
+                "zh": "（口语）怎么样？"
+              },
+              {
+                "fr": "c’est + prénom",
+                "zh": "我是……（自我介绍）"
+              }
+            ]
+          },
+          {
+            "fr": "Des vidéos catastrophistes se multiplient sur les réseaux sociaux et annoncent un black-out mondial ce mardi 17 novembre.",
+            "zh": "社交网络上的末日论视频越来越多，它们宣称本周二11月17日会发生全球大停电。",
+            "structureZh": "主语 Des vidéos catastrophistes 带两个并列谓语：se multiplient（代词式动词，“越来越多”）和 annoncent，均用现在时描述正在发生的现象。ce mardi 17 novembre 指即将到来的这个周二。",
+            "points": [
+              {
+                "fr": "se multiplier",
+                "zh": "增多，激增"
+              },
+              {
+                "fr": "catastrophiste",
+                "zh": "末日论的，危言耸听的"
+              },
+              {
+                "fr": "les réseaux sociaux",
+                "zh": "社交网络"
+              },
+              {
+                "fr": "un black-out",
+                "zh": "大停电"
+              }
+            ]
+          },
+          {
+            "fr": "Une Fake news qui reprend et transforme plusieurs éléments bien réels pour attiser la peur.",
+            "zh": "这是一条假新闻，它拿几件真实的事情加以改编，用来煽动恐惧。",
+            "structureZh": "无主句谓语的名词句：核心是 Une Fake news，后接 qui 引导的关系从句，两个并列动词 reprend et transforme。bien réels 中 bien 加强语气，意为“确实真实的”。pour + 不定式 attiser 表示目的。",
+            "points": [
+              {
+                "fr": "une fake news",
+                "zh": "假新闻（法语也说 une infox）"
+              },
+              {
+                "fr": "reprendre",
+                "zh": "沿用，拿来"
+              },
+              {
+                "fr": "attiser la peur",
+                "zh": "煽动恐惧"
+              },
+              {
+                "fr": "bien + adjectif",
+                "zh": "确实……（加强语气）"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2120940197571658176",
+      "url": "https://x.com/RFI/status/2120940197571658176",
+      "author": "RFI",
+      "postedAt": "2026-11-12T18:02:02Z",
+      "excerpt": "Chaque matin, excepté les vendredis, des centaines d’adhérents du Club des Dauphins se rejoignent pour un cours d’aquagym sur la plage de Ngor, à Dakar. L’objectif de cette initiative, mise en place par Ndiamé Sambe, est la rééducation physique ou le renforcement musculaire. Le tout dans une ambiance ludique et familiale.",
+      "level": "B1",
+      "topic": "santé",
+      "summaryZh": "达喀尔恩戈尔海滩上，海豚俱乐部每天早上组织数百人做水中健身操，帮助老人和伤病者康复；俱乐部已有3500多名会员。",
+      "summaryEn": "On Dakar's Ngor beach, the Club des Dauphins holds daily aqua aerobics for hundreds of members, many elderly or in rehab; it now has over 3,500 members.",
+      "vocab": [
+        {
+          "fr": "un adhérent",
+          "zh": "会员",
+          "en": "a member"
+        },
+        {
+          "fr": "la rééducation",
+          "zh": "康复",
+          "en": "rehabilitation"
+        },
+        {
+          "fr": "l’arthrose",
+          "zh": "关节炎",
+          "en": "arthritis"
+        },
+        {
+          "fr": "un AVC",
+          "zh": "中风",
+          "en": "a stroke"
+        },
+        {
+          "fr": "s’entraider",
+          "zh": "互相帮助",
+          "en": "to help one another"
+        },
+        {
+          "fr": "la mobilité réduite",
+          "zh": "行动不便",
+          "en": "reduced mobility"
+        }
+      ],
+      "question": {
+        "prompt": "D’après la vidéo, combien d’adhérents le club compte-t-il aujourd’hui ?",
+        "choices": [
+          "Plus de 3 500",
+          "Environ 300",
+          "Exactement 2 012",
+          "Moins de 100"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "视频说 le club… compte aujourd'hui plus de 3 500 adhérents。"
+      },
+      "explain": {
+        "styleZh": "国际广播电台的报道配文：先交代时间、人物、地点和活动，再说明目的，最后用无动词短句描写氛围。",
+        "sentences": [
+          {
+            "fr": "Chaque matin, excepté les vendredis, des centaines d’adhérents du Club des Dauphins se rejoignent pour un cours d’aquagym sur la plage de Ngor, à Dakar.",
+            "zh": "每天早上（周五除外），数百名海豚俱乐部的会员聚集在达喀尔的恩戈尔海滩上，一起上水中健身操课。",
+            "structureZh": "句首时间状语 Chaque matin，excepté les vendredis 是插入语，表示“除了周五”。主语 des centaines d’adhérents，谓语 se rejoignent 是代词式动词现在时，描述经常性的活动。pour un cours 表目的，sur la plage 和 à Dakar 是地点。",
+            "points": [
+              {
+                "fr": "excepté + nom",
+                "zh": "除了……"
+              },
+              {
+                "fr": "des centaines de",
+                "zh": "数以百计的"
+              },
+              {
+                "fr": "un adhérent",
+                "zh": "会员"
+              },
+              {
+                "fr": "se rejoindre",
+                "zh": "会合，聚集"
+              },
+              {
+                "fr": "aquagym",
+                "zh": "水中健身操"
+              }
+            ]
+          },
+          {
+            "fr": "L’objectif de cette initiative, mise en place par Ndiamé Sambe, est la rééducation physique ou le renforcement musculaire.",
+            "zh": "这项由恩迪亚梅·桑贝发起的活动，目的是身体康复或增强肌肉力量。",
+            "structureZh": "主语 L’objectif de cette initiative，系动词 est 引出表语 la rééducation… ou le renforcement…。mise en place par… 是过去分词短语作插入语，修饰 initiative，mise 与阴性单数配合。",
+            "points": [
+              {
+                "fr": "mettre en place",
+                "zh": "设立，推行（mise en place 为过去分词）"
+              },
+              {
+                "fr": "la rééducation",
+                "zh": "康复训练"
+              },
+              {
+                "fr": "le renforcement musculaire",
+                "zh": "肌肉强化"
+              },
+              {
+                "fr": "une initiative",
+                "zh": "倡议，活动"
+              }
+            ]
+          },
+          {
+            "fr": "Le tout dans une ambiance ludique et familiale.",
+            "zh": "而且整个活动都在轻松有趣、家庭般的氛围中进行。",
+            "structureZh": "无动词的补充句，新闻写作常见。le tout 是固定说法，意为“这一切、全部”，总括前文；dans une ambiance + 形容词 描述氛围。",
+            "points": [
+              {
+                "fr": "le tout",
+                "zh": "这一切，总的来说"
+              },
+              {
+                "fr": "une ambiance",
+                "zh": "氛围"
+              },
+              {
+                "fr": "ludique",
+                "zh": "有趣的，游戏性的"
+              },
+              {
+                "fr": "familial",
+                "zh": "家庭的，亲切的"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2121125544951697485",
+      "url": "https://x.com/Sciences_Avenir/status/2121125544951697485",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-13T06:18:33Z",
+      "excerpt": "Que devient une forêt côtière quand elle se retrouve engloutie par la mer ? Parfois, elle peut devenir de la tourbe et abriter autant de vie que des coraux ! On vous explique en vidéo !",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "莫桑比克近海被淹没的古代海岸森林变成了泥炭礁，栖息的鱼类数量堪比珊瑚礁；但它们很脆弱，几乎没被测绘和保护。",
+      "summaryEn": "Off Mozambique, ancient sunken coastal forests became peat reefs as rich in fish as coral reefs; fragile and barely mapped, they may offer refuge as corals decline.",
+      "vocab": [
+        {
+          "fr": "la tourbe",
+          "zh": "泥炭",
+          "en": "peat"
+        },
+        {
+          "fr": "engloutir",
+          "zh": "吞没",
+          "en": "to swallow up"
+        },
+        {
+          "fr": "un récif",
+          "zh": "礁石",
+          "en": "a reef"
+        },
+        {
+          "fr": "un vestige",
+          "zh": "遗迹，残骸",
+          "en": "a remnant"
+        },
+        {
+          "fr": "abriter",
+          "zh": "容纳，庇护",
+          "en": "to shelter"
+        },
+        {
+          "fr": "à part entière",
+          "zh": "完整的，名副其实的",
+          "en": "in its own right"
+        }
+      ],
+      "question": {
+        "prompt": "Selon la vidéo, combien d’espèces de petits poissons abrite chaque récif de tourbe ?",
+        "choices": [
+          "Une dizaine",
+          "Aucune",
+          "Une centaine",
+          "Une trentaine"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "视频说 chaque récif de tourbe abrite une trentaine d'espèces de petits poissons，约三十种。"
+      },
+      "explain": {
+        "styleZh": "科普媒体短视频配文：先抛出问题，再用感叹句给出出人意料的答案，最后用口语化的一句引导观看。",
+        "sentences": [
+          {
+            "fr": "Que devient une forêt côtière quand elle se retrouve engloutie par la mer ?",
+            "zh": "一片海岸森林被大海吞没后会变成什么？",
+            "structureZh": "Que 引导的疑问句，主谓倒装：devient une forêt côtière。quand 引导时间从句；se retrouver + 形容词/过去分词 意为“（发现自己）陷入某种状态”，engloutie 与 forêt 阴性单数配合；par la mer 引出施动者。",
+            "points": [
+              {
+                "fr": "devient（devenir）",
+                "zh": "变成"
+              },
+              {
+                "fr": "se retrouver + participe passé",
+                "zh": "陷入某种状态，落得……"
+              },
+              {
+                "fr": "engloutir",
+                "zh": "吞没（engloutie 为阴性过去分词）"
+              },
+              {
+                "fr": "une forêt côtière",
+                "zh": "海岸森林"
+              }
+            ]
+          },
+          {
+            "fr": "Parfois, elle peut devenir de la tourbe et abriter autant de vie que des coraux !",
+            "zh": "有时它会变成泥炭，并且孕育出和珊瑚一样多的生命！",
+            "structureZh": "主语 elle 指上句的 forêt；pouvoir + 两个并列不定式 devenir 和 abriter。de la tourbe 是部分冠词，表示不可数物质。autant de + 名词 + que 是数量上的同等比较：“和……一样多的……”。",
+            "points": [
+              {
+                "fr": "de la tourbe",
+                "zh": "泥炭（部分冠词）"
+              },
+              {
+                "fr": "abriter",
+                "zh": "庇护，容纳（生物）"
+              },
+              {
+                "fr": "autant de + nom + que",
+                "zh": "和……一样多的……"
+              },
+              {
+                "fr": "un corail / des coraux",
+                "zh": "珊瑚（复数 coraux）"
+              }
+            ]
+          },
+          {
+            "fr": "On vous explique en vidéo !",
+            "zh": "我们用视频给你解释！",
+            "structureZh": "口语化结尾：主语 on 在这里等于 nous（我们）；vous 是间接宾语代词，放在动词 explique 之前；en vidéo 表示方式。",
+            "points": [
+              {
+                "fr": "On vous explique",
+                "zh": "口语中 on 常代替 nous（我们）"
+              },
+              {
+                "fr": "expliquer qch à qn",
+                "zh": "向某人解释某事"
+              },
+              {
+                "fr": "en vidéo",
+                "zh": "通过视频"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2121217371964674514",
+      "url": "https://x.com/tv5mondeinfo/status/2121217371964674514",
+      "author": "tv5mondeinfo",
+      "postedAt": "2026-11-13T12:23:26Z",
+      "excerpt": "Au Burundi, dans le camp des réfugiés congolais de Musenyi, une collaboration est née. Les Congolais et les Burundais ont créé des liens et cuisinent ensemble le repas des jeunes écoliers.",
+      "level": "B1",
+      "topic": "actualité",
+      "summaryZh": "布隆迪穆塞尼难民营里，刚果难民与当地布隆迪居民一起为学生做饭，互相翻译、分享食物和烹饪技巧，营地已安置两万多名难民。",
+      "summaryEn": "In Burundi's Musenyi camp, Congolese refugees and local Burundians cook pupils' meals together, translate for each other and share food; over 20,000 refugees live there.",
+      "vocab": [
+        {
+          "fr": "un réfugié",
+          "zh": "难民",
+          "en": "a refugee"
+        },
+        {
+          "fr": "la langue maternelle",
+          "zh": "母语",
+          "en": "mother tongue"
+        },
+        {
+          "fr": "faire le pont",
+          "zh": "充当桥梁",
+          "en": "to bridge"
+        },
+        {
+          "fr": "une injure",
+          "zh": "辱骂",
+          "en": "an insult"
+        },
+        {
+          "fr": "malaxer",
+          "zh": "揉（面团）",
+          "en": "to knead"
+        },
+        {
+          "fr": "en synergie",
+          "zh": "齐心协力",
+          "en": "in synergy"
+        }
+      ],
+      "question": {
+        "prompt": "Dans la vidéo, quel rôle joue Marceline ?",
+        "choices": [
+          "Elle dirige le camp.",
+          "Elle enseigne les mathématiques.",
+          "Elle traduit entre le swahili et le kirundi pour éviter les malentendus.",
+          "Elle vend du maïs au marché."
+        ],
+        "answerIndex": 2,
+        "explanationZh": "视频说她会斯瓦希里语和基隆迪语，在妇女之间 fait le pont，避免误解。"
+      },
+      "explain": {
+        "styleZh": "电视新闻短视频配文：先用地点引出背景，再用两句短句讲述一个积极的小故事。",
+        "sentences": [
+          {
+            "fr": "Au Burundi, dans le camp des réfugiés congolais de Musenyi, une collaboration est née.",
+            "zh": "在布隆迪穆塞尼的刚果难民营里，一种合作诞生了。",
+            "structureZh": "句首两个地点状语：Au Burundi（国家用 au）和 dans le camp…。主语 une collaboration，est née 是 naître 的复合过去时，naître 用 être 作助动词，过去分词 née 与阴性主语配合。",
+            "points": [
+              {
+                "fr": "être + participe passé（est née）",
+                "zh": "naître 诞生；复合过去时用 être 作助动词"
+              },
+              {
+                "fr": "un camp de réfugiés",
+                "zh": "难民营"
+              },
+              {
+                "fr": "une collaboration",
+                "zh": "合作"
+              }
+            ]
+          },
+          {
+            "fr": "Les Congolais et les Burundais ont créé des liens et cuisinent ensemble le repas des jeunes écoliers.",
+            "zh": "刚果人和布隆迪人建立了联系，并一起为小学生做饭。",
+            "structureZh": "并列主语 Les Congolais et les Burundais（表示国民的名词首字母大写）。两个谓语时态不同：ont créé 是复合过去时，表示已完成的结果；cuisinent 是现在时，表示现在经常做的事。",
+            "points": [
+              {
+                "fr": "créer des liens",
+                "zh": "建立联系，结下情谊"
+              },
+              {
+                "fr": "cuisiner",
+                "zh": "做饭，烹饪"
+              },
+              {
+                "fr": "un écolier",
+                "zh": "小学生"
+              },
+              {
+                "fr": "les Congolais（majuscule）",
+                "zh": "表示国民的名词首字母大写"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
