@@ -1,0 +1,1428 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-14T12:29:23Z",
+  "items": [
+    {
+      "postId": "2121560523804205336",
+      "url": "https://x.com/ONU_fr/status/2121560523804205336",
+      "author": "ONU_fr",
+      "postedAt": "2026-11-14T11:07:00Z",
+      "excerpt": "Plus de 40 % des personnes atteintes de diabète ne sont pas diagnostiquées. Sans traitement, cette maladie chronique augmente le risque de complications comme les AVC et la cécité.",
+      "level": "B1",
+      "topic": "santé",
+      "summaryZh": "世界糖尿病日，联合国提醒：超过40%的糖尿病患者未被诊断，不治疗会增加中风和失明等并发症风险。",
+      "summaryEn": "On World Diabetes Day, the UN warns that over 40% of people with diabetes are undiagnosed; untreated, it raises the risk of strokes and blindness.",
+      "vocab": [
+        {
+          "fr": "le diabète",
+          "zh": "糖尿病",
+          "en": "diabetes"
+        },
+        {
+          "fr": "diagnostiquer",
+          "zh": "诊断",
+          "en": "to diagnose"
+        },
+        {
+          "fr": "une maladie chronique",
+          "zh": "慢性病",
+          "en": "a chronic disease"
+        },
+        {
+          "fr": "une complication",
+          "zh": "并发症",
+          "en": "a complication"
+        },
+        {
+          "fr": "la cécité",
+          "zh": "失明",
+          "en": "blindness"
+        }
+      ],
+      "question": {
+        "prompt": "Quelle part des personnes diabétiques n’est pas diagnostiquée ?",
+        "choices": [
+          "Moins de 10 %",
+          "Plus de 40 %",
+          "Exactement 50 %",
+          "Près de 90 %"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文：Plus de 40 % des personnes atteintes de diabète ne sont pas diagnostiquées。"
+      },
+      "explain": {
+        "styleZh": "国际组织的健康日科普帖：第一句给出惊人数据，第二句说明不治疗的后果。",
+        "sentences": [
+          {
+            "fr": "Plus de 40 % des personnes atteintes de diabète ne sont pas diagnostiquées.",
+            "zh": "超过40%的糖尿病患者没有得到诊断。",
+            "structureZh": "主语 Plus de 40 % des personnes，谓语用被动语态 ne sont pas diagnostiquées（être + 过去分词），过去分词与 personnes 配合为阴性复数。atteintes de 是过去分词短语，修饰 personnes，意为“患有……的”。",
+            "points": [
+              {
+                "fr": "être atteint de + maladie",
+                "zh": "患有某病"
+              },
+              {
+                "fr": "diagnostiquer",
+                "zh": "诊断"
+              },
+              {
+                "fr": "plus de + pourcentage",
+                "zh": "超过……%"
+              },
+              {
+                "fr": "le diabète",
+                "zh": "糖尿病"
+              }
+            ]
+          },
+          {
+            "fr": "Sans traitement, cette maladie chronique augmente le risque de complications comme les AVC et la cécité.",
+            "zh": "如果不治疗，这种慢性病会增加中风和失明等并发症的风险。",
+            "structureZh": "Sans traitement 是条件状语，相当于 s’il n’y a pas de traitement。主干 cette maladie chronique augmente le risque；comme 引出举例。AVC 是 accident vasculaire cérébral（脑卒中、中风）的缩写。",
+            "points": [
+              {
+                "fr": "sans + nom（条件）",
+                "zh": "没有……的话"
+              },
+              {
+                "fr": "une maladie chronique",
+                "zh": "慢性病"
+              },
+              {
+                "fr": "augmenter le risque de",
+                "zh": "增加……的风险"
+              },
+              {
+                "fr": "les complications comme les AVC",
+                "zh": "并发症，如中风（AVC = accident vasculaire cérébral）"
+              },
+              {
+                "fr": "la cécité",
+                "zh": "失明"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2121548031145189574",
+      "url": "https://x.com/Sciences_Avenir/status/2121548031145189574",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-14T10:17:21Z",
+      "excerpt": "Les appareils qui prétendent mesurer la glycémie sans piqûre, comme certaines montres connectées, sont trompeurs et peuvent menacer la santé des diabétiques en leur donnant des mesures erronées !",
+      "level": "B2",
+      "topic": "santé",
+      "summaryZh": "《科学与未来》提醒：声称无需扎针测血糖的设备（如部分智能手表）不可靠，错误读数可能危及糖尿病患者健康。",
+      "summaryEn": "Sciences et Avenir warns that devices claiming to measure blood sugar without a prick, like some smartwatches, are misleading and can endanger diabetics.",
+      "vocab": [
+        {
+          "fr": "la glycémie",
+          "zh": "血糖",
+          "en": "blood sugar"
+        },
+        {
+          "fr": "une piqûre",
+          "zh": "针刺",
+          "en": "a prick"
+        },
+        {
+          "fr": "trompeur",
+          "zh": "误导性的",
+          "en": "misleading"
+        },
+        {
+          "fr": "erroné",
+          "zh": "错误的",
+          "en": "wrong"
+        },
+        {
+          "fr": "une montre connectée",
+          "zh": "智能手表",
+          "en": "a smartwatch"
+        }
+      ],
+      "question": {
+        "prompt": "Pourquoi ces appareils sont-ils dangereux pour les diabétiques ?",
+        "choices": [
+          "Ils sont trop chers",
+          "Ils provoquent des piqûres douloureuses",
+          "Ils consomment trop d’énergie",
+          "Ils donnent des mesures erronées"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "原文：en leur donnant des mesures erronées，给出错误读数。"
+      },
+      "explain": {
+        "styleZh": "科普杂志的警示性帖文：一句长感叹句，主语带关系从句，谓语提出两点判断。",
+        "sentences": [
+          {
+            "fr": "Les appareils qui prétendent mesurer la glycémie sans piqûre, comme certaines montres connectées, sont trompeurs et peuvent menacer la santé des diabétiques en leur donnant des mesures erronées !",
+            "zh": "那些声称无需扎针就能测量血糖的设备，比如某些智能手表，具有误导性，可能会给糖尿病患者错误的读数，从而威胁他们的健康！",
+            "structureZh": "主语 Les appareils 带关系从句 qui prétendent mesurer…；comme certaines montres connectées 是插入的举例。两个并列谓语：sont trompeurs 和 peuvent menacer。en leur donnant 是副动词（en + 现在分词），表示方式或原因，leur 指 des diabétiques。",
+            "points": [
+              {
+                "fr": "prétendre + inf.",
+                "zh": "声称（能）做某事"
+              },
+              {
+                "fr": "la glycémie",
+                "zh": "血糖"
+              },
+              {
+                "fr": "une piqûre",
+                "zh": "针刺，扎针"
+              },
+              {
+                "fr": "une montre connectée",
+                "zh": "智能手表"
+              },
+              {
+                "fr": "en + participe présent",
+                "zh": "副动词，表示方式/原因"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2121337476832981391",
+      "url": "https://x.com/Sciences_Avenir/status/2121337476832981391",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-13T20:20:41Z",
+      "excerpt": "D'après une étude de l'Agence pour la transition écologique, favoriser les déplacements à pied génère 57 milliards d'euros d'économies chaque année, dont une réduction des dépenses de santé et des gains de production.",
+      "level": "B2",
+      "topic": "transport",
+      "summaryZh": "法国生态转型署研究显示，鼓励步行每年可带来570亿欧元的节省，包括医疗支出减少和生产效益提高。",
+      "summaryEn": "A study by France's ecological transition agency finds that encouraging walking saves 57 billion euros a year, including lower health spending and productivity gains.",
+      "vocab": [
+        {
+          "fr": "un déplacement",
+          "zh": "出行",
+          "en": "a trip"
+        },
+        {
+          "fr": "à pied",
+          "zh": "步行",
+          "en": "on foot"
+        },
+        {
+          "fr": "des économies",
+          "zh": "节省的钱",
+          "en": "savings"
+        },
+        {
+          "fr": "les dépenses de santé",
+          "zh": "医疗支出",
+          "en": "health spending"
+        },
+        {
+          "fr": "favoriser",
+          "zh": "促进，鼓励",
+          "en": "to encourage"
+        }
+      ],
+      "question": {
+        "prompt": "Combien d’économies le fait de favoriser la marche génère-t-il par an ?",
+        "choices": [
+          "57 milliards d’euros",
+          "57 millions d’euros",
+          "5,7 milliards d’euros",
+          "570 euros par personne"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文：génère 57 milliards d'euros d'économies chaque année。"
+      },
+      "explain": {
+        "styleZh": "科普杂志转述研究结论：一句长句，先给出来源，再给出数字，最后用 dont 细分。",
+        "sentences": [
+          {
+            "fr": "D'après une étude de l'Agence pour la transition écologique, favoriser les déplacements à pied génère 57 milliards d'euros d'économies chaque année, dont une réduction des dépenses de santé et des gains de production.",
+            "zh": "据法国生态转型署的一项研究，鼓励步行出行每年可节省570亿欧元，其中包括医疗支出的减少和生产效率的提高。",
+            "structureZh": "D'après 引出信息来源。主语是不定式短语 favoriser les déplacements à pied（动词不定式可作主语，谓语用单数 génère）。dont 在这里意为“其中包括”，引出名词，后面不接动词。",
+            "points": [
+              {
+                "fr": "d'après + source",
+                "zh": "根据……"
+              },
+              {
+                "fr": "favoriser + nom（不定式作主语）",
+                "zh": "不定式短语作主语，谓语用第三人称单数"
+              },
+              {
+                "fr": "les déplacements à pied",
+                "zh": "步行出行"
+              },
+              {
+                "fr": "générer des économies",
+                "zh": "带来节省"
+              },
+              {
+                "fr": "dont + nom",
+                "zh": "其中包括……"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2121525358625489306",
+      "url": "https://x.com/franceinfo/status/2121525358625489306",
+      "author": "franceinfo",
+      "postedAt": "2026-11-14T08:47:16Z",
+      "excerpt": "INFO RADIO FRANCE. Sept Français sur dix ont changé leurs habitudes alimentaires avec la baisse de leur pouvoir d'achat, selon un baromètre",
+      "level": "B1",
+      "topic": "actualité",
+      "summaryZh": "一项调查显示，十个法国人中有七个因购买力下降而改变了饮食习惯。",
+      "summaryEn": "According to a survey, seven in ten French people have changed their eating habits as their purchasing power has fallen.",
+      "vocab": [
+        {
+          "fr": "le pouvoir d'achat",
+          "zh": "购买力",
+          "en": "purchasing power"
+        },
+        {
+          "fr": "une habitude alimentaire",
+          "zh": "饮食习惯",
+          "en": "an eating habit"
+        },
+        {
+          "fr": "une baisse",
+          "zh": "下降",
+          "en": "a fall"
+        },
+        {
+          "fr": "un baromètre",
+          "zh": "定期民调",
+          "en": "a regular survey"
+        }
+      ],
+      "question": {
+        "prompt": "Combien de Français ont changé leurs habitudes alimentaires ?",
+        "choices": [
+          "Un sur dix",
+          "Trois sur dix",
+          "Sept sur dix",
+          "Tous"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文：Sept Français sur dix ont changé leurs habitudes alimentaires。"
+      },
+      "explain": {
+        "styleZh": "广播电台独家消息式标题：INFO RADIO FRANCE 为栏目标签，后接一句新闻导语。",
+        "sentences": [
+          {
+            "fr": "INFO RADIO FRANCE.",
+            "zh": "法国广播电台独家消息。",
+            "structureZh": "省略句，是消息来源的标签，表示这是法国广播电台（Radio France）独家获得的信息。",
+            "points": [
+              {
+                "fr": "INFO + média",
+                "zh": "某媒体独家消息"
+              }
+            ]
+          },
+          {
+            "fr": "Sept Français sur dix ont changé leurs habitudes alimentaires avec la baisse de leur pouvoir d'achat, selon un baromètre",
+            "zh": "根据一项定期调查，十个法国人中有七个因购买力下降而改变了饮食习惯",
+            "structureZh": "主语 Sept Français sur dix（十分之七），谓语 ont changé 是复合过去时，表示已经发生的变化。avec 在这里表示原因或伴随：“随着……”。selon 引出来源；标题句末没有句号。",
+            "points": [
+              {
+                "fr": "sept … sur dix",
+                "zh": "十个中有七个"
+              },
+              {
+                "fr": "les habitudes alimentaires",
+                "zh": "饮食习惯"
+              },
+              {
+                "fr": "le pouvoir d'achat",
+                "zh": "购买力"
+              },
+              {
+                "fr": "la baisse de",
+                "zh": "……的下降"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2121575688540995724",
+      "url": "https://x.com/franceinfo/status/2121575688540995724",
+      "author": "franceinfo",
+      "postedAt": "2026-11-14T12:07:15Z",
+      "excerpt": "\"Fais-moi un signe\" : l'itinéraire escarpé d'un enfant entendant né de parents sourds",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "法国新闻台报道作品《给我一个手势》，讲述一个听力正常、父母却都失聪的孩子的坎坷成长经历。",
+      "summaryEn": "Franceinfo presents \"Fais-moi un signe\", about the bumpy path of a hearing child born to deaf parents.",
+      "vocab": [
+        {
+          "fr": "sourd",
+          "zh": "聋的",
+          "en": "deaf"
+        },
+        {
+          "fr": "entendant",
+          "zh": "听得见的",
+          "en": "hearing"
+        },
+        {
+          "fr": "escarpé",
+          "zh": "陡峭的，坎坷的",
+          "en": "steep, rough"
+        },
+        {
+          "fr": "un itinéraire",
+          "zh": "路线，经历",
+          "en": "a path"
+        }
+      ],
+      "question": {
+        "prompt": "Qui sont les parents de l’enfant dont parle ce titre ?",
+        "choices": [
+          "Des musiciens",
+          "Des personnes sourdes",
+          "Des médecins",
+          "Des enseignants"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文：né de parents sourds，父母是聋人。"
+      },
+      "explain": {
+        "styleZh": "新闻标题：引号里是作品名，冒号后为名词短语，没有谓语动词。",
+        "sentences": [
+          {
+            "fr": "\"Fais-moi un signe\" : l'itinéraire escarpé d'un enfant entendant né de parents sourds",
+            "zh": "《给我一个手势》：一个父母失聪的听力正常孩子的坎坷成长之路",
+            "structureZh": "省略句（标题句）：引号中的 Fais-moi un signe 是命令式，作品名，moi 在肯定命令式中放在动词后。冒号后是名词短语，核心 l'itinéraire；escarpé 原意“陡峭的”，这里引申为“坎坷的”。entendant 是现在分词作形容词（听得见的），né de 表示“生于……”。",
+            "points": [
+              {
+                "fr": "Fais-moi un signe",
+                "zh": "给我一个手势（命令式 + moi）"
+              },
+              {
+                "fr": "un itinéraire escarpé",
+                "zh": "坎坷的道路"
+              },
+              {
+                "fr": "entendant",
+                "zh": "听力正常的人/的"
+              },
+              {
+                "fr": "sourd",
+                "zh": "聋的"
+              },
+              {
+                "fr": "né de parents …",
+                "zh": "生于……的父母"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2121317392810652091",
+      "url": "https://x.com/CitImmCanFR/status/2121317392810652091",
+      "author": "CitImmCanFR",
+      "postedAt": "2026-11-13T19:00:53Z",
+      "excerpt": "Les services en ligne sont désormais disponibles. Merci de votre patience.",
+      "level": "A2",
+      "topic": "immigration",
+      "summaryZh": "加拿大移民部通知：在线服务现已恢复使用，感谢耐心等待。",
+      "summaryEn": "Immigration Canada says its online services are available again and thanks users for their patience.",
+      "vocab": [
+        {
+          "fr": "en ligne",
+          "zh": "在线",
+          "en": "online"
+        },
+        {
+          "fr": "désormais",
+          "zh": "从此",
+          "en": "from now on"
+        },
+        {
+          "fr": "disponible",
+          "zh": "可用的",
+          "en": "available"
+        },
+        {
+          "fr": "la patience",
+          "zh": "耐心",
+          "en": "patience"
+        }
+      ],
+      "question": {
+        "prompt": "Que dit ce message de l’IRCC ?",
+        "choices": [
+          "Les services en ligne fonctionnent de nouveau",
+          "Les bureaux sont fermés",
+          "Les demandes sont refusées",
+          "Il faut envoyer un courriel"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "Les services en ligne sont désormais disponibles，说明在线服务已恢复。"
+      },
+      "explain": {
+        "styleZh": "政府部门的服务通知：两个短句，先通报恢复，再致谢。",
+        "sentences": [
+          {
+            "fr": "Les services en ligne sont désormais disponibles.",
+            "zh": "在线服务现已恢复可用。",
+            "structureZh": "系表结构：主语 Les services en ligne，sont disponibles 为“是可用的”，形容词与主语配合为复数。désormais 意为“从现在起”，暗示之前服务曾中断。",
+            "points": [
+              {
+                "fr": "en ligne",
+                "zh": "在线的"
+              },
+              {
+                "fr": "désormais",
+                "zh": "从此，现在起"
+              },
+              {
+                "fr": "disponible",
+                "zh": "可用的"
+              }
+            ]
+          },
+          {
+            "fr": "Merci de votre patience.",
+            "zh": "感谢您的耐心等待。",
+            "structureZh": "固定礼貌用语：Merci de + 名词/不定式。votre 是对公众的尊称形式。",
+            "points": [
+              {
+                "fr": "merci de + nom",
+                "zh": "感谢……"
+              },
+              {
+                "fr": "la patience",
+                "zh": "耐心"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2121504866333769910",
+      "url": "https://x.com/LeTemps/status/2121504866333769910",
+      "author": "LeTemps",
+      "postedAt": "2026-11-14T07:25:50Z",
+      "excerpt": "Harcèlement, isolement, ou encore consentement: les sujets de ces ouvrages, tout sauf légers, sont traités avec doigté. Pour affronter les épreuves sans (trop) trembler",
+      "level": "C1",
+      "topic": "culture",
+      "summaryZh": "《时报》推荐几本青少年读物，主题涉及霸凌、孤立和性同意，虽然沉重但处理细腻，帮助读者面对困难。",
+      "summaryEn": "Le Temps recommends books tackling bullying, isolation and consent with a delicate touch, to help readers face hardships without (too much) fear.",
+      "vocab": [
+        {
+          "fr": "le harcèlement",
+          "zh": "霸凌，骚扰",
+          "en": "harassment, bullying"
+        },
+        {
+          "fr": "un ouvrage",
+          "zh": "作品，书",
+          "en": "a work, a book"
+        },
+        {
+          "fr": "avec doigté",
+          "zh": "巧妙地",
+          "en": "tactfully"
+        },
+        {
+          "fr": "affronter",
+          "zh": "面对",
+          "en": "to face"
+        },
+        {
+          "fr": "une épreuve",
+          "zh": "考验",
+          "en": "an ordeal"
+        }
+      ],
+      "question": {
+        "prompt": "Comment les sujets de ces livres sont-ils traités ?",
+        "choices": [
+          "Avec humour",
+          "De façon superficielle",
+          "Avec violence",
+          "Avec doigté"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "原文：sont traités avec doigté，处理得细腻有分寸。"
+      },
+      "explain": {
+        "styleZh": "报纸书评导语：先列举主题词再用冒号展开评价，第二句是无主句的省略句，说明读这些书的意义。",
+        "sentences": [
+          {
+            "fr": "Harcèlement, isolement, ou encore consentement: les sujets de ces ouvrages, tout sauf légers, sont traités avec doigté.",
+            "zh": "霸凌、孤立以及性同意：这些书的主题一点也不轻松，但都处理得十分细腻。",
+            "structureZh": "冒号前是名词列举，冒号后是主句。主干 les sujets … sont traités（被动语态，现在时）。tout sauf légers 是插入语，意为“绝不轻松”。avec doigté 意为“巧妙地、有分寸地”。瑞士报刊在冒号前常不空格。",
+            "points": [
+              {
+                "fr": "tout sauf + adj.",
+                "zh": "绝不是……"
+              },
+              {
+                "fr": "avec doigté",
+                "zh": "巧妙地，有分寸地"
+              },
+              {
+                "fr": "le harcèlement",
+                "zh": "骚扰，霸凌"
+              },
+              {
+                "fr": "le consentement",
+                "zh": "同意（尤指性同意）"
+              },
+              {
+                "fr": "être traité",
+                "zh": "被处理，被探讨"
+              }
+            ]
+          },
+          {
+            "fr": "Pour affronter les épreuves sans (trop) trembler",
+            "zh": "帮助人们面对考验，而不（过于）发抖",
+            "structureZh": "省略句：只有表示目的的 pour + 不定式短语，省略了主句（如“这些书可以帮助你”）。sans + 不定式 表示“不做某事”；括号里的 trop 让语气缓和：不至于太害怕。",
+            "points": [
+              {
+                "fr": "affronter qch",
+                "zh": "面对，迎战"
+              },
+              {
+                "fr": "une épreuve",
+                "zh": "考验，难关"
+              },
+              {
+                "fr": "sans + inf.",
+                "zh": "不……地"
+              },
+              {
+                "fr": "trembler",
+                "zh": "发抖"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2121572908346769685",
+      "url": "https://x.com/LeTemps/status/2121572908346769685",
+      "author": "LeTemps",
+      "postedAt": "2026-11-14T11:56:12Z",
+      "excerpt": "Dans la station familiale valaisanne, le White Shop mêle magasin de sports d’hiver et café chaleureux. Une histoire de famille ancrée dans la neige et le chocolat chaud",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "瑞士瓦莱州一处家庭滑雪地，White Shop 把冬季运动用品店和温馨咖啡馆结合在一起，是一个扎根于雪与热巧克力的家族故事。",
+      "summaryEn": "In a family ski resort in Valais, the White Shop combines a winter sports store with a cosy café, a family story rooted in snow and hot chocolate.",
+      "vocab": [
+        {
+          "fr": "une station de ski",
+          "zh": "滑雪站",
+          "en": "a ski resort"
+        },
+        {
+          "fr": "mêler",
+          "zh": "混合",
+          "en": "to mix"
+        },
+        {
+          "fr": "chaleureux",
+          "zh": "温馨的",
+          "en": "warm, cosy"
+        },
+        {
+          "fr": "ancré",
+          "zh": "扎根的",
+          "en": "rooted"
+        }
+      ],
+      "question": {
+        "prompt": "Que combine le White Shop ?",
+        "choices": [
+          "Un hôtel et un restaurant",
+          "Une école de ski et une piscine",
+          "Un magasin de sports d’hiver et un café",
+          "Une boulangerie et une librairie"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文：mêle magasin de sports d’hiver et café chaleureux。"
+      },
+      "explain": {
+        "styleZh": "报纸人物/商店特写导语：第一句介绍地点和店铺特点，第二句是无动词的名词句，点出故事主题。",
+        "sentences": [
+          {
+            "fr": "Dans la station familiale valaisanne, le White Shop mêle magasin de sports d’hiver et café chaleureux.",
+            "zh": "在瓦莱州这个适合家庭的度假站，White Shop 把冬季运动用品店和温馨咖啡馆结合在一起。",
+            "structureZh": "主干 le White Shop mêle A et B，现在时描述现状。mêler A et B 意为“把A和B融合在一起”，名词前省略了冠词。valaisanne 是 Valais（瑞士瓦莱州）的形容词阴性形式；station 在这里指“度假站、滑雪站”。",
+            "points": [
+              {
+                "fr": "mêler A et B",
+                "zh": "融合A和B"
+              },
+              {
+                "fr": "une station",
+                "zh": "度假地，滑雪站"
+              },
+              {
+                "fr": "valaisan",
+                "zh": "瑞士瓦莱州的"
+              },
+              {
+                "fr": "chaleureux",
+                "zh": "温馨的，热情的"
+              }
+            ]
+          },
+          {
+            "fr": "Une histoire de famille ancrée dans la neige et le chocolat chaud",
+            "zh": "一个扎根于白雪和热巧克力中的家族故事",
+            "structureZh": "省略句：没有谓语动词的名词短语。ancrée 是 ancrer 的过去分词，作定语修饰 histoire，阴性单数配合；ancré dans 字面是“抛锚于”，引申为“扎根于”。",
+            "points": [
+              {
+                "fr": "être ancré dans",
+                "zh": "扎根于"
+              },
+              {
+                "fr": "une histoire de famille",
+                "zh": "家族故事"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2121563795646501225",
+      "url": "https://x.com/JdeMontreal/status/2121563795646501225",
+      "author": "JdeMontreal",
+      "postedAt": "2026-11-14T11:20:00Z",
+      "excerpt": "Il y a 100 ans, tout le monde prenait le tramway à Montréal",
+      "level": "A2",
+      "topic": "transport",
+      "summaryZh": "《蒙特利尔日报》回顾：一百年前，蒙特利尔人人都乘坐有轨电车出行。",
+      "summaryEn": "Journal de Montréal looks back: 100 years ago, everyone in Montreal took the streetcar.",
+      "vocab": [
+        {
+          "fr": "le tramway",
+          "zh": "有轨电车",
+          "en": "streetcar"
+        },
+        {
+          "fr": "il y a",
+          "zh": "……以前",
+          "en": "ago"
+        },
+        {
+          "fr": "tout le monde",
+          "zh": "所有人",
+          "en": "everyone"
+        }
+      ],
+      "question": {
+        "prompt": "Que faisait tout le monde à Montréal il y a 100 ans ?",
+        "choices": [
+          "Prendre le tramway",
+          "Prendre le métro",
+          "Rouler à vélo",
+          "Conduire une voiture"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文：tout le monde prenait le tramway à Montréal。"
+      },
+      "explain": {
+        "styleZh": "报纸历史专栏标题：一句完整句，用未完成过去时描述过去的习惯。",
+        "sentences": [
+          {
+            "fr": "Il y a 100 ans, tout le monde prenait le tramway à Montréal",
+            "zh": "一百年前，蒙特利尔人人都坐有轨电车",
+            "structureZh": "il y a + 时间 表示“……以前”。prenait 是 prendre 的未完成过去时，描述过去的习惯或常态（当时大家经常坐）。tout le monde 意为“所有人”，谓语用单数。",
+            "points": [
+              {
+                "fr": "il y a + durée",
+                "zh": "……以前"
+              },
+              {
+                "fr": "imparfait（prenait）",
+                "zh": "未完成过去时，表示过去的习惯"
+              },
+              {
+                "fr": "tout le monde",
+                "zh": "所有人（动词用单数）"
+              },
+              {
+                "fr": "prendre le tramway",
+                "zh": "乘坐有轨电车"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2121561278812389859",
+      "url": "https://x.com/tvanouvelles/status/2121561278812389859",
+      "author": "tvanouvelles",
+      "postedAt": "2026-11-14T11:10:00Z",
+      "excerpt": "Un projet de 400 logements dans une résidence pour aînés dérange à Sillery",
+      "level": "B1",
+      "topic": "logement",
+      "summaryZh": "魁北克市锡耶里街区一个在老年公寓内建造400套住房的项目引起当地居民不满。",
+      "summaryEn": "A plan for 400 housing units in a seniors' residence is causing discontent in Sillery, Quebec City.",
+      "vocab": [
+        {
+          "fr": "un logement",
+          "zh": "住房",
+          "en": "a housing unit"
+        },
+        {
+          "fr": "un aîné",
+          "zh": "老年人",
+          "en": "a senior"
+        },
+        {
+          "fr": "déranger",
+          "zh": "令人不满",
+          "en": "to bother"
+        },
+        {
+          "fr": "une résidence",
+          "zh": "公寓，住所",
+          "en": "a residence"
+        }
+      ],
+      "question": {
+        "prompt": "Combien de logements prévoit le projet ?",
+        "choices": [
+          "40",
+          "100",
+          "4 000",
+          "400"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "原文：Un projet de 400 logements。"
+      },
+      "explain": {
+        "styleZh": "电视新闻标题：一句简短完整句，主语较长，谓语动词放在最后。",
+        "sentences": [
+          {
+            "fr": "Un projet de 400 logements dans une résidence pour aînés dérange à Sillery",
+            "zh": "魁北克锡耶里一个在老年公寓内建400套住房的项目引发不满",
+            "structureZh": "主语较长：Un projet de 400 logements dans une résidence pour aînés；谓语 dérange 用作不及物动词，意为“令人不满、引起反感”，省略了宾语（les gens）。Sillery 是魁北克市的一个街区。aîné 在魁北克法语中常指“老年人”。",
+            "points": [
+              {
+                "fr": "déranger",
+                "zh": "打扰；令人不满"
+              },
+              {
+                "fr": "un logement",
+                "zh": "住房，住宅单位"
+              },
+              {
+                "fr": "une résidence pour aînés",
+                "zh": "老年公寓"
+              },
+              {
+                "fr": "un aîné",
+                "zh": "长者，老年人（魁北克常用）"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2121291166377550132",
+      "url": "https://x.com/CEA_Officiel/status/2121291166377550132",
+      "author": "CEA_Officiel",
+      "postedAt": "2026-11-13T17:16:40Z",
+      "excerpt": "Et si les lois de Newton étaient la clé pour résoudre les énigmes de Zelda: Tears of the Kingdom ? Dans cet extrait Julgane & Kiara analysent la trajectoire d'une boule dans Zelda et nous expliquent les principes physiques qui permettent de réussir ce défi !",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "两位主播在《塞尔达》游戏中用牛顿定律分析球的抛物线轨迹，讲解势能（E=mgh）如何转化为动能（E=½mv²）。",
+      "summaryEn": "Two hosts use Newton's laws to analyse a ball's parabolic path in Zelda, explaining how potential energy (mgh) turns into kinetic energy (½mv²).",
+      "vocab": [
+        {
+          "fr": "la trajectoire",
+          "zh": "轨迹",
+          "en": "trajectory"
+        },
+        {
+          "fr": "un tir parabolique",
+          "zh": "抛物线运动",
+          "en": "a parabolic shot"
+        },
+        {
+          "fr": "l'énergie potentielle",
+          "zh": "势能",
+          "en": "potential energy"
+        },
+        {
+          "fr": "l'énergie cinétique",
+          "zh": "动能",
+          "en": "kinetic energy"
+        },
+        {
+          "fr": "une rampe",
+          "zh": "坡道",
+          "en": "a ramp"
+        },
+        {
+          "fr": "au carré",
+          "zh": "平方",
+          "en": "squared"
+        }
+      ],
+      "question": {
+        "prompt": "Dans la vidéo, en quoi l’énergie potentielle se transforme-t-elle quand la boule tombe ?",
+        "choices": [
+          "En chaleur",
+          "En lumière",
+          "En énergie électrique",
+          "En énergie cinétique"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "视频说 elle va transformer cette énergie potentielle en énergie cinétique，势能转化为动能。"
+      },
+      "explain": {
+        "styleZh": "科研机构的科普视频配文：先用 Et si 提出一个有趣的设想，再介绍视频内容。",
+        "sentences": [
+          {
+            "fr": "Et si les lois de Newton étaient la clé pour résoudre les énigmes de Zelda: Tears of the Kingdom ?",
+            "zh": "如果牛顿定律就是解开《塞尔达传说：王国之泪》谜题的钥匙呢？",
+            "structureZh": "Et si + 未完成过去时（étaient）构成假设性的提问，意为“要是……会怎样？”，常用来提出建议或设想，不需要主句。la clé pour + 不定式：“做某事的关键”。",
+            "points": [
+              {
+                "fr": "Et si + imparfait ?",
+                "zh": "要是……呢？（提出设想）"
+              },
+              {
+                "fr": "la clé pour + inf.",
+                "zh": "做某事的关键"
+              },
+              {
+                "fr": "résoudre une énigme",
+                "zh": "解谜"
+              },
+              {
+                "fr": "les lois de Newton",
+                "zh": "牛顿定律"
+              }
+            ]
+          },
+          {
+            "fr": "Dans cet extrait Julgane & Kiara analysent la trajectoire d'une boule dans Zelda et nous expliquent les principes physiques qui permettent de réussir ce défi !",
+            "zh": "在这段节选中，Julgane 和 Kiara 分析了《塞尔达》中一个球的运动轨迹，并向我们解释完成这个挑战所依据的物理原理！",
+            "structureZh": "主语 Julgane & Kiara，两个并列谓语 analysent 和 expliquent，都是现在时。nous 是间接宾语代词，放在 expliquent 前。qui permettent 是关系从句，修饰 les principes physiques；permettre de + 不定式：“使得能够……”。",
+            "points": [
+              {
+                "fr": "un extrait",
+                "zh": "片段，节选"
+              },
+              {
+                "fr": "la trajectoire",
+                "zh": "轨迹"
+              },
+              {
+                "fr": "permettre de + inf.",
+                "zh": "使能够做某事"
+              },
+              {
+                "fr": "réussir un défi",
+                "zh": "完成挑战"
+              },
+              {
+                "fr": "expliquer qch à qn",
+                "zh": "向某人解释某事"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2121544101082390583",
+      "url": "https://x.com/franceinfo/status/2121544101082390583",
+      "author": "franceinfo",
+      "postedAt": "2026-11-14T10:01:44Z",
+      "excerpt": "Vous êtes déprimé après votre séparation, votre loyer est à payer demain, mais il vous manque 300 euros, votre toiture fuit et votre voiture est en panne : qui appelez-vous ? Peut-être personne, comme plus d’un Français sur trois qui estime n’avoir personne sur qui compter en cas de coup dur, selon le baromètre du Pacte du pouvoir de vivre et de la Fondation Jean-Jaurès.",
+      "level": "B1",
+      "topic": "actualité",
+      "summaryZh": "一项调查显示，三分之一的法国人认为遇到困难时几乎无人可依靠，在35至59岁人群和工人中更普遍；建立可靠的人际关系并不容易。",
+      "summaryEn": "A survey finds one in three French people feel they have almost no one to count on in hard times, especially those aged 35-59 and manual workers.",
+      "vocab": [
+        {
+          "fr": "compter sur qn",
+          "zh": "依靠某人",
+          "en": "to count on someone"
+        },
+        {
+          "fr": "un coup dur",
+          "zh": "打击，难关",
+          "en": "a hard blow"
+        },
+        {
+          "fr": "un pépin",
+          "zh": "小麻烦，意外",
+          "en": "a snag, a mishap"
+        },
+        {
+          "fr": "boucler sa fin de mois",
+          "zh": "撑到月底",
+          "en": "to make ends meet"
+        },
+        {
+          "fr": "le lien social",
+          "zh": "社会联系",
+          "en": "social ties"
+        },
+        {
+          "fr": "nouer des relations",
+          "zh": "建立关系",
+          "en": "to build relationships"
+        }
+      ],
+      "question": {
+        "prompt": "Selon la vidéo, quelle part des ouvriers se sent concernée ?",
+        "choices": [
+          "Un sur dix",
+          "40 %",
+          "43 %",
+          "Plus de la moitié"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "视频说 43% des ouvriers qui se sentent concernés，即43%的工人有这种感受。"
+      },
+      "explain": {
+        "styleZh": "新闻视频配文：先用第二人称描绘一连串生活困境并提问，再用省略句作答，引出调查数据和来源。",
+        "sentences": [
+          {
+            "fr": "Vous êtes déprimé après votre séparation, votre loyer est à payer demain, mais il vous manque 300 euros, votre toiture fuit et votre voiture est en panne : qui appelez-vous ?",
+            "zh": "你分手后情绪低落，房租明天就要交，可你还差300欧元，屋顶漏水，车也坏了：你会给谁打电话？",
+            "structureZh": "前半部分是一连串用逗号并列的现在时短句，描绘一个假设的困境；冒号后引出真正的问题 qui appelez-vous ?，主谓倒装构成疑问句。être à + 不定式（est à payer）表示“必须做、待做”。il vous manque 是无人称结构，vous 是间接宾语：“你缺……”。",
+            "points": [
+              {
+                "fr": "être à payer",
+                "zh": "待支付，必须付（être à + inf. 表示待做之事）"
+              },
+              {
+                "fr": "il manque qch à qn",
+                "zh": "某人缺少某物（无人称结构）"
+              },
+              {
+                "fr": "la toiture fuit（fuir）",
+                "zh": "屋顶漏水；fuir 意为漏水"
+              },
+              {
+                "fr": "être en panne",
+                "zh": "出故障"
+              },
+              {
+                "fr": "une séparation",
+                "zh": "分手，分居"
+              }
+            ]
+          },
+          {
+            "fr": "Peut-être personne, comme plus d’un Français sur trois qui estime n’avoir personne sur qui compter en cas de coup dur, selon le baromètre du Pacte du pouvoir de vivre et de la Fondation Jean-Jaurès.",
+            "zh": "也许谁都不打。根据“生活能力公约”和让·饶勒斯基金会的晴雨表调查，超过三分之一的法国人认为，遇到难处时没有任何可以依靠的人。",
+            "structureZh": "省略句：Peut-être personne 是对上一问的回答，省略了 vous n’appelez。comme 引出比较；qui estime 是关系从句，修饰 un Français，动词用单数，因为 plus d’un 后面接单数。estimer + 不定式 n’avoir：“认为自己没有”；sur qui compter 是“介词 + qui + 不定式”结构。selon 引出信息来源。",
+            "points": [
+              {
+                "fr": "plus d’un … sur trois",
+                "zh": "三个中有一个以上（动词用单数）"
+              },
+              {
+                "fr": "compter sur qn",
+                "zh": "依靠某人"
+              },
+              {
+                "fr": "en cas de coup dur",
+                "zh": "遇到困难时"
+              },
+              {
+                "fr": "estimer + inf.",
+                "zh": "认为（自己）……"
+              },
+              {
+                "fr": "un baromètre",
+                "zh": "晴雨表；（民调）定期调查"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2121353801290465754",
+      "url": "https://x.com/OIFrancophonie/status/2121353801290465754",
+      "author": "OIFrancophonie",
+      "postedAt": "2026-11-13T21:25:33Z",
+      "excerpt": "Retour sur les temps forts de l’inauguration du Village de la Francophonie à Phnom Penh ! Lieu de rencontre et de découverte, le Village met à l’honneur la diversité culturelle de l’espace francophone avec ses spectacles, ses expositions et ses espaces dédiés à la gastronomie et à l’artisanat. Plus de 100 000 visiteurs sont attendus jusqu’au 17 novembre.",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "金边法语国家村开幕，致辞者称本届峰会特别，因为它让人想起亚洲的法语世界，柬埔寨也是组织一位创始人的祖国。",
+      "summaryEn": "The Francophonie Village opened in Phnom Penh; speakers called the summit special because it highlights Asian Francophonie, Cambodia being home to a founding father.",
+      "vocab": [
+        {
+          "fr": "inaugurer",
+          "zh": "为……揭幕",
+          "en": "to inaugurate"
+        },
+        {
+          "fr": "ouvrir ses portes",
+          "zh": "开门迎客",
+          "en": "to open its doors"
+        },
+        {
+          "fr": "un père fondateur",
+          "zh": "创始人",
+          "en": "a founding father"
+        },
+        {
+          "fr": "avoir à l'esprit",
+          "zh": "想到",
+          "en": "to have in mind"
+        },
+        {
+          "fr": "un sommet",
+          "zh": "峰会",
+          "en": "a summit"
+        }
+      ],
+      "question": {
+        "prompt": "Selon la vidéo, pourquoi ce sommet est-il spécial ?",
+        "choices": [
+          "Parce qu’il est le premier sommet",
+          "Parce qu’il se tient en Europe",
+          "Parce qu’il rappelle la Francophonie asiatique",
+          "Parce qu’il n’y a pas de visiteurs"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "致辞说 ce sommet est un sommet spécial parce qu'il nous rappelle la Francophonie asiatique。"
+      },
+      "explain": {
+        "styleZh": "国际组织的活动回顾配文：标题式感叹句开头，接着介绍场所功能，最后给出预期人数和日期。",
+        "sentences": [
+          {
+            "fr": "Retour sur les temps forts de l’inauguration du Village de la Francophonie à Phnom Penh !",
+            "zh": "回顾金边法语国家村开幕式的精彩时刻！",
+            "structureZh": "无动词的标题式感叹句：Retour sur + 名词 意为“回顾……”，常用于新闻和社交媒体。les temps forts 指“高光时刻、重要环节”。",
+            "points": [
+              {
+                "fr": "Retour sur + nom",
+                "zh": "回顾……"
+              },
+              {
+                "fr": "les temps forts",
+                "zh": "精彩时刻，重头戏"
+              },
+              {
+                "fr": "une inauguration",
+                "zh": "开幕式，揭幕"
+              }
+            ]
+          },
+          {
+            "fr": "Lieu de rencontre et de découverte, le Village met à l’honneur la diversité culturelle de l’espace francophone avec ses spectacles, ses expositions et ses espaces dédiés à la gastronomie et à l’artisanat.",
+            "zh": "作为交流与发现的场所，法语国家村通过演出、展览以及美食和手工艺专区，展示法语世界的文化多样性。",
+            "structureZh": "句首 Lieu de rencontre et de découverte 是同位语，说明主语 le Village，前面省略了冠词。主干 le Village met à l’honneur la diversité culturelle。avec 引出方式；dédiés à 是过去分词作定语，修饰 espaces，阳性复数配合。",
+            "points": [
+              {
+                "fr": "mettre qch à l’honneur",
+                "zh": "突出，致敬某物"
+              },
+              {
+                "fr": "dédié à",
+                "zh": "专门用于……的"
+              },
+              {
+                "fr": "l’artisanat",
+                "zh": "手工艺"
+              },
+              {
+                "fr": "la gastronomie",
+                "zh": "美食"
+              }
+            ]
+          },
+          {
+            "fr": "Plus de 100 000 visiteurs sont attendus jusqu’au 17 novembre.",
+            "zh": "预计到11月17日将有超过10万名参观者。",
+            "structureZh": "被动语态 sont attendus（être + attendre 的过去分词），表示“预计会来”，过去分词与 visiteurs 配合为阳性复数。jusqu’à 与 le 缩合成 jusqu’au。法语数字用空格分千位：100 000。",
+            "points": [
+              {
+                "fr": "être attendu",
+                "zh": "被期待，预计到来"
+              },
+              {
+                "fr": "jusqu’au + date",
+                "zh": "直到某日（à + le = au）"
+              },
+              {
+                "fr": "plus de + nombre",
+                "zh": "超过……"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2121317402772373729",
+      "url": "https://x.com/RFI/status/2121317402772373729",
+      "author": "RFI",
+      "postedAt": "2026-11-13T19:00:55Z",
+      "excerpt": "Les JOJ sont officiellement terminés ! Après deux semaines de compétitions sportives, plus de 400 médailles distribués, il est l’heure du bilan Entre réussites, couacs et ambiance exceptionnelle, nos journalistes font le point",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "达喀尔青奥会闭幕，RFI 记者认为首次在非洲举办“赌对了”：组织顺利、观众踊跃，塞内加尔进入前十；但交通拥堵、部分场馆太小。",
+      "summaryEn": "As the Dakar Youth Olympics close, RFI reporters call Africa's first edition a success: smooth organisation, big crowds, Senegal in the top 10, but traffic jams and small venues.",
+      "vocab": [
+        {
+          "fr": "un pari réussi",
+          "zh": "赌对了，成功的尝试",
+          "en": "a bet that paid off"
+        },
+        {
+          "fr": "un couac",
+          "zh": "小差错",
+          "en": "a hiccup"
+        },
+        {
+          "fr": "plein à craquer",
+          "zh": "爆满",
+          "en": "packed"
+        },
+        {
+          "fr": "un coup de gueule",
+          "zh": "抱怨，发火",
+          "en": "a rant"
+        },
+        {
+          "fr": "bouché",
+          "zh": "堵塞的",
+          "en": "jammed"
+        },
+        {
+          "fr": "une épreuve",
+          "zh": "比赛项目",
+          "en": "an event"
+        }
+      ],
+      "question": {
+        "prompt": "Selon la vidéo, quel a été le principal point faible des JOJ ?",
+        "choices": [
+          "Le manque de médailles",
+          "La circulation et les transports",
+          "L’absence de public",
+          "Les accréditations"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "记者的“小抱怨”是 la circulation dans Dakar，交通拥堵、运输后勤不足。"
+      },
+      "explain": {
+        "styleZh": "国际广播电台的视频配文：感叹句宣布结束，接着用状语铺垫引出“盘点”，最后一句列出要点。",
+        "sentences": [
+          {
+            "fr": "Les JOJ sont officiellement terminés !",
+            "zh": "青年奥运会正式结束了！",
+            "structureZh": "JOJ 是 Jeux olympiques de la Jeunesse（青年奥运会）的缩写，阳性复数。sont terminés 是“être + 过去分词”，表示结束后的状态，terminés 与主语配合为阳性复数。",
+            "points": [
+              {
+                "fr": "les JOJ sont terminés",
+                "zh": "青年奥运会（Jeux olympiques de la Jeunesse）结束了"
+              },
+              {
+                "fr": "être + participe passé（状态）",
+                "zh": "表示动作完成后的状态"
+              },
+              {
+                "fr": "officiellement",
+                "zh": "正式地"
+              }
+            ]
+          },
+          {
+            "fr": "Après deux semaines de compétitions sportives, plus de 400 médailles distribués, il est l’heure du bilan",
+            "zh": "经过两周的体育比赛、颁发了400多枚奖牌，现在是总结的时候了",
+            "structureZh": "两个状语：Après … 和一个独立分词结构 plus de 400 médailles distribués（“400多枚奖牌已颁发”）。注意 médaille 是阴性，规范写法应为 distribuées，原文配合有误。主句 il est l’heure de + 名词：“是……的时候了”，il 是无人称主语。",
+            "points": [
+              {
+                "fr": "il est l’heure de + nom/inf.",
+                "zh": "是……的时候了"
+              },
+              {
+                "fr": "un bilan",
+                "zh": "总结，盘点"
+              },
+              {
+                "fr": "distribuer des médailles",
+                "zh": "颁发奖牌"
+              },
+              {
+                "fr": "une compétition",
+                "zh": "比赛"
+              }
+            ]
+          },
+          {
+            "fr": "Entre réussites, couacs et ambiance exceptionnelle, nos journalistes font le point",
+            "zh": "成功、小插曲与非凡的氛围交织，我们的记者来做个盘点",
+            "structureZh": "entre A, B et C 用来概括多种并存的情况：“既有……也有……”。名词前省略了冠词，是标题式写法。主句 nos journalistes font le point，faire le point 意为“盘点、总结现状”。",
+            "points": [
+              {
+                "fr": "faire le point",
+                "zh": "盘点，总结情况"
+              },
+              {
+                "fr": "un couac",
+                "zh": "小差错，失误（口语）"
+              },
+              {
+                "fr": "entre A, B et C",
+                "zh": "在……之间；既有……又有……"
+              },
+              {
+                "fr": "une ambiance",
+                "zh": "氛围"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2121292637911056602",
+      "url": "https://x.com/tv5mondeinfo/status/2121292637911056602",
+      "author": "tv5mondeinfo",
+      "postedAt": "2026-11-13T17:22:31Z",
+      "excerpt": "Une panne mondiale de Microsoft a touché la messagerie Outlook. Elle a duré de longues heures. Vous l'avez peut-être vécue. La situation s'améliore un peu partout sur la planète.",
+      "level": "B2",
+      "topic": "actualité",
+      "summaryZh": "微软全球故障导致 Outlook、Teams 等服务瘫痪，药店收不到处方、英国医院工作积压；微软称原因是负载过高，排除网络攻击。",
+      "summaryEn": "A global Microsoft outage hit Outlook, Teams and more, stalling pharmacies and UK hospitals; Microsoft blamed heavy load and ruled out a cyberattack.",
+      "vocab": [
+        {
+          "fr": "une panne",
+          "zh": "故障",
+          "en": "an outage"
+        },
+        {
+          "fr": "une ordonnance",
+          "zh": "处方",
+          "en": "a prescription"
+        },
+        {
+          "fr": "un syndicat",
+          "zh": "工会",
+          "en": "a union"
+        },
+        {
+          "fr": "une cyberattaque",
+          "zh": "网络攻击",
+          "en": "a cyberattack"
+        },
+        {
+          "fr": "se ruer sur",
+          "zh": "冲向",
+          "en": "to rush at"
+        },
+        {
+          "fr": "périlleux",
+          "zh": "危险的",
+          "en": "risky"
+        }
+      ],
+      "question": {
+        "prompt": "D’après la vidéo, quelle est l’origine de la panne selon Microsoft ?",
+        "choices": [
+          "Une charge élevée sur l’infrastructure",
+          "Une cyberattaque",
+          "Une coupure d’électricité à Londres",
+          "Une erreur d’une pharmacie"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "视频说 à l'origine de ce blackout, une charge élevée sur l'infrastructure，并排除了网络攻击。"
+      },
+      "explain": {
+        "styleZh": "电视新闻短讯：四个短句，依次交代事件、持续时间、与观众的联系和最新进展。",
+        "sentences": [
+          {
+            "fr": "Une panne mondiale de Microsoft a touché la messagerie Outlook.",
+            "zh": "微软的一次全球故障影响了 Outlook 邮箱。",
+            "structureZh": "简单句：主语 Une panne mondiale de Microsoft，谓语 a touché 是 toucher 的复合过去时，表示已经发生的事件。toucher 在这里意为“影响、波及”，不是“触摸”。",
+            "points": [
+              {
+                "fr": "une panne",
+                "zh": "故障"
+              },
+              {
+                "fr": "toucher qch",
+                "zh": "影响，波及某物"
+              },
+              {
+                "fr": "la messagerie",
+                "zh": "邮件服务，通讯软件"
+              }
+            ]
+          },
+          {
+            "fr": "Elle a duré de longues heures.",
+            "zh": "它持续了好几个小时。",
+            "structureZh": "Elle 指上一句的 la panne。a duré 是 durer 的复合过去时。de longues heures：形容词放在复数名词前时，不定冠词 des 变成 de。",
+            "points": [
+              {
+                "fr": "a duré（durer）",
+                "zh": "持续了；durer 的复合过去时"
+              },
+              {
+                "fr": "de + adjectif + nom pluriel",
+                "zh": "形容词在复数名词前，des 变为 de"
+              }
+            ]
+          },
+          {
+            "fr": "Vous l'avez peut-être vécue.",
+            "zh": "您也许也经历过。",
+            "structureZh": "l' 是直接宾语代词，指 la panne，放在助动词 avez 前；因为直接宾语在前，过去分词 vécue 要和阴性单数的 la 配合，加 e。peut-être 放在助动词和过去分词之间。",
+            "points": [
+              {
+                "fr": "vécu（vivre qch）",
+                "zh": "经历过；vivre 的过去分词"
+              },
+              {
+                "fr": "l'avez … vécue",
+                "zh": "直接宾语 l'（= la panne）前置，过去分词 vécue 加 e 配合"
+              }
+            ]
+          },
+          {
+            "fr": "La situation s'améliore un peu partout sur la planète.",
+            "zh": "全球各地的情况都在逐渐好转。",
+            "structureZh": "代词式动词 s'améliorer 的现在时，表示正在发生的变化。un peu partout 意为“几乎到处”，不是“一点点”。",
+            "points": [
+              {
+                "fr": "s'améliorer",
+                "zh": "好转，改善"
+              },
+              {
+                "fr": "un peu partout",
+                "zh": "几乎到处，各处"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
