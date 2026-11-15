@@ -1,0 +1,1298 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-15T12:40:03Z",
+  "items": [
+    {
+      "postId": "2121709828099715162",
+      "url": "https://x.com/CitImmCanFR/status/2121709828099715162",
+      "author": "CitImmCanFR",
+      "postedAt": "2026-11-14T21:00:17Z",
+      "excerpt": "Nous avons modifié le système de classement global (SCG) d’Entrée express afin de mieux sélectionner les immigrants qualifiés dont l’expérience et les compétences contribuent à la croissance économique du Canada et répondent aux besoins du marché du travail. Il s’agit de la première étape d’une réforme plus vaste visant à moderniser Entrée express et à réduire les formalités administratives en améliorant l’efficacité de nos programmes.",
+      "level": "B2",
+      "topic": "immigration",
+      "summaryZh": "加拿大移民部调整快速通道综合排名系统，以更好地挑选能促进经济增长、满足劳动力市场需求的技术移民，这是更大改革的第一步。",
+      "summaryEn": "IRCC changed the Express Entry ranking system to better select skilled immigrants who meet labour market needs; it is the first step of a broader reform.",
+      "vocab": [
+        {
+          "fr": "le système de classement global",
+          "zh": "综合排名系统",
+          "en": "Comprehensive Ranking System"
+        },
+        {
+          "fr": "un immigrant qualifié",
+          "zh": "技术移民",
+          "en": "a skilled immigrant"
+        },
+        {
+          "fr": "le marché du travail",
+          "zh": "劳动力市场",
+          "en": "the labour market"
+        },
+        {
+          "fr": "les formalités administratives",
+          "zh": "行政手续",
+          "en": "red tape, paperwork"
+        },
+        {
+          "fr": "une réforme",
+          "zh": "改革",
+          "en": "a reform"
+        }
+      ],
+      "question": {
+        "prompt": "Selon IRCC, que représente ce changement du SCG ?",
+        "choices": [
+          "La fin du programme Entrée express",
+          "Une hausse des frais de demande",
+          "La première étape d’une réforme plus vaste",
+          "Une mesure temporaire pour un an"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文：Il s’agit de la première étape d’une réforme plus vaste，即更大改革的第一步。"
+      },
+      "explain": {
+        "styleZh": "加拿大移民部的官方公告：先用第一人称复数说明做了什么改动及目的，再交代这只是更大改革的第一步。",
+        "sentences": [
+          {
+            "fr": "Nous avons modifié le système de classement global (SCG) d’Entrée express afin de mieux sélectionner les immigrants qualifiés dont l’expérience et les compétences contribuent à la croissance économique du Canada et répondent aux besoins du marché du travail.",
+            "zh": "我们修改了快速通道（Entrée express）的综合排名系统（SCG），以便更好地挑选那些经验和技能有助于加拿大经济增长、并能满足劳动力市场需求的技术移民。",
+            "structureZh": "主句 Nous avons modifié … 是复合过去时，表示已经完成的改动。afin de + 不定式 表示目的。dont 引导关系从句，修饰 les immigrants qualifiés，相当于“他们的经验和技能”（dont = de qui），从句中有两个并列谓语 contribuent à 和 répondent à，都用现在时。",
+            "points": [
+              {
+                "fr": "afin de + inf.",
+                "zh": "为了做某事（书面语）"
+              },
+              {
+                "fr": "dont（关系代词）",
+                "zh": "= de + 先行词，这里表示“他们的”"
+              },
+              {
+                "fr": "contribuer à qch",
+                "zh": "有助于，促进某事"
+              },
+              {
+                "fr": "répondre aux besoins de",
+                "zh": "满足……的需求"
+              },
+              {
+                "fr": "le système de classement global",
+                "zh": "综合排名系统（CRS 的法语名称）"
+              }
+            ]
+          },
+          {
+            "fr": "Il s’agit de la première étape d’une réforme plus vaste visant à moderniser Entrée express et à réduire les formalités administratives en améliorant l’efficacité de nos programmes.",
+            "zh": "这是一项更大范围改革的第一步，该改革旨在使快速通道现代化、减少行政手续，并提高我们各项计划的效率。",
+            "structureZh": "il s’agit de + 名词 是无人称结构，意为“这是……、涉及……”，il 不指代任何东西。visant à 是现在分词（viser à + 不定式），修饰 une réforme，后接两个并列不定式 moderniser 和 réduire。en améliorant 是副动词（en + 现在分词），表示实现方式。",
+            "points": [
+              {
+                "fr": "il s’agit de + nom",
+                "zh": "这是……，涉及……（无人称）"
+              },
+              {
+                "fr": "visant à（viser à + inf.）",
+                "zh": "旨在做某事"
+              },
+              {
+                "fr": "les formalités administratives",
+                "zh": "行政手续"
+              },
+              {
+                "fr": "en améliorant（副动词 en + participe présent）",
+                "zh": "表示方式：通过……"
+              },
+              {
+                "fr": "une étape",
+                "zh": "阶段，步骤"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2121668046410699079",
+      "url": "https://x.com/EmmanuelMacron/status/2121668046410699079",
+      "author": "EmmanuelMacron",
+      "postedAt": "2026-11-14T18:14:15Z",
+      "excerpt": "Félicitations à notre équipe de France qui revient des Jeux olympiques de la jeunesse de Dakar avec 13 médailles. Vous n'êtes pas simplement la relève du sport français, vous en êtes déjà la force ! Bravo au Sénégal pour l'organisation de ces premiers Jeux sur le continent africain.",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "马克龙祝贺法国队在达喀尔青年奥运会上获得13枚奖牌，称他们已是法国体育的中坚力量，并赞扬塞内加尔成功举办首届非洲青奥会。",
+      "summaryEn": "Macron congratulates France's team on 13 medals at the Dakar Youth Olympics, calling them already the strength of French sport, and praises Senegal's organisation.",
+      "vocab": [
+        {
+          "fr": "la relève",
+          "zh": "接班人，后备力量",
+          "en": "the next generation"
+        },
+        {
+          "fr": "une médaille",
+          "zh": "奖牌",
+          "en": "a medal"
+        },
+        {
+          "fr": "Félicitations à",
+          "zh": "祝贺",
+          "en": "congratulations to"
+        },
+        {
+          "fr": "le continent africain",
+          "zh": "非洲大陆",
+          "en": "the African continent"
+        }
+      ],
+      "question": {
+        "prompt": "Combien de médailles l’équipe de France a-t-elle remportées à Dakar ?",
+        "choices": [
+          "13",
+          "3",
+          "30",
+          "31"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文：revient … de Dakar avec 13 médailles。"
+      },
+      "explain": {
+        "styleZh": "总统的祝贺帖：先祝贺法国队并给出奖牌数，再用对比句鼓励年轻运动员，最后向主办国致意。",
+        "sentences": [
+          {
+            "fr": "Félicitations à notre équipe de France qui revient des Jeux olympiques de la jeunesse de Dakar avec 13 médailles.",
+            "zh": "祝贺我们的法国队从达喀尔青年奥运会带着13枚奖牌归来。",
+            "structureZh": "无动词句：Félicitations à qn 是固定的祝贺用语。qui revient 是关系从句，修饰 notre équipe de France，用现在时表示“正在归来”。revenir de + 地点：从某地回来；de 与 les 缩合成 des（des Jeux）。",
+            "points": [
+              {
+                "fr": "Félicitations à qn",
+                "zh": "祝贺某人"
+              },
+              {
+                "fr": "revient de（revenir de + lieu）",
+                "zh": "从某地回来"
+              },
+              {
+                "fr": "les Jeux olympiques de la jeunesse",
+                "zh": "青年奥运会（JOJ）"
+              },
+              {
+                "fr": "une médaille",
+                "zh": "奖牌"
+              }
+            ]
+          },
+          {
+            "fr": "Vous n'êtes pas simplement la relève du sport français, vous en êtes déjà la force !",
+            "zh": "你们不仅仅是法国体育的接班人，你们已经是它的中坚力量！",
+            "structureZh": "两个分句用逗号并列，形成对比：ne … pas simplement A, … déjà B（不只是A，已经是B）。en 是代词，代替 du sport français，避免重复，放在动词 êtes 前。vous 直接对运动员说话，语气亲切有力。",
+            "points": [
+              {
+                "fr": "ne pas simplement être A",
+                "zh": "不仅仅是A"
+              },
+              {
+                "fr": "la relève",
+                "zh": "接班人，后备力量"
+              },
+              {
+                "fr": "vous en êtes la force（en 代替 de + nom）",
+                "zh": "en êtes la force 即 êtes la force du sport français，en 代替 du sport français"
+              },
+              {
+                "fr": "déjà",
+                "zh": "已经"
+              }
+            ]
+          },
+          {
+            "fr": "Bravo au Sénégal pour l'organisation de ces premiers Jeux sur le continent africain.",
+            "zh": "向塞内加尔致敬，感谢它组织了这届在非洲大陆举办的首届青奥会。",
+            "structureZh": "又是无动词句：Bravo à qn pour qch 意为“为某事向某人喝彩”。à + le Sénégal 缩合成 au Sénégal（国家名前用冠词）。ces premiers Jeux 指在非洲举办的第一届。",
+            "points": [
+              {
+                "fr": "Bravo à qn pour qch",
+                "zh": "为某事向某人喝彩"
+              },
+              {
+                "fr": "l'organisation de qch",
+                "zh": "某事的组织、举办"
+              },
+              {
+                "fr": "le continent africain",
+                "zh": "非洲大陆"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2121885444476379360",
+      "url": "https://x.com/PaulPlamondon/status/2121885444476379360",
+      "author": "PaulPlamondon",
+      "postedAt": "2026-11-15T08:38:07Z",
+      "excerpt": "Lors de la réception du Québec hier, j’ai pu échanger avec nos partenaires québécois présents au Cambodge. La Francophonie, c’est bien davantage qu’une langue officielle ou un patrimoine : c’est une langue de création, de savoir, d’innovation et d’échange économique. C’est un véritable levier économique, culturel et linguistique d’avenir.",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "魁北克政界人物在柬埔寨法语国家峰会期间与魁北克合作伙伴交流，强调法语是创作、知识、创新和经济交流的语言，是面向未来的推动力。",
+      "summaryEn": "At the Francophonie summit in Cambodia, he met Quebec partners and stressed that French is a language of creation, knowledge, innovation and trade.",
+      "vocab": [
+        {
+          "fr": "une réception",
+          "zh": "招待会",
+          "en": "a reception"
+        },
+        {
+          "fr": "un partenaire",
+          "zh": "合作伙伴",
+          "en": "a partner"
+        },
+        {
+          "fr": "le patrimoine",
+          "zh": "遗产",
+          "en": "heritage"
+        },
+        {
+          "fr": "un levier",
+          "zh": "杠杆，推动力",
+          "en": "a lever"
+        },
+        {
+          "fr": "l’innovation",
+          "zh": "创新",
+          "en": "innovation"
+        }
+      ],
+      "question": {
+        "prompt": "Selon l’auteur, la Francophonie est surtout…",
+        "choices": [
+          "un levier économique, culturel et linguistique",
+          "une simple langue officielle",
+          "un patrimoine du passé",
+          "une organisation sportive"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文：C’est un véritable levier économique, culturel et linguistique d’avenir。"
+      },
+      "explain": {
+        "styleZh": "政治人物的出访动态：先叙述活动，再用“c’est … : c’est …”的排比句阐述法语世界的意义。",
+        "sentences": [
+          {
+            "fr": "Lors de la réception du Québec hier, j’ai pu échanger avec nos partenaires québécois présents au Cambodge.",
+            "zh": "昨天在魁北克的招待会上，我得以与在柬埔寨的魁北克合作伙伴交流。",
+            "structureZh": "Lors de + 名词 表示时间“在……的时候”。主句 j’ai pu échanger 是 pouvoir 的复合过去时 + 不定式，表示“得以、有机会做”。présents au Cambodge 是形容词短语，修饰 partenaires；国家名 le Cambodge 前用 au。",
+            "points": [
+              {
+                "fr": "lors de + nom",
+                "zh": "在……期间"
+              },
+              {
+                "fr": "j’ai pu échanger（pouvoir + inf.）",
+                "zh": "j’ai pu = 我得以、有机会"
+              },
+              {
+                "fr": "échanger avec qn",
+                "zh": "与某人交流"
+              },
+              {
+                "fr": "une réception",
+                "zh": "招待会，酒会"
+              }
+            ]
+          },
+          {
+            "fr": "La Francophonie, c’est bien davantage qu’une langue officielle ou un patrimoine : c’est une langue de création, de savoir, d’innovation et d’échange économique.",
+            "zh": "法语国家与地区，远不只是一门官方语言或一份遗产：它是一门用于创作、知识、创新和经济交流的语言。",
+            "structureZh": "La Francophonie 先被提出作话题，再用 c’est 复指，这是口语中常见的强调结构。bien davantage que 意为“远远超过”。冒号后的 c’est … 解释前半句，四个 de + 名词 并列，说明这门语言的用途。",
+            "points": [
+              {
+                "fr": "bien davantage que",
+                "zh": "远不止，远多于"
+              },
+              {
+                "fr": "le patrimoine",
+                "zh": "遗产"
+              },
+              {
+                "fr": "La Francophonie, c’est …（强调结构）",
+                "zh": "先提出话题，再用 c’est 复指"
+              },
+              {
+                "fr": "une langue de création",
+                "zh": "创作的语言"
+              }
+            ]
+          },
+          {
+            "fr": "C’est un véritable levier économique, culturel et linguistique d’avenir.",
+            "zh": "它是面向未来的真正的经济、文化和语言杠杆。",
+            "structureZh": "C’est + 名词短语，主语 C’ 仍指 la Francophonie。三个形容词 économique, culturel et linguistique 并列修饰 levier；d’avenir 意为“有前途的、面向未来的”。levier 字面是“杠杆”，引申为“推动力”。",
+            "points": [
+              {
+                "fr": "un levier",
+                "zh": "杠杆；推动手段"
+              },
+              {
+                "fr": "véritable",
+                "zh": "真正的"
+              },
+              {
+                "fr": "d’avenir",
+                "zh": "有前途的，面向未来的"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2121862922578153936",
+      "url": "https://x.com/Sciences_Avenir/status/2121862922578153936",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-15T07:08:37Z",
+      "excerpt": "L'orbite de Mercure pourrait s'allonger progressivement et une collision avec la Terre et Mars serait possible. Mais dans quelques milliards d'années…",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "研究认为，水星轨道可能逐渐拉长，未来可能与地球或火星相撞，但那要在几十亿年之后。",
+      "summaryEn": "Mercury's orbit could gradually stretch, making a collision with Earth or Mars possible, but only in a few billion years.",
+      "vocab": [
+        {
+          "fr": "une orbite",
+          "zh": "轨道",
+          "en": "an orbit"
+        },
+        {
+          "fr": "une collision",
+          "zh": "碰撞",
+          "en": "a collision"
+        },
+        {
+          "fr": "s'allonger",
+          "zh": "变长",
+          "en": "to lengthen"
+        },
+        {
+          "fr": "un milliard",
+          "zh": "十亿",
+          "en": "a billion"
+        }
+      ],
+      "question": {
+        "prompt": "Quand une collision serait-elle possible ?",
+        "choices": [
+          "Dans quelques années",
+          "Dans quelques milliards d'années",
+          "Cet été",
+          "Jamais"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文：Mais dans quelques milliards d'années…，即几十亿年后。"
+      },
+      "explain": {
+        "styleZh": "科普杂志的吸睛帖：先用条件式提出惊人的可能性，再用省略句补充时间，消除紧张感。",
+        "sentences": [
+          {
+            "fr": "L'orbite de Mercure pourrait s'allonger progressivement et une collision avec la Terre et Mars serait possible.",
+            "zh": "水星的轨道可能会逐渐变长，它与地球和火星发生碰撞也是可能的。",
+            "structureZh": "两个分句由 et 连接，都用条件式：pourrait（pouvoir）和 serait（être）。这里的条件式不是假设，而是表示“推测、可能性”，新闻和科普中常用来表达未经完全证实的信息。s'allonger 是代词式动词，“变长”。",
+            "points": [
+              {
+                "fr": "pourrait / serait（条件式表推测）",
+                "zh": "表示可能性或未经证实的信息"
+              },
+              {
+                "fr": "s'allonger",
+                "zh": "变长，延长"
+              },
+              {
+                "fr": "une collision avec qch",
+                "zh": "与……相撞"
+              },
+              {
+                "fr": "progressivement",
+                "zh": "逐渐地"
+              }
+            ]
+          },
+          {
+            "fr": "Mais dans quelques milliards d'années…",
+            "zh": "不过那是在几十亿年之后……",
+            "structureZh": "省略句，省略了 cela n’arriverait que 之类的主句，只保留时间状语。dans + 时间段 表示“从现在起若干时间之后”（不是“在……之内”）。省略号制造幽默的停顿：危险很遥远。",
+            "points": [
+              {
+                "fr": "dans + durée",
+                "zh": "……之后（从现在算起）"
+              },
+              {
+                "fr": "un milliard",
+                "zh": "十亿"
+              },
+              {
+                "fr": "quelques",
+                "zh": "几个"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2121719812070224030",
+      "url": "https://x.com/Sciences_Avenir/status/2121719812070224030",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-14T21:39:57Z",
+      "excerpt": "En plus des diabètes de type 1 et de type 2, un autre type de diabète a été décrit. Il apparaît dès la naissance, comme le diabète de type 1, mais présente plusieurs nouvelles caractéristiques qui lui sont spécifiques.",
+      "level": "B1",
+      "topic": "santé",
+      "summaryZh": "科学家描述了一种新的糖尿病类型：它和1型一样从出生起出现，但有若干独有的新特征。",
+      "summaryEn": "Scientists have described a new type of diabetes that appears from birth like type 1 but has several new features of its own.",
+      "vocab": [
+        {
+          "fr": "le diabète",
+          "zh": "糖尿病",
+          "en": "diabetes"
+        },
+        {
+          "fr": "la naissance",
+          "zh": "出生",
+          "en": "birth"
+        },
+        {
+          "fr": "une caractéristique",
+          "zh": "特征",
+          "en": "a feature"
+        },
+        {
+          "fr": "spécifique",
+          "zh": "特有的",
+          "en": "specific"
+        }
+      ],
+      "question": {
+        "prompt": "Quel point commun ce nouveau diabète a-t-il avec le type 1 ?",
+        "choices": [
+          "Il touche surtout les personnes âgées",
+          "Il est causé par l’alimentation",
+          "Il n’a aucun symptôme",
+          "Il apparaît dès la naissance"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "原文：Il apparaît dès la naissance, comme le diabète de type 1。"
+      },
+      "explain": {
+        "styleZh": "世界糖尿病日的科普帖：第一句宣布新发现，第二句用对比说明新类型的特点。",
+        "sentences": [
+          {
+            "fr": "En plus des diabètes de type 1 et de type 2, un autre type de diabète a été décrit.",
+            "zh": "除了1型和2型糖尿病之外，又有一种新的糖尿病类型被描述出来。",
+            "structureZh": "En plus de + 名词 意为“除了……之外（还有）”；de 与 les 缩合成 des。主句 un autre type de diabète a été décrit 是被动语态的复合过去时（avoir été + 过去分词），强调结果而不说是谁描述的。",
+            "points": [
+              {
+                "fr": "en plus de + nom",
+                "zh": "除了……之外（还）"
+              },
+              {
+                "fr": "être décrit（被动语态）",
+                "zh": "a été décrit = 已被描述"
+              },
+              {
+                "fr": "le diabète de type 1",
+                "zh": "1型糖尿病"
+              }
+            ]
+          },
+          {
+            "fr": "Il apparaît dès la naissance, comme le diabète de type 1, mais présente plusieurs nouvelles caractéristiques qui lui sont spécifiques.",
+            "zh": "它和1型糖尿病一样从出生起就出现，但具有若干独有的新特征。",
+            "structureZh": "Il 指上一句的 un autre type de diabète。两个并列谓语 apparaît 和 présente，用 mais 表示转折。comme … 是插入的比较。qui lui sont spécifiques 是关系从句，lui 是间接宾语代词，指这种糖尿病：“为它所特有”。",
+            "points": [
+              {
+                "fr": "dès la naissance",
+                "zh": "从出生起"
+              },
+              {
+                "fr": "présenter des caractéristiques",
+                "zh": "具有特征"
+              },
+              {
+                "fr": "être spécifique à qch",
+                "zh": "为某物所特有"
+              },
+              {
+                "fr": "apparaître",
+                "zh": "出现"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2121715314111258938",
+      "url": "https://x.com/Sciences_Avenir/status/2121715314111258938",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-14T21:22:05Z",
+      "excerpt": "Grâce à un traitement à partir de cellules souches embryonnaires, 10 patients sur les 12 de ce petit essai clinique ont pu s'affranchir des injections quotidiennes d'insuline !",
+      "level": "B2",
+      "topic": "santé",
+      "summaryZh": "一项小型临床试验中，借助胚胎干细胞疗法，12名糖尿病患者中有10人不再需要每天注射胰岛素。",
+      "summaryEn": "In a small clinical trial, a treatment based on embryonic stem cells freed 10 of 12 patients from daily insulin injections.",
+      "vocab": [
+        {
+          "fr": "une cellule souche",
+          "zh": "干细胞",
+          "en": "a stem cell"
+        },
+        {
+          "fr": "un essai clinique",
+          "zh": "临床试验",
+          "en": "a clinical trial"
+        },
+        {
+          "fr": "l'insuline",
+          "zh": "胰岛素",
+          "en": "insulin"
+        },
+        {
+          "fr": "s'affranchir de",
+          "zh": "摆脱",
+          "en": "to break free from"
+        },
+        {
+          "fr": "quotidien",
+          "zh": "每日的",
+          "en": "daily"
+        }
+      ],
+      "question": {
+        "prompt": "Combien de patients n’ont plus besoin d’injections quotidiennes ?",
+        "choices": [
+          "2 sur 12",
+          "6 sur 12",
+          "10 sur 12",
+          "12 sur 12"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文：10 patients sur les 12 … ont pu s'affranchir des injections quotidiennes。"
+      },
+      "explain": {
+        "styleZh": "科普帖：一句话报道临床试验结果，用感叹号突出突破性。",
+        "sentences": [
+          {
+            "fr": "Grâce à un traitement à partir de cellules souches embryonnaires, 10 patients sur les 12 de ce petit essai clinique ont pu s'affranchir des injections quotidiennes d'insuline !",
+            "zh": "借助一种基于胚胎干细胞的疗法，这项小型临床试验的12名患者中有10人得以摆脱每日注射胰岛素！",
+            "structureZh": "Grâce à 引出积极的原因（“多亏”）。à partir de 意为“以……为原料”。主语 10 patients sur les 12（12人中的10人）。谓语 ont pu s'affranchir 是 pouvoir 的复合过去时 + 代词式动词不定式，表示“得以摆脱”。s'affranchir de qch：摆脱某物。",
+            "points": [
+              {
+                "fr": "grâce à qch",
+                "zh": "多亏，借助（积极原因）"
+              },
+              {
+                "fr": "à partir de",
+                "zh": "以……为原料；从……开始"
+              },
+              {
+                "fr": "s'affranchir de qch",
+                "zh": "摆脱某物"
+              },
+              {
+                "fr": "un essai clinique",
+                "zh": "临床试验"
+              },
+              {
+                "fr": "des cellules souches",
+                "zh": "干细胞"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2121895059692097749",
+      "url": "https://x.com/LeTemps/status/2121895059692097749",
+      "author": "LeTemps",
+      "postedAt": "2026-11-15T09:16:19Z",
+      "excerpt": "CHRONIQUE. Bien que vivant principalement seules, les femelles orangs-outans ont à cœur d’offrir des moments sociaux à leurs petits. C’est ce que viennent de montrer des scientifiques de la Max-Planck-Gesellschaft, en Allemagne",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "德国马普学会的研究发现，雌性猩猩虽然大多独居，却会用心为幼崽创造社交机会。",
+      "summaryEn": "Max Planck researchers found that female orangutans, though living mostly alone, make a point of giving their young social time.",
+      "vocab": [
+        {
+          "fr": "une chronique",
+          "zh": "专栏",
+          "en": "a column"
+        },
+        {
+          "fr": "avoir à cœur de",
+          "zh": "用心做",
+          "en": "to be keen to"
+        },
+        {
+          "fr": "une femelle",
+          "zh": "雌性",
+          "en": "a female"
+        },
+        {
+          "fr": "les petits",
+          "zh": "幼崽",
+          "en": "the young"
+        },
+        {
+          "fr": "venir de",
+          "zh": "刚刚",
+          "en": "to have just"
+        }
+      ],
+      "question": {
+        "prompt": "Que font les femelles orangs-outans selon l’étude ?",
+        "choices": [
+          "Elles vivent toujours en grands groupes",
+          "Elles offrent des moments sociaux à leurs petits",
+          "Elles abandonnent leurs petits",
+          "Elles évitent tout contact"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文：ont à cœur d’offrir des moments sociaux à leurs petits。"
+      },
+      "explain": {
+        "styleZh": "报纸科学专栏的导语：栏目名后先讲有趣的发现，再用 C’est ce que 交代研究来源。",
+        "sentences": [
+          {
+            "fr": "CHRONIQUE.",
+            "zh": "专栏。",
+            "structureZh": "栏目标签，大写表示文章类型：chronique 指定期专栏、评论性文章，不是“编年史”的意思。",
+            "points": [
+              {
+                "fr": "une chronique",
+                "zh": "（报刊）专栏"
+              }
+            ]
+          },
+          {
+            "fr": "Bien que vivant principalement seules, les femelles orangs-outans ont à cœur d’offrir des moments sociaux à leurs petits.",
+            "zh": "雌性猩猩虽然主要独自生活，却很用心地为幼崽提供社交时光。",
+            "structureZh": "Bien que 通常接虚拟式从句，这里接现在分词 vivant，是书面上的省略写法（= bien qu’elles vivent），表示让步。seules 与 femelles 配合为阴性复数。主句 avoir à cœur de + 不定式：“把……放在心上、用心做”。offrir qch à qn：给某人提供某物。",
+            "points": [
+              {
+                "fr": "bien que + subjonctif / participe",
+                "zh": "虽然……（让步）"
+              },
+              {
+                "fr": "avoir à cœur de + inf.",
+                "zh": "用心做某事，把……放在心上"
+              },
+              {
+                "fr": "offrir qch à qn",
+                "zh": "给某人提供某物"
+              },
+              {
+                "fr": "les petits（d’un animal）",
+                "zh": "幼崽"
+              }
+            ]
+          },
+          {
+            "fr": "C’est ce que viennent de montrer des scientifiques de la Max-Planck-Gesellschaft, en Allemagne",
+            "zh": "这是德国马克斯·普朗克学会的科学家们刚刚证明的",
+            "structureZh": "C’est ce que … 是强调结构，ce 指前一句的发现。从句里主谓倒装：viennent de montrer 的主语是后面的 des scientifiques。venir de + 不定式 是最近过去时，表示“刚刚做了”。",
+            "points": [
+              {
+                "fr": "viennent de montrer（venir de + inf.，最近过去时）",
+                "zh": "刚刚做了某事"
+              },
+              {
+                "fr": "C’est ce que … des scientifiques（强调 + 主谓倒装）",
+                "zh": "这正是……（强调）"
+              },
+              {
+                "fr": "montrer que",
+                "zh": "表明，证明"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2121928996258742654",
+      "url": "https://x.com/LeTemps/status/2121928996258742654",
+      "author": "LeTemps",
+      "postedAt": "2026-11-15T11:31:10Z",
+      "excerpt": "Avec la hausse du prix des plateformes et la fragmentation de l’offre, le téléchargement illégal reprend l’ascenseur. Les autorités fédérales mettent en garde contre des risques de sécurité",
+      "level": "B2",
+      "topic": "actualité",
+      "summaryZh": "由于流媒体涨价、内容分散在多个平台，瑞士的非法下载再次增加，联邦当局警告其中存在安全风险。",
+      "summaryEn": "With rising streaming prices and fragmented offers, illegal downloading is rising again in Switzerland; federal authorities warn of security risks.",
+      "vocab": [
+        {
+          "fr": "le téléchargement",
+          "zh": "下载",
+          "en": "downloading"
+        },
+        {
+          "fr": "la hausse",
+          "zh": "上涨",
+          "en": "rise"
+        },
+        {
+          "fr": "mettre en garde",
+          "zh": "警告",
+          "en": "to warn"
+        },
+        {
+          "fr": "une plateforme",
+          "zh": "平台",
+          "en": "a platform"
+        },
+        {
+          "fr": "illégal",
+          "zh": "非法的",
+          "en": "illegal"
+        }
+      ],
+      "question": {
+        "prompt": "Pourquoi le téléchargement illégal augmente-t-il ?",
+        "choices": [
+          "Parce qu’Internet est devenu gratuit",
+          "Parce que les autorités l’encouragent",
+          "À cause d’une panne des plateformes",
+          "À cause de la hausse des prix et de la fragmentation de l’offre"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "原文：Avec la hausse du prix des plateformes et la fragmentation de l’offre。"
+      },
+      "explain": {
+        "styleZh": "报纸导语：第一句交代原因与趋势，第二句给出官方警告。",
+        "sentences": [
+          {
+            "fr": "Avec la hausse du prix des plateformes et la fragmentation de l’offre, le téléchargement illégal reprend l’ascenseur.",
+            "zh": "随着流媒体平台涨价和内容分散，非法下载再度回升。",
+            "structureZh": "Avec + 名词 在这里表示原因（“随着……”），引出两个并列名词 la hausse 和 la fragmentation。主句 le téléchargement illégal reprend l’ascenseur，reprendre l’ascenseur 是形象的说法，意为“重新上升、回升”。",
+            "points": [
+              {
+                "fr": "la hausse de qch",
+                "zh": "……的上涨"
+              },
+              {
+                "fr": "reprendre l’ascenseur",
+                "zh": "再次上升（形象说法）"
+              },
+              {
+                "fr": "la fragmentation de l’offre",
+                "zh": "供给（内容）分散"
+              },
+              {
+                "fr": "le téléchargement illégal",
+                "zh": "非法下载"
+              }
+            ]
+          },
+          {
+            "fr": "Les autorités fédérales mettent en garde contre des risques de sécurité",
+            "zh": "联邦当局警告说存在安全风险",
+            "structureZh": "主语 Les autorités fédérales（在瑞士指联邦政府机关）。mettre en garde contre qch 是固定搭配，“提醒注意、警告防范某事”。句末没有句号，是社交媒体导语的截断写法。",
+            "points": [
+              {
+                "fr": "mettre en garde contre qch",
+                "zh": "警告防范某事"
+              },
+              {
+                "fr": "les autorités fédérales",
+                "zh": "联邦当局"
+              },
+              {
+                "fr": "un risque de sécurité",
+                "zh": "安全风险"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2121891300576231782",
+      "url": "https://x.com/franceinfo/status/2121891300576231782",
+      "author": "franceinfo",
+      "postedAt": "2026-11-15T09:01:23Z",
+      "excerpt": "Comment assister dans les tribunes à un match quand on a un trouble du spectre de l'autisme ? Paul est fan de basket, et nous a emmené avec lui dans une \"sensory room\", une pièce qui vise à prendre une pause adaptée, quand il en ressent le besoin. Une initiative qui se multiplie dans les stades.",
+      "level": "B1",
+      "topic": "santé",
+      "summaryZh": "巴黎篮球俱乐部为自闭症观众设立“感官室”，让孩子在嘈杂时能平静下来再回看台；俱乐部希望更多体育场推广。",
+      "summaryEn": "Paris Basketball set up a sensory room where autistic fans can calm down during games; organisers want every club to create one.",
+      "vocab": [
+        {
+          "fr": "une tente de repli",
+          "zh": "休息帐篷",
+          "en": "a retreat tent"
+        },
+        {
+          "fr": "se ressourcer",
+          "zh": "恢复精力",
+          "en": "to recharge"
+        },
+        {
+          "fr": "stigmatiser",
+          "zh": "歧视，污名化",
+          "en": "to stigmatise"
+        },
+        {
+          "fr": "se priver de",
+          "zh": "放弃，舍弃",
+          "en": "to deprive oneself of"
+        },
+        {
+          "fr": "craintif",
+          "zh": "担心的",
+          "en": "fearful"
+        },
+        {
+          "fr": "les tribunes",
+          "zh": "看台",
+          "en": "the stands"
+        }
+      ],
+      "question": {
+        "prompt": "Selon la vidéo, pourquoi des parents d'enfants autistes évitent-ils les spectacles ?",
+        "choices": [
+          "Parce que les billets sont trop chers",
+          "Parce que les stades sont trop loin",
+          "Parce qu'ils ont peur de gêner et d'être stigmatisés",
+          "Parce que les enfants n'aiment pas le sport"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "视频说 de peur de gêner le grand public et aussi d'être stigmatisés。"
+      },
+      "explain": {
+        "styleZh": "体育报道的视频配文：先提出问题，再介绍主人公和感官室，最后用名词句点出趋势。",
+        "sentences": [
+          {
+            "fr": "Comment assister dans les tribunes à un match quand on a un trouble du spectre de l'autisme ?",
+            "zh": "患有自闭症谱系障碍的人，怎样才能在看台上观看比赛？",
+            "structureZh": "疑问词 Comment + 不定式 assister，是省略主语的问句，表示“怎样才能……”。assister à 意为“观看、出席”，不是“协助”（假朋友）。quand on a … 是时间/条件从句，on 泛指“人们”。",
+            "points": [
+              {
+                "fr": "assister à qch",
+                "zh": "观看，出席某活动（不是“协助”）"
+              },
+              {
+                "fr": "les tribunes",
+                "zh": "看台"
+              },
+              {
+                "fr": "un trouble du spectre de l'autisme",
+                "zh": "自闭症谱系障碍"
+              },
+              {
+                "fr": "Comment + inf. ?",
+                "zh": "怎样才能……？"
+              }
+            ]
+          },
+          {
+            "fr": "Paul est fan de basket, et nous a emmené avec lui dans une \"sensory room\", une pièce qui vise à prendre une pause adaptée, quand il en ressent le besoin.",
+            "zh": "保罗是篮球迷，他带我们去了一个“感官室”，这是一个让人在需要时进行适当休息的房间。",
+            "structureZh": "两个并列谓语：est fan de 和 nous a emmené（复合过去时，nous 是直接宾语代词）。une pièce qui vise à … 是同位语，解释 sensory room。quand il en ressent le besoin 中 en 代替 de prendre une pause，ressentir le besoin de：感到需要。",
+            "points": [
+              {
+                "fr": "être fan de basket",
+                "zh": "是篮球迷；être fan de qch"
+              },
+              {
+                "fr": "emmener qn",
+                "zh": "带某人去"
+              },
+              {
+                "fr": "vise à（viser à + inf.）",
+                "zh": "旨在做某事"
+              },
+              {
+                "fr": "en ressentir le besoin",
+                "zh": "感到有此需要（en 代替前文）"
+              },
+              {
+                "fr": "une pièce",
+                "zh": "房间"
+              }
+            ]
+          },
+          {
+            "fr": "Une initiative qui se multiplie dans les stades.",
+            "zh": "这种做法在各个体育场越来越多。",
+            "structureZh": "无动词的名词句，常见于新闻结尾：Une initiative 后接关系从句 qui se multiplie。se multiplier 是代词式动词，意为“增多、越来越多”。",
+            "points": [
+              {
+                "fr": "une initiative",
+                "zh": "倡议，举措"
+              },
+              {
+                "fr": "se multiplier",
+                "zh": "增多，越来越多"
+              },
+              {
+                "fr": "un stade",
+                "zh": "体育场"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2121936485926498469",
+      "url": "https://x.com/franceinfo/status/2121936485926498469",
+      "author": "franceinfo",
+      "postedAt": "2026-11-15T12:00:56Z",
+      "excerpt": "L'entreprise SpaceX a réussi à rattraper l'imposant étage supérieur de sa mégafusée Starship, après plus de 22 heures de vol pour la première fois, samedi 14 novembre. L'engin de plus de 50 mètres de hauteur a retraversé l'atmosphère à toute vitesse pour regagner la base spatiale du Texas, aux États-Unis, d'où il avait décollé.",
+      "level": "B1",
+      "topic": "actualité",
+      "summaryZh": "SpaceX在飞行22小时、绕地球约14圈后，首次在得州接住星舰上面级；马斯克称赞团队，这是可重复使用火箭的重要进展。",
+      "summaryEn": "After 22 hours and about 14 orbits, SpaceX caught Starship's upper stage in Texas for the first time, a big step for the reusable rocket.",
+      "vocab": [
+        {
+          "fr": "rattraper",
+          "zh": "接住",
+          "en": "to catch"
+        },
+        {
+          "fr": "une prouesse",
+          "zh": "壮举",
+          "en": "a feat"
+        },
+        {
+          "fr": "ébahi",
+          "zh": "目瞪口呆的",
+          "en": "amazed"
+        },
+        {
+          "fr": "renoncer à",
+          "zh": "放弃",
+          "en": "to give up"
+        },
+        {
+          "fr": "réutilisable",
+          "zh": "可重复使用的",
+          "en": "reusable"
+        },
+        {
+          "fr": "une avancée",
+          "zh": "进展",
+          "en": "a step forward"
+        }
+      ],
+      "question": {
+        "prompt": "Selon la vidéo, pourquoi SpaceX a-t-il renoncé à rattraper le premier étage la veille ?",
+        "choices": [
+          "À cause de la météo",
+          "À cause d'un problème technique",
+          "Parce que Elon Musk était absent",
+          "Parce que la base était fermée"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "视频说 La raison ? Un problème technique，即因为技术问题。"
+      },
+      "explain": {
+        "styleZh": "电视新闻的视频配文：第一句交代事件、时间和“首次”，第二句补充飞行器尺寸和返回过程。",
+        "sentences": [
+          {
+            "fr": "L'entreprise SpaceX a réussi à rattraper l'imposant étage supérieur de sa mégafusée Starship, après plus de 22 heures de vol pour la première fois, samedi 14 novembre.",
+            "zh": "11月14日星期六，SpaceX公司在飞行22小时多之后，首次成功接住了其巨型火箭星舰庞大的上面级。",
+            "structureZh": "主句 L'entreprise SpaceX a réussi à rattraper … 是复合过去时，réussir à + 不定式 表示“成功做到”。après plus de 22 heures de vol 是时间状语；pour la première fois 修饰整个事件（第一次）。日期 samedi 14 novembre 前不用介词。",
+            "points": [
+              {
+                "fr": "réussir à + inf.",
+                "zh": "成功做到某事"
+              },
+              {
+                "fr": "rattraper qch",
+                "zh": "接住，追上某物"
+              },
+              {
+                "fr": "l'étage supérieur",
+                "zh": "（火箭的）上面级"
+              },
+              {
+                "fr": "pour la première fois",
+                "zh": "第一次"
+              },
+              {
+                "fr": "imposant",
+                "zh": "庞大的，壮观的"
+              }
+            ]
+          },
+          {
+            "fr": "L'engin de plus de 50 mètres de hauteur a retraversé l'atmosphère à toute vitesse pour regagner la base spatiale du Texas, aux États-Unis, d'où il avait décollé.",
+            "zh": "这台高逾50米的飞行器高速穿过大气层，返回它当初起飞的美国得克萨斯州航天基地。",
+            "structureZh": "主语 L'engin（飞行器）带补语 de plus de 50 mètres de hauteur。a retraversé 是复合过去时，前缀 re- 表示“再次”。pour + 不定式 表示目的。d'où il avait décollé 是关系从句，用愈过去时（avait décollé），因为起飞发生在返回之前，是“过去的过去”。",
+            "points": [
+              {
+                "fr": "un engin",
+                "zh": "飞行器，机器"
+              },
+              {
+                "fr": "à toute vitesse",
+                "zh": "全速，飞快地"
+              },
+              {
+                "fr": "regagner un lieu",
+                "zh": "回到某地"
+              },
+              {
+                "fr": "d'où + plus-que-parfait",
+                "zh": "从那里（起飞）；愈过去时表示更早的动作"
+              },
+              {
+                "fr": "décoller",
+                "zh": "起飞"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2121278220918231132",
+      "url": "https://x.com/RFI/status/2121278220918231132",
+      "author": "RFI",
+      "postedAt": "2026-11-13T16:25:13Z",
+      "excerpt": "Né en 1970, l'Orchestra Baobab porte haut le flambeau de la musique sénégalaise, malgré les nombreuses péripéties de son histoire. Aujourd'hui, ce sont les enfants des premiers musiciens qui font vivre l'esprit du Baobab, un esprit de famille... et d'éternité !",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "巴奥巴布乐团的老乐手回忆：乐团1970年诞生于达喀尔的俱乐部，巴黎发展不顺，后在伦敦巴比肯中心演出成功、签约巡演，如今新一代传承其精神。",
+      "summaryEn": "A veteran recalls Orchestra Baobab's 1970 birth in a Dakar club, a failed Paris stint, then a triumphant Barbican concert and world tour; a new generation carries on.",
+      "vocab": [
+        {
+          "fr": "prendre le train en marche",
+          "zh": "中途加入",
+          "en": "to jump on board"
+        },
+        {
+          "fr": "un 33 tours",
+          "zh": "黑胶唱片（LP）",
+          "en": "an LP record"
+        },
+        {
+          "fr": "l'apothéose",
+          "zh": "巅峰，高潮",
+          "en": "the high point"
+        },
+        {
+          "fr": "baisser les bras",
+          "zh": "放弃",
+          "en": "to give up"
+        },
+        {
+          "fr": "épouser l'esprit",
+          "zh": "认同精神",
+          "en": "to embrace the spirit"
+        },
+        {
+          "fr": "éparpillé",
+          "zh": "分散的",
+          "en": "scattered"
+        }
+      ],
+      "question": {
+        "prompt": "Dans la vidéo, où le concert décisif a-t-il eu lieu ?",
+        "choices": [
+          "À Marseille",
+          "À Dakar",
+          "À Paris",
+          "À Londres"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "视频说 Il fallait faire un concert au Barbican Centre de Londres，那天是巅峰并签约巡演。"
+      },
+      "explain": {
+        "styleZh": "国际广播电台文化栏目的视频配文：先介绍乐团历史，再用强调句点出传承，结尾以感叹收束。",
+        "sentences": [
+          {
+            "fr": "Né en 1970, l'Orchestra Baobab porte haut le flambeau de la musique sénégalaise, malgré les nombreuses péripéties de son histoire.",
+            "zh": "巴奥巴布乐团诞生于1970年，尽管历经波折，依然高举塞内加尔音乐的火炬。",
+            "structureZh": "句首 Né en 1970 是过去分词短语作同位语，说明主语 l'Orchestra Baobab（阳性单数，所以 né 不变）。主句 porte haut le flambeau de：“高举……的火炬”，比喻传承。malgré + 名词 表示让步：“尽管”。",
+            "points": [
+              {
+                "fr": "porter haut le flambeau de qch",
+                "zh": "高举……的火炬；传承发扬"
+              },
+              {
+                "fr": "malgré + nom",
+                "zh": "尽管……"
+              },
+              {
+                "fr": "une péripétie",
+                "zh": "波折，曲折"
+              },
+              {
+                "fr": "Né en 1970（过去分词作同位语）",
+                "zh": "诞生于某年（过去分词作同位语）"
+              }
+            ]
+          },
+          {
+            "fr": "Aujourd'hui, ce sont les enfants des premiers musiciens qui font vivre l'esprit du Baobab, un esprit de famille... et d'éternité !",
+            "zh": "如今，正是第一代乐手的孩子们让巴奥巴布的精神延续下去：一种家庭的精神……也是永恒的精神！",
+            "structureZh": "强调句型 ce sont … qui …，突出主语 les enfants des premiers musiciens（复数所以用 ce sont）。faire vivre qch：让某物延续、保持活力，faire + 不定式 是使役结构。逗号后 un esprit de famille 是同位语，省略号制造停顿，引出 et d'éternité。",
+            "points": [
+              {
+                "fr": "ce sont … qui …（强调句）",
+                "zh": "正是……（强调主语）"
+              },
+              {
+                "fr": "faire vivre qch",
+                "zh": "使某物延续、保持活力"
+              },
+              {
+                "fr": "un esprit de famille",
+                "zh": "家庭精神"
+              },
+              {
+                "fr": "d'éternité（l'éternité）",
+                "zh": "永恒的；éternité 意为永恒"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2121651402766200880",
+      "url": "https://x.com/tv5mondeinfo/status/2121651402766200880",
+      "author": "tv5mondeinfo",
+      "postedAt": "2026-11-14T17:08:07Z",
+      "excerpt": "L'espace aérien américain quasiment à l'arrêt. Plus aucun avion n'a décollé pendant plusieurs heures dans la nuit. Une mesure exceptionnellement rare qui a semé l'inquiétude. Les autorités écartent la piste d'une cyberattaque et pointent les défaillances du système informatique.",
+      "level": "B2",
+      "topic": "transport",
+      "summaryZh": "美国空域罕见停摆数小时，近6000个航班取消；民航局称雷达与管制中心间的交换机因数据过载失灵，排除网络攻击。",
+      "summaryEn": "US airspace was nearly shut for hours and about 6,000 flights were cancelled; the FAA blamed overloaded switches, not a cyberattack.",
+      "vocab": [
+        {
+          "fr": "cloué au sol",
+          "zh": "停飞的",
+          "en": "grounded"
+        },
+        {
+          "fr": "un commutateur",
+          "zh": "交换机",
+          "en": "a switch"
+        },
+        {
+          "fr": "une surcharge",
+          "zh": "过载",
+          "en": "an overload"
+        },
+        {
+          "fr": "immobiliser",
+          "zh": "使停止不动",
+          "en": "to ground, immobilise"
+        },
+        {
+          "fr": "une panne",
+          "zh": "故障",
+          "en": "a failure"
+        },
+        {
+          "fr": "redouter",
+          "zh": "担心，害怕",
+          "en": "to fear"
+        }
+      ],
+      "question": {
+        "prompt": "D'après la vidéo, combien de vols ont été annulés au total ?",
+        "choices": [
+          "Près de 336",
+          "Près de 3 500",
+          "Près de 6 000",
+          "Plus de 30 000"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "视频结尾说 Au total, près de 6 000 vols ont été annulés。"
+      },
+      "explain": {
+        "styleZh": "电视新闻的视频配文：两个省略句和两个完整句交替，先描述现象，再交代官方解释。",
+        "sentences": [
+          {
+            "fr": "L'espace aérien américain quasiment à l'arrêt.",
+            "zh": "美国空域几乎陷入停顿。",
+            "structureZh": "标题式省略句，省略了动词 est：L'espace aérien américain (est) quasiment à l'arrêt。être à l'arrêt：处于停止状态。quasiment = presque，“几乎”。",
+            "points": [
+              {
+                "fr": "l'espace aérien",
+                "zh": "空域"
+              },
+              {
+                "fr": "être à l'arrêt",
+                "zh": "处于停止状态"
+              },
+              {
+                "fr": "quasiment",
+                "zh": "几乎"
+              }
+            ]
+          },
+          {
+            "fr": "Plus aucun avion n'a décollé pendant plusieurs heures dans la nuit.",
+            "zh": "夜间有好几个小时，再没有一架飞机起飞。",
+            "structureZh": "否定结构 ne … plus aucun：“再也没有任何一个”，plus aucun avion 放在句首作主语，ne 仍放在动词前。a décollé 是复合过去时。pendant + 时间段 表示持续。",
+            "points": [
+              {
+                "fr": "ne … plus aucun + nom",
+                "zh": "再也没有任何……"
+              },
+              {
+                "fr": "décoller",
+                "zh": "起飞"
+              },
+              {
+                "fr": "pendant + durée",
+                "zh": "在……期间"
+              }
+            ]
+          },
+          {
+            "fr": "Une mesure exceptionnellement rare qui a semé l'inquiétude.",
+            "zh": "这是一项极为罕见的措施，引起了恐慌。",
+            "structureZh": "又是无动词句：名词 Une mesure 后接关系从句 qui a semé l'inquiétude（复合过去时）。semer 字面是“播种”，semer l'inquiétude 引申为“引起不安”。",
+            "points": [
+              {
+                "fr": "semer l'inquiétude",
+                "zh": "引起不安"
+              },
+              {
+                "fr": "exceptionnellement",
+                "zh": "格外地，极其"
+              },
+              {
+                "fr": "une mesure",
+                "zh": "措施"
+              }
+            ]
+          },
+          {
+            "fr": "Les autorités écartent la piste d'une cyberattaque et pointent les défaillances du système informatique.",
+            "zh": "当局排除了网络攻击的可能，并指出是信息系统出了故障。",
+            "structureZh": "主语 Les autorités，两个并列谓语 écartent 和 pointent，都是现在时（新闻中用现在时让报道更生动）。écarter une piste：排除一种可能（piste 在这里是“线索、方向”）。",
+            "points": [
+              {
+                "fr": "écarter la piste de qch",
+                "zh": "排除……的可能"
+              },
+              {
+                "fr": "pointer qch",
+                "zh": "指出某事"
+              },
+              {
+                "fr": "une défaillance",
+                "zh": "故障，失灵"
+              },
+              {
+                "fr": "une cyberattaque",
+                "zh": "网络攻击"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
