@@ -1,0 +1,1371 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-16T12:43:02Z",
+  "items": [
+    {
+      "postId": "2122297902034788575",
+      "url": "https://x.com/OIFrancophonie/status/2122297902034788575",
+      "author": "OIFrancophonie",
+      "postedAt": "2026-11-16T11:57:04Z",
+      "excerpt": "À l’issue du 20e Sommet de la Francophonie à Phnom Penh, les chefs d’État et de gouvernement ont désigné le Canada comme pays hôte de la prochaine édition. Le 21e Sommet se tiendra à Ottawa et sera précédé d’un pré-sommet de la jeunesse francophone au Nouveau-Brunswick. Le Premier ministre canadien, Mark Carney, a annoncé que cette édition sera placée sous le signe de la découvrabilité des contenus francophones à l’ère de l’intelligence artificielle.",
+      "level": "B1",
+      "topic": "actualité",
+      "summaryZh": "第20届法语国家峰会在金边闭幕，加拿大被定为下届主办国：峰会将在渥太华举行，并在新不伦瑞克省先办青年预备会，主题是人工智能时代法语内容的可发现性。",
+      "summaryEn": "At the close of the 20th Francophonie Summit, Canada was chosen to host the next one in Ottawa, with a youth pre-summit in New Brunswick and a focus on French content in the AI era.",
+      "vocab": [
+        {
+          "fr": "le pays hôte",
+          "zh": "主办国",
+          "en": "host country"
+        },
+        {
+          "fr": "se tenir",
+          "zh": "举行",
+          "en": "to be held"
+        },
+        {
+          "fr": "précéder",
+          "zh": "在……之前",
+          "en": "to precede"
+        },
+        {
+          "fr": "la découvrabilité",
+          "zh": "可发现性",
+          "en": "discoverability"
+        },
+        {
+          "fr": "à l’ère de",
+          "zh": "在……时代",
+          "en": "in the age of"
+        }
+      ],
+      "question": {
+        "prompt": "Où se tiendra le 21e Sommet de la Francophonie ?",
+        "choices": [
+          "À Phnom Penh",
+          "À Ottawa",
+          "Au Nouveau-Brunswick",
+          "À Montréal"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文 Le 21e Sommet se tiendra à Ottawa；新不伦瑞克省举办的是青年预备峰会。"
+      },
+      "explain": {
+        "styleZh": "国际组织的官方通报：先说峰会结果（下一届主办国），再给出地点和青年预备会，最后引用加拿大总理宣布的主题。",
+        "sentences": [
+          {
+            "fr": "À l’issue du 20e Sommet de la Francophonie à Phnom Penh, les chefs d’État et de gouvernement ont désigné le Canada comme pays hôte de la prochaine édition.",
+            "zh": "在金边举行的第20届法语国家峰会结束时，各国元首和政府首脑指定加拿大为下一届峰会的主办国。",
+            "structureZh": "À l’issue de 表示“在……结束时”。主干 les chefs d’État et de gouvernement ont désigné le Canada，复合过去时表示已完成的决定。désigner qn/qch comme … 意为“指定……为……”。la prochaine édition 指下一届。",
+            "points": [
+              {
+                "fr": "à l’issue de",
+                "zh": "在……结束时"
+              },
+              {
+                "fr": "désigner qch comme + nom",
+                "zh": "指定……为……"
+              },
+              {
+                "fr": "le pays hôte",
+                "zh": "主办国"
+              },
+              {
+                "fr": "une édition",
+                "zh": "（活动的）一届"
+              }
+            ]
+          },
+          {
+            "fr": "Le 21e Sommet se tiendra à Ottawa et sera précédé d’un pré-sommet de la jeunesse francophone au Nouveau-Brunswick.",
+            "zh": "第21届峰会将在渥太华举行，此前将在新不伦瑞克省举办法语青年预备峰会。",
+            "structureZh": "两个并列谓语都用简单将来时：se tiendra（se tenir 的将来时，表示会议“举行”）和 sera précédé（被动语态，être + 过去分词），précéder 意为“在……之前”，被动后 d’un pré-sommet 是施动者。",
+            "points": [
+              {
+                "fr": "se tenir → se tiendra",
+                "zh": "（会议）举行，召开；se tiendra 是简单将来时"
+              },
+              {
+                "fr": "être précédé de qch",
+                "zh": "在……之后举行；之前先有……"
+              },
+              {
+                "fr": "un pré-sommet",
+                "zh": "预备会议，峰会前的会议"
+              },
+              {
+                "fr": "la jeunesse francophone",
+                "zh": "法语青年"
+              }
+            ]
+          },
+          {
+            "fr": "Le Premier ministre canadien, Mark Carney, a annoncé que cette édition sera placée sous le signe de la découvrabilité des contenus francophones à l’ère de l’intelligence artificielle.",
+            "zh": "加拿大总理马克·卡尼宣布，这一届峰会将以人工智能时代法语内容的可发现性为主题。",
+            "structureZh": "主句 Le Premier ministre … a annoncé que …，复合过去时。从句 cette édition sera placée sous le signe de 用简单将来时被动语态，表示将来的安排。sous le signe de 是固定表达“以……为主题”。découvrabilité 是新词，指内容被找到、被看见的能力。",
+            "points": [
+              {
+                "fr": "annoncer que + indicatif",
+                "zh": "宣布……"
+              },
+              {
+                "fr": "placer qch sous le signe de",
+                "zh": "以……为主题、为标志"
+              },
+              {
+                "fr": "la découvrabilité",
+                "zh": "可发现性（内容被用户找到的程度）"
+              },
+              {
+                "fr": "à l’ère de",
+                "zh": "在……时代"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2122087310686630036",
+      "url": "https://x.com/CitImmCanFR/status/2122087310686630036",
+      "author": "CitImmCanFR",
+      "postedAt": "2026-11-15T22:00:16Z",
+      "excerpt": "Vous êtes un travailleur qualifié et vous présentez une demande pour immigrer au Canada au moyen d’Entrée express? Voici des réponses aux questions courantes sur les changements récents visant les professions à salaire élevé : 1. Que dois-je savoir en tant que candidat à Entrée express?",
+      "level": "B1",
+      "topic": "immigration",
+      "summaryZh": "加拿大移民部针对快速通道申请人，解答近期高薪职业相关改革的常见问题，第一个问题是候选人需要了解什么。",
+      "summaryEn": "IRCC answers common questions from Express Entry skilled workers about recent changes for high-wage occupations, starting with what candidates need to know.",
+      "vocab": [
+        {
+          "fr": "un travailleur qualifié",
+          "zh": "技术工人",
+          "en": "a skilled worker"
+        },
+        {
+          "fr": "présenter une demande",
+          "zh": "提交申请",
+          "en": "to apply"
+        },
+        {
+          "fr": "Entrée express",
+          "zh": "快速通道",
+          "en": "Express Entry"
+        },
+        {
+          "fr": "à salaire élevé",
+          "zh": "高薪的",
+          "en": "high-wage"
+        },
+        {
+          "fr": "en tant que",
+          "zh": "作为",
+          "en": "as"
+        }
+      ],
+      "question": {
+        "prompt": "À qui s'adresse ce message d'IRCC ?",
+        "choices": [
+          "Aux étudiants étrangers",
+          "Aux touristes",
+          "Aux employeurs canadiens",
+          "Aux travailleurs qualifiés qui demandent Entrée express"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "原文开头 Vous êtes un travailleur qualifié … au moyen d’Entrée express，面向技术工人申请人。"
+      },
+      "explain": {
+        "styleZh": "加拿大移民部的问答式公告：先用问句锁定读者（技术移民申请人），再引出常见问题，第一个问题以编号开头。",
+        "sentences": [
+          {
+            "fr": "Vous êtes un travailleur qualifié et vous présentez une demande pour immigrer au Canada au moyen d’Entrée express?",
+            "zh": "您是技术工人，正在通过快速通道申请移民加拿大吗？",
+            "structureZh": "这是语调问句（陈述语序 + 问号），直接对读者说话，用 vous。两个并列分句 vous êtes … 和 vous présentez …，现在时。présenter une demande 是“提交申请”。au moyen de 表示“通过、借助”，d’ 是 de 在元音前的省音。",
+            "points": [
+              {
+                "fr": "présenter une demande",
+                "zh": "提交申请"
+              },
+              {
+                "fr": "au moyen de qch",
+                "zh": "通过，借助"
+              },
+              {
+                "fr": "un travailleur qualifié",
+                "zh": "技术工人"
+              },
+              {
+                "fr": "immigrer",
+                "zh": "移民（不及物动词）"
+              }
+            ]
+          },
+          {
+            "fr": "Voici des réponses aux questions courantes sur les changements récents visant les professions à salaire élevé :",
+            "zh": "以下是关于近期针对高薪职业的变化的常见问题解答：",
+            "structureZh": "Voici + 名词 用来引出后文，“以下是……”。aux = à + les。visant 是现在分词（viser 的现在分词），相当于 qui visent，修饰 les changements。冒号表示后面列出内容。",
+            "points": [
+              {
+                "fr": "voici + nom",
+                "zh": "以下是……（引出后文）"
+              },
+              {
+                "fr": "visant（viser qch）",
+                "zh": "针对；现在分词作定语 = qui visent"
+              },
+              {
+                "fr": "une profession à salaire élevé",
+                "zh": "高薪职业"
+              },
+              {
+                "fr": "courant",
+                "zh": "常见的"
+              }
+            ]
+          },
+          {
+            "fr": "1. Que dois-je savoir en tant que candidat à Entrée express?",
+            "zh": "1. 作为快速通道的候选人，我需要了解什么？",
+            "structureZh": "主谓倒装疑问句：Que 是宾语疑问词，dois-je 是 devoir 的第一人称单数倒装（je dois → dois-je）。en tant que 表示“以……身份”，后接名词时不加冠词。",
+            "points": [
+              {
+                "fr": "en tant que + nom",
+                "zh": "作为，以……身份"
+              },
+              {
+                "fr": "Que dois-je + inf. ?",
+                "zh": "我应该……什么？（倒装疑问）"
+              },
+              {
+                "fr": "un candidat",
+                "zh": "候选人，申请人"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2122290698032414900",
+      "url": "https://x.com/LeTemps/status/2122290698032414900",
+      "author": "LeTemps",
+      "postedAt": "2026-11-16T11:28:27Z",
+      "excerpt": "Une équipe de l’Université de Berne a identifié la cause génétique d’une maladie qui calcifie les organes des lynx réintroduits en Suisse. La consanguinité élevée de la population est en cause",
+      "level": "B2",
+      "topic": "santé",
+      "summaryZh": "伯尔尼大学研究发现，重新引入瑞士的猞猁所患器官钙化疾病有遗传原因，根源是种群近亲繁殖程度高。",
+      "summaryEn": "A University of Bern team found the genetic cause of a disease that calcifies the organs of lynx reintroduced in Switzerland: high inbreeding.",
+      "vocab": [
+        {
+          "fr": "la cause génétique",
+          "zh": "遗传原因",
+          "en": "genetic cause"
+        },
+        {
+          "fr": "calcifier",
+          "zh": "使钙化",
+          "en": "to calcify"
+        },
+        {
+          "fr": "réintroduire",
+          "zh": "重新引入",
+          "en": "to reintroduce"
+        },
+        {
+          "fr": "la consanguinité",
+          "zh": "近亲繁殖",
+          "en": "inbreeding"
+        }
+      ],
+      "question": {
+        "prompt": "Quelle est la cause de la maladie des lynx en Suisse ?",
+        "choices": [
+          "La forte consanguinité de la population",
+          "La pollution de l'eau",
+          "Un virus venu d'Asie",
+          "Le manque de nourriture"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文 La consanguinité élevée de la population est en cause。"
+      },
+      "explain": {
+        "styleZh": "科学新闻导语：第一句交代研究团队和发现，第二句用简短句说明原因。",
+        "sentences": [
+          {
+            "fr": "Une équipe de l’Université de Berne a identifié la cause génétique d’une maladie qui calcifie les organes des lynx réintroduits en Suisse.",
+            "zh": "伯尔尼大学的一个团队找到了一种疾病的遗传原因，这种病会使重新引入瑞士的猞猁器官钙化。",
+            "structureZh": "主干 Une équipe … a identifié la cause génétique，复合过去时。qui calcifie … 是关系从句，修饰 une maladie。réintroduits 是过去分词作形容词，修饰 les lynx，阳性复数配合，意为“被重新引入的”。",
+            "points": [
+              {
+                "fr": "identifier qch",
+                "zh": "找出，确定"
+              },
+              {
+                "fr": "calcifier qch",
+                "zh": "使钙化"
+              },
+              {
+                "fr": "réintroduit",
+                "zh": "被重新引入的（过去分词作形容词）"
+              },
+              {
+                "fr": "un lynx",
+                "zh": "猞猁（单复数同形）"
+              }
+            ]
+          },
+          {
+            "fr": "La consanguinité élevée de la population est en cause",
+            "zh": "种群的高度近亲繁殖是病因。",
+            "structureZh": "主语 La consanguinité élevée de la population，谓语 est en cause。être en cause 是固定表达，“是原因、难辞其咎”。原文句末没有句号，这是社交媒体导语常见的写法。",
+            "points": [
+              {
+                "fr": "être en cause",
+                "zh": "是原因；被牵涉"
+              },
+              {
+                "fr": "la consanguinité",
+                "zh": "近亲繁殖，血缘相近"
+              },
+              {
+                "fr": "élevé",
+                "zh": "高的"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2122196390126485659",
+      "url": "https://x.com/LeTemps/status/2122196390126485659",
+      "author": "LeTemps",
+      "postedAt": "2026-11-16T05:13:42Z",
+      "excerpt": "ÉDITORIAL. Malgré l’ouverture de la résidence étudiante Neostar à Lausanne, la pénurie de logements frappe toujours la jeunesse vaudoise. En cause, un cadre légal qui réserve les logements subventionnés aux seuls universitaires",
+      "level": "B2",
+      "topic": "logement",
+      "summaryZh": "《时报》社论：洛桑虽然新开了Neostar学生公寓，沃州年轻人仍面临住房短缺，原因是法律只把补贴住房留给大学生。",
+      "summaryEn": "Le Temps editorial: despite the new Neostar student residence in Lausanne, Vaud's youth still face a housing shortage, as subsidised housing is reserved for university students.",
+      "vocab": [
+        {
+          "fr": "une résidence étudiante",
+          "zh": "学生公寓",
+          "en": "a student residence"
+        },
+        {
+          "fr": "la pénurie",
+          "zh": "短缺",
+          "en": "shortage"
+        },
+        {
+          "fr": "un cadre légal",
+          "zh": "法律框架",
+          "en": "legal framework"
+        },
+        {
+          "fr": "subventionné",
+          "zh": "有补贴的",
+          "en": "subsidised"
+        },
+        {
+          "fr": "un universitaire",
+          "zh": "大学生（此处）",
+          "en": "a university student"
+        }
+      ],
+      "question": {
+        "prompt": "Selon l'éditorial, pourquoi la pénurie touche-t-elle encore les jeunes ?",
+        "choices": [
+          "Les loyers ont baissé",
+          "Neostar est fermée",
+          "Les logements subventionnés sont réservés aux universitaires",
+          "Il n'y a pas d'étudiants à Lausanne"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文 un cadre légal qui réserve les logements subventionnés aux seuls universitaires。"
+      },
+      "explain": {
+        "styleZh": "社论导语：标签 ÉDITORIAL 后，第一句用 malgré 引出让步和问题，第二句用省略句点明原因。",
+        "sentences": [
+          {
+            "fr": "ÉDITORIAL. Malgré l’ouverture de la résidence étudiante Neostar à Lausanne, la pénurie de logements frappe toujours la jeunesse vaudoise.",
+            "zh": "社论。尽管洛桑的Neostar学生公寓已经开放，住房短缺仍然困扰着沃州的年轻人。",
+            "structureZh": "ÉDITORIAL 是栏目标签。Malgré + 名词 表示让步“尽管”，后面不能直接接从句。主干 la pénurie de logements frappe toujours la jeunesse vaudoise，现在时；toujours 在这里是“仍然”。vaudois 是 Vaud 州的形容词。",
+            "points": [
+              {
+                "fr": "malgré + nom",
+                "zh": "尽管（后接名词）"
+              },
+              {
+                "fr": "la pénurie de qch",
+                "zh": "……短缺"
+              },
+              {
+                "fr": "frapper qn",
+                "zh": "打击，困扰某人"
+              },
+              {
+                "fr": "vaudois",
+                "zh": "沃州的（Vaud）"
+              }
+            ]
+          },
+          {
+            "fr": "En cause, un cadre légal qui réserve les logements subventionnés aux seuls universitaires",
+            "zh": "原因在于：法律框架只把补贴住房留给大学生。",
+            "structureZh": "这是省略句，En cause 相当于 La cause est。un cadre légal 后接关系从句 qui réserve … ，réserver qch à qn 意为“把……留给某人”。aux seuls universitaires 中 seuls 放在名词前，表示“只有”，排除了职业学校学生等。",
+            "points": [
+              {
+                "fr": "en cause（省略句）",
+                "zh": "原因是……"
+              },
+              {
+                "fr": "réserver qch à qn",
+                "zh": "把某物留给某人"
+              },
+              {
+                "fr": "subventionné",
+                "zh": "有补贴的"
+              },
+              {
+                "fr": "seul + nom",
+                "zh": "只有……（seul 放在名词前）"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2122255787305124273",
+      "url": "https://x.com/Sciences_Avenir/status/2122255787305124273",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-16T09:09:43Z",
+      "excerpt": "En six heures, une intelligence artificielle vient de décoder une missive napoléonienne cryptée. Des papyrus d'Herculanum aux archives de Notre-Dame de Paris, l'IA bouscule la recherche historique.",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "人工智能在六小时内破译了一封拿破仑时期的加密信件；从赫库兰尼姆纸莎草卷到巴黎圣母院档案，人工智能正在改变历史研究。",
+      "summaryEn": "An AI decoded an encrypted Napoleonic letter in six hours; from the Herculaneum papyri to Notre-Dame archives, AI is shaking up historical research.",
+      "vocab": [
+        {
+          "fr": "décoder",
+          "zh": "破译",
+          "en": "to decode"
+        },
+        {
+          "fr": "une missive",
+          "zh": "信件",
+          "en": "a letter"
+        },
+        {
+          "fr": "crypté",
+          "zh": "加密的",
+          "en": "encrypted"
+        },
+        {
+          "fr": "bousculer",
+          "zh": "颠覆",
+          "en": "to shake up"
+        },
+        {
+          "fr": "la recherche",
+          "zh": "研究",
+          "en": "research"
+        }
+      ],
+      "question": {
+        "prompt": "Combien de temps l'IA a-t-elle mis pour décoder la lettre ?",
+        "choices": [
+          "Six jours",
+          "Six heures",
+          "Six semaines",
+          "Six minutes"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文 En six heures，即六小时。"
+      },
+      "explain": {
+        "styleZh": "科普媒体导语：第一句用具体事例吸引读者，第二句用“从……到……”扩展到整个领域。",
+        "sentences": [
+          {
+            "fr": "En six heures, une intelligence artificielle vient de décoder une missive napoléonienne cryptée.",
+            "zh": "一个人工智能在六小时内刚刚破译了一封拿破仑时代的加密信件。",
+            "structureZh": "venir de + 不定式 是近过去时，表示“刚刚做了”。En six heures 中 en 表示完成所用的时间。missive 是书面词“信件”；napoléonienne 和 cryptée 都是形容词，阴性配合 missive。",
+            "points": [
+              {
+                "fr": "venir de + inf.",
+                "zh": "近过去时：刚刚做了某事"
+              },
+              {
+                "fr": "en + durée",
+                "zh": "在……时间内完成"
+              },
+              {
+                "fr": "une missive",
+                "zh": "信件（书面语）"
+              },
+              {
+                "fr": "crypté",
+                "zh": "加密的"
+              }
+            ]
+          },
+          {
+            "fr": "Des papyrus d'Herculanum aux archives de Notre-Dame de Paris, l'IA bouscule la recherche historique.",
+            "zh": "从赫库兰尼姆的纸莎草卷到巴黎圣母院的档案，人工智能正在颠覆历史研究。",
+            "structureZh": "De … à … 表示范围“从……到……”，这里 aux = à + les。主干 l'IA bouscule la recherche historique，现在时。bousculer 原意“推挤”，引申为“打乱、颠覆”。",
+            "points": [
+              {
+                "fr": "de + nom à + nom",
+                "zh": "从……到……（列举范围）"
+              },
+              {
+                "fr": "bousculer qch",
+                "zh": "颠覆，打乱"
+              },
+              {
+                "fr": "les archives",
+                "zh": "档案（常用复数）"
+              },
+              {
+                "fr": "un papyrus",
+                "zh": "纸莎草卷"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2122225917070282789",
+      "url": "https://x.com/Sciences_Avenir/status/2122225917070282789",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-16T07:11:02Z",
+      "excerpt": "Ce premier essai clinique montre que les bactéries intestinales issues de personnes en bonne santé peuvent diminuer la réactivité immunitaire causée par l’allergie à la cacahuète.",
+      "level": "B2",
+      "topic": "santé",
+      "summaryZh": "首项临床试验显示，来自健康人的肠道细菌可降低花生过敏引起的免疫反应。",
+      "summaryEn": "A first clinical trial shows that gut bacteria from healthy people can reduce the immune reaction caused by peanut allergy.",
+      "vocab": [
+        {
+          "fr": "un essai clinique",
+          "zh": "临床试验",
+          "en": "a clinical trial"
+        },
+        {
+          "fr": "intestinal",
+          "zh": "肠道的",
+          "en": "intestinal"
+        },
+        {
+          "fr": "la réactivité",
+          "zh": "反应性",
+          "en": "reactivity"
+        },
+        {
+          "fr": "la cacahuète",
+          "zh": "花生",
+          "en": "peanut"
+        }
+      ],
+      "question": {
+        "prompt": "D'où viennent les bactéries utilisées dans l'essai ?",
+        "choices": [
+          "De patients allergiques",
+          "D'animaux",
+          "De cacahuètes",
+          "De personnes en bonne santé"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "原文 les bactéries intestinales issues de personnes en bonne santé。"
+      },
+      "explain": {
+        "styleZh": "科普新闻的一句话导语：主句介绍临床试验，宾语从句给出结论。",
+        "sentences": [
+          {
+            "fr": "Ce premier essai clinique montre que les bactéries intestinales issues de personnes en bonne santé peuvent diminuer la réactivité immunitaire causée par l’allergie à la cacahuète.",
+            "zh": "这项首次临床试验表明，来自健康人的肠道细菌可以降低花生过敏引起的免疫反应。",
+            "structureZh": "主句 Ce premier essai clinique montre que …，从句用直陈式陈述结论。issues de 是形容词短语“来源于”，修饰 les bactéries intestinales，阴性复数配合。causée par 是过去分词，修饰 la réactivité immunitaire（阴性单数）。pouvoir + 不定式 表示可能性。",
+            "points": [
+              {
+                "fr": "un essai clinique",
+                "zh": "临床试验"
+              },
+              {
+                "fr": "issu de",
+                "zh": "来源于，出自"
+              },
+              {
+                "fr": "en bonne santé",
+                "zh": "健康的"
+              },
+              {
+                "fr": "diminuer qch",
+                "zh": "减少，降低"
+              },
+              {
+                "fr": "l’allergie à qch",
+                "zh": "对……过敏"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2122194450797502871",
+      "url": "https://x.com/ONU_fr/status/2122194450797502871",
+      "author": "ONU_fr",
+      "postedAt": "2026-11-16T05:06:00Z",
+      "excerpt": "La diversité est une force, pas une menace. En cette Journée de la tolérance, célébrons le respect, l’inclusion et la compréhension mutuelle, des valeurs qui nous unissent et nous renforcent.",
+      "level": "A2",
+      "topic": "culture",
+      "summaryZh": "联合国在国际宽容日呼吁：多样性是力量而非威胁，让我们颂扬尊重、包容和相互理解。",
+      "summaryEn": "On the International Day for Tolerance, the UN says diversity is a strength, not a threat, and calls to celebrate respect, inclusion and mutual understanding.",
+      "vocab": [
+        {
+          "fr": "la diversité",
+          "zh": "多样性",
+          "en": "diversity"
+        },
+        {
+          "fr": "une menace",
+          "zh": "威胁",
+          "en": "a threat"
+        },
+        {
+          "fr": "la tolérance",
+          "zh": "宽容",
+          "en": "tolerance"
+        },
+        {
+          "fr": "l’inclusion",
+          "zh": "包容",
+          "en": "inclusion"
+        },
+        {
+          "fr": "mutuel",
+          "zh": "相互的",
+          "en": "mutual"
+        }
+      ],
+      "question": {
+        "prompt": "Selon le message, la diversité est…",
+        "choices": [
+          "une force",
+          "une menace",
+          "un problème",
+          "une mode"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文 La diversité est une force, pas une menace。"
+      },
+      "explain": {
+        "styleZh": "国际纪念日的倡议帖：先用一句口号式的对比句，再用命令式号召读者。",
+        "sentences": [
+          {
+            "fr": "La diversité est une force, pas une menace.",
+            "zh": "多样性是一种力量，而不是威胁。",
+            "structureZh": "简单句，主语 La diversité，系动词 est。pas une menace 省略了 ce n’est，形成“是……而不是……”的对比，口语和口号中常见。",
+            "points": [
+              {
+                "fr": "une force",
+                "zh": "力量，优势"
+              },
+              {
+                "fr": "une menace",
+                "zh": "威胁"
+              },
+              {
+                "fr": "nom, pas + nom",
+                "zh": "是……而不是……（对比省略）"
+              }
+            ]
+          },
+          {
+            "fr": "En cette Journée de la tolérance, célébrons le respect, l’inclusion et la compréhension mutuelle, des valeurs qui nous unissent et nous renforcent.",
+            "zh": "在这个国际宽容日，让我们颂扬尊重、包容和相互理解——这些价值观把我们团结起来，使我们更强大。",
+            "structureZh": "célébrons 是命令式第一人称复数，“让我们……”。En cette 表示“在这个（日子）”。des valeurs qui … 是同位语，解释前面三个名词；qui 引导关系从句，nous 是宾语代词，放在动词 unissent 和 renforcent 前。",
+            "points": [
+              {
+                "fr": "célébrons（impératif, nous）",
+                "zh": "命令式：让我们庆祝"
+              },
+              {
+                "fr": "en cette journée",
+                "zh": "在这一天"
+              },
+              {
+                "fr": "la compréhension mutuelle",
+                "zh": "相互理解"
+              },
+              {
+                "fr": "unir qn → nous unissent",
+                "zh": "团结某人"
+              },
+              {
+                "fr": "renforcer qn",
+                "zh": "使更强大"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2122230689483403382",
+      "url": "https://x.com/ONUinfo/status/2122230689483403382",
+      "author": "ONUinfo",
+      "postedAt": "2026-11-16T07:30:00Z",
+      "excerpt": "L'importance de données fiables pour répondre aux épidémies en Afrique Notre entretien avec Moussa Traoré, Conseiller régional en charge de l’information sanitaire à OMS Afrique",
+      "level": "B2",
+      "topic": "santé",
+      "summaryZh": "联合国新闻专访世卫组织非洲区域卫生信息顾问穆萨·特拉奥雷，谈可靠数据对应对非洲流行病的重要性。",
+      "summaryEn": "UN News interviews Moussa Traoré, WHO Africa regional adviser for health information, on why reliable data matter to respond to epidemics in Africa.",
+      "vocab": [
+        {
+          "fr": "des données",
+          "zh": "数据",
+          "en": "data"
+        },
+        {
+          "fr": "fiable",
+          "zh": "可靠的",
+          "en": "reliable"
+        },
+        {
+          "fr": "une épidémie",
+          "zh": "流行病",
+          "en": "an epidemic"
+        },
+        {
+          "fr": "un entretien",
+          "zh": "访谈",
+          "en": "an interview"
+        },
+        {
+          "fr": "en charge de",
+          "zh": "负责",
+          "en": "in charge of"
+        }
+      ],
+      "question": {
+        "prompt": "De quoi parle cet entretien ?",
+        "choices": [
+          "Du tourisme en Afrique",
+          "Du sport en Afrique",
+          "De l'importance de données fiables face aux épidémies",
+          "Du prix des médicaments"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "标题 L'importance de données fiables pour répondre aux épidémies en Afrique。"
+      },
+      "explain": {
+        "styleZh": "联合国新闻的访谈预告：第一行是标题式省略句，第二行介绍受访者。",
+        "sentences": [
+          {
+            "fr": "L'importance de données fiables pour répondre aux épidémies en Afrique",
+            "zh": "可靠数据对应对非洲流行病的重要性",
+            "structureZh": "这是标题式的名词短语（省略句），没有动词。L'importance de … 是中心词，pour + 不定式 表示目的。répondre à 在这里是“应对”，aux = à + les。",
+            "points": [
+              {
+                "fr": "des données fiables",
+                "zh": "可靠的数据"
+              },
+              {
+                "fr": "répondre à qch",
+                "zh": "应对，回应"
+              },
+              {
+                "fr": "une épidémie",
+                "zh": "流行病"
+              }
+            ]
+          },
+          {
+            "fr": "Notre entretien avec Moussa Traoré, Conseiller régional en charge de l’information sanitaire à OMS Afrique",
+            "zh": "我们对世卫组织非洲区域办事处负责卫生信息的区域顾问穆萨·特拉奥雷的专访",
+            "structureZh": "同样是无动词的名词句。Notre entretien avec … 是“我们与……的访谈”。逗号后是同位语，说明受访者职务。en charge de 表示“负责……”。sanitaire 是“卫生的”，不要和 santé 的用法混淆。",
+            "points": [
+              {
+                "fr": "un entretien avec qn",
+                "zh": "与某人的访谈"
+              },
+              {
+                "fr": "en charge de qch",
+                "zh": "负责某事"
+              },
+              {
+                "fr": "sanitaire",
+                "zh": "卫生的，与健康相关的"
+              },
+              {
+                "fr": "régional",
+                "zh": "地区的"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2122221307966157233",
+      "url": "https://x.com/franceinfo/status/2122221307966157233",
+      "author": "franceinfo",
+      "postedAt": "2026-11-16T06:52:43Z",
+      "excerpt": "REPORTAGE. \"L'ascenseur social est un peu en panne\" : trouver un stage de seconde ou de 3e, est encore compliqué pour les adolescents les moins favorisés",
+      "level": "B1",
+      "topic": "travail",
+      "summaryZh": "法国新闻台报道：对最弱势家庭的青少年来说，找初三或高一的实习仍然很难，被采访者说“社会上升通道有点失灵了”。",
+      "summaryEn": "Franceinfo report: finding a work-experience placement in year 10 or 11 is still hard for the least privileged teenagers; the social ladder is said to be broken.",
+      "vocab": [
+        {
+          "fr": "un stage",
+          "zh": "实习",
+          "en": "an internship"
+        },
+        {
+          "fr": "l’ascenseur social",
+          "zh": "社会上升通道",
+          "en": "social mobility"
+        },
+        {
+          "fr": "en panne",
+          "zh": "失灵",
+          "en": "broken down"
+        },
+        {
+          "fr": "favorisé",
+          "zh": "有优势的",
+          "en": "privileged"
+        },
+        {
+          "fr": "un adolescent",
+          "zh": "青少年",
+          "en": "a teenager"
+        }
+      ],
+      "question": {
+        "prompt": "Pour qui est-il difficile de trouver un stage selon ce reportage ?",
+        "choices": [
+          "Pour les enseignants",
+          "Pour les adolescents les moins favorisés",
+          "Pour les entreprises",
+          "Pour les étudiants étrangers"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文 pour les adolescents les moins favorisés。"
+      },
+      "explain": {
+        "styleZh": "报道标题：标签 REPORTAGE 后先放一句引语，冒号后说明主题。",
+        "sentences": [
+          {
+            "fr": "REPORTAGE. \"L'ascenseur social est un peu en panne\" : trouver un stage de seconde ou de 3e, est encore compliqué pour les adolescents les moins favorisés",
+            "zh": "报道。“社会上升通道有点失灵了”：对最弱势的青少年来说，找高一或初三的实习仍然很困难。",
+            "structureZh": "引语之后用冒号说明。冒号后的主语是不定式短语 trouver un stage …，不定式可以作主语，谓语 est encore compliqué 用阳性单数。les moins favorisés 是形容词最高级（最不……），指家庭条件最差的。en panne 原指机器“出故障”，这里是比喻。seconde 指法国高中一年级，3e 指初中最后一年。",
+            "points": [
+              {
+                "fr": "l’ascenseur social",
+                "zh": "社会上升通道（比喻）"
+              },
+              {
+                "fr": "être en panne",
+                "zh": "出故障，失灵"
+              },
+              {
+                "fr": "trouver un stage",
+                "zh": "找实习"
+              },
+              {
+                "fr": "不定式作主语 + est",
+                "zh": "不定式短语可作主语，谓语用单数"
+              },
+              {
+                "fr": "les moins favorisés",
+                "zh": "最弱势的人（最高级）"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2122094412360507811",
+      "url": "https://x.com/franceinfo/status/2122094412360507811",
+      "author": "franceinfo",
+      "postedAt": "2026-11-15T22:28:29Z",
+      "excerpt": "Natalité : \"Il n'y a que 10% des jeunes adultes qui disent qu'ils ne veulent pas avoir d'enfant un jour\", note Gilles Pison, conseiller de la direction de l'INED, rappelant que la majorité des Français souhaitent devenir parents.",
+      "level": "B2",
+      "topic": "actualité",
+      "summaryZh": "人口学家皮松表示：绝大多数法国人希望有孩子，平均想要两个（2005年为2.3个）；只有10%的年轻人不想要孩子，20年前为4%。",
+      "summaryEn": "Demographer Gilles Pison says most French people want children, two on average (2.3 in 2005); only 10% of young adults want none, up from 4% 20 years ago.",
+      "vocab": [
+        {
+          "fr": "la natalité",
+          "zh": "出生率",
+          "en": "birth rate"
+        },
+        {
+          "fr": "une enquête",
+          "zh": "调查",
+          "en": "a survey"
+        },
+        {
+          "fr": "les personnes interrogées",
+          "zh": "受访者",
+          "en": "respondents"
+        },
+        {
+          "fr": "en moyenne",
+          "zh": "平均",
+          "en": "on average"
+        },
+        {
+          "fr": "la proportion",
+          "zh": "比例",
+          "en": "the proportion"
+        },
+        {
+          "fr": "souhaiter",
+          "zh": "希望",
+          "en": "to wish"
+        }
+      ],
+      "question": {
+        "prompt": "Selon Gilles Pison, combien d'enfants les Français souhaitent-ils en moyenne en 2024 ?",
+        "choices": [
+          "Un enfant",
+          "Deux enfants",
+          "Trois enfants",
+          "2,3 enfants"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "视频说2024年调查中平均是 deux enfants，2005年才是2.3个。"
+      },
+      "explain": {
+        "styleZh": "电视节目的视频配文：话题词 + 直接引语 + 倒装的引述部分，最后用现在分词补充说明。",
+        "sentences": [
+          {
+            "fr": "Natalité : \"Il n'y a que 10% des jeunes adultes qui disent qu'ils ne veulent pas avoir d'enfant un jour\", note Gilles Pison, conseiller de la direction de l'INED, rappelant que la majorité des Français souhaitent devenir parents.",
+            "zh": "生育：法国国家人口研究所领导层顾问吉勒·皮松指出：“只有10%的年轻成年人表示将来不想要孩子”，并提醒说大多数法国人希望成为父母。",
+            "structureZh": "开头 Natalité : 是话题标签式省略。引号内 Il n'y a que … qui … 是限定结构“只有……”，ne … que 不是否定。ne veulent pas avoir d'enfant 中否定后 un 变 de。引语后 note Gilles Pison 主谓倒装，是引述动词的固定用法。rappelant 是现在分词，补充说明他同时提醒的内容。",
+            "points": [
+              {
+                "fr": "ne + verbe + que",
+                "zh": "只，仅仅（不是否定）"
+              },
+              {
+                "fr": "pas de + nom（否定后冠词变化）",
+                "zh": "否定句中 un/des 变成 de"
+              },
+              {
+                "fr": "note X（引语后倒装）",
+                "zh": "引语后的引述动词主谓倒装"
+              },
+              {
+                "fr": "rappelant que（participe présent）",
+                "zh": "现在分词：同时提醒说……"
+              },
+              {
+                "fr": "la natalité",
+                "zh": "出生率，生育"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2122298766908621195",
+      "url": "https://x.com/franceinfo/status/2122298766908621195",
+      "author": "franceinfo",
+      "postedAt": "2026-11-16T12:00:31Z",
+      "excerpt": "À partir du lundi 16 novembre, le tunnel de Saint-Cloud (Hauts-de-Seine), sur l’autoroute A13 vers la Normandie, doit fermer pendant plus de neuf mois. La raison : d’importants travaux de renforcement de la structure du tunnel.",
+      "level": "B1",
+      "topic": "transport",
+      "summaryZh": "A13高速公路圣克卢隧道因结构老化将关闭九个月，每天8万名司机受影响；工程耗资3500万欧元，期间A14往诺曼底方向工作日免费。",
+      "summaryEn": "The Saint-Cloud tunnel on the A13 closes for nine months for safety works affecting 80,000 daily drivers; the A14 will be free toward Normandy on weekdays.",
+      "vocab": [
+        {
+          "fr": "un automobiliste",
+          "zh": "开车的人",
+          "en": "a driver"
+        },
+        {
+          "fr": "emprunter un itinéraire",
+          "zh": "走某条路线",
+          "en": "to take a route"
+        },
+        {
+          "fr": "la galère",
+          "zh": "麻烦，苦差事（口语）",
+          "en": "a hassle"
+        },
+        {
+          "fr": "fragiliser",
+          "zh": "使变脆弱",
+          "en": "to weaken"
+        },
+        {
+          "fr": "transiger",
+          "zh": "妥协",
+          "en": "to compromise"
+        },
+        {
+          "fr": "gratuit",
+          "zh": "免费的",
+          "en": "free"
+        }
+      ],
+      "question": {
+        "prompt": "Selon la vidéo, comment compense-t-on la fermeture du tunnel ?",
+        "choices": [
+          "Le tunnel sera ouvert le week-end",
+          "Des bus gratuits seront mis en place",
+          "Le train sera moins cher",
+          "L'A14 sera gratuite vers la Normandie en semaine"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "视频说 l'A14 sera gratuite en direction de la Normandie du lundi au vendredi。"
+      },
+      "explain": {
+        "styleZh": "交通新闻的视频配文：先说时间、地点和关闭期限，再用冒号省略句交代原因。",
+        "sentences": [
+          {
+            "fr": "À partir du lundi 16 novembre, le tunnel de Saint-Cloud (Hauts-de-Seine), sur l’autoroute A13 vers la Normandie, doit fermer pendant plus de neuf mois.",
+            "zh": "从11月16日星期一起，位于A13高速公路通往诺曼底方向的圣克卢隧道（上塞纳省）将关闭九个多月。",
+            "structureZh": "主干是 le tunnel … doit fermer。devoir + 不定式 在这里表示按计划“将要”。括号里的 Hauts-de-Seine 是所在省份，sur l’autoroute A13 vers la Normandie 是地点补语。à partir du = à partir de + le 的缩合；pendant 表示持续时间。",
+            "points": [
+              {
+                "fr": "à partir du + date",
+                "zh": "从某天起（du = de + le）"
+              },
+              {
+                "fr": "devoir + inf.（计划）",
+                "zh": "按计划将要做某事"
+              },
+              {
+                "fr": "fermer",
+                "zh": "关闭（这里是不及物用法）"
+              },
+              {
+                "fr": "pendant + durée",
+                "zh": "在……期间，持续……"
+              }
+            ]
+          },
+          {
+            "fr": "La raison : d’importants travaux de renforcement de la structure du tunnel.",
+            "zh": "原因是：隧道结构需要进行大规模加固工程。",
+            "structureZh": "这是没有动词的省略句，冒号后直接给出原因，新闻里很常见。d’importants travaux 中复数形容词放在名词前时，des 变成 de（d’）。travaux 指施工、工程，单数 travail 指工作。",
+            "points": [
+              {
+                "fr": "des → de + adj. + nom",
+                "zh": "形容词在复数名词前时 des 变为 de"
+              },
+              {
+                "fr": "les travaux",
+                "zh": "施工，工程"
+              },
+              {
+                "fr": "le renforcement",
+                "zh": "加固"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2122029155776913477",
+      "url": "https://x.com/OIFrancophonie/status/2122029155776913477",
+      "author": "OIFrancophonie",
+      "postedAt": "2026-11-15T18:09:10Z",
+      "excerpt": "À l’ouverture du 20e Sommet de la Francophonie à Phnom Penh, la Secrétaire générale, Louise Mushikiwabo, s’est adressée aux Chefs d’État et de gouvernement.",
+      "level": "C1",
+      "topic": "culture",
+      "summaryZh": "法语国家组织秘书长在金边峰会开幕式上说：创始人曾被视为空想家，历史证明他们有远见；法语国家组织重返亚洲，今天比以往更有意义。",
+      "summaryEn": "At the Phnom Penh summit opening, OIF chief Louise Mushikiwabo said the founders were visionaries and that La Francophonie, back in Asia, is more relevant than ever.",
+      "vocab": [
+        {
+          "fr": "un utopiste",
+          "zh": "空想家",
+          "en": "a utopian"
+        },
+        {
+          "fr": "anodin",
+          "zh": "无关紧要的",
+          "en": "trivial"
+        },
+        {
+          "fr": "révolu",
+          "zh": "过去了的",
+          "en": "bygone"
+        },
+        {
+          "fr": "faire le pari de",
+          "zh": "押注于",
+          "en": "to bet on"
+        },
+        {
+          "fr": "pertinent",
+          "zh": "有意义的，切题的",
+          "en": "relevant"
+        },
+        {
+          "fr": "tangible",
+          "zh": "明显的，可感知的",
+          "en": "tangible"
+        }
+      ],
+      "question": {
+        "prompt": "Selon Louise Mushikiwabo, combien d'États et gouvernements membres la Francophonie rassemble-t-elle ?",
+        "choices": [
+          "20",
+          "30",
+          "90",
+          "70"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "她说 rassemblant 90 États et gouvernements membres，即90个。"
+      },
+      "explain": {
+        "styleZh": "国际组织的视频配文：一句话交代场合、人物和动作，是典型的活动通报。",
+        "sentences": [
+          {
+            "fr": "À l’ouverture du 20e Sommet de la Francophonie à Phnom Penh, la Secrétaire générale, Louise Mushikiwabo, s’est adressée aux Chefs d’État et de gouvernement.",
+            "zh": "在金边第20届法语国家峰会开幕式上，秘书长路易丝·穆西基瓦博向各国元首和政府首脑发表讲话。",
+            "structureZh": "主干 la Secrétaire générale … s’est adressée aux Chefs d’État。s’adresser à qn 是代词式动词，复合过去时用 être 作助动词，过去分词与阴性主语配合，所以是 adressée。Louise Mushikiwabo 是同位语。À l’ouverture de 表示“在……开幕时”。aux = à + les。",
+            "points": [
+              {
+                "fr": "s’adresser à qn → s’est adressée",
+                "zh": "对某人讲话"
+              },
+              {
+                "fr": "à l’ouverture de",
+                "zh": "在……开幕时"
+              },
+              {
+                "fr": "être + participe passé（代词式动词）",
+                "zh": "代词式动词复合过去时用 être，分词与主语配合"
+              },
+              {
+                "fr": "les chefs d’État et de gouvernement",
+                "zh": "国家元首和政府首脑"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2122208593722368332",
+      "url": "https://x.com/Sciences_Avenir/status/2122208593722368332",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-16T06:02:12Z",
+      "excerpt": "A partir d’une certaine densité, les foules se mettent à avoir un mouvement spontanée. C’est ce qu’à démontré Denis Bartolo, physicien à l’ENS de Lyon, en étudiant les foules pendant la fête de Pampelune.",
+      "level": "B2",
+      "topic": "actualité",
+      "summaryZh": "物理学家研究潘普洛纳节人群发现：密度超过每平方米4人时，人群会自发周期性地做轨道式摆动，类似磁场中电子的运动。",
+      "summaryEn": "Physicist Denis Bartolo found that crowds above 4 people per square metre start oscillating in regular orbits, like electrons in a magnetic field.",
+      "vocab": [
+        {
+          "fr": "une foule",
+          "zh": "人群",
+          "en": "a crowd"
+        },
+        {
+          "fr": "la densité",
+          "zh": "密度",
+          "en": "density"
+        },
+        {
+          "fr": "osciller",
+          "zh": "摆动",
+          "en": "to oscillate"
+        },
+        {
+          "fr": "le frottement / la friction",
+          "zh": "摩擦",
+          "en": "friction"
+        },
+        {
+          "fr": "entasser",
+          "zh": "挤压，堆积",
+          "en": "to pack in"
+        },
+        {
+          "fr": "un piéton",
+          "zh": "行人",
+          "en": "a pedestrian"
+        }
+      ],
+      "question": {
+        "prompt": "Selon la vidéo, à partir de quelle densité une foule se met-elle à osciller ?",
+        "choices": [
+          "Plus de 10 personnes par mètre carré",
+          "Plus de 2 personnes par mètre carré",
+          "Plus de 4 personnes par mètre carré",
+          "Plus de 18 personnes par mètre carré"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "视频说 plus de 4 personnes par mètre carré，即每平方米超过4人。"
+      },
+      "explain": {
+        "styleZh": "科学媒体的视频配文：第一句陈述研究发现的规律，第二句介绍研究者和研究场景。原文有两处拼写错误。",
+        "sentences": [
+          {
+            "fr": "A partir d’une certaine densité, les foules se mettent à avoir un mouvement spontanée.",
+            "zh": "当密度达到一定程度时，人群就会开始出现自发的运动。",
+            "structureZh": "A partir de 表示“从……起”，这里是条件：一旦达到某个密度。主句 les foules se mettent à avoir … 用现在时陈述科学规律。se mettre à + 不定式 表示“开始做”。注意原文 spontanée 是笔误，修饰阳性名词 mouvement 应为 spontané；A 大写时省略了重音，规范写法是 À partir de。",
+            "points": [
+              {
+                "fr": "à partir de",
+                "zh": "从……起；达到……时"
+              },
+              {
+                "fr": "une certaine densité",
+                "zh": "一定的密度；certain 放在名词前表示“某种、一定的”"
+              },
+              {
+                "fr": "se mettre à + inf.",
+                "zh": "开始做某事"
+              },
+              {
+                "fr": "spontané",
+                "zh": "自发的（原文误写为阴性 spontanée）"
+              }
+            ]
+          },
+          {
+            "fr": "C’est ce qu’à démontré Denis Bartolo, physicien à l’ENS de Lyon, en étudiant les foules pendant la fête de Pampelune.",
+            "zh": "这是里昂高等师范学院的物理学家德尼·巴尔托洛在研究潘普洛纳节人群时证明的。",
+            "structureZh": "C’est ce que … 是强调结构，“这正是……所证明的”，ce que 作 démontrer 的宾语，主语 Denis Bartolo 倒装到动词后。原文 qu’à 是笔误，应为 qu’a（avoir 的变位，复合过去时 a démontré），à 是介词。physicien à l’ENS de Lyon 是同位语。en étudiant 是副动词，表示方式或时间：在研究时。",
+            "points": [
+              {
+                "fr": "c’est ce que + 主语倒装",
+                "zh": "这正是……所（做的）"
+              },
+              {
+                "fr": "démontrer qch",
+                "zh": "证明某事"
+              },
+              {
+                "fr": "en étudiant（en + participe présent）",
+                "zh": "副动词：在研究……的过程中"
+              },
+              {
+                "fr": "qu’a 与 qu’à",
+                "zh": "a 是动词 avoir，à 是介词；原文误写为 qu’à"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2122019619187642390",
+      "url": "https://x.com/tv5mondeinfo/status/2122019619187642390",
+      "author": "tv5mondeinfo",
+      "postedAt": "2026-11-15T17:31:17Z",
+      "excerpt": "Alors que Phnom Penh accueille le Sommet de la Francophonie, le français conserve une place à part au Cambodge. Dans les salles de classe, une nouvelle génération continue de l'apprendre et de le faire vivre.",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "金边举办法语国家峰会之际，柬埔寨年轻人以法语为荣；法语自1863年起存在于柬埔寨，如今说法语者仅占0.16%，但仍吸引学生。",
+      "summaryEn": "As Phnom Penh hosts the Francophonie summit, young Cambodians take pride in French; only 0.16% speak it today, but it still draws students.",
+      "vocab": [
+        {
+          "fr": "une fierté",
+          "zh": "骄傲",
+          "en": "a source of pride"
+        },
+        {
+          "fr": "promouvoir",
+          "zh": "推广",
+          "en": "to promote"
+        },
+        {
+          "fr": "une portée",
+          "zh": "意义，影响",
+          "en": "significance"
+        },
+        {
+          "fr": "le protectorat",
+          "zh": "保护国（时期）",
+          "en": "the protectorate"
+        },
+        {
+          "fr": "un recul",
+          "zh": "衰退",
+          "en": "a decline"
+        },
+        {
+          "fr": "une passerelle",
+          "zh": "桥梁",
+          "en": "a bridge, a link"
+        }
+      ],
+      "question": {
+        "prompt": "Selon la vidéo, quelle part des Cambodgiens serait aujourd'hui francophone ?",
+        "choices": [
+          "0,16 %",
+          "16 %",
+          "1,6 %",
+          "60 %"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "视频说 seuls 0,16 % des Cambodgiens seraient aujourd'hui francophones。"
+      },
+      "explain": {
+        "styleZh": "电视新闻视频配文：第一句交代背景（峰会）和主题，第二句聚焦课堂里的年轻人。",
+        "sentences": [
+          {
+            "fr": "Alors que Phnom Penh accueille le Sommet de la Francophonie, le français conserve une place à part au Cambodge.",
+            "zh": "在金边举办法语国家峰会之际，法语在柬埔寨仍保有特殊地位。",
+            "structureZh": "Alors que 引导时间从句，表示“正当……的时候”（也可表对比，这里是时间背景）。主句 le français conserve une place à part 用现在时。une place à part 意为“独特、特殊的位置”。",
+            "points": [
+              {
+                "fr": "alors que",
+                "zh": "正当……时；而（对比）"
+              },
+              {
+                "fr": "accueillir qch",
+                "zh": "举办，接待"
+              },
+              {
+                "fr": "conserver qch",
+                "zh": "保持，保留"
+              },
+              {
+                "fr": "une place à part",
+                "zh": "特殊的地位"
+              }
+            ]
+          },
+          {
+            "fr": "Dans les salles de classe, une nouvelle génération continue de l'apprendre et de le faire vivre.",
+            "zh": "在教室里，新一代人继续学习法语，并让它延续下去。",
+            "structureZh": "主语 une nouvelle génération，谓语 continue de 后接两个并列不定式 l'apprendre 和 le faire vivre。两处 l'/le 都是直接宾语代词，指前一句的 le français，代词放在不定式前。faire vivre 是使役结构“使……存活、延续”。",
+            "points": [
+              {
+                "fr": "continuer de + inf.",
+                "zh": "继续做某事"
+              },
+              {
+                "fr": "l'apprendre, le faire vivre（宾语代词）",
+                "zh": "这里指代 le français，放在不定式前"
+              },
+              {
+                "fr": "faire vivre qch",
+                "zh": "使某物延续、保持活力"
+              },
+              {
+                "fr": "une salle de classe",
+                "zh": "教室"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
