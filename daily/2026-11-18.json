@@ -1,0 +1,1247 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-18T12:41:24Z",
+  "items": [
+    {
+      "postId": "2122978249517006965",
+      "url": "https://x.com/CitImmCanFR/status/2122978249517006965",
+      "author": "CitImmCanFR",
+      "postedAt": "2026-11-18T09:00:32Z",
+      "excerpt": "Le saviez-vous? Le Canada compte de nombreuses communautés francophones dynamiques! Grâce à l’Initiative des communautés francophones accueillantes, 24 communautés francophones et acadiennes à l’extérieur du Québec offrent des services en français pour vous aider à vous établir et à réussir votre nouvelle vie au Canada.",
+      "level": "B1",
+      "topic": "immigration",
+      "summaryZh": "加拿大移民部介绍：通过“欢迎型法语社区计划”，魁北克以外的24个法语和阿卡迪亚社区提供法语服务，帮助新移民安顿下来。",
+      "summaryEn": "IRCC notes that, through the Welcoming Francophone Communities initiative, 24 French-speaking and Acadian communities outside Quebec offer services in French to help newcomers settle.",
+      "vocab": [
+        {
+          "fr": "une communauté francophone",
+          "zh": "法语社区",
+          "en": "a French-speaking community"
+        },
+        {
+          "fr": "accueillant",
+          "zh": "友好接纳的",
+          "en": "welcoming"
+        },
+        {
+          "fr": "acadien",
+          "zh": "阿卡迪亚的",
+          "en": "Acadian"
+        },
+        {
+          "fr": "s’établir",
+          "zh": "安顿，定居",
+          "en": "to settle"
+        },
+        {
+          "fr": "à l’extérieur de",
+          "zh": "在……之外",
+          "en": "outside of"
+        }
+      ],
+      "question": {
+        "prompt": "Combien de communautés francophones hors Québec participent à cette initiative ?",
+        "choices": [
+          "12",
+          "18",
+          "24",
+          "42"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文 24 communautés francophones et acadiennes à l’extérieur du Québec，所以是24个。"
+      },
+      "explain": {
+        "styleZh": "政府机构的宣传帖：先用 Le saviez-vous? 引起注意，再介绍一个具体项目和它能为新移民提供的帮助。",
+        "sentences": [
+          {
+            "fr": "Le saviez-vous? Le Canada compte de nombreuses communautés francophones dynamiques!",
+            "zh": "你知道吗？加拿大有许多充满活力的法语社区！",
+            "structureZh": "Le saviez-vous? 是固定的设问开头，le 是中性代词，指后面要说的事情，saviez 是 savoir 的未完成过去时，这里是礼貌的习惯说法。第二句主干 Le Canada compte de nombreuses communautés，compter 在这里不是“数数”，而是“拥有，包括”。de nombreuses 是 beaucoup de 的书面说法，形容词在复数名词前，des 变成 de。",
+            "points": [
+              {
+                "fr": "Le saviez-vous ?",
+                "zh": "你知道吗？（设问开头）"
+              },
+              {
+                "fr": "compter qch",
+                "zh": "拥有，包括（若干数量的东西）"
+              },
+              {
+                "fr": "de nombreux, de nombreuses + nom",
+                "zh": "许多的（书面语）"
+              },
+              {
+                "fr": "dynamique",
+                "zh": "有活力的"
+              }
+            ]
+          },
+          {
+            "fr": "Grâce à l’Initiative des communautés francophones accueillantes, 24 communautés francophones et acadiennes à l’extérieur du Québec offrent des services en français pour vous aider à vous établir et à réussir votre nouvelle vie au Canada.",
+            "zh": "得益于“欢迎型法语社区计划”，魁北克以外的24个法语和阿卡迪亚社区提供法语服务，帮助你在加拿大安顿下来，并成功开始新生活。",
+            "structureZh": "Grâce à … 引出原因，而且是正面的原因（坏的原因用 à cause de）。主干 24 communautés … offrent des services en français，现在时表示现有的服务。pour vous aider à … 表示目的，aider qn à + 不定式，后面并列两个不定式 vous établir 和 réussir。s’établir 是代词式动词，因为主语是 vous，所以写成 vous établir。",
+            "points": [
+              {
+                "fr": "grâce à qch",
+                "zh": "多亏，得益于（正面原因）"
+              },
+              {
+                "fr": "accueillant",
+                "zh": "热情接待的，友好的"
+              },
+              {
+                "fr": "acadien, acadienne",
+                "zh": "阿卡迪亚的（加拿大大西洋沿岸的法语族群）"
+              },
+              {
+                "fr": "aider qn à + inf.",
+                "zh": "帮助某人做某事"
+              },
+              {
+                "fr": "établir, s’établir",
+                "zh": "定居，安顿下来（主语为 vous 时写作 vous établir）"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2122351555215012147",
+      "url": "https://x.com/CitImmCanFR/status/2122351555215012147",
+      "author": "CitImmCanFR",
+      "postedAt": "2026-11-16T15:30:16Z",
+      "excerpt": "Le Programme pilote d’immigration dans les communautés rurales est maintenant un programme permanent. Il s’agit d’une étape importante visant à renforcer le système d’immigration économique du Canada et à soutenir sa main-d’œuvre nationale.",
+      "level": "B2",
+      "topic": "immigration",
+      "summaryZh": "加拿大农村社区移民试点项目转为永久项目，这是加强加拿大经济移民体系、支持本国劳动力的重要一步。",
+      "summaryEn": "Canada's Rural Community Immigration Pilot is now a permanent program, an important step to strengthen economic immigration and support the national workforce.",
+      "vocab": [
+        {
+          "fr": "un programme pilote",
+          "zh": "试点项目",
+          "en": "a pilot program"
+        },
+        {
+          "fr": "rural",
+          "zh": "农村的",
+          "en": "rural"
+        },
+        {
+          "fr": "permanent",
+          "zh": "永久的",
+          "en": "permanent"
+        },
+        {
+          "fr": "une étape",
+          "zh": "步骤，阶段",
+          "en": "a step"
+        },
+        {
+          "fr": "la main-d’œuvre",
+          "zh": "劳动力",
+          "en": "the workforce"
+        }
+      ],
+      "question": {
+        "prompt": "Quel changement le post annonce-t-il ?",
+        "choices": [
+          "Le programme est supprimé",
+          "Le programme devient permanent",
+          "Le programme est réservé aux grandes villes",
+          "Le programme est suspendu un an"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文 est maintenant un programme permanent，即项目已成为永久项目。"
+      },
+      "explain": {
+        "styleZh": "政府公告：第一句宣布决定，第二句用 Il s’agit de 说明这一决定的意义。",
+        "sentences": [
+          {
+            "fr": "Le Programme pilote d’immigration dans les communautés rurales est maintenant un programme permanent.",
+            "zh": "“农村社区移民试点项目”现在已成为永久项目。",
+            "structureZh": "主干 Le Programme pilote … est … un programme permanent，用 être 的现在时宣布当前状态。maintenant 强调“从现在起”发生了变化。pilote 在这里作形容词用，放在名词后，意思是“试点的”。",
+            "points": [
+              {
+                "fr": "un programme pilote",
+                "zh": "试点项目"
+              },
+              {
+                "fr": "rural, rurale, ruraux",
+                "zh": "农村的"
+              },
+              {
+                "fr": "permanent",
+                "zh": "永久的，长期的"
+              }
+            ]
+          },
+          {
+            "fr": "Il s’agit d’une étape importante visant à renforcer le système d’immigration économique du Canada et à soutenir sa main-d’œuvre nationale.",
+            "zh": "这是一个重要的步骤，旨在加强加拿大的经济移民体系，并支持其本国劳动力。",
+            "structureZh": "Il s’agit de + 名词 是无人称结构，意思是“这是……，涉及的是……”，主语 il 不指代任何东西。visant 是 viser 的现在分词，相当于 qui vise，修饰 une étape。viser à + 不定式 表示“旨在”，后面用 et 并列两个不定式 renforcer 和 soutenir。sa 指加拿大的。",
+            "points": [
+              {
+                "fr": "il s’agit de qch",
+                "zh": "这是……，涉及的是……（无人称结构）"
+              },
+              {
+                "fr": "viser à + inf.",
+                "zh": "旨在做某事"
+              },
+              {
+                "fr": "renforcer qch",
+                "zh": "加强"
+              },
+              {
+                "fr": "la main-d’œuvre",
+                "zh": "劳动力"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2122359621167821110",
+      "url": "https://x.com/UNESCO_fr/status/2122359621167821110",
+      "author": "UNESCO_fr",
+      "postedAt": "2026-11-16T16:02:19Z",
+      "excerpt": "Selon un nouveau rapport de l’UNESCO et de l’UCL présenté lors de la COP31 à Antalya (Türkiye), les modèles d’IA répondent correctement à 90 % des questions relatives au climat, mais abandonnent rapidement les faits scientifiques établis lorsque les utilisateurs les remettent en question. Leurs performances varient aussi considérablement d’une langue à l’autre, dans la mesure où elles dépendent des données d’entraînement disponibles dans chaque langue.",
+      "level": "B2",
+      "topic": "actualité",
+      "summaryZh": "教科文组织和伦敦大学学院的报告称，AI模型能答对90%的气候问题，但用户一质疑就放弃科学事实；表现还因语言而异，取决于训练数据。",
+      "summaryEn": "A UNESCO and UCL report says AI models answer 90% of climate questions correctly but quickly drop established facts when users push back; performance also varies by language.",
+      "vocab": [
+        {
+          "fr": "un rapport",
+          "zh": "报告",
+          "en": "a report"
+        },
+        {
+          "fr": "remettre en question",
+          "zh": "质疑",
+          "en": "to question"
+        },
+        {
+          "fr": "un fait établi",
+          "zh": "已确立的事实",
+          "en": "an established fact"
+        },
+        {
+          "fr": "dans la mesure où",
+          "zh": "因为，鉴于",
+          "en": "insofar as"
+        },
+        {
+          "fr": "les données d’entraînement",
+          "zh": "训练数据",
+          "en": "training data"
+        }
+      ],
+      "question": {
+        "prompt": "Selon le rapport, que font les modèles d’IA quand les utilisateurs les contredisent ?",
+        "choices": [
+          "Ils citent davantage de sources",
+          "Ils refusent de répondre",
+          "Ils corrigent les utilisateurs",
+          "Ils abandonnent vite les faits établis"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "原文 abandonnent rapidement les faits scientifiques établis，即很快放弃已确立的事实。"
+      },
+      "explain": {
+        "styleZh": "国际组织发布研究报告的帖子：第一句用 Selon 引出报告来源和主要发现，第二句补充另一个发现及其原因。",
+        "sentences": [
+          {
+            "fr": "Selon un nouveau rapport de l’UNESCO et de l’UCL présenté lors de la COP31 à Antalya (Türkiye), les modèles d’IA répondent correctement à 90 % des questions relatives au climat, mais abandonnent rapidement les faits scientifiques établis lorsque les utilisateurs les remettent en question.",
+            "zh": "根据联合国教科文组织和伦敦大学学院在土耳其安塔利亚第31届气候大会上发布的一份新报告，人工智能模型能正确回答90%的气候问题，但当用户提出质疑时，它们很快就会放弃已确立的科学事实。",
+            "structureZh": "Selon … 引出信息来源。présenté 是过去分词，修饰 rapport，相当于 qui a été présenté。主干 les modèles d’IA répondent … mais abandonnent …，两个现在时动词用 mais 连接，形成对比。lorsque 引导时间从句。les remettent 中的 les 指 les faits scientifiques。relatives 配合 questions（阴性复数）。",
+            "points": [
+              {
+                "fr": "selon qch",
+                "zh": "根据……"
+              },
+              {
+                "fr": "relatif à qch",
+                "zh": "与……有关的"
+              },
+              {
+                "fr": "abandonner qch",
+                "zh": "放弃"
+              },
+              {
+                "fr": "remettre qch en question",
+                "zh": "对……提出质疑"
+              },
+              {
+                "fr": "lorsque",
+                "zh": "当……的时候"
+              }
+            ]
+          },
+          {
+            "fr": "Leurs performances varient aussi considérablement d’une langue à l’autre, dans la mesure où elles dépendent des données d’entraînement disponibles dans chaque langue.",
+            "zh": "它们的表现在不同语言之间也有很大差异，因为这取决于每种语言可用的训练数据。",
+            "structureZh": "主干 Leurs performances varient，leurs 指 AI 模型。d’une langue à l’autre 意思是“随语言而不同”。dans la mesure où 引导原因或程度从句，意思是“因为，就……而言”，后面用直陈式。elles 指 performances。dépendre de + 名词，de + les 缩合成 des。",
+            "points": [
+              {
+                "fr": "varier d’un … à l’autre",
+                "zh": "因……而异"
+              },
+              {
+                "fr": "considérablement",
+                "zh": "相当大地，显著地"
+              },
+              {
+                "fr": "dans la mesure où",
+                "zh": "因为，鉴于（后接直陈式）"
+              },
+              {
+                "fr": "dépendre de qch",
+                "zh": "取决于"
+              },
+              {
+                "fr": "les données d’entraînement",
+                "zh": "训练数据"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2122344238687859197",
+      "url": "https://x.com/StatCan_fra/status/2122344238687859197",
+      "author": "StatCan_fra",
+      "postedAt": "2026-11-16T15:01:12Z",
+      "excerpt": "L'Indice des prix à la consommation (IPC) a augmenté de 3,1 % d'une année à l'autre en octobre 2026. Il s'agit d'une hausse identique à celle enregistrée en septembre (+3,1 %).",
+      "level": "B1",
+      "topic": "actualité",
+      "summaryZh": "加拿大统计局：2026年10月消费者价格指数同比上涨3.1%，与9月涨幅相同。",
+      "summaryEn": "Statistics Canada: the Consumer Price Index rose 3.1% year over year in October 2026, the same increase as in September.",
+      "vocab": [
+        {
+          "fr": "l’indice des prix à la consommation",
+          "zh": "消费者价格指数",
+          "en": "consumer price index"
+        },
+        {
+          "fr": "une hausse",
+          "zh": "上涨",
+          "en": "an increase"
+        },
+        {
+          "fr": "d’une année à l’autre",
+          "zh": "同比",
+          "en": "year over year"
+        },
+        {
+          "fr": "enregistrer",
+          "zh": "记录",
+          "en": "to record"
+        }
+      ],
+      "question": {
+        "prompt": "Comment l’inflation d’octobre se compare-t-elle à celle de septembre ?",
+        "choices": [
+          "Elle est plus forte",
+          "Elle est plus faible",
+          "Elle est négative",
+          "Elle est identique"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "原文 une hausse identique à celle enregistrée en septembre，即与9月相同。"
+      },
+      "explain": {
+        "styleZh": "统计机构的数据快讯：第一句给出最新数据，第二句和上个月做比较。",
+        "sentences": [
+          {
+            "fr": "L'Indice des prix à la consommation (IPC) a augmenté de 3,1 % d'une année à l'autre en octobre 2026.",
+            "zh": "2026年10月，消费者价格指数（IPC）同比上涨3.1%。",
+            "structureZh": "主干 L'Indice … a augmenté de 3,1 %，复合过去时表示已经统计出来的变化。augmenter de + 数字 表示“增加了多少”，介词 de 引出幅度。d'une année à l'autre 就是“同比，与上一年同期相比”。法语用逗号表示小数点，3,1 % 读作 trois virgule un pour cent。",
+            "points": [
+              {
+                "fr": "l’indice des prix à la consommation",
+                "zh": "消费者价格指数（CPI）"
+              },
+              {
+                "fr": "augmenter de + chiffre",
+                "zh": "上涨了……（幅度）"
+              },
+              {
+                "fr": "d’une année à l’autre",
+                "zh": "同比，与上年相比"
+              }
+            ]
+          },
+          {
+            "fr": "Il s'agit d'une hausse identique à celle enregistrée en septembre (+3,1 %).",
+            "zh": "这一涨幅与9月份记录的涨幅相同（+3.1%）。",
+            "structureZh": "Il s'agit de 是无人称结构，“这是……”。celle 是指示代词，代替 une hausse，避免重复。enregistrée 是过去分词，阴性单数，配合 celle（即 la hausse），相当于 qui a été enregistrée。identique à 表示“与……相同”。",
+            "points": [
+              {
+                "fr": "il s'agit de qch",
+                "zh": "这是……（无人称结构）"
+              },
+              {
+                "fr": "une hausse",
+                "zh": "上涨"
+              },
+              {
+                "fr": "identique à qch",
+                "zh": "与……相同"
+              },
+              {
+                "fr": "celle + participe passé",
+                "zh": "……的那个（指示代词代替前面的名词）"
+              },
+              {
+                "fr": "enregistrer qch",
+                "zh": "记录"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2122379266637873631",
+      "url": "https://x.com/ONU_fr/status/2122379266637873631",
+      "author": "ONU_fr",
+      "postedAt": "2026-11-16T17:20:23Z",
+      "excerpt": "Lundi, c’est la toute première Journée internationale du régime méditerranéen ! Bien plus qu’une alimentation, c’est un mode de vie façonné par des siècles de traditions & d’échanges culturels, bénéfique pour la santé, la planète & les communautés locales.",
+      "level": "B1",
+      "topic": "santé",
+      "summaryZh": "联合国介绍首个国际地中海饮食日：它不只是一种饮食，而是由数百年传统和文化交流塑造的生活方式，有益于健康、地球和当地社区。",
+      "summaryEn": "The UN marks the first International Day of the Mediterranean Diet: more than food, it is a way of life shaped by centuries of tradition, good for health, the planet and local communities.",
+      "vocab": [
+        {
+          "fr": "le régime méditerranéen",
+          "zh": "地中海饮食",
+          "en": "the Mediterranean diet"
+        },
+        {
+          "fr": "un mode de vie",
+          "zh": "生活方式",
+          "en": "a way of life"
+        },
+        {
+          "fr": "façonner",
+          "zh": "塑造",
+          "en": "to shape"
+        },
+        {
+          "fr": "bénéfique",
+          "zh": "有益的",
+          "en": "beneficial"
+        },
+        {
+          "fr": "un échange culturel",
+          "zh": "文化交流",
+          "en": "a cultural exchange"
+        }
+      ],
+      "question": {
+        "prompt": "Selon le post, le régime méditerranéen est surtout…",
+        "choices": [
+          "un mode de vie",
+          "un traitement médical",
+          "une mode récente",
+          "un régime pour maigrir"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文 Bien plus qu’une alimentation, c’est un mode de vie，即一种生活方式。"
+      },
+      "explain": {
+        "styleZh": "国际纪念日的宣传帖：第一句宣布纪念日，第二句用 Bien plus qu’… 解释它的意义。",
+        "sentences": [
+          {
+            "fr": "Lundi, c’est la toute première Journée internationale du régime méditerranéen !",
+            "zh": "周一是首个“国际地中海饮食日”！",
+            "structureZh": "Lundi 放在句首，表示时间“在周一”，不用介词。c’est … 是强调和介绍的结构。toute 在 première 前起强调作用，toute première 意思是“第一个，史上首个”，这里 toute 是副词，但在辅音开头的阴性形容词前要配合成 toute。régime 在这里不是“政权”，而是“饮食方式”。",
+            "points": [
+              {
+                "fr": "la toute première + nom",
+                "zh": "史上第一个……（强调）"
+              },
+              {
+                "fr": "une journée internationale",
+                "zh": "国际日"
+              },
+              {
+                "fr": "le régime méditerranéen",
+                "zh": "地中海饮食"
+              }
+            ]
+          },
+          {
+            "fr": "Bien plus qu’une alimentation, c’est un mode de vie façonné par des siècles de traditions & d’échanges culturels, bénéfique pour la santé, la planète & les communautés locales.",
+            "zh": "它远不只是一种饮食，而是一种由数百年传统和文化交流塑造的生活方式，对健康、地球和当地社区都有益。",
+            "structureZh": "Bien plus qu’une alimentation 是省略的比较结构，相当于 C’est bien plus qu’une alimentation，bien 加强 plus。主干 c’est un mode de vie。façonné 是过去分词，表被动，par 引出施动者“被……塑造”。bénéfique pour … 是形容词短语，也修饰 un mode de vie。& 相当于 et。",
+            "points": [
+              {
+                "fr": "bien plus que qch",
+                "zh": "远远不只是……"
+              },
+              {
+                "fr": "un mode de vie",
+                "zh": "生活方式"
+              },
+              {
+                "fr": "façonner qch",
+                "zh": "塑造，造就"
+              },
+              {
+                "fr": "bénéfique pour qch",
+                "zh": "对……有益"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2122971747213303894",
+      "url": "https://x.com/Sciences_Avenir/status/2122971747213303894",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-18T08:34:42Z",
+      "excerpt": "Avec leur petit goût iodé, les macroalgues vertes telles que la laitue de mer, rouges comme la dulse, reconnaissable à ses extrémités palmées, ou brunes (wakamé, kombu) sont de véritables trésors nutritionnels.",
+      "level": "B2",
+      "topic": "santé",
+      "summaryZh": "《科学与未来》介绍：绿色、红色和褐色的大型海藻（如石莼、红皮藻、裙带菜、海带）带有碘味，是真正的营养宝库。",
+      "summaryEn": "Sciences et Avenir: green, red and brown seaweeds such as sea lettuce, dulse, wakame and kombu, with their iodine taste, are real nutritional treasures.",
+      "vocab": [
+        {
+          "fr": "une algue",
+          "zh": "藻类，海藻",
+          "en": "seaweed, alga"
+        },
+        {
+          "fr": "iodé",
+          "zh": "有碘味的",
+          "en": "iodine-flavoured"
+        },
+        {
+          "fr": "la laitue de mer",
+          "zh": "石莼",
+          "en": "sea lettuce"
+        },
+        {
+          "fr": "reconnaissable",
+          "zh": "可辨认的",
+          "en": "recognizable"
+        },
+        {
+          "fr": "nutritionnel",
+          "zh": "营养的",
+          "en": "nutritional"
+        }
+      ],
+      "question": {
+        "prompt": "Comment le post décrit-il les macroalgues ?",
+        "choices": [
+          "Comme un danger pour la santé",
+          "Comme de véritables trésors nutritionnels",
+          "Comme des plantes d’eau douce",
+          "Comme un aliment sans goût"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文 sont de véritables trésors nutritionnels，即真正的营养宝库。"
+      },
+      "explain": {
+        "styleZh": "科普杂志的导读：一个长句，用颜色分类列举海藻，最后给出结论。",
+        "sentences": [
+          {
+            "fr": "Avec leur petit goût iodé, les macroalgues vertes telles que la laitue de mer, rouges comme la dulse, reconnaissable à ses extrémités palmées, ou brunes (wakamé, kombu) sont de véritables trésors nutritionnels.",
+            "zh": "绿色的海藻如石莼，红色的如掌状红皮藻（尖端呈掌状，很好辨认），还有褐色的（裙带菜、海带），它们带着淡淡的碘味，都是真正的营养宝库。",
+            "structureZh": "句首 Avec leur petit goût iodé 是伴随状语，“带着……”。主干是 les macroalgues … sont de véritables trésors，中间插入很长的列举：vertes / rouges / ou brunes 三种颜色，用 telles que 和 comme 举例。reconnaissable à … 修饰 la dulse，“可以凭……认出”。véritables 放在复数名词前，所以 des 变成 de。",
+            "points": [
+              {
+                "fr": "tel que, telle que + nom",
+                "zh": "例如，像……（列举）"
+              },
+              {
+                "fr": "iodé",
+                "zh": "含碘的，有海水味的"
+              },
+              {
+                "fr": "reconnaissable à qch",
+                "zh": "凭……可以认出"
+              },
+              {
+                "fr": "une algue, une macroalgue",
+                "zh": "藻类，大型海藻"
+              },
+              {
+                "fr": "un véritable trésor",
+                "zh": "真正的宝藏"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2123008342700282042",
+      "url": "https://x.com/MinistereCC/status/2123008342700282042",
+      "author": "MinistereCC",
+      "postedAt": "2026-11-18T11:00:07Z",
+      "excerpt": "La 10e édition du Week-end des Frac (WEFRAC) aura lieu les 21 et 22 novembre 2026 ! Les 22 Fonds régionaux d’art contemporain (Frac) ouvriront leurs portes pour une programmation festive et gratuite",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "法国文化部推荐：第十届Frac周末将于11月21日至22日举行，全国22家地区当代艺术基金会开放大门，推出免费的节庆活动。",
+      "summaryEn": "French Culture Ministry: the 10th Frac Weekend takes place on 21 and 22 November 2026, when 22 regional contemporary art funds open their doors with a free, festive programme.",
+      "vocab": [
+        {
+          "fr": "avoir lieu",
+          "zh": "举行",
+          "en": "to take place"
+        },
+        {
+          "fr": "une édition",
+          "zh": "（活动）一届",
+          "en": "an edition"
+        },
+        {
+          "fr": "ouvrir ses portes",
+          "zh": "对外开放",
+          "en": "to open its doors"
+        },
+        {
+          "fr": "gratuit",
+          "zh": "免费的",
+          "en": "free"
+        },
+        {
+          "fr": "l’art contemporain",
+          "zh": "当代艺术",
+          "en": "contemporary art"
+        }
+      ],
+      "question": {
+        "prompt": "Combien coûte la programmation du Week-end des Frac ?",
+        "choices": [
+          "10 euros",
+          "22 euros",
+          "Le prix varie selon la région",
+          "Elle est gratuite"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "原文 une programmation festive et gratuite，gratuite 意为免费。"
+      },
+      "explain": {
+        "styleZh": "文化部的出行推荐：第一句告知活动名称和日期，第二句说明参与机构和活动形式。",
+        "sentences": [
+          {
+            "fr": "La 10e édition du Week-end des Frac (WEFRAC) aura lieu les 21 et 22 novembre 2026 !",
+            "zh": "第十届“Frac周末”（WEFRAC）将于2026年11月21日和22日举行！",
+            "structureZh": "主干 La 10e édition … aura lieu，aura 是 avoir 的简单将来时，avoir lieu 表示“举行，发生”，将来时说明是即将到来的活动。日期前用定冠词 les：les 21 et 22 novembre。10e 读作 dixième。",
+            "points": [
+              {
+                "fr": "avoir lieu",
+                "zh": "举行，发生"
+              },
+              {
+                "fr": "une édition",
+                "zh": "（活动的）一届"
+              },
+              {
+                "fr": "le + date",
+                "zh": "在某日（日期前用定冠词）"
+              }
+            ]
+          },
+          {
+            "fr": "Les 22 Fonds régionaux d’art contemporain (Frac) ouvriront leurs portes pour une programmation festive et gratuite",
+            "zh": "22家地区当代艺术基金会（Frac）将开放大门，推出喜庆且免费的活动安排。",
+            "structureZh": "主干 Les 22 Fonds … ouvriront leurs portes，ouvriront 是 ouvrir 的简单将来时。ouvrir ses portes 字面是“打开大门”，指机构对公众开放。pour 引出目的。festive 和 gratuite 是阴性形容词，配合 programmation。注意原文这一句末尾没有句号。",
+            "points": [
+              {
+                "fr": "ouvrir ses portes",
+                "zh": "（机构）对公众开放"
+              },
+              {
+                "fr": "une programmation",
+                "zh": "节目安排，活动安排"
+              },
+              {
+                "fr": "festif, festive",
+                "zh": "节日的，喜庆的"
+              },
+              {
+                "fr": "gratuit, gratuite",
+                "zh": "免费的"
+              },
+              {
+                "fr": "l’art contemporain",
+                "zh": "当代艺术"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2123009572894109822",
+      "url": "https://x.com/ONU_fr/status/2123009572894109822",
+      "author": "ONU_fr",
+      "postedAt": "2026-11-18T11:05:00Z",
+      "excerpt": "Les antibiotiques sont de moins en moins efficaces contre les infections courantes en raison de leur utilisation excessive et inappropriée. Demandez toujours conseil à un professionnel de santé qualifié avant d'en prendre.",
+      "level": "B1",
+      "topic": "santé",
+      "summaryZh": "联合国提醒：由于过度和不当使用，抗生素对常见感染越来越无效；服用前务必咨询合格的医疗专业人员。",
+      "summaryEn": "The UN warns that antibiotics are less and less effective against common infections because of overuse and misuse; always ask a qualified health professional before taking them.",
+      "vocab": [
+        {
+          "fr": "un antibiotique",
+          "zh": "抗生素",
+          "en": "an antibiotic"
+        },
+        {
+          "fr": "efficace",
+          "zh": "有效的",
+          "en": "effective"
+        },
+        {
+          "fr": "en raison de",
+          "zh": "由于",
+          "en": "because of"
+        },
+        {
+          "fr": "inapproprié",
+          "zh": "不当的",
+          "en": "inappropriate"
+        },
+        {
+          "fr": "demander conseil",
+          "zh": "咨询",
+          "en": "to seek advice"
+        }
+      ],
+      "question": {
+        "prompt": "Pourquoi les antibiotiques deviennent-ils moins efficaces ?",
+        "choices": [
+          "À cause d’une utilisation excessive et inappropriée",
+          "À cause de leur prix trop élevé",
+          "Parce qu’ils sont trop récents",
+          "Parce qu’on en fabrique moins"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文 en raison de leur utilisation excessive et inappropriée，即过度和不当使用。"
+      },
+      "explain": {
+        "styleZh": "健康科普帖：第一句说明问题和原因，第二句用命令式给出建议。",
+        "sentences": [
+          {
+            "fr": "Les antibiotiques sont de moins en moins efficaces contre les infections courantes en raison de leur utilisation excessive et inappropriée.",
+            "zh": "由于过度和不当使用，抗生素对常见感染的效果越来越差。",
+            "structureZh": "主干 Les antibiotiques sont … efficaces，现在时描述当前状况。de moins en moins 表示“越来越不”，反义是 de plus en plus。en raison de + 名词 引出原因，比 à cause de 更书面。leur 指抗生素。excessive 和 inappropriée 都是阴性，配合 utilisation。",
+            "points": [
+              {
+                "fr": "de moins en moins + adj.",
+                "zh": "越来越不……"
+              },
+              {
+                "fr": "efficace contre qch",
+                "zh": "对……有效"
+              },
+              {
+                "fr": "en raison de qch",
+                "zh": "由于（书面语）"
+              },
+              {
+                "fr": "une infection courante",
+                "zh": "常见感染"
+              }
+            ]
+          },
+          {
+            "fr": "Demandez toujours conseil à un professionnel de santé qualifié avant d'en prendre.",
+            "zh": "服用前务必先咨询合格的医疗专业人员。",
+            "structureZh": "Demandez 是命令式（vous 形式），用来提出建议。demander conseil à qn 表示“向某人咨询”。avant de + 不定式 表示“在做……之前”，主语和主句相同。en 是代词，代替 des antibiotiques，所以 en prendre 意思是“服用抗生素”。",
+            "points": [
+              {
+                "fr": "demander conseil à qn",
+                "zh": "向某人征求意见"
+              },
+              {
+                "fr": "avant de + inf.",
+                "zh": "在做某事之前"
+              },
+              {
+                "fr": "en prendre（代词 en）",
+                "zh": "en 代替 des antibiotiques，意为“服用（抗生素）”"
+              },
+              {
+                "fr": "qualifié",
+                "zh": "合格的，有资质的"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2122976881053945976",
+      "url": "https://x.com/franceinfo/status/2122976881053945976",
+      "author": "franceinfo",
+      "postedAt": "2026-11-18T08:55:06Z",
+      "excerpt": "\"Ça dépasse le cadre de jeu vidéo le plus attendu, [c'est] le produit culturel le plus attendu de l'histoire\", estime le youtubeur Julien Chièze, à quelques heures de la sortie de GTA VI, qui compte \"quasiment 20 millions de précommandes\".",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "GTA VI发售前夕，油管博主朱利安·谢兹称它是史上最受期待的文化产品：开发至少八年，全球数千人参与，互动性让玩家与角色融为一体。",
+      "summaryEn": "Before GTA VI's release, YouTuber Julien Chièze calls it the most anticipated cultural product ever: eight years of work by thousands of people, and interaction that puts players in the story.",
+      "vocab": [
+        {
+          "fr": "dépasser le cadre de",
+          "zh": "超出……的范畴",
+          "en": "to go beyond"
+        },
+        {
+          "fr": "une précommande",
+          "zh": "预订",
+          "en": "a pre-order"
+        },
+        {
+          "fr": "le summum",
+          "zh": "巅峰，顶点",
+          "en": "the pinnacle"
+        },
+        {
+          "fr": "faire corps avec",
+          "zh": "与……融为一体",
+          "en": "to become one with"
+        },
+        {
+          "fr": "la manette",
+          "zh": "游戏手柄",
+          "en": "the controller"
+        }
+      ],
+      "question": {
+        "prompt": "Selon Julien Chièze, quel est l’élément distinctif du jeu vidéo ?",
+        "choices": [
+          "Le prix",
+          "Les graphismes",
+          "La musique",
+          "L’interaction"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "视频中说 l'élément distinctif du jeu vidéo, à savoir l'interaction，即互动。"
+      },
+      "explain": {
+        "styleZh": "新闻台视频配文：先放受访者的直接引语，再用倒装的 estime 引出说话人，最后补充数据。",
+        "sentences": [
+          {
+            "fr": "\"Ça dépasse le cadre de jeu vidéo le plus attendu, [c'est] le produit culturel le plus attendu de l'histoire\", estime le youtubeur Julien Chièze, à quelques heures de la sortie de GTA VI, qui compte \"quasiment 20 millions de précommandes\".",
+            "zh": "“这已经超出了最受期待的电子游戏的范畴，它是史上最受期待的文化产品。”在GTA VI发售前几个小时，油管博主朱利安·谢兹如此评价。这款游戏已有“将近2000万份预订”。",
+            "structureZh": "引语在前，主句 estime le youtubeur … 放在后面，主谓倒装，这是新闻中引述的常见写法。方括号 [c'est] 是编辑补上的词，口语里省略了。le plus attendu 是最高级。à quelques heures de 表示“距离……只有几个小时”。qui compte 的 qui 指 GTA VI。",
+            "points": [
+              {
+                "fr": "dépasser le cadre de qch",
+                "zh": "超出……的范畴"
+              },
+              {
+                "fr": "le plus attendu",
+                "zh": "最受期待的（最高级）"
+              },
+              {
+                "fr": "estimer que / 引语 + estime qn",
+                "zh": "认为；引语后主谓倒装"
+              },
+              {
+                "fr": "à quelques heures de qch",
+                "zh": "距离……还有几个小时"
+              },
+              {
+                "fr": "une précommande",
+                "zh": "预订"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2122983147457348019",
+      "url": "https://x.com/franceinfo/status/2122983147457348019",
+      "author": "franceinfo",
+      "postedAt": "2026-11-18T09:20:00Z",
+      "excerpt": "Salut c’est Sarah, ça dit quoi ? Le paiement fractionné en trois ou quatre fois sans frais sera considéré comme un prêt à la consommation à partir de ce vendredi 20 novembre. Il pourra rester sans frais mais sera accordé sous conditions de solvabilité. La mesure est prise pour lutter contre le surendettement, notamment chez les plus jeunes.",
+      "level": "B1",
+      "topic": "actualité",
+      "summaryZh": "从11月20日起，法国免手续费的分期付款将被视为消费贷款，需审核偿付能力，以防止过度负债，尤其是年轻人。30岁以下人群的过度负债案件一年增加了36%。",
+      "summaryEn": "From November 20 in France, interest-free split payments count as consumer loans subject to credit checks, to fight over-indebtedness, especially among the young, whose cases rose 36%.",
+      "vocab": [
+        {
+          "fr": "le paiement fractionné",
+          "zh": "分期付款",
+          "en": "split payment"
+        },
+        {
+          "fr": "sans frais",
+          "zh": "免手续费",
+          "en": "free of charge"
+        },
+        {
+          "fr": "la solvabilité",
+          "zh": "偿付能力",
+          "en": "creditworthiness"
+        },
+        {
+          "fr": "le surendettement",
+          "zh": "过度负债",
+          "en": "over-indebtedness"
+        },
+        {
+          "fr": "rendre l’âme",
+          "zh": "（东西）坏掉，报废",
+          "en": "to give up the ghost"
+        },
+        {
+          "fr": "l’engrenage",
+          "zh": "恶性循环",
+          "en": "spiral"
+        }
+      ],
+      "question": {
+        "prompt": "Quelle condition est désormais imposée pour payer en plusieurs fois ?",
+        "choices": [
+          "Avoir plus de 30 ans",
+          "Payer des frais fixes",
+          "Avoir une bonne solvabilité",
+          "Acheter en magasin seulement"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文 sera accordé sous conditions de solvabilité，即需要审核偿付能力。"
+      },
+      "explain": {
+        "styleZh": "电视台短视频配文：先用口语打招呼，再用简单将来时宣布新规定，最后说明目的。",
+        "sentences": [
+          {
+            "fr": "Salut c’est Sarah, ça dit quoi ?",
+            "zh": "嗨，我是萨拉，最近怎么样？",
+            "structureZh": "这是很口语的开场白。c’est Sarah 用 c’est 介绍自己。ça dit quoi ? 是年轻人的俚语，相当于 ça va ? 或 quoi de neuf ?，正式场合不用。注意原文 Salut 后面没有逗号，是口语写法。",
+            "points": [
+              {
+                "fr": "ça dit quoi ?",
+                "zh": "（俚语）最近怎么样？有什么新鲜事？"
+              },
+              {
+                "fr": "salut",
+                "zh": "嗨，你好（熟人之间）"
+              }
+            ]
+          },
+          {
+            "fr": "Le paiement fractionné en trois ou quatre fois sans frais sera considéré comme un prêt à la consommation à partir de ce vendredi 20 novembre.",
+            "zh": "从11月20日这个周五起，免手续费的三期或四期分期付款将被视为消费贷款。",
+            "structureZh": "主干 Le paiement fractionné … sera considéré comme un prêt，sera considéré 是被动语态的简单将来时（être 的将来时 + 过去分词），表示即将生效的规定。considérer qch comme qch 意为“把……视为……”。à partir de 表示“从……起”。",
+            "points": [
+              {
+                "fr": "le paiement fractionné",
+                "zh": "分期付款"
+              },
+              {
+                "fr": "sans frais",
+                "zh": "免手续费"
+              },
+              {
+                "fr": "être considéré comme qch",
+                "zh": "被视为……（被动）"
+              },
+              {
+                "fr": "un prêt à la consommation",
+                "zh": "消费贷款"
+              },
+              {
+                "fr": "à partir de + date",
+                "zh": "从某日起"
+              }
+            ]
+          },
+          {
+            "fr": "Il pourra rester sans frais mais sera accordé sous conditions de solvabilité.",
+            "zh": "它仍可以免手续费，但要符合偿付能力条件才会被批准。",
+            "structureZh": "Il 指上一句的 le paiement fractionné。pourra 是 pouvoir 的简单将来时。mais 后面省略了主语 il，sera accordé 也是被动将来时。sous conditions de 意为“在……条件下”。solvabilité 是金融词，“偿付能力”。",
+            "points": [
+              {
+                "fr": "rester + adj.",
+                "zh": "保持……状态"
+              },
+              {
+                "fr": "accorder qch",
+                "zh": "批准，给予"
+              },
+              {
+                "fr": "sous conditions de qch",
+                "zh": "以……为条件"
+              },
+              {
+                "fr": "la solvabilité",
+                "zh": "偿付能力"
+              }
+            ]
+          },
+          {
+            "fr": "La mesure est prise pour lutter contre le surendettement, notamment chez les plus jeunes.",
+            "zh": "这项措施是为了防止过度负债，尤其是在最年轻的人群中。",
+            "structureZh": "主干 La mesure est prise，是被动语态的现在时，prendre une mesure 意为“采取措施”。pour + 不定式 表示目的。lutter contre qch 意为“与……作斗争，防止”。notamment 表示“尤其”。chez les plus jeunes 中 chez 表示“在……人群中”。",
+            "points": [
+              {
+                "fr": "prendre une mesure",
+                "zh": "采取措施"
+              },
+              {
+                "fr": "lutter contre qch",
+                "zh": "与……作斗争，防止"
+              },
+              {
+                "fr": "le surendettement",
+                "zh": "过度负债"
+              },
+              {
+                "fr": "notamment",
+                "zh": "尤其，特别是"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2122721738903392689",
+      "url": "https://x.com/LeTemps/status/2122721738903392689",
+      "author": "LeTemps",
+      "postedAt": "2026-11-17T16:01:15Z",
+      "excerpt": "Pour quelques dollars de l’heure, des travailleurs en Inde enregistrent leurs moindres gestes professionnels afin d’entraîner les futurs robots humanoïdes. Cette collecte massive de données permet aux géants occidentaux de la tech de développer l’automatisation à moindre coût, soulevant la question de travailleurs payés pour scier la branche sur laquelle ils sont assis",
+      "level": "C1",
+      "topic": "travail",
+      "summaryZh": "印度工人以每小时约2美元的报酬，头戴摄像头拍下工作动作，为美国企业训练人形机器人；西方公司借此低成本获取数据，而这些工人可能在为取代自己的机器出力。",
+      "summaryEn": "Indian workers earn about 2 dollars an hour filming their work gestures with head cameras to train humanoid robots for US firms, which get cheap data; the workers may be training their replacements.",
+      "vocab": [
+        {
+          "fr": "un geste",
+          "zh": "动作，手势",
+          "en": "a gesture, a movement"
+        },
+        {
+          "fr": "entraîner",
+          "zh": "训练",
+          "en": "to train"
+        },
+        {
+          "fr": "à moindre coût",
+          "zh": "以较低成本",
+          "en": "at lower cost"
+        },
+        {
+          "fr": "la rémunération",
+          "zh": "报酬",
+          "en": "pay"
+        },
+        {
+          "fr": "un commanditaire",
+          "zh": "委托方，出资方",
+          "en": "a client, a sponsor"
+        },
+        {
+          "fr": "scier la branche",
+          "zh": "自毁根基",
+          "en": "to saw off the branch"
+        }
+      ],
+      "question": {
+        "prompt": "Combien gagnent environ certains travailleurs indépendants par heure de vidéo ?",
+        "choices": [
+          "2 dollars",
+          "30 dollars",
+          "100 dollars",
+          "Rien du tout"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "视频说 certains travailleurs indépendants reçoivent environ 2 dollars par heure de vidéo。"
+      },
+      "explain": {
+        "styleZh": "报纸视频栏目的导语：第一句描述现象，第二句说明影响，并用一个成语点出矛盾。",
+        "sentences": [
+          {
+            "fr": "Pour quelques dollars de l’heure, des travailleurs en Inde enregistrent leurs moindres gestes professionnels afin d’entraîner les futurs robots humanoïdes.",
+            "zh": "印度的一些工人以每小时几美元的报酬，记录下自己工作中的每一个细微动作，用来训练未来的人形机器人。",
+            "structureZh": "句首 Pour quelques dollars de l’heure 表示代价，“以……的报酬”。主干 des travailleurs … enregistrent leurs moindres gestes，现在时描述正在发生的现象。moindre 是 petit 的比较级，leurs moindres gestes 意为“最细微的动作”。afin de + 不定式 表示目的，比 pour 更正式。",
+            "points": [
+              {
+                "fr": "de l’heure",
+                "zh": "每小时（计价）"
+              },
+              {
+                "fr": "le moindre, les moindres",
+                "zh": "最小的，最细微的"
+              },
+              {
+                "fr": "afin de + inf.",
+                "zh": "为了做某事（正式）"
+              },
+              {
+                "fr": "un robot humanoïde",
+                "zh": "人形机器人"
+              }
+            ]
+          },
+          {
+            "fr": "Cette collecte massive de données permet aux géants occidentaux de la tech de développer l’automatisation à moindre coût, soulevant la question de travailleurs payés pour scier la branche sur laquelle ils sont assis",
+            "zh": "这种大规模数据采集让西方科技巨头能以更低成本发展自动化，也引出一个问题：这些工人拿钱去做的，其实是在锯掉自己坐着的树枝。",
+            "structureZh": "主干 Cette collecte … permet aux géants … de développer …，结构是 permettre à qn de + 不定式。soulevant 是现在分词，表示前面情况带来的结果。payés 是过去分词修饰 travailleurs。sur laquelle 是“介词 + lequel”引导的关系从句，laquelle 指 la branche。scier la branche sur laquelle on est assis 是成语，意思是“自毁根基”。原文这一句末尾没有句号。",
+            "points": [
+              {
+                "fr": "permettre à qn de + inf.",
+                "zh": "使某人能够做某事"
+              },
+              {
+                "fr": "à moindre coût",
+                "zh": "以较低成本"
+              },
+              {
+                "fr": "soulever la question de qch",
+                "zh": "引出……的问题"
+              },
+              {
+                "fr": "scier la branche sur laquelle on est assis",
+                "zh": "锯断自己坐的树枝，自毁根基"
+              },
+              {
+                "fr": "sur laquelle（pronom relatif）",
+                "zh": "介词 + lequel 引导的关系从句"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2122991262131216682",
+      "url": "https://x.com/tv5mondeinfo/status/2122991262131216682",
+      "author": "tv5mondeinfo",
+      "postedAt": "2026-11-18T09:52:14Z",
+      "excerpt": "En Côte d’Ivoire, près d’un étudiant sur deux se tourne vers l’enseignement supérieur privé. Face à des universités publiques saturées, ces établissements se multiplient et affichent leurs ambitions. Mais cette quête d’excellence a un coût, parfois très élevé pour les familles.",
+      "level": "B1",
+      "topic": "actualité",
+      "summaryZh": "在科特迪瓦，近一半大学生选择私立高校。阿比让一所私立理工学院设备先进、注重就业，但学费是公立大学的46倍，国家认可的私立院校已有600所。",
+      "summaryEn": "In Côte d'Ivoire, almost half of students go private. An Abidjan polytechnic offers modern equipment and job focus, but fees are 46 times public ones; 600 private institutions are recognised.",
+      "vocab": [
+        {
+          "fr": "l’enseignement supérieur",
+          "zh": "高等教育",
+          "en": "higher education"
+        },
+        {
+          "fr": "saturé",
+          "zh": "人满为患的",
+          "en": "overcrowded"
+        },
+        {
+          "fr": "faute de place",
+          "zh": "由于没有名额",
+          "en": "for lack of places"
+        },
+        {
+          "fr": "l’employabilité",
+          "zh": "就业能力",
+          "en": "employability"
+        },
+        {
+          "fr": "débourser",
+          "zh": "掏钱，支付",
+          "en": "to pay out"
+        },
+        {
+          "fr": "une bourse",
+          "zh": "奖学金",
+          "en": "a scholarship"
+        }
+      ],
+      "question": {
+        "prompt": "Selon la vidéo, combien coûte la première année de licence dans cette école privée ?",
+        "choices": [
+          "Environ 150 euros",
+          "Près de 1150 euros",
+          "Plus de 6000 euros",
+          "Elle est gratuite"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "视频说 750 000 francs, près de 1150 euros, la première année de licence。"
+      },
+      "explain": {
+        "styleZh": "电视新闻的视频配文：第一句给出数据，第二句说明原因和趋势，第三句用 Mais 转折，引出费用问题。",
+        "sentences": [
+          {
+            "fr": "En Côte d’Ivoire, près d’un étudiant sur deux se tourne vers l’enseignement supérieur privé.",
+            "zh": "在科特迪瓦，近一半的大学生选择私立高等教育。",
+            "structureZh": "主干 près d’un étudiant sur deux se tourne vers …，现在时描述现状。un sur deux 意为“两个中有一个”，即一半；près de 表示“将近”。se tourner vers 是代词式动词，“转向，选择”。注意国家名 Côte d’Ivoire 是阴性，所以用 en。",
+            "points": [
+              {
+                "fr": "un sur deux",
+                "zh": "每两个中有一个，一半"
+              },
+              {
+                "fr": "se tourner vers qch",
+                "zh": "转向，选择"
+              },
+              {
+                "fr": "l’enseignement supérieur",
+                "zh": "高等教育"
+              },
+              {
+                "fr": "près de + nombre",
+                "zh": "将近……"
+              }
+            ]
+          },
+          {
+            "fr": "Face à des universités publiques saturées, ces établissements se multiplient et affichent leurs ambitions.",
+            "zh": "面对人满为患的公立大学，这些私立院校越来越多，并且雄心勃勃。",
+            "structureZh": "Face à … 引出背景，“面对……”。主干 ces établissements se multiplient et affichent …，两个现在时动词并列。se multiplier 是代词式动词，“数量增多”。saturées 是过去分词作形容词，阴性复数，配合 universités。ces établissements 指上一句的私立学校。",
+            "points": [
+              {
+                "fr": "face à qch",
+                "zh": "面对……"
+              },
+              {
+                "fr": "saturé",
+                "zh": "饱和的，人满为患的"
+              },
+              {
+                "fr": "se multiplier",
+                "zh": "增多，激增"
+              },
+              {
+                "fr": "afficher ses ambitions",
+                "zh": "公开表现出雄心"
+              }
+            ]
+          },
+          {
+            "fr": "Mais cette quête d’excellence a un coût, parfois très élevé pour les familles.",
+            "zh": "但这种对卓越的追求是有代价的，对家庭来说有时非常昂贵。",
+            "structureZh": "Mais 表示转折。主干 cette quête d’excellence a un coût，avoir un coût 字面是“有成本”，引申为“要付出代价”。parfois très élevé 是补充说明 un coût 的形容词短语，前面省略了 qui est。",
+            "points": [
+              {
+                "fr": "une quête de qch",
+                "zh": "对……的追求"
+              },
+              {
+                "fr": "avoir un coût",
+                "zh": "有代价，要花钱"
+              },
+              {
+                "fr": "élevé",
+                "zh": "高的（价格、数字）"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
