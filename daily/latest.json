@@ -1,1246 +1,1453 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T12:49:04Z",
+  "generatedAt": "2026-11-21T12:51:36Z",
   "items": [
     {
-      "postId": "2123521783487709346",
-      "url": "https://x.com/CitImmCanFR/status/2123521783487709346",
+      "postId": "2123823862072668514",
+      "url": "https://x.com/CitImmCanFR/status/2123823862072668514",
       "author": "CitImmCanFR",
-      "postedAt": "2026-11-19T21:00:20Z",
-      "excerpt": "Si vous êtes au Canada à titre de résident temporaire (pour y vivre, étudier ou travailler), vérifiez la date d’expiration de votre statut. Si vous prévoyez rester plus longtemps, présentez une demande pour prolonger ou modifier votre statut avant son expiration. Rester au Canada au-delà de la durée de séjour autorisée peut avoir des répercussions sur vos futurs voyages et demandes.",
+      "postedAt": "2026-11-20T17:00:42Z",
+      "excerpt": "Le Canada recherche des travailleurs qualifiés pour répondre aux pénuries critiques de main-d’œuvre, renforcer des secteurs clés de l’économie et répondre aux besoins variés du marché du travail partout au pays. Nous utilisons un système appelé Entrée express pour gérer les demandes et inviter les travailleurs qualifiés dans des catégories prioritaires à présenter une demande de résidence permanente.",
       "level": "B1",
       "topic": "immigration",
-      "summaryZh": "加拿大移民部提醒临时居民核对身份到期日，如需久留应在到期前申请延期或变更；逾期居留可能影响今后的出行和申请。",
-      "summaryEn": "IRCC reminds temporary residents to check when their status expires and to apply to extend or change it before then; overstaying can affect future travel and applications.",
+      "summaryZh": "加拿大移民部介绍：为应对劳动力短缺、加强关键行业，加拿大通过“快速通道”系统管理申请，并邀请优先类别的技术工人申请永久居留。",
+      "summaryEn": "IRCC explains that Canada seeks skilled workers to ease labour shortages and uses Express Entry to manage applications and invite priority candidates to apply for permanent residence.",
       "vocab": [
         {
-          "fr": "un résident temporaire",
-          "zh": "临时居民",
-          "en": "a temporary resident"
+          "fr": "une pénurie",
+          "zh": "短缺",
+          "en": "a shortage"
         },
         {
-          "fr": "l’expiration",
-          "zh": "到期",
-          "en": "expiry"
+          "fr": "la main-d’œuvre",
+          "zh": "劳动力",
+          "en": "workforce, labour"
         },
         {
-          "fr": "prolonger",
-          "zh": "延长",
-          "en": "to extend"
+          "fr": "un travailleur qualifié",
+          "zh": "技术工人",
+          "en": "a skilled worker"
         },
         {
-          "fr": "au-delà de",
-          "zh": "超过",
-          "en": "beyond"
+          "fr": "la résidence permanente",
+          "zh": "永久居留",
+          "en": "permanent residence"
         },
         {
-          "fr": "des répercussions",
-          "zh": "影响，后果",
-          "en": "repercussions"
+          "fr": "prioritaire",
+          "zh": "优先的",
+          "en": "priority"
         }
       ],
       "question": {
-        "prompt": "Que conseille IRCC si vous voulez rester plus longtemps au Canada ?",
+        "prompt": "À quoi sert le système Entrée express, selon le message ?",
         "choices": [
-          "Quitter le Canada puis revenir",
-          "Attendre l’expiration de votre statut",
-          "Présenter une demande avant l’expiration de votre statut",
-          "Contacter votre employeur"
-        ],
-        "answerIndex": 2,
-        "explanationZh": "原文说 présentez une demande pour prolonger ou modifier votre statut avant son expiration。"
-      },
-      "explain": {
-        "styleZh": "政府服务提醒：两个 si 条件句加祈使句给出具体建议，最后一句用不定式短语作主语，说明逾期居留的后果。",
-        "sentences": [
-          {
-            "fr": "Si vous êtes au Canada à titre de résident temporaire (pour y vivre, étudier ou travailler), vérifiez la date d’expiration de votre statut.",
-            "zh": "如果你以临时居民身份在加拿大（在这里生活、学习或工作），请核对你身份的到期日期。",
-            "structureZh": "Si + 现在时 是条件，主句用祈使句 vérifiez，这是官方提醒的常见结构。à titre de 意为“以……身份”。括号里的 y 代替 au Canada，后面三个不定式并列说明目的。d’expiration 是 de 在元音前省音。",
-            "points": [
-              {
-                "fr": "à titre de + nom",
-                "zh": "以……的身份"
-              },
-              {
-                "fr": "un résident temporaire",
-                "zh": "临时居民"
-              },
-              {
-                "fr": "la date d’expiration",
-                "zh": "到期日期"
-              },
-              {
-                "fr": "y vivre",
-                "zh": "在那里生活，y 代替 au Canada"
-              }
-            ]
-          },
-          {
-            "fr": "Si vous prévoyez rester plus longtemps, présentez une demande pour prolonger ou modifier votre statut avant son expiration.",
-            "zh": "如果你打算停留更久，请在身份到期前提交延期或变更身份的申请。",
-            "structureZh": "同样是 Si + 现在时，主句祈使句 présentez une demande。prévoir + 不定式 意为“打算、计划做某事”，这里直接接不定式，不加介词。pour 引出目的，后接两个并列不定式 prolonger ou modifier。son expiration 中 son 指 votre statut。",
-            "points": [
-              {
-                "fr": "prévoir + inf.",
-                "zh": "打算做某事"
-              },
-              {
-                "fr": "présenter une demande",
-                "zh": "提交申请"
-              },
-              {
-                "fr": "prolonger qch",
-                "zh": "延长"
-              },
-              {
-                "fr": "modifier son statut",
-                "zh": "变更身份"
-              }
-            ]
-          },
-          {
-            "fr": "Rester au Canada au-delà de la durée de séjour autorisée peut avoir des répercussions sur vos futurs voyages et demandes.",
-            "zh": "超过获准的居留期限继续留在加拿大，可能会影响你今后的出行和申请。",
-            "structureZh": "主语是不定式短语 Rester au Canada au-delà de …，法语可以用不定式直接作主语，动词用第三人称单数 peut。au-delà de 意为“超过”。avoir des répercussions sur qch 意为“对……产生影响”，通常指负面后果。autorisée 与 la durée 阴性配合。",
-            "points": [
-              {
-                "fr": "au-delà de qch",
-                "zh": "超过，超出"
-              },
-              {
-                "fr": "la durée de séjour",
-                "zh": "居留期限"
-              },
-              {
-                "fr": "avoir des répercussions sur qch",
-                "zh": "对……产生影响"
-              },
-              {
-                "fr": "rester au Canada",
-                "zh": "留在加拿大（不定式短语作主语，动词用单数 peut）"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "postId": "2123721669017760168",
-      "url": "https://x.com/LeTemps/status/2123721669017760168",
-      "author": "LeTemps",
-      "postedAt": "2026-11-20T10:14:37Z",
-      "excerpt": "OPINION. Mentionner dans une offre d’emploi que le français doit être la langue maternelle exclut de nombreuses personnes.",
-      "level": "B2",
-      "topic": "travail",
-      "summaryZh": "《时报》观点文章认为，招聘启事要求“法语为母语”会排除许多人，更好的做法是写清岗位需要用法语完成哪些事。",
-      "summaryEn": "A Le Temps opinion piece argues that job ads requiring French as a mother tongue exclude many people; it is better to specify what the person must be able to do in French.",
-      "vocab": [
-        {
-          "fr": "une offre d’emploi",
-          "zh": "招聘启事",
-          "en": "a job ad"
-        },
-        {
-          "fr": "la langue maternelle",
-          "zh": "母语",
-          "en": "mother tongue"
-        },
-        {
-          "fr": "exclure",
-          "zh": "排除",
-          "en": "to exclude"
-        },
-        {
-          "fr": "mentionner",
-          "zh": "提到，注明",
-          "en": "to mention"
-        }
-      ],
-      "question": {
-        "prompt": "Selon cet article d’opinion, quel est le problème de certaines offres d’emploi ?",
-        "choices": [
-          "Elles exigent que le français soit la langue maternelle",
-          "Elles sont écrites en anglais",
-          "Elles proposent des salaires trop bas",
-          "Elles ne mentionnent pas le lieu de travail"
-        ],
-        "answerIndex": 0,
-        "explanationZh": "原文说 Mentionner … que le français doit être la langue maternelle exclut de nombreuses personnes。"
-      },
-      "explain": {
-        "styleZh": "报纸观点栏的导语：OPINION 标明这是评论，接着用一个不定式作主语的长句直接亮出观点。",
-        "sentences": [
-          {
-            "fr": "OPINION. Mentionner dans une offre d’emploi que le français doit être la langue maternelle exclut de nombreuses personnes.",
-            "zh": "观点：在招聘启事中写明“法语必须是母语”，会把很多人排除在外。",
-            "structureZh": "OPINION 是栏目标签，表示评论文章。句子主语是不定式短语 Mentionner … que …，动词是 exclut（exclure 的现在时第三人称单数），所以不定式短语整体当作单数主语。que 引导的从句是 mentionner 的宾语，doit être 表示“必须是”。dans une offre d’emploi 是插入的状语。",
-            "points": [
-              {
-                "fr": "une offre d’emploi",
-                "zh": "招聘启事，职位空缺"
-              },
-              {
-                "fr": "la langue maternelle",
-                "zh": "母语"
-              },
-              {
-                "fr": "exclure qn",
-                "zh": "排除某人"
-              },
-              {
-                "fr": "mentionner que + 从句",
-                "zh": "提到，写明"
-              },
-              {
-                "fr": "doit être",
-                "zh": "必须是（devoir + 不定式）"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "postId": "2123636055874126198",
-      "url": "https://x.com/LeTemps/status/2123636055874126198",
-      "author": "LeTemps",
-      "postedAt": "2026-11-20T04:34:25Z",
-      "excerpt": "La branche électrique connaît une demande croissante en Suisse, mais l’offre des places d’apprentissage pour les installateurs électriciens est excédentaire. Si tous les employeurs ne font pas le constat d’une baisse quantitative de candidatures, leur qualité devient un enjeu",
-      "level": "B2",
-      "topic": "travail",
-      "summaryZh": "瑞士电气行业需求增长，但电工学徒岗位供大于求；部分雇主未见申请人数下降，可申请者的质量成了问题。",
-      "summaryEn": "Demand is growing in Switzerland's electrical sector, but there are more apprenticeship places for electricians than applicants; even where numbers hold up, candidate quality is becoming an issue.",
-      "vocab": [
-        {
-          "fr": "une place d’apprentissage",
-          "zh": "学徒岗位",
-          "en": "an apprenticeship place"
-        },
-        {
-          "fr": "un installateur électricien",
-          "zh": "电工安装工",
-          "en": "an electrician"
-        },
-        {
-          "fr": "excédentaire",
-          "zh": "过剩的",
-          "en": "in surplus"
-        },
-        {
-          "fr": "une candidature",
-          "zh": "申请",
-          "en": "an application"
-        },
-        {
-          "fr": "un enjeu",
-          "zh": "关键问题",
-          "en": "an issue, a stake"
-        }
-      ],
-      "question": {
-        "prompt": "Quelle est la situation des places d’apprentissage pour les installateurs électriciens ?",
-        "choices": [
-          "Il n’y en a plus",
-          "Elles sont toutes occupées",
-          "Elles sont réservées aux étrangers",
-          "Il y en a plus que nécessaire"
-        ],
-        "answerIndex": 3,
-        "explanationZh": "原文说 l’offre des places d’apprentissage … est excédentaire，即岗位过剩。"
-      },
-      "explain": {
-        "styleZh": "经济新闻导语：第一句用 mais 对比需求与培训名额，第二句用表让步的 si 引出真正的问题：求职者的质量。",
-        "sentences": [
-          {
-            "fr": "La branche électrique connaît une demande croissante en Suisse, mais l’offre des places d’apprentissage pour les installateurs électriciens est excédentaire.",
-            "zh": "瑞士电气行业的需求不断增长，但电工安装学徒岗位的供给却过剩。",
-            "structureZh": "两个分句用 mais 连接，形成对比。connaître une demande croissante 字面是“经历增长的需求”，connaître 在这里不是“认识”，而是“经历、出现”。croissante 是 croître 的现在分词作形容词。excédentaire 意为“过剩的”，说明岗位比申请人多。",
-            "points": [
-              {
-                "fr": "connaître une hausse / une demande",
-                "zh": "出现增长、需求（connaître 表示经历）"
-              },
-              {
-                "fr": "croissant",
-                "zh": "不断增长的"
-              },
-              {
-                "fr": "une place d’apprentissage",
-                "zh": "学徒岗位"
-              },
-              {
-                "fr": "excédentaire",
-                "zh": "过剩的，盈余的"
-              }
-            ]
-          },
-          {
-            "fr": "Si tous les employeurs ne font pas le constat d’une baisse quantitative de candidatures, leur qualité devient un enjeu",
-            "zh": "虽然并非所有雇主都发现申请人数量下降，但申请者的质量成了一个问题。",
-            "structureZh": "这里的 Si 不是条件，而是让步，意为“虽然……，但……”，主句不用条件式，而用现在时 devient。tous … ne … pas 是部分否定，意思是“并非所有雇主都……”。faire le constat de qch 意为“发现、确认某事”。leur qualité 中 leur 指 candidatures。帖子原文这句没有句号。",
-            "points": [
-              {
-                "fr": "Si tous les employeurs ne font pas",
-                "zh": "虽然并非所有雇主都……（si 表示让步，tous … ne … pas 是部分否定）"
-              },
-              {
-                "fr": "une baisse quantitative",
-                "zh": "数量上的下降"
-              },
-              {
-                "fr": "faire le constat de qch",
-                "zh": "确认、发现某事"
-              },
-              {
-                "fr": "une candidature",
-                "zh": "申请，求职"
-              },
-              {
-                "fr": "un enjeu",
-                "zh": "关键问题，挑战"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "postId": "2123744977079730264",
-      "url": "https://x.com/LeTemps/status/2123744977079730264",
-      "author": "LeTemps",
-      "postedAt": "2026-11-20T11:47:14Z",
-      "excerpt": "Les entreprises de la région du Grand Zurich créent moins de postes que ce qui était promis. En moyenne, les dernières à s’être implantées emploient moins de quatre personnes",
-      "level": "B1",
-      "topic": "travail",
-      "summaryZh": "大苏黎世地区新落户的企业创造的岗位少于承诺，最近落户的公司平均雇员不到四人。",
-      "summaryEn": "Companies in the Greater Zurich area are creating fewer jobs than promised; the most recent arrivals employ fewer than four people on average.",
-      "vocab": [
-        {
-          "fr": "un poste",
-          "zh": "职位",
-          "en": "a job, post"
-        },
-        {
-          "fr": "promettre",
-          "zh": "承诺",
-          "en": "to promise"
-        },
-        {
-          "fr": "en moyenne",
-          "zh": "平均",
-          "en": "on average"
-        },
-        {
-          "fr": "s’implanter",
-          "zh": "落户",
-          "en": "to set up"
-        },
-        {
-          "fr": "employer",
-          "zh": "雇用",
-          "en": "to employ"
-        }
-      ],
-      "question": {
-        "prompt": "Combien de personnes emploient en moyenne les dernières entreprises implantées ?",
-        "choices": [
-          "Plus de quarante",
-          "Moins de quatre",
-          "Exactement dix",
-          "Plus de cent"
+          "À délivrer des visas de touriste",
+          "À gérer les demandes et inviter des travailleurs qualifiés à demander la résidence permanente",
+          "À trouver un emploi temporaire aux étudiants",
+          "À calculer les impôts des nouveaux arrivants"
         ],
         "answerIndex": 1,
-        "explanationZh": "原文说 les dernières à s’être implantées emploient moins de quatre personnes。"
+        "explanationZh": "原文说该系统用来 gérer les demandes et inviter les travailleurs qualifiés … à présenter une demande de résidence permanente。"
       },
       "explain": {
-        "styleZh": "地区经济新闻：第一句用比较结构指出落差，第二句用数据补充说明。",
+        "styleZh": "政府移民宣传帖：第一句用三个并列的 pour + 不定式 说明加拿大为什么需要技术工人，第二句介绍快速通道系统的作用。",
         "sentences": [
           {
-            "fr": "Les entreprises de la région du Grand Zurich créent moins de postes que ce qui était promis.",
-            "zh": "大苏黎世地区的企业创造的岗位比承诺的要少。",
-            "structureZh": "主干 Les entreprises … créent moins de postes，moins de + 名词 … que 是比较结构“比……少”。que 后面接 ce qui était promis，ce qui 作主语，était promis 是未完成过去时的被动语态，表示当初的承诺。",
+            "fr": "Le Canada recherche des travailleurs qualifiés pour répondre aux pénuries critiques de main-d’œuvre, renforcer des secteurs clés de l’économie et répondre aux besoins variés du marché du travail partout au pays.",
+            "zh": "加拿大正在寻找技术工人，以应对严重的劳动力短缺、加强经济关键领域，并满足全国各地劳动力市场的多样需求。",
+            "structureZh": "主干 Le Canada recherche des travailleurs qualifiés，现在时表示正在进行的政策。pour 后面接三个并列不定式 répondre … renforcer … et répondre …，都表示目的，共用一个 pour。clés 在这里作形容词“关键的”，放在名词后并变复数。main-d’œuvre 是 main de œuvre 的省音写法。",
             "points": [
               {
-                "fr": "moins de + nom + que",
-                "zh": "比……少的……"
+                "fr": "un travailleur qualifié",
+                "zh": "技术工人"
               },
               {
-                "fr": "créer des postes",
-                "zh": "创造工作岗位"
+                "fr": "répondre à qch",
+                "zh": "应对，满足"
               },
               {
-                "fr": "ce qui était promis",
-                "zh": "当初承诺的（被动语态）"
-              }
-            ]
-          },
-          {
-            "fr": "En moyenne, les dernières à s’être implantées emploient moins de quatre personnes",
-            "zh": "平均而言，最近落户的那些企业雇用的员工不到四人。",
-            "structureZh": "En moyenne 是状语“平均来说”。les dernières 指 les dernières entreprises，名词省略。à s’être implantées 是不定式过去式，s’implanter 是代词式动词，过去式用 être，过去分词与阴性复数配合加 -es。主句动词 emploient 是 employer 的现在时复数。",
-            "points": [
-              {
-                "fr": "en moyenne",
-                "zh": "平均而言"
+                "fr": "une pénurie de main-d’œuvre",
+                "zh": "劳动力短缺"
               },
               {
-                "fr": "s’implanter",
-                "zh": "落户，设立（企业）"
-              },
-              {
-                "fr": "les derniers à + inf.",
-                "zh": "最后/最近做某事的"
-              },
-              {
-                "fr": "employer qn",
-                "zh": "雇用某人"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "postId": "2123728489392082991",
-      "url": "https://x.com/Sciences_Avenir/status/2123728489392082991",
-      "author": "Sciences_Avenir",
-      "postedAt": "2026-11-20T10:41:43Z",
-      "excerpt": "Longtemps considérés comme un simple trouble de l’oreille, les acouphènes sont aussi le résultat d’un dysfonctionnement cérébral. Cette vision transforme la recherche et laisse enfin entrevoir des traitements efficaces.",
-      "level": "B2",
-      "topic": "santé",
-      "summaryZh": "《科学与未来》指出，耳鸣不只是耳朵的问题，也与大脑功能失调有关，这一新认识改变了研究，并让有效治疗终于有了希望。",
-      "summaryEn": "Sciences et Avenir reports that tinnitus, long seen as an ear disorder, also results from brain dysfunction, a view that is reshaping research and finally hints at effective treatments.",
-      "vocab": [
-        {
-          "fr": "les acouphènes",
-          "zh": "耳鸣",
-          "en": "tinnitus"
-        },
-        {
-          "fr": "un trouble",
-          "zh": "失调",
-          "en": "a disorder"
-        },
-        {
-          "fr": "cérébral",
-          "zh": "大脑的",
-          "en": "cerebral"
-        },
-        {
-          "fr": "entrevoir",
-          "zh": "隐约看到",
-          "en": "to glimpse"
-        },
-        {
-          "fr": "un traitement",
-          "zh": "治疗",
-          "en": "a treatment"
-        }
-      ],
-      "question": {
-        "prompt": "Selon l’article, qu’est-ce que les acouphènes sont aussi ?",
-        "choices": [
-          "Une maladie contagieuse",
-          "Le résultat d’un dysfonctionnement cérébral",
-          "Un effet du froid",
-          "Une conséquence d’un régime alimentaire"
-        ],
-        "answerIndex": 1,
-        "explanationZh": "原文说 les acouphènes sont aussi le résultat d’un dysfonctionnement cérébral。"
-      },
-      "explain": {
-        "styleZh": "科普杂志导语：第一句用过去分词短语引出旧观念，再给出新发现；第二句说明这一新认识带来的意义。",
-        "sentences": [
-          {
-            "fr": "Longtemps considérés comme un simple trouble de l’oreille, les acouphènes sont aussi le résultat d’un dysfonctionnement cérébral.",
-            "zh": "耳鸣长期被视为单纯的耳部疾病，但它也是大脑功能失调的结果。",
-            "structureZh": "句首 Longtemps considérés comme … 是过去分词短语，带被动意义，修饰主语 les acouphènes，所以 considérés 用阳性复数。considérer qch comme … 意为“把……看作……”。主句 les acouphènes sont aussi le résultat de … 是现在时，aussi 表示“也是”，暗含对旧观念的修正。",
-            "points": [
-              {
-                "fr": "considérer qch comme qch",
-                "zh": "把……视为……"
-              },
-              {
-                "fr": "les acouphènes",
-                "zh": "耳鸣"
-              },
-              {
-                "fr": "un trouble",
-                "zh": "（身体）失调，障碍"
-              },
-              {
-                "fr": "un dysfonctionnement",
-                "zh": "功能失调"
-              },
-              {
-                "fr": "cérébral",
-                "zh": "大脑的"
-              }
-            ]
-          },
-          {
-            "fr": "Cette vision transforme la recherche et laisse enfin entrevoir des traitements efficaces.",
-            "zh": "这一认识正在改变研究方向，也终于让人看到了有效治疗的希望。",
-            "structureZh": "主语 Cette vision 指上一句的新观点。两个动词 transforme 和 laisse 并列，现在时。laisser entrevoir qch 意为“让人隐约看到”，entrevoir 是“隐约看见、预见”。enfin 表示“终于”，带有期待已久的语气。",
-            "points": [
-              {
-                "fr": "laisser entrevoir qch",
-                "zh": "让人隐约看到、预示"
-              },
-              {
-                "fr": "transformer qch",
-                "zh": "改变"
-              },
-              {
-                "fr": "un traitement",
-                "zh": "治疗方法"
-              },
-              {
-                "fr": "efficace",
-                "zh": "有效的"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "postId": "2123500261549166777",
-      "url": "https://x.com/Sciences_Avenir/status/2123500261549166777",
-      "author": "Sciences_Avenir",
-      "postedAt": "2026-11-19T19:34:49Z",
-      "excerpt": "\"Sans précédent“, \"le plus puissant\", ou juste \"très puissant\" ? Les climatologues restent encore divisés sur la façon de nommer le El Niño actuel. Aucune contradiction : ces prévisionnistes n'emploient pas les mêmes paramètres.",
-      "level": "B2",
-      "topic": "météo",
-      "summaryZh": "当前的厄尔尼诺该叫“前所未有”“最强”还是“很强”？气候学家意见不一，但这并不矛盾，因为各方使用的参数不同。",
-      "summaryEn": "Is the current El Niño \"unprecedented\", \"the most powerful\" or just \"very powerful\"? Climatologists disagree, but there is no contradiction: forecasters use different parameters.",
-      "vocab": [
-        {
-          "fr": "sans précédent",
-          "zh": "前所未有的",
-          "en": "unprecedented"
-        },
-        {
-          "fr": "un climatologue",
-          "zh": "气候学家",
-          "en": "a climatologist"
-        },
-        {
-          "fr": "divisé",
-          "zh": "有分歧的",
-          "en": "divided"
-        },
-        {
-          "fr": "un prévisionniste",
-          "zh": "预报员",
-          "en": "a forecaster"
-        },
-        {
-          "fr": "un paramètre",
-          "zh": "参数",
-          "en": "a parameter"
-        }
-      ],
-      "question": {
-        "prompt": "Pourquoi les climatologues ne sont-ils pas d’accord sur le nom du El Niño actuel ?",
-        "choices": [
-          "Parce qu’ils n’utilisent pas les mêmes paramètres",
-          "Parce que El Niño est terminé",
-          "Parce qu’ils n’ont pas de données",
-          "Parce qu’il y a deux El Niño"
-        ],
-        "answerIndex": 0,
-        "explanationZh": "原文说 ces prévisionnistes n'emploient pas les mêmes paramètres。"
-      },
-      "explain": {
-        "styleZh": "科普导语：先用三个引号里的说法连成一个问句吸引读者，再说明专家分歧，最后用冒号解释原因。",
-        "sentences": [
-          {
-            "fr": "\"Sans précédent“, \"le plus puissant\", ou juste \"très puissant\" ?",
-            "zh": "“前所未有”、“最强”，还是只是“非常强”？",
-            "structureZh": "这是没有动词的省略问句，列出三种说法让读者思考该怎么称呼这次厄尔尼诺。le plus puissant 是最高级，très puissant 是程度副词修饰。法语问号前要空一格。",
-            "points": [
-              {
-                "fr": "sans précédent",
-                "zh": "前所未有的"
-              },
-              {
-                "fr": "le plus + adj.",
-                "zh": "最……（最高级）"
-              },
-              {
-                "fr": "puissant",
-                "zh": "强大的"
-              }
-            ]
-          },
-          {
-            "fr": "Les climatologues restent encore divisés sur la façon de nommer le El Niño actuel.",
-            "zh": "气候学家们对如何称呼当前这次厄尔尼诺仍然意见不一。",
-            "structureZh": "主干 Les climatologues restent divisés，rester + 形容词 表示“仍然处于某种状态”，divisés 与主语阳性复数配合。sur la façon de + 不定式 意为“关于……的方式”。El Niño 前面保留西班牙语冠词 El，法语里又加了 le。",
-            "points": [
-              {
-                "fr": "rester + adj.",
-                "zh": "仍然……"
-              },
-              {
-                "fr": "être divisé sur qch",
-                "zh": "在……问题上有分歧"
-              },
-              {
-                "fr": "la façon de + inf.",
-                "zh": "做某事的方式"
-              },
-              {
-                "fr": "un climatologue",
-                "zh": "气候学家"
-              }
-            ]
-          },
-          {
-            "fr": "Aucune contradiction : ces prévisionnistes n'emploient pas les mêmes paramètres.",
-            "zh": "这并不矛盾：这些预报员使用的参数不一样。",
-            "structureZh": "Aucune contradiction 是省略句，相当于 Il n’y a aucune contradiction。冒号后解释原因。n'emploient pas 是否定的现在时，employer 在这里意为“使用”。les mêmes 意为“相同的”。",
-            "points": [
-              {
-                "fr": "aucun(e) + nom",
-                "zh": "没有任何……"
-              },
-              {
-                "fr": "un prévisionniste",
-                "zh": "预报员"
-              },
-              {
-                "fr": "employer qch",
-                "zh": "使用"
-              },
-              {
-                "fr": "un paramètre",
-                "zh": "参数"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "postId": "2123734348977307781",
-      "url": "https://x.com/ONU_fr/status/2123734348977307781",
-      "author": "ONU_fr",
-      "postedAt": "2026-11-20T11:05:00Z",
-      "excerpt": "Aujourd'hui encore, dans trop d'endroits dans le monde, les droits des enfants sont bafoués, alors qu'ils sont des droits humains.",
-      "level": "B1",
-      "topic": "actualité",
-      "summaryZh": "世界儿童日之际，联合国指出：直到今天，世界上仍有太多地方的儿童权利遭到践踏，而儿童权利就是人权。",
-      "summaryEn": "On World Children's Day, the UN says children's rights are still violated in too many places around the world, even though they are human rights.",
-      "vocab": [
-        {
-          "fr": "bafouer",
-          "zh": "践踏",
-          "en": "to violate, flout"
-        },
-        {
-          "fr": "les droits des enfants",
-          "zh": "儿童权利",
-          "en": "children's rights"
-        },
-        {
-          "fr": "alors que",
-          "zh": "而，然而",
-          "en": "whereas"
-        },
-        {
-          "fr": "un endroit",
-          "zh": "地方",
-          "en": "a place"
-        }
-      ],
-      "question": {
-        "prompt": "Que dit l’ONU au sujet des droits des enfants ?",
-        "choices": [
-          "Ils sont respectés partout",
-          "Ils ne sont pas des droits humains",
-          "Ils ont été supprimés",
-          "Ils sont bafoués dans trop d’endroits"
-        ],
-        "answerIndex": 3,
-        "explanationZh": "原文说 dans trop d'endroits dans le monde, les droits des enfants sont bafoués。"
-      },
-      "explain": {
-        "styleZh": "联合国在世界儿童日的帖子：一句话里用 alors que 形成对照，强调儿童权利就是人权。",
-        "sentences": [
-          {
-            "fr": "Aujourd'hui encore, dans trop d'endroits dans le monde, les droits des enfants sont bafoués, alors qu'ils sont des droits humains.",
-            "zh": "直到今天，世界上仍有太多地方的儿童权利遭到践踏，而这些权利本是人权。",
-            "structureZh": "Aujourd'hui encore 意为“直到今天仍然”。主干 les droits des enfants sont bafoués 是现在时被动语态，bafouer 意为“践踏、蔑视”，过去分词 bafoués 与主语阳性复数配合。alors que 在这里表示对立，“然而、而……”。ils 指 les droits des enfants。trop de + 名词 意为“太多的”。",
-            "points": [
-              {
-                "fr": "bafouer qch",
-                "zh": "践踏，蔑视"
-              },
-              {
-                "fr": "alors que + 从句",
-                "zh": "而，然而（表示对立）"
-              },
-              {
-                "fr": "trop de + nom",
-                "zh": "太多的……"
-              },
-              {
-                "fr": "sont bafoués",
-                "zh": "被践踏（être + 过去分词，被动语态）"
-              },
-              {
-                "fr": "les droits humains",
-                "zh": "人权"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "postId": "2123702907593961882",
-      "url": "https://x.com/ONUinfo/status/2123702907593961882",
-      "author": "ONUinfo",
-      "postedAt": "2026-11-20T09:00:04Z",
-      "excerpt": "Emploi, logement, famille… Les jeunes peinent à prendre leur envol « ...trop souvent, l’insécurité économique, le coût prohibitif du logement, les conflits et l’exclusion mettent ces aspirations hors de portée. »",
-      "level": "B2",
-      "topic": "logement",
-      "summaryZh": "联合国人口基金指出，年轻人在工作、住房和成家方面难以自立：经济不安全、高昂房价、冲突和排斥常让他们的愿望遥不可及。",
-      "summaryEn": "UNFPA says young people struggle to take flight in work, housing and family life: economic insecurity, prohibitive housing costs, conflict and exclusion too often put their aspirations out of reach.",
-      "vocab": [
-        {
-          "fr": "peiner à",
-          "zh": "难以",
-          "en": "to struggle to"
-        },
-        {
-          "fr": "prendre son envol",
-          "zh": "自立",
-          "en": "to take flight"
-        },
-        {
-          "fr": "prohibitif",
-          "zh": "高得吓人的",
-          "en": "prohibitive"
-        },
-        {
-          "fr": "hors de portée",
-          "zh": "够不着",
-          "en": "out of reach"
-        },
-        {
-          "fr": "une aspiration",
-          "zh": "愿望",
-          "en": "an aspiration"
-        }
-      ],
-      "question": {
-        "prompt": "Selon la citation, qu’est-ce qui empêche les jeunes de réaliser leurs aspirations ?",
-        "choices": [
-          "Le manque d’écoles",
-          "Le climat",
-          "L’insécurité économique et le coût du logement, entre autres",
-          "Les réseaux sociaux"
-        ],
-        "answerIndex": 2,
-        "explanationZh": "引文列举 l’insécurité économique, le coût prohibitif du logement, les conflits et l’exclusion。"
-      },
-      "explain": {
-        "styleZh": "联合国新闻：先用标题式短句列举问题，再引用人口基金负责人的话，说明阻碍年轻人独立的因素。",
-        "sentences": [
-          {
-            "fr": "Emploi, logement, famille… Les jeunes peinent à prendre leur envol",
-            "zh": "工作、住房、家庭……年轻人难以独立起飞。",
-            "structureZh": "这是标题，前半部分是三个名词的列举，省略号表示还有更多。主干 Les jeunes peinent à prendre leur envol，peiner à + 不定式 意为“很难做到某事”。prendre son envol 字面是“起飞”，比喻“自立、独立生活”。标题没有句号。",
-            "points": [
-              {
-                "fr": "peiner à + inf.",
-                "zh": "难以做某事"
-              },
-              {
-                "fr": "prendre son envol",
-                "zh": "起飞；比喻自立"
-              },
-              {
-                "fr": "un logement",
-                "zh": "住房"
-              }
-            ]
-          },
-          {
-            "fr": "« ...trop souvent, l’insécurité économique, le coût prohibitif du logement, les conflits et l’exclusion mettent ces aspirations hors de portée. »",
-            "zh": "“……经济上的不安全、高得令人望而却步的住房成本、冲突和排斥，常常让这些愿望遥不可及。”",
-            "structureZh": "这是直接引语，开头的省略号表示前面有删节。主语是四个并列名词 l’insécurité …, le coût …, les conflits et l’exclusion，所以动词用复数 mettent。mettre qch hors de portée 意为“使……够不着、遥不可及”。prohibitif 意为“（价格）高得令人却步的”。ces aspirations 指年轻人对工作、住房、家庭的期望。",
-            "points": [
-              {
-                "fr": "mettre qch hors de portée",
-                "zh": "使某事遥不可及"
-              },
-              {
-                "fr": "prohibitif",
-                "zh": "（价格）高得吓人的"
-              },
-              {
-                "fr": "l’insécurité économique",
-                "zh": "经济不安全感"
-              },
-              {
-                "fr": "une aspiration",
-                "zh": "愿望，追求"
-              },
-              {
-                "fr": "l’exclusion",
-                "zh": "排斥，社会排斥"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "postId": "2123521860390527349",
-      "url": "https://x.com/franceinfo/status/2123521860390527349",
-      "author": "franceinfo",
-      "postedAt": "2026-11-19T21:00:39Z",
-      "excerpt": "Une source de chaleur inépuisable se trouve sous nos pieds : la géothermie. Elle permet d’exploiter la température du sous-sol pour chauffer et rafraîchir nos logements. Une alternative au fioul et au gaz qui sont beaucoup plus polluants.",
-      "level": "B1",
-      "topic": "logement",
-      "summaryZh": "法国新闻台短片介绍地热能：浅层地热可全年利用地下12度恒温，深层地热可为整片街区供热；成本高但可再生，政府计划到2035年产能翻两番。",
-      "summaryEn": "franceinfo explains geothermal energy: shallow systems use the ground's steady 12°C, deep wells heat whole districts; drilling is costly but it's renewable, and France aims to quadruple it by 2035.",
-      "vocab": [
-        {
-          "fr": "la géothermie",
-          "zh": "地热能",
-          "en": "geothermal energy"
-        },
-        {
-          "fr": "creuser",
-          "zh": "挖，钻",
-          "en": "to dig, drill"
-        },
-        {
-          "fr": "la profondeur",
-          "zh": "深度",
-          "en": "depth"
-        },
-        {
-          "fr": "un forage",
-          "zh": "钻井",
-          "en": "a borehole, drilling"
-        },
-        {
-          "fr": "renouvelable",
-          "zh": "可再生的",
-          "en": "renewable"
-        },
-        {
-          "fr": "quadrupler",
-          "zh": "翻两番，增至四倍",
-          "en": "to quadruple"
-        }
-      ],
-      "question": {
-        "prompt": "Selon la vidéo, que veut faire le gouvernement d'ici 2035 ?",
-        "choices": [
-          "Interdire le chauffage au gaz",
-          "Fermer les forages profonds",
-          "Quadrupler les capacités de production de la géothermie",
-          "Réduire la géothermie à 1 % du chauffage"
-        ],
-        "answerIndex": 2,
-        "explanationZh": "视频结尾说 il prévoit de quadrupler les capacités de production de la géothermie d'ici 2035。"
-      },
-      "explain": {
-        "styleZh": "科普短视频的配文：先用冒号揭晓主题“地热能”，再说明用途，最后一句是省略了谓语的名词短语，点出它比化石燃料更环保。",
-        "sentences": [
-          {
-            "fr": "Une source de chaleur inépuisable se trouve sous nos pieds : la géothermie.",
-            "zh": "一种取之不尽的热源就在我们脚下：地热能。",
-            "structureZh": "主干 Une source de chaleur … se trouve sous nos pieds，se trouver 是代词式动词，意为“位于、存在于”，现在时陈述事实。冒号后面的 la géothermie 揭晓答案，制造悬念。inépuisable 由 in- + épuiser + -able 构成，意为“用不完的”。",
-            "points": [
-              {
-                "fr": "se trouver",
-                "zh": "位于，在（某处）"
-              },
-              {
-                "fr": "inépuisable",
-                "zh": "取之不尽的"
-              },
-              {
-                "fr": "sous nos pieds",
-                "zh": "在我们脚下"
-              },
-              {
-                "fr": "la géothermie",
-                "zh": "地热能"
-              }
-            ]
-          },
-          {
-            "fr": "Elle permet d’exploiter la température du sous-sol pour chauffer et rafraîchir nos logements.",
-            "zh": "它可以利用地下的温度来为我们的住房供暖和降温。",
-            "structureZh": "Elle 指上一句的 la géothermie。permettre de + 不定式 意为“使……成为可能”。pour 引导目的，后接两个并列不定式 chauffer et rafraîchir。d’exploiter 是 de 在元音前省音。",
-            "points": [
-              {
-                "fr": "permettre de + inf.",
-                "zh": "使能够做某事"
-              },
-              {
-                "fr": "exploiter qch",
-                "zh": "利用，开发"
-              },
-              {
-                "fr": "le sous-sol",
-                "zh": "地下，底土"
-              },
-              {
-                "fr": "rafraîchir qch",
-                "zh": "使凉爽"
-              }
-            ]
-          },
-          {
-            "fr": "Une alternative au fioul et au gaz qui sont beaucoup plus polluants.",
-            "zh": "这是燃油和天然气的替代方案，后两者的污染要严重得多。",
-            "structureZh": "这是省略句，没有主语和动词，相当于 C’est une alternative …。une alternative à qch 意为“……的替代方案”，au = à + le 的缩合。qui 引导关系从句，先行词是 le fioul et le gaz，所以动词用复数 sont，形容词 polluants 也用阳性复数。",
-            "points": [
-              {
-                "fr": "une alternative à qch",
-                "zh": "……的替代选择"
-              },
-              {
-                "fr": "le fioul",
-                "zh": "燃油（取暖用）"
-              },
-              {
-                "fr": "polluant",
-                "zh": "有污染的"
-              },
-              {
-                "fr": "au fioul",
-                "zh": "au = à + le 的缩合"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "postId": "2123543886811291958",
-      "url": "https://x.com/franceinfo/status/2123543886811291958",
-      "author": "franceinfo",
-      "postedAt": "2026-11-19T22:28:10Z",
-      "excerpt": "IA : \"100 000 offres d'emploi\" en moins dans certains secteurs, selon une étude. \"On ne peut pas avoir aujourd'hui une vision uniquement pessimiste sur ce que va être le marché du travail\", estime le philosophe Jean-Gabriel Ganascia.",
-      "level": "B2",
-      "topic": "travail",
-      "summaryZh": "一项研究称人工智能使部分行业减少10万个岗位。哲学家加纳夏认为不必过度悲观：工作方式会变，也会诞生新职业，但需警惕技能流失并陪伴转型。",
-      "summaryEn": "A study says AI has cut 100,000 job offers in some sectors. Philosopher Jean-Gabriel Ganascia urges vigilance, not pessimism: jobs will change, new ones will appear, and transitions must be supported.",
-      "vocab": [
-        {
-          "fr": "automatiser",
-          "zh": "使自动化",
-          "en": "to automate"
-        },
-        {
-          "fr": "une profession",
-          "zh": "职业",
-          "en": "a profession"
-        },
-        {
-          "fr": "prophétiser",
-          "zh": "预言",
-          "en": "to prophesy"
-        },
-        {
-          "fr": "une perte de compétences",
-          "zh": "技能流失",
-          "en": "a loss of skills"
-        },
-        {
-          "fr": "une mutation",
-          "zh": "深刻变化，转型",
-          "en": "a transformation"
-        },
-        {
-          "fr": "un cataclysme",
-          "zh": "大灾难",
-          "en": "a cataclysm"
-        }
-      ],
-      "question": {
-        "prompt": "Quelle est la position de Jean-Gabriel Ganascia sur l'IA et l'emploi ?",
-        "choices": [
-          "Il prévoit la disparition de millions d'emplois",
-          "Il pense qu'il ne faut pas être uniquement pessimiste",
-          "Il affirme que rien ne va changer",
-          "Il veut interdire l'IA dans les administrations"
-        ],
-        "answerIndex": 1,
-        "explanationZh": "他说 on ne peut pas aujourd'hui avoir une vision uniquement pessimiste，并且 je ne pense pas à un cataclysme。"
-      },
-      "explain": {
-        "styleZh": "电视节目片段的配文：先用新闻标题体给出研究数据，再用直接引语加 estime 引出哲学家的观点。",
-        "sentences": [
-          {
-            "fr": "IA : \"100 000 offres d'emploi\" en moins dans certains secteurs, selon une étude.",
-            "zh": "人工智能：一项研究称，某些行业的招聘岗位减少了“10万个”。",
-            "structureZh": "这是标题式省略句，没有谓语动词。IA 后面的冒号表示“关于人工智能”。en moins 意为“减少了、少了”，放在名词后。selon une étude 说明信息来源。法语数字 100 000 用空格分隔千位。",
-            "points": [
-              {
-                "fr": "une offre d'emploi",
-                "zh": "招聘岗位，职位空缺"
-              },
-              {
-                "fr": "en moins",
-                "zh": "少了，减少"
-              },
-              {
-                "fr": "selon qch",
-                "zh": "根据，据……"
-              },
-              {
-                "fr": "un secteur",
-                "zh": "行业，部门"
-              }
-            ]
-          },
-          {
-            "fr": "\"On ne peut pas avoir aujourd'hui une vision uniquement pessimiste sur ce que va être le marché du travail\", estime le philosophe Jean-Gabriel Ganascia.",
-            "zh": "哲学家让-加布里埃尔·加纳夏认为：“今天我们不能对未来的劳动力市场只抱悲观的看法。”",
-            "structureZh": "引语在前，estime 和主语倒装放在后面，这是法语引述的常见写法。引语里 On ne peut pas avoir … 是现在时否定。ce que va être … 中 ce que 是宾语关系代词，意为“……将会是什么样子”，va être 是最近将来时，主语 le marché du travail 倒装在后。",
-            "points": [
-              {
-                "fr": "estimer que / estime X",
-                "zh": "认为（引述后主谓倒装）"
-              },
-              {
-                "fr": "une vision pessimiste",
-                "zh": "悲观的看法"
-              },
-              {
-                "fr": "ce que va être qch",
-                "zh": "……将会是什么样子（ce que 后主谓倒装）"
+                "fr": "un secteur clé",
+                "zh": "关键领域（clé 作形容词）"
               },
               {
                 "fr": "le marché du travail",
                 "zh": "劳动力市场"
               }
             ]
-          }
-        ]
-      }
-    },
-    {
-      "postId": "2123119601978335330",
-      "url": "https://x.com/tv5mondeinfo/status/2123119601978335330",
-      "author": "tv5mondeinfo",
-      "postedAt": "2026-11-18T18:22:13Z",
-      "excerpt": "Il y a 20 ans, Yves Marchand et Romain Meffre avaient photographié les ruines de Détroit, ville vidée de ses habitants après l'effondrement de l'industrie automobile. Ils y sont retournés 2 décennies plus tard.",
-      "level": "B2",
-      "topic": "culture",
-      "summaryZh": "摄影师马尔尚和梅弗尔20年前拍下底特律废墟，如今重返：市中心在大规模投资下复兴，这座人口曾从200万跌到60万的城市正在“浴火重生”。",
-      "summaryEn": "Photographers Marchand and Meffre shot Detroit's ruins 20 years ago and went back: big investment has revived downtown, and the city, once down from 2 million to 600,000 people, is reviving.",
-      "vocab": [
-        {
-          "fr": "un renouveau",
-          "zh": "复兴，振兴",
-          "en": "a revival"
-        },
-        {
-          "fr": "renaître de ses cendres",
-          "zh": "浴火重生",
-          "en": "to rise from the ashes"
-        },
-        {
-          "fr": "un bastion industriel",
-          "zh": "工业重镇",
-          "en": "an industrial stronghold"
-        },
-        {
-          "fr": "un terrain en friche",
-          "zh": "荒地",
-          "en": "derelict land"
-        },
-        {
-          "fr": "l'exode",
-          "zh": "大批外迁",
-          "en": "exodus"
-        },
-        {
-          "fr": "le déclin urbain",
-          "zh": "城市衰落",
-          "en": "urban decline"
-        }
-      ],
-      "question": {
-        "prompt": "Selon les photographes, quelle partie de Détroit a le plus changé ?",
-        "choices": [
-          "Le centre-ville",
-          "Les usines automobiles",
-          "Les banlieues",
-          "Le port"
-        ],
-        "answerIndex": 0,
-        "explanationZh": "他们说 La ville a énormément changé, surtout le centre-ville。"
-      },
-      "explain": {
-        "styleZh": "文化节目的导语：第一句用愈过去时回顾20年前的拍摄，并用同位语解释底特律的处境；第二句用复合过去时讲述他们重返。",
-        "sentences": [
-          {
-            "fr": "Il y a 20 ans, Yves Marchand et Romain Meffre avaient photographié les ruines de Détroit, ville vidée de ses habitants après l'effondrement de l'industrie automobile.",
-            "zh": "20年前，伊夫·马尔尚和罗曼·梅弗尔拍摄了底特律的废墟，这座城市在汽车工业崩溃后人口流失殆尽。",
-            "structureZh": "Il y a 20 ans 表示“20年前”。avaient photographié 是愈过去时（plus-que-parfait），表示比下一句“重返”更早发生的动作。ville vidée de ses habitants 是同位语，解释底特律；vidée 是过去分词作形容词，与阴性名词 ville 配合。après l'effondrement de … 说明原因和时间。",
-            "points": [
-              {
-                "fr": "avaient photographié",
-                "zh": "愈过去时，表示比“重返”更早的动作"
-              },
-              {
-                "fr": "vidée de ses habitants",
-                "zh": "人口流失殆尽（vider qch de qch 的过去分词）"
-              },
-              {
-                "fr": "l'effondrement",
-                "zh": "崩溃，倒塌"
-              },
-              {
-                "fr": "l'industrie automobile",
-                "zh": "汽车工业"
-              }
-            ]
           },
           {
-            "fr": "Ils y sont retournés 2 décennies plus tard.",
-            "zh": "二十年后，他们又回到了那里。",
-            "structureZh": "Ils 指两位摄影师。y 代替前面提到的地点 à Détroit。sont retournés 是复合过去时，retourner 表示位移，用助动词 être，过去分词与主语配合，阳性复数加 -s。plus tard 意为“之后”，2 décennies 即20年。",
+            "fr": "Nous utilisons un système appelé Entrée express pour gérer les demandes et inviter les travailleurs qualifiés dans des catégories prioritaires à présenter une demande de résidence permanente.",
+            "zh": "我们使用一个名为“快速通道”的系统来管理申请，并邀请优先类别中的技术工人提交永久居留申请。",
+            "structureZh": "主干 Nous utilisons un système，appelé Entrée express 是过去分词短语作定语，意为“被称为……的”。pour 引出两个目的 gérer 和 inviter。inviter qn à + 不定式 意为“邀请某人做某事”，这里宾语较长，à présenter 放在最后。",
             "points": [
               {
-                "fr": "y sont retournés",
-                "zh": "y 代替 à Détroit，意为回到那里"
+                "fr": "appelé",
+                "zh": "名为……的（过去分词作定语）"
               },
               {
-                "fr": "retourner (avec être)",
-                "zh": "重返，复合过去时用 être，过去分词配合"
+                "fr": "gérer les demandes",
+                "zh": "管理申请"
               },
-              {
-                "fr": "une décennie",
-                "zh": "十年"
-              },
-              {
-                "fr": "plus tard",
-                "zh": "之后，后来"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "postId": "2123468021360452027",
-      "url": "https://x.com/UNESCO_fr/status/2123468021360452027",
-      "author": "UNESCO_fr",
-      "postedAt": "2026-11-19T17:26:43Z",
-      "excerpt": "Quel rôle la philosophie peut-elle jouer face aux défis de notre temps ? En cette JournéeDeLaPhilosophie, écoutez notre entretien avec le philosophe Souleymane Bachir Diagne, qui nous invite à réfléchir à ce qui définit notre humanité, à l'éthique de l'intelligence artificielle et à notre responsabilité collective de construire un avenir de paix.",
-      "level": "C1",
-      "topic": "culture",
-      "summaryZh": "世界哲学日，塞内加尔哲学家迪亚涅在教科文组织谈到：人工智能前所未有，正在挑战“人类独有”的概念；人类整体必须对其进行伦理把控，哲学在此大有可为。",
-      "summaryEn": "On World Philosophy Day, Souleymane Bachir Diagne says AI is unprecedented and challenges what is uniquely human; humanity as a whole must control it ethically, and philosophy has a key role.",
-      "vocab": [
-        {
-          "fr": "sans précédent",
-          "zh": "前所未有的",
-          "en": "unprecedented"
-        },
-        {
-          "fr": "le propre de l'homme",
-          "zh": "人类独有的特性",
-          "en": "what is uniquely human"
-        },
-        {
-          "fr": "fatalement",
-          "zh": "必然地",
-          "en": "inevitably"
-        },
-        {
-          "fr": "le préambule",
-          "zh": "序言",
-          "en": "preamble"
-        },
-        {
-          "fr": "un rempart",
-          "zh": "壁垒，屏障",
-          "en": "a bulwark, defence"
-        },
-        {
-          "fr": "exercer un contrôle",
-          "zh": "实施控制",
-          "en": "to exercise control"
-        }
-      ],
-      "question": {
-        "prompt": "Selon Souleymane Bachir Diagne, quel rôle a la philosophie face à l'IA ?",
-        "choices": [
-          "Elle doit accélérer le développement de l'IA",
-          "Elle n'a plus de rôle à jouer",
-          "Elle doit préparer la guerre de demain",
-          "Elle a un rôle majeur dans le contrôle éthique de l'IA"
-        ],
-        "answerIndex": 3,
-        "explanationZh": "他说 sur cette question du contrôle éthique de l'intelligence artificielle … la philosophie a un rôle majeur à jouer。"
-      },
-      "explain": {
-        "styleZh": "国际组织的宣传帖：先抛出一个问题引发思考，再用祈使句邀请读者收听访谈，并用关系从句介绍访谈内容。",
-        "sentences": [
-          {
-            "fr": "Quel rôle la philosophie peut-elle jouer face aux défis de notre temps ?",
-            "zh": "面对我们这个时代的挑战，哲学能发挥什么作用？",
-            "structureZh": "这是复合倒装疑问句：名词主语 la philosophie 放在前面，再用代词 elle 与动词 peut 倒装，写成 peut-elle，这是书面语提问方式。jouer un rôle 意为“发挥作用”，face à 意为“面对”，aux = à + les。",
-            "points": [
-              {
-                "fr": "jouer un rôle",
-                "zh": "发挥作用"
-              },
-              {
-                "fr": "face à qch",
-                "zh": "面对"
-              },
-              {
-                "fr": "un défi",
-                "zh": "挑战"
-              },
-              {
-                "fr": "peut-elle jouer",
-                "zh": "复合倒装疑问：名词主语 + 动词-代词"
-              }
-            ]
-          },
-          {
-            "fr": "En cette JournéeDeLaPhilosophie, écoutez notre entretien avec le philosophe Souleymane Bachir Diagne, qui nous invite à réfléchir à ce qui définit notre humanité, à l'éthique de l'intelligence artificielle et à notre responsabilité collective de construire un avenir de paix.",
-            "zh": "在世界哲学日这天，请收听我们对哲学家苏莱曼·巴希尔·迪亚涅的访谈，他邀请我们思考什么定义了我们的人性、人工智能的伦理，以及我们共同建设和平未来的责任。",
-            "structureZh": "主句是祈使句 écoutez notre entretien。JournéeDeLaPhilosophie 是话题标签，即 Journée de la philosophie。qui 引导关系从句修饰哲学家。inviter qn à + 不定式，réfléchir à 后面接三个并列成分：ce qui définit…、l'éthique…、notre responsabilité…，每个前面都重复 à。ce qui 作主语，意为“……的东西”。",
-            "points": [
               {
                 "fr": "inviter qn à + inf.",
                 "zh": "邀请某人做某事"
               },
               {
-                "fr": "réfléchir à qch",
-                "zh": "思考某事"
+                "fr": "une catégorie prioritaire",
+                "zh": "优先类别"
               },
               {
-                "fr": "ce qui définit qch",
-                "zh": "定义……的东西（ce qui 作主语）"
+                "fr": "la résidence permanente",
+                "zh": "永久居留"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2123839032517902600",
+      "url": "https://x.com/StatCan_fra/status/2123839032517902600",
+      "author": "StatCan_fra",
+      "postedAt": "2026-11-20T18:00:59Z",
+      "excerpt": "En 2025, le patrimoine en ressources naturelles du Canada, c’est-à-dire la valeur en dollars de certaines réserves de ressources naturelles, a diminué de 7 %, passant de 1 334 milliards de dollars l’année précédente à 1 234 milliards de dollars.",
+      "level": "B2",
+      "topic": "actualité",
+      "summaryZh": "加拿大统计局：2025年加拿大自然资源财富（部分资源储量的美元价值）下降7%，从前一年的13340亿加元降至12340亿加元。",
+      "summaryEn": "Statistics Canada: in 2025 Canada's natural resource wealth, the dollar value of certain reserves, fell 7%, from $1,334 billion the previous year to $1,234 billion.",
+      "vocab": [
+        {
+          "fr": "le patrimoine",
+          "zh": "财富，资产",
+          "en": "wealth, assets"
+        },
+        {
+          "fr": "une ressource naturelle",
+          "zh": "自然资源",
+          "en": "a natural resource"
+        },
+        {
+          "fr": "une réserve",
+          "zh": "储量",
+          "en": "a reserve"
+        },
+        {
+          "fr": "diminuer",
+          "zh": "减少",
+          "en": "to decrease"
+        },
+        {
+          "fr": "un milliard",
+          "zh": "十亿",
+          "en": "a billion"
+        }
+      ],
+      "question": {
+        "prompt": "Comment a évolué le patrimoine en ressources naturelles du Canada en 2025 ?",
+        "choices": [
+          "Il a diminué de 7 %",
+          "Il a augmenté de 7 %",
+          "Il est resté stable",
+          "Il a doublé"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文说 a diminué de 7 %，从13340亿降到12340亿加元。"
+      },
+      "explain": {
+        "styleZh": "统计局数据帖：一句话完成，先用插入语解释专业术语，再用现在分词 passant de … à … 给出具体变化。",
+        "sentences": [
+          {
+            "fr": "En 2025, le patrimoine en ressources naturelles du Canada, c’est-à-dire la valeur en dollars de certaines réserves de ressources naturelles, a diminué de 7 %, passant de 1 334 milliards de dollars l’année précédente à 1 234 milliards de dollars.",
+            "zh": "2025年，加拿大的自然资源财富，即某些自然资源储量的美元价值，下降了7%，从前一年的13340亿加元降至12340亿加元。",
+            "structureZh": "主干 le patrimoine … a diminué de 7 %，复合过去时表示已经完成的统计结果。c’est-à-dire 引出插入语，解释 patrimoine 的含义。diminuer de + 百分比 表示“减少了多少”。passant de … à … 是现在分词短语，补充说明变化的起点和终点。法语里数字千位用空格分隔，1 334 milliards 即13340亿。",
+            "points": [
+              {
+                "fr": "le patrimoine",
+                "zh": "财富，资产（不是“遗产”这么窄）"
               },
               {
-                "fr": "un entretien",
-                "zh": "访谈"
+                "fr": "c’est-à-dire",
+                "zh": "也就是说"
               },
               {
-                "fr": "la responsabilité de + inf.",
-                "zh": "做某事的责任"
+                "fr": "diminuer de 7 %",
+                "zh": "减少了7%"
+              },
+              {
+                "fr": "passer de … à …",
+                "zh": "从……变为……"
+              },
+              {
+                "fr": "l’année précédente",
+                "zh": "前一年"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2124004938388836784",
+      "url": "https://x.com/UNESCO_fr/status/2124004938388836784",
+      "author": "UNESCO_fr",
+      "postedAt": "2026-11-21T05:00:14Z",
+      "excerpt": "Le monde n’investit pas suffisamment dans la petite enfance. Et le coût de l’inaction se traduit par des occasions perdues pour les enfants de développer pleinement leur potentiel et par un manque à gagner économique pour les sociétés. Un nouveau rapport de l’UNESCO, de l’UNICEF et de l’OCDE met en lumière le coût de l’inaction et appelle les gouvernements à investir davantage, à répartir les investissements de manière plus équitable et à mettre en place une réglementation efficace.",
+      "level": "B2",
+      "topic": "actualité",
+      "summaryZh": "教科文组织、儿基会和经合组织的新报告指出，全球对幼儿期投入不足，代价是孩子错失发展机会、社会蒙受经济损失，呼吁政府加大并更公平地投资。",
+      "summaryEn": "A UNESCO, UNICEF and OECD report says the world underinvests in early childhood, costing children chances and societies money, and urges governments to invest more, more fairly, with good rules.",
+      "vocab": [
+        {
+          "fr": "la petite enfance",
+          "zh": "幼儿期",
+          "en": "early childhood"
+        },
+        {
+          "fr": "l’inaction",
+          "zh": "不作为",
+          "en": "inaction"
+        },
+        {
+          "fr": "un manque à gagner",
+          "zh": "收益损失",
+          "en": "lost income"
+        },
+        {
+          "fr": "équitable",
+          "zh": "公平的",
+          "en": "fair, equitable"
+        },
+        {
+          "fr": "une réglementation",
+          "zh": "监管，法规",
+          "en": "regulation"
+        }
+      ],
+      "question": {
+        "prompt": "Que demande le rapport aux gouvernements ?",
+        "choices": [
+          "De fermer les crèches",
+          "De réduire le budget de l’éducation",
+          "D’attendre de nouvelles études",
+          "D’investir davantage et de manière plus équitable dans la petite enfance"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "原文说 appelle les gouvernements à investir davantage, à répartir les investissements de manière plus équitable。"
+      },
+      "explain": {
+        "styleZh": "国际组织发布报告的宣传帖：先下判断，再说明不作为的代价，最后介绍三家机构联合报告的呼吁。",
+        "sentences": [
+          {
+            "fr": "Le monde n’investit pas suffisamment dans la petite enfance.",
+            "zh": "世界对幼儿期的投入不够。",
+            "structureZh": "否定句 ne … pas，n’investit 是 ne 在元音前省音。investir dans qch 意为“投资于……”。现在时表示目前的状况。la petite enfance 是固定说法，指0到8岁左右的幼儿阶段。",
+            "points": [
+              {
+                "fr": "investir dans qch",
+                "zh": "投资于某事"
+              },
+              {
+                "fr": "suffisamment",
+                "zh": "足够地"
+              },
+              {
+                "fr": "la petite enfance",
+                "zh": "幼儿期"
+              }
+            ]
+          },
+          {
+            "fr": "Et le coût de l’inaction se traduit par des occasions perdues pour les enfants de développer pleinement leur potentiel et par un manque à gagner économique pour les sociétés.",
+            "zh": "而不作为的代价体现在：孩子们失去了充分发挥潜能的机会，社会也蒙受经济上的收益损失。",
+            "structureZh": "主干 le coût … se traduit par A et par B，se traduire par 意为“表现为、体现为”。A 是 des occasions perdues … de développer，occasion de + 不定式 表示“做某事的机会”；B 是 un manque à gagner，固定说法“应得而未得的收入”。句首 Et 用来承接上一句，加强语气。",
+            "points": [
+              {
+                "fr": "l’inaction",
+                "zh": "不作为，无所作为"
+              },
+              {
+                "fr": "se traduire par qch",
+                "zh": "表现为，体现为"
+              },
+              {
+                "fr": "une occasion perdue",
+                "zh": "错失的机会"
+              },
+              {
+                "fr": "développer son potentiel",
+                "zh": "发挥潜能"
+              },
+              {
+                "fr": "un manque à gagner",
+                "zh": "收益损失，少赚的钱"
+              }
+            ]
+          },
+          {
+            "fr": "Un nouveau rapport de l’UNESCO, de l’UNICEF et de l’OCDE met en lumière le coût de l’inaction et appelle les gouvernements à investir davantage, à répartir les investissements de manière plus équitable et à mettre en place une réglementation efficace.",
+            "zh": "联合国教科文组织、联合国儿童基金会和经合组织的一份新报告揭示了不作为的代价，并呼吁各国政府加大投入、更公平地分配投资，并建立有效的监管。",
+            "structureZh": "主语 Un nouveau rapport，两个谓语 met en lumière 和 appelle 并列。appeler qn à + 不定式 意为“呼吁某人做某事”，后面三个 à + 不定式 并列。de l’UNESCO 等是省音 de la → de l’。de manière plus équitable 是方式状语，相当于副词“更公平地”。",
+            "points": [
+              {
+                "fr": "mettre en lumière qch",
+                "zh": "揭示，突出"
+              },
+              {
+                "fr": "appeler qn à + inf.",
+                "zh": "呼吁某人做某事"
+              },
+              {
+                "fr": "davantage",
+                "zh": "更多"
+              },
+              {
+                "fr": "répartir qch",
+                "zh": "分配"
+              },
+              {
+                "fr": "mettre en place qch",
+                "zh": "建立，实施"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2123797678354051116",
+      "url": "https://x.com/OIFrancophonie/status/2123797678354051116",
+      "author": "OIFrancophonie",
+      "postedAt": "2026-11-20T15:16:39Z",
+      "excerpt": "La délivrance d’un acte de naissance va bien au-delà d’une simple formalité administrative : elle permet à chacun de faire reconnaître son existence et d’accéder à ses droits fondamentaux. Depuis 2020, le projet État civil de l’OIF accompagne les États dans leurs efforts pour garantir à chaque enfant une identité légale, socle d’institutions plus fortes et d’une paix durable.",
+      "level": "B2",
+      "topic": "actualité",
+      "summaryZh": "法语国家组织介绍：出生证明不只是行政手续，而是让人的存在得到承认、享有基本权利的保障；其民事登记项目自2020年起协助各国保障每个孩子的合法身份。",
+      "summaryEn": "The OIF says a birth certificate is more than a formality: it recognises a person's existence and rights. Since 2020 its civil registration project has helped states give every child a legal identity.",
+      "vocab": [
+        {
+          "fr": "un acte de naissance",
+          "zh": "出生证明",
+          "en": "a birth certificate"
+        },
+        {
+          "fr": "une formalité administrative",
+          "zh": "行政手续",
+          "en": "an administrative formality"
+        },
+        {
+          "fr": "l’état civil",
+          "zh": "民事登记",
+          "en": "civil registration"
+        },
+        {
+          "fr": "une identité légale",
+          "zh": "合法身份",
+          "en": "a legal identity"
+        },
+        {
+          "fr": "un droit fondamental",
+          "zh": "基本权利",
+          "en": "a fundamental right"
+        }
+      ],
+      "question": {
+        "prompt": "Selon l’OIF, que permet un acte de naissance ?",
+        "choices": [
+          "De voyager sans passeport",
+          "D’obtenir un emploi public",
+          "De faire reconnaître son existence et d’accéder à ses droits fondamentaux",
+          "De voter dès 16 ans"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文说 elle permet à chacun de faire reconnaître son existence et d’accéder à ses droits fondamentaux。"
+      },
+      "explain": {
+        "styleZh": "国际组织项目介绍：先用冒号解释出生证明的意义，再介绍项目，再介绍项目如何为和平与制度奠定基础。",
+        "sentences": [
+          {
+            "fr": "La délivrance d’un acte de naissance va bien au-delà d’une simple formalité administrative : elle permet à chacun de faire reconnaître son existence et d’accéder à ses droits fondamentaux.",
+            "zh": "签发出生证明远不只是一项简单的行政手续：它让每个人的存在得到承认，并能享有基本权利。",
+            "structureZh": "主干 La délivrance … va bien au-delà de …，aller au-delà de 意为“超出”，bien 加强语气。冒号后面解释原因，elle 指 la délivrance。permettre à qn de + 不定式，后面有两个并列不定式 faire reconnaître 和 accéder。faire + 不定式 是使役结构，faire reconnaître qch 意为“使某事得到承认”。",
+            "points": [
+              {
+                "fr": "la délivrance",
+                "zh": "签发，颁发"
+              },
+              {
+                "fr": "un acte de naissance",
+                "zh": "出生证明"
+              },
+              {
+                "fr": "aller au-delà de qch",
+                "zh": "超出，不仅仅是"
+              },
+              {
+                "fr": "faire reconnaître qch",
+                "zh": "使……得到承认（使役结构）"
+              },
+              {
+                "fr": "accéder à qch",
+                "zh": "获得，享有"
+              }
+            ]
+          },
+          {
+            "fr": "Depuis 2020, le projet État civil de l’OIF accompagne les États dans leurs efforts pour garantir à chaque enfant une identité légale, socle d’institutions plus fortes et d’une paix durable.",
+            "zh": "自2020年以来，法语国家组织的“民事登记”项目一直协助各国努力保障每个孩子拥有合法身份，这是更强大的制度和持久和平的基础。",
+            "structureZh": "Depuis 2020 加现在时 accompagne，表示从过去持续到现在的动作，中文要译成“一直”。accompagner qn dans qch 意为“在某事上陪伴、协助某人”。garantir à qn qch 意为“向某人保障某物”。socle d’… 是同位语，解释 identité légale 的意义。",
+            "points": [
+              {
+                "fr": "depuis + 现在时",
+                "zh": "表示一直持续到现在的动作"
+              },
+              {
+                "fr": "accompagner qn dans qch",
+                "zh": "在某事上协助某人"
+              },
+              {
+                "fr": "garantir qch à qn",
+                "zh": "向某人保障某物"
+              },
+              {
+                "fr": "une identité légale",
+                "zh": "合法身份"
+              },
+              {
+                "fr": "le socle",
+                "zh": "基础，基石"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2123830977332203996",
+      "url": "https://x.com/CEA_Officiel/status/2123830977332203996",
+      "author": "CEA_Officiel",
+      "postedAt": "2026-11-20T17:28:58Z",
+      "excerpt": "Une équipe du CEA et du CNRS a découvert un nouvel ordre de virus géants présents dans le système digestif des humains et de nombreux animaux : les egovirus.",
+      "level": "B2",
+      "topic": "santé",
+      "summaryZh": "法国原子能委员会与国家科研中心的团队发现了一个新的巨型病毒目，名为egovirus，存在于人类和许多动物的消化系统中。",
+      "summaryEn": "A CEA and CNRS team has discovered a new order of giant viruses, the egoviruses, found in the digestive systems of humans and many animals.",
+      "vocab": [
+        {
+          "fr": "découvrir",
+          "zh": "发现",
+          "en": "to discover"
+        },
+        {
+          "fr": "un ordre",
+          "zh": "（分类）目",
+          "en": "an order (taxonomy)"
+        },
+        {
+          "fr": "géant",
+          "zh": "巨大的",
+          "en": "giant"
+        },
+        {
+          "fr": "le système digestif",
+          "zh": "消化系统",
+          "en": "digestive system"
+        }
+      ],
+      "question": {
+        "prompt": "Où se trouvent les egovirus découverts par le CEA et le CNRS ?",
+        "choices": [
+          "Dans les océans",
+          "Dans l’atmosphère",
+          "Dans les plantes",
+          "Dans le système digestif des humains et de nombreux animaux"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "原文说 présents dans le système digestif des humains et de nombreux animaux。"
+      },
+      "explain": {
+        "styleZh": "科研机构的发现快讯：一句话说明谁发现了什么、在哪里，冒号后揭晓新名字。",
+        "sentences": [
+          {
+            "fr": "Une équipe du CEA et du CNRS a découvert un nouvel ordre de virus géants présents dans le système digestif des humains et de nombreux animaux : les egovirus.",
+            "zh": "法国原子能委员会和国家科研中心的一个团队发现了一个存在于人类和许多动物消化系统中的巨型病毒新目：egovirus。",
+            "structureZh": "主干 Une équipe … a découvert un nouvel ordre de virus géants，复合过去时表示已完成的发现。nouvel 是 nouveau 在元音开头的阳性单数名词前的形式。présents dans … 是形容词短语作定语，修饰 virus，阳性复数。冒号后的 les egovirus 揭晓名称，是新闻常用的写法。",
+            "points": [
+              {
+                "fr": "découvrir qch",
+                "zh": "发现"
+              },
+              {
+                "fr": "nouvel",
+                "zh": "nouveau 在元音前的阳性形式"
+              },
+              {
+                "fr": "un ordre",
+                "zh": "（生物分类）目"
+              },
+              {
+                "fr": "un virus géant",
+                "zh": "巨型病毒"
+              },
+              {
+                "fr": "le système digestif",
+                "zh": "消化系统"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2124091656865485303",
+      "url": "https://x.com/LeTemps/status/2124091656865485303",
+      "author": "LeTemps",
+      "postedAt": "2026-11-21T10:44:49Z",
+      "excerpt": "En 140 objets, dessins, imagiers, recueils de comptines, livres en tissu ou albums créés par des artistes d’avant-garde, l’exposition «Dessine-moi une histoire!» retrace l’évolution des livres pour enfants au fil du temps",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "展览《给我画一个故事！》以140件展品——图画、识字书、童谣集、布书和先锋艺术家的绘本——回顾童书随时代的演变。",
+      "summaryEn": "The exhibition 'Dessine-moi une histoire!' traces the evolution of children's books through 140 objects: drawings, picture books, rhyme collections, cloth books and avant-garde albums.",
+      "vocab": [
+        {
+          "fr": "une exposition",
+          "zh": "展览",
+          "en": "an exhibition"
+        },
+        {
+          "fr": "un imagier",
+          "zh": "看图识字书",
+          "en": "a picture dictionary"
+        },
+        {
+          "fr": "une comptine",
+          "zh": "童谣",
+          "en": "a nursery rhyme"
+        },
+        {
+          "fr": "retracer",
+          "zh": "追溯",
+          "en": "to trace"
+        },
+        {
+          "fr": "au fil du temps",
+          "zh": "随着时间",
+          "en": "over time"
+        }
+      ],
+      "question": {
+        "prompt": "Quel est le sujet de l’exposition «Dessine-moi une histoire!» ?",
+        "choices": [
+          "L’histoire de la photographie",
+          "L’évolution des livres pour enfants",
+          "La vie des artistes suisses",
+          "Les jouets en bois"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文说展览 retrace l’évolution des livres pour enfants au fil du temps。"
+      },
+      "explain": {
+        "styleZh": "展览报道的导语：句首用长长的列举作状语，主语和谓语放在最后，形成先铺陈后点题的效果。",
+        "sentences": [
+          {
+            "fr": "En 140 objets, dessins, imagiers, recueils de comptines, livres en tissu ou albums créés par des artistes d’avant-garde, l’exposition «Dessine-moi une histoire!» retrace l’évolution des livres pour enfants au fil du temps",
+            "zh": "展览《给我画一个故事！》通过140件展品，包括图画、看图识字书、童谣集、布书以及先锋艺术家创作的绘本，追溯了童书随时代的演变。",
+            "structureZh": "句首 En 140 objets 是方式状语，“通过140件展品”，后面一串名词是对 objets 的具体列举；créés par … 是过去分词短语，修饰 albums。真正的主干在后面：l’exposition … retrace l’évolution …，现在时。Dessine-moi 是命令式加代词，来自《小王子》的名句 Dessine-moi un mouton。这是标题式导语，没有句号。",
+            "points": [
+              {
+                "fr": "un imagier",
+                "zh": "看图识字书"
+              },
+              {
+                "fr": "un recueil de comptines",
+                "zh": "童谣集"
+              },
+              {
+                "fr": "d’avant-garde",
+                "zh": "先锋派的"
+              },
+              {
+                "fr": "retracer qch",
+                "zh": "追溯，回顾"
+              },
+              {
+                "fr": "au fil du temps",
+                "zh": "随着时间推移"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2123855739395432507",
+      "url": "https://x.com/LeTemps/status/2123855739395432507",
+      "author": "LeTemps",
+      "postedAt": "2026-11-20T19:07:22Z",
+      "excerpt": "Infrastructures obsolètes, correctifs bâclés et code écrit par l’IA créent un cocktail explosif. Les experts de la cybersécurité parlent d’une course permanente devenue «encore plus chaotique» entre attaquants et défenseurs",
+      "level": "B2",
+      "topic": "travail",
+      "summaryZh": "《时报》报道：陈旧基础设施、草率补丁和AI写的代码形成危险组合，网络安全专家说攻防之间的持续竞赛变得“更加混乱”。",
+      "summaryEn": "Le Temps: obsolete infrastructure, sloppy patches and AI-written code make an explosive mix; experts describe an endless race between attackers and defenders that is now even more chaotic.",
+      "vocab": [
+        {
+          "fr": "obsolète",
+          "zh": "过时的",
+          "en": "obsolete"
+        },
+        {
+          "fr": "un correctif",
+          "zh": "补丁",
+          "en": "a patch"
+        },
+        {
+          "fr": "bâclé",
+          "zh": "草率的",
+          "en": "sloppy"
+        },
+        {
+          "fr": "la cybersécurité",
+          "zh": "网络安全",
+          "en": "cybersecurity"
+        },
+        {
+          "fr": "chaotique",
+          "zh": "混乱的",
+          "en": "chaotic"
+        }
+      ],
+      "question": {
+        "prompt": "Selon les experts, comment est devenue la course entre attaquants et défenseurs ?",
+        "choices": [
+          "Plus calme",
+          "Terminée",
+          "Plus lente",
+          "Encore plus chaotique"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "原文说 une course permanente devenue «encore plus chaotique»。"
+      },
+      "explain": {
+        "styleZh": "科技报道导语：第一句是没有冠词的名词列举作主语，第二句引用专家的说法，用引号突出关键词。",
+        "sentences": [
+          {
+            "fr": "Infrastructures obsolètes, correctifs bâclés et code écrit par l’IA créent un cocktail explosif.",
+            "zh": "陈旧的基础设施、草率的补丁和人工智能写的代码，形成了一种一触即发的“爆炸性混合物”。",
+            "structureZh": "主语是三个并列名词 Infrastructures …, correctifs … et code …，新闻标题风格省略了冠词。谓语 créent 用复数，因为主语有三个。un cocktail explosif 是比喻，“危险的混合”。écrit par l’IA 是过去分词短语，修饰 code。",
+            "points": [
+              {
+                "fr": "obsolète",
+                "zh": "过时的，陈旧的"
+              },
+              {
+                "fr": "un correctif",
+                "zh": "（软件）补丁"
+              },
+              {
+                "fr": "bâclé",
+                "zh": "草率的，马虎的"
+              },
+              {
+                "fr": "un cocktail explosif",
+                "zh": "危险的混合（比喻）"
+              }
+            ]
+          },
+          {
+            "fr": "Les experts de la cybersécurité parlent d’une course permanente devenue «encore plus chaotique» entre attaquants et défenseurs",
+            "zh": "网络安全专家说，攻击者和防御者之间这场永无休止的竞赛已经变得“更加混乱”。",
+            "structureZh": "主干 Les experts parlent de qch，parler d’une … 是 de 在元音前省音。devenue 是 devenir 的过去分词，与阴性名词 course 配合，作定语，意为“已变得……的”。entre A et B 说明竞赛双方，这里名词前省略了冠词。句末没有句号，是导语写法。",
+            "points": [
+              {
+                "fr": "la cybersécurité",
+                "zh": "网络安全"
+              },
+              {
+                "fr": "parler de qch",
+                "zh": "谈到"
+              },
+              {
+                "fr": "une course permanente",
+                "zh": "永无休止的竞赛"
+              },
+              {
+                "fr": "devenu",
+                "zh": "已变得……的（过去分词配合）"
+              },
+              {
+                "fr": "un attaquant",
+                "zh": "攻击者"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2124005887240990964",
+      "url": "https://x.com/ONU_fr/status/2124005887240990964",
+      "author": "ONU_fr",
+      "postedAt": "2026-11-21T05:04:00Z",
+      "excerpt": "La pêche durable protège l'environnement marin, renforce la sécurité alimentaire et participe à la réalisation des Objectifs mondiaux. Ce vendredi, Journée mondiale de la pêche, apprenez-en plus avec la FAO sur la gestion durable des ressources aquatiques.",
+      "level": "B1",
+      "topic": "actualité",
+      "summaryZh": "联合国在世界渔业日指出，可持续渔业保护海洋环境、加强粮食安全并助力全球目标，邀请大家跟粮农组织了解水生资源的可持续管理。",
+      "summaryEn": "On World Fisheries Day, the UN says sustainable fishing protects the marine environment, boosts food security and supports the Global Goals, inviting people to learn more with FAO.",
+      "vocab": [
+        {
+          "fr": "la pêche",
+          "zh": "捕鱼，渔业",
+          "en": "fishing"
+        },
+        {
+          "fr": "durable",
+          "zh": "可持续的",
+          "en": "sustainable"
+        },
+        {
+          "fr": "la sécurité alimentaire",
+          "zh": "粮食安全",
+          "en": "food security"
+        },
+        {
+          "fr": "aquatique",
+          "zh": "水生的",
+          "en": "aquatic"
+        },
+        {
+          "fr": "la gestion",
+          "zh": "管理",
+          "en": "management"
+        }
+      ],
+      "question": {
+        "prompt": "Selon le message, que fait la pêche durable ?",
+        "choices": [
+          "Elle protège l'environnement marin et renforce la sécurité alimentaire",
+          "Elle augmente le prix du poisson",
+          "Elle interdit toute pêche",
+          "Elle remplace l'agriculture"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文说 La pêche durable protège l'environnement marin, renforce la sécurité alimentaire。"
+      },
+      "explain": {
+        "styleZh": "国际日宣传帖：第一句用三个并列动词说明可持续渔业的好处，第二句用命令式邀请读者了解更多。",
+        "sentences": [
+          {
+            "fr": "La pêche durable protège l'environnement marin, renforce la sécurité alimentaire et participe à la réalisation des Objectifs mondiaux.",
+            "zh": "可持续渔业保护海洋环境，加强粮食安全，并有助于实现全球目标。",
+            "structureZh": "主语 La pêche durable，三个谓语 protège, renforce, participe 并列，现在时表示普遍事实。participer à qch 意为“参与、有助于”。注意 pêche（捕鱼）和 péché（罪过）拼写不同。des Objectifs 是 de + les 的缩合。",
+            "points": [
+              {
+                "fr": "la pêche durable",
+                "zh": "可持续渔业"
+              },
+              {
+                "fr": "l'environnement marin",
+                "zh": "海洋环境"
+              },
+              {
+                "fr": "la sécurité alimentaire",
+                "zh": "粮食安全"
+              },
+              {
+                "fr": "participer à qch",
+                "zh": "参与，有助于"
+              },
+              {
+                "fr": "la réalisation",
+                "zh": "实现"
+              }
+            ]
+          },
+          {
+            "fr": "Ce vendredi, Journée mondiale de la pêche, apprenez-en plus avec la FAO sur la gestion durable des ressources aquatiques.",
+            "zh": "本周五是世界渔业日，和联合国粮农组织一起进一步了解水生资源的可持续管理吧。",
+            "structureZh": "Ce vendredi 是时间状语，Journée mondiale de la pêche 是同位语，说明这一天是什么日子。apprenez-en plus 是命令式，en 代替“关于这件事”，命令式肯定句中代词放在动词后并用连字符。apprendre plus sur qch 意为“更多了解某事”。",
+            "points": [
+              {
+                "fr": "apprenez-en plus",
+                "zh": "命令式，了解更多（en 放在动词后）"
+              },
+              {
+                "fr": "la gestion durable",
+                "zh": "可持续管理"
+              },
+              {
+                "fr": "une ressource aquatique",
+                "zh": "水生资源"
+              },
+              {
+                "fr": "Journée mondiale",
+                "zh": "世界日，国际日"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2124095506951348225",
+      "url": "https://x.com/MinistereCC/status/2124095506951348225",
+      "author": "MinistereCC",
+      "postedAt": "2026-11-21T11:00:07Z",
+      "excerpt": "Saviez-vous que le savant André-Marie Ampère habita à Poleymieux-au-Mont-d'Or ? À la Maison d'Ampère (labellisée \"Maison des Illustres\"), découvrez des machines électriques rares et faites des expériences interactives.",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "文化部推荐出游：科学家安培曾住在里昂附近的波莱缪-奥蒙多尔，其故居被评为“名人故居”，可参观罕见的电学机器并做互动实验。",
+      "summaryEn": "The Culture Ministry suggests an outing: Ampère once lived in Poleymieux-au-Mont-d'Or; his house, labelled a Maison des Illustres, shows rare electrical machines and offers hands-on experiments.",
+      "vocab": [
+        {
+          "fr": "un savant",
+          "zh": "科学家",
+          "en": "a scholar, scientist"
+        },
+        {
+          "fr": "labellisé",
+          "zh": "获认证的",
+          "en": "labelled, certified"
+        },
+        {
+          "fr": "une expérience",
+          "zh": "实验；经历",
+          "en": "an experiment"
+        },
+        {
+          "fr": "interactif",
+          "zh": "互动的",
+          "en": "interactive"
+        },
+        {
+          "fr": "rare",
+          "zh": "罕见的",
+          "en": "rare"
+        }
+      ],
+      "question": {
+        "prompt": "Que peut-on faire à la Maison d'Ampère ?",
+        "choices": [
+          "Acheter des machines électriques",
+          "Assister à un concert",
+          "Découvrir des machines électriques rares et faire des expériences",
+          "Dormir dans la chambre d'Ampère"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文说 découvrez des machines électriques rares et faites des expériences interactives。"
+      },
+      "explain": {
+        "styleZh": "文化部的出游推荐：先用问句引起好奇，再用两个命令式邀请读者参观。",
+        "sentences": [
+          {
+            "fr": "Saviez-vous que le savant André-Marie Ampère habita à Poleymieux-au-Mont-d'Or ?",
+            "zh": "你知道吗？科学家安德烈-玛丽·安培曾住在波莱缪-奥蒙多尔。",
+            "structureZh": "Saviez-vous que … ? 是倒装疑问句，用未完成过去时 saviez，是引起话题的固定说法“您知道吗”。从句动词 habita 是简单过去时（passé simple），书面语中讲历史人物常用，口语里会说 a habité。habiter à + 地点 意为“住在某地”。",
+            "points": [
+              {
+                "fr": "Saviez-vous que … ?",
+                "zh": "您知道吗……？（固定开场白）"
+              },
+              {
+                "fr": "un savant",
+                "zh": "学者，科学家"
+              },
+              {
+                "fr": "habita",
+                "zh": "habiter 的简单过去时，书面语"
+              }
+            ]
+          },
+          {
+            "fr": "À la Maison d'Ampère (labellisée \"Maison des Illustres\"), découvrez des machines électriques rares et faites des expériences interactives.",
+            "zh": "在安培故居（获“名人故居”称号），您可以看到罕见的电学机器，还能动手做互动实验。",
+            "structureZh": "À la Maison d'Ampère 是地点状语，括号里的 labellisée 是过去分词，与阴性名词 Maison 配合，意为“被授予……称号的”。主干是两个命令式 découvrez 和 faites，用来邀请读者。faire une expérience 意为“做实验”，注意 expérience 既有“经历”也有“实验”的意思。",
+            "points": [
+              {
+                "fr": "labellisé",
+                "zh": "获得认证标签的"
+              },
+              {
+                "fr": "une machine électrique",
+                "zh": "电学机器"
+              },
+              {
+                "fr": "faire une expérience",
+                "zh": "做实验"
+              },
+              {
+                "fr": "interactif",
+                "zh": "互动的"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2123884329759903760",
+      "url": "https://x.com/franceinfo/status/2123884329759903760",
+      "author": "franceinfo",
+      "postedAt": "2026-11-20T21:00:58Z",
+      "excerpt": "81 ans de mystère autour d’un sacoche retrouvée pendant la 2ème guerre mondiale par un soldat français près d’une ferme en Tunisie, en 1943. Son petit-fils s’est lancé à la recherche du mystérieux propriétaire. Seule information en sa possession : le sac en cuir a appartenu à un soldat allemand.",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "一名法国士兵1943年在突尼斯捡到一个德国士兵的皮包。他的孙子埃里克和妻子调查三年，找到了主人的名字和他在德国的侄女们，把包送了回去。",
+      "summaryEn": "A French soldier found a German soldier's bag in Tunisia in 1943. His grandson Erick and his wife spent three years investigating, found the owner's name and nieces, and returned it.",
+      "vocab": [
+        {
+          "fr": "une sacoche",
+          "zh": "挎包",
+          "en": "a satchel"
+        },
+        {
+          "fr": "mener l'enquête",
+          "zh": "展开调查",
+          "en": "to investigate"
+        },
+        {
+          "fr": "éplucher les archives",
+          "zh": "仔细翻查档案",
+          "en": "to comb the archives"
+        },
+        {
+          "fr": "à force de",
+          "zh": "经过不断的……",
+          "en": "through persistent"
+        },
+        {
+          "fr": "une énigme",
+          "zh": "谜",
+          "en": "a riddle"
+        }
+      ],
+      "question": {
+        "prompt": "Qu'a fait Erick avec la sacoche à la fin de son enquête ?",
+        "choices": [
+          "Il l'a vendue à un musée",
+          "Il l'a ramenée à la famille du propriétaire",
+          "Il l'a gardée chez lui",
+          "Il l'a perdue en Tunisie"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "视频说 ça a été très important de ramener cette sacoche, de trouver la famille。"
+      },
+      "explain": {
+        "styleZh": "短视频配文：第一句是省略谓语的标题式名词短语，第二句用复合过去时讲孙子的行动，第三句用冒号引出唯一线索。",
+        "sentences": [
+          {
+            "fr": "81 ans de mystère autour d’un sacoche retrouvée pendant la 2ème guerre mondiale par un soldat français près d’une ferme en Tunisie, en 1943.",
+            "zh": "一个皮包的谜团持续了81年：它是1943年二战期间由一名法国士兵在突尼斯一座农场附近捡到的。",
+            "structureZh": "这是标题式句子，没有谓语动词，只有名词短语 81 ans de mystère autour de …。retrouvée 是过去分词作定语，与阴性名词 sacoche 配合，par un soldat 引出动作者，是被动含义。注意 sacoche 是阴性名词，规范写法应为 d’une sacoche，原帖的 d’un 是笔误。",
+            "points": [
+              {
+                "fr": "une sacoche",
+                "zh": "挎包，皮包（阴性名词）"
+              },
+              {
+                "fr": "retrouvé",
+                "zh": "被找到的（过去分词作定语）"
+              },
+              {
+                "fr": "autour de qch",
+                "zh": "围绕……"
+              },
+              {
+                "fr": "la 2ème guerre mondiale",
+                "zh": "第二次世界大战"
+              }
+            ]
+          },
+          {
+            "fr": "Son petit-fils s’est lancé à la recherche du mystérieux propriétaire.",
+            "zh": "他的孙子开始寻找这位神秘的主人。",
+            "structureZh": "主干 Son petit-fils s’est lancé …，se lancer 是代词式动词，复合过去时用助动词 être，过去分词与主语配合。se lancer à la recherche de qn 意为“着手寻找某人”。du 是 de + le 的缩合。mystérieux 放在名词前，带有叙事色彩。",
+            "points": [
+              {
+                "fr": "se lancer à la recherche de qn",
+                "zh": "着手寻找某人"
+              },
+              {
+                "fr": "s’est lancé",
+                "zh": "代词式动词的复合过去时用 être"
+              },
+              {
+                "fr": "un propriétaire",
+                "zh": "主人，所有者"
+              }
+            ]
+          },
+          {
+            "fr": "Seule information en sa possession : le sac en cuir a appartenu à un soldat allemand.",
+            "zh": "他手上唯一的信息是：这个皮包曾属于一名德国士兵。",
+            "structureZh": "冒号前是省略句，完整说法是 La seule information en sa possession est …。冒号后是主句，a appartenu 是复合过去时，appartenir à qn 意为“属于某人”。en sa possession 意为“他所掌握的”。sac en cuir 中 en 表示材料。",
+            "points": [
+              {
+                "fr": "en sa possession",
+                "zh": "他所掌握的"
+              },
+              {
+                "fr": "appartenir à qn",
+                "zh": "属于某人"
+              },
+              {
+                "fr": "en cuir",
+                "zh": "皮制的（en 表示材料）"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2124117708715311432",
+      "url": "https://x.com/franceinfo/status/2124117708715311432",
+      "author": "franceinfo",
+      "postedAt": "2026-11-21T12:28:20Z",
+      "excerpt": "Il est entré dans nos vies il y a un peu plus de 40 ans avec \"Elle a les yeux revolver\". Marc Lavoine revisite ses grands succès : \"Parking des anges\", \"Pour une biguine avec toi\" et même ses duos comme \"Qu'est ce que t'es belle\" avec Catherine Ringer.",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "法国电视二台人物访谈：歌手马克·拉瓦纳说自己一直是歌手，演戏是后来学的；他谈到演员韦罗妮克·雅诺的鼓励，以及与弗洛朗·帕尼多年的友谊。",
+      "summaryEn": "Singer Marc Lavoine says he has always been a singer and learned acting later; he recalls actress Véronique Jannot's encouragement and his long friendship with Florent Pagny.",
+      "vocab": [
+        {
+          "fr": "un comédien",
+          "zh": "演员",
+          "en": "an actor"
+        },
+        {
+          "fr": "un dilemme",
+          "zh": "两难",
+          "en": "a dilemma"
+        },
+        {
+          "fr": "être à la hauteur",
+          "zh": "胜任",
+          "en": "to rise to the occasion"
+        },
+        {
+          "fr": "la fidélité",
+          "zh": "忠诚",
+          "en": "faithfulness"
+        },
+        {
+          "fr": "l'amitié",
+          "zh": "友谊",
+          "en": "friendship"
+        }
+      ],
+      "question": {
+        "prompt": "Que dit Marc Lavoine de son métier ?",
+        "choices": [
+          "Il a toujours été acteur",
+          "Il veut faire la couverture des magazines",
+          "Il a arrêté de chanter",
+          "Il a toujours été chanteur, et il a appris à être acteur"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "他说 J'ai toujours été chanteur. Acteur, c'est quelque chose que j'ai appris。"
+      },
+      "explain": {
+        "styleZh": "电视新闻节目的人物预告：第一句用复合过去时和 il y a 回顾出道，第二句用现在时列举他重温的名曲。",
+        "sentences": [
+          {
+            "fr": "Il est entré dans nos vies il y a un peu plus de 40 ans avec \"Elle a les yeux revolver\".",
+            "zh": "40多年前，他凭借《她有一双左轮手枪般的眼睛》走进了我们的生活。",
+            "structureZh": "Il 指后文的 Marc Lavoine，先用代词制造悬念，下一句才点名。est entré 是复合过去时，entrer 表示位移，用助动词 être。il y a + 时间 意为“……以前”，不要和“有”混淆。avec 引出他成名的歌曲。",
+            "points": [
+              {
+                "fr": "entrer dans la vie de qn",
+                "zh": "走进某人的生活"
+              },
+              {
+                "fr": "il y a un peu plus de 40 ans",
+                "zh": "40多年前（il y a + 时间 表示“……以前”）"
+              },
+              {
+                "fr": "les yeux revolver",
+                "zh": "左轮手枪般的眼睛（歌名，名词作形容词用）"
+              }
+            ]
+          },
+          {
+            "fr": "Marc Lavoine revisite ses grands succès : \"Parking des anges\", \"Pour une biguine avec toi\" et même ses duos comme \"Qu'est ce que t'es belle\" avec Catherine Ringer.",
+            "zh": "马克·拉瓦纳重温他的经典名曲：《天使停车场》《为你跳一支比津舞》，甚至还有他和卡特琳·兰热合唱的《你多么美》。",
+            "structureZh": "主干 Marc Lavoine revisite ses grands succès，现在时表示节目中正在发生的事。revisiter 在这里是“重新演绎、回顾”。冒号后列举歌名，et même 意为“甚至还有”，表示递进。un succès 在这里指“热门歌曲”。歌名 Qu'est-ce que t'es belle 是口语，t'es 是 tu es 的缩写。",
+            "points": [
+              {
+                "fr": "revisiter qch",
+                "zh": "重温，重新演绎"
+              },
+              {
+                "fr": "un grand succès",
+                "zh": "热门作品，名曲"
+              },
+              {
+                "fr": "et même",
+                "zh": "甚至还有"
+              },
+              {
+                "fr": "ses duos",
+                "zh": "他的二重唱作品（duo 复数加 s）"
+              },
+              {
+                "fr": "t'es belle",
+                "zh": "你真美，t'es 是 tu es 的口语缩写"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2123820472534016038",
+      "url": "https://x.com/Sciences_Avenir/status/2123820472534016038",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-20T16:47:13Z",
+      "excerpt": "Ces oiseaux marins sont jet-lagués quand ils reviennent au nid après avoir chassé en mer… C’est ce qu’ont découvert une équipe de chercheurs de l’université d’Oxford, dans une étude parue dans la revue Science.",
+      "level": "B2",
+      "topic": "actualité",
+      "summaryZh": "牛津大学研究发现，大西洋鹱靠太阳和生物钟导航，长途飞回巢穴时生物钟来不及调整，会因“时差”而偏离航向。",
+      "summaryEn": "Oxford researchers found that Manx shearwaters navigate by the sun and their internal clock; after flying up to 1,500 km in 48 hours, jet lag throws them off course on the way home.",
+      "vocab": [
+        {
+          "fr": "une boussole",
+          "zh": "指南针",
+          "en": "a compass"
+        },
+        {
+          "fr": "l'horloge interne",
+          "zh": "生物钟",
+          "en": "internal clock"
+        },
+        {
+          "fr": "le décalage horaire",
+          "zh": "时差",
+          "en": "jet lag"
+        },
+        {
+          "fr": "un cap",
+          "zh": "航向",
+          "en": "a heading"
+        },
+        {
+          "fr": "dévier",
+          "zh": "偏离",
+          "en": "to deviate"
+        }
+      ],
+      "question": {
+        "prompt": "Pourquoi les puffins sont-ils déviés en rentrant au nid ?",
+        "choices": [
+          "Parce que leur horloge interne est en décalage avec l'heure locale",
+          "Parce qu'ils suivent les bateaux",
+          "Parce que le champ magnétique change",
+          "Parce qu'ils ont trop mangé"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "视频说 son horloge interne n'a pas le temps de se calibrer，c'est ce décalage qui provoque une déviation。"
+      },
+      "explain": {
+        "styleZh": "科普视频配文：第一句直接抛出有趣的发现，第二句用 c’est ce que 加倒装结构交代研究来源。",
+        "sentences": [
+          {
+            "fr": "Ces oiseaux marins sont jet-lagués quand ils reviennent au nid après avoir chassé en mer…",
+            "zh": "这些海鸟在海上捕食后回巢时会出现时差反应……",
+            "structureZh": "主干 Ces oiseaux marins sont jet-lagués，jet-lagué 是由英语 jet lag 变来的口语形容词，标准说法是 souffrir du décalage horaire。quand 引出时间从句。après avoir chassé 是不定式过去时，表示先完成的动作，主语必须和主句一致。省略号制造悬念。",
+            "points": [
+              {
+                "fr": "jet-lagué",
+                "zh": "有时差反应的（口语，来自英语）"
+              },
+              {
+                "fr": "ils reviennent au nid",
+                "zh": "它们回巢（revenir 的现在时）"
+              },
+              {
+                "fr": "après avoir + 过去分词",
+                "zh": "在做完某事之后（不定式过去时）"
+              },
+              {
+                "fr": "chasser en mer",
+                "zh": "在海上捕猎"
+              }
+            ]
+          },
+          {
+            "fr": "C’est ce qu’ont découvert une équipe de chercheurs de l’université d’Oxford, dans une étude parue dans la revue Science.",
+            "zh": "这是牛津大学一个研究团队在发表于《科学》杂志的一项研究中发现的。",
+            "structureZh": "C’est ce que … 是强调结构，“这正是……所发现的”。qu’ont découvert 是主谓倒装：关系从句里主语较长时，动词常放在主语前。动词用复数 ont，是按意思与 chercheurs 配合，严格语法应为 a découvert。parue 是 paraître 的过去分词，配合阴性名词 étude，意为“发表的”。",
+            "points": [
+              {
+                "fr": "c’est ce qu’ont découvert …",
+                "zh": "这正是……所发现的：强调结构，关系从句中动词放在长主语前（倒装）"
+              },
+              {
+                "fr": "une équipe de chercheurs",
+                "zh": "一个研究团队"
+              },
+              {
+                "fr": "parue dans",
+                "zh": "发表于（paraître 的过去分词）"
+              },
+              {
+                "fr": "une revue",
+                "zh": "期刊，杂志"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2123830674738020856",
+      "url": "https://x.com/tv5mondeinfo/status/2123830674738020856",
+      "author": "tv5mondeinfo",
+      "postedAt": "2026-11-20T17:27:46Z",
+      "excerpt": "Ils vivent retirés du monde moderne au fin fond de l'Amazonie brésilienne. Des autochtones de l'ethnie Awa sont brièvement sortis de leur isolement. Les images ont fait le tour du monde. Décryptage.",
+      "level": "B2",
+      "topic": "actualité",
+      "summaryZh": "TV5分析：巴西一群与世隔绝的阿瓦族原住民罕见地走出森林讨要食物。评论员说这说明他们的生活环境已不足以养活他们，也让其他原住民群体面临风险。",
+      "summaryEn": "TV5 analysis: isolated Awá people in Brazil rarely came out of the forest to ask for food. The commentator says their environment can no longer feed them, putting other isolated groups at risk too.",
+      "vocab": [
+        {
+          "fr": "un autochtone",
+          "zh": "原住民",
+          "en": "an Indigenous person"
+        },
+        {
+          "fr": "affamé",
+          "zh": "饥饿的",
+          "en": "starving"
+        },
+        {
+          "fr": "un délit pénal",
+          "zh": "刑事犯罪",
+          "en": "a criminal offence"
+        },
+        {
+          "fr": "autarcique",
+          "zh": "自给自足的",
+          "en": "self-sufficient"
+        },
+        {
+          "fr": "une niche écologique",
+          "zh": "生态位",
+          "en": "an ecological niche"
+        }
+      ],
+      "question": {
+        "prompt": "Pourquoi les Awa sont-ils sortis de leur isolement, selon le commentateur ?",
+        "choices": [
+          "Pour participer à une fête",
+          "Pour rencontrer des touristes",
+          "Parce qu'ils voulaient déménager en ville",
+          "Parce que leur environnement ne suffit plus à les nourrir"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "评论员说 leur niche écologique ne suffit plus à les nourrir，他们来讨要食物。"
+      },
+      "explain": {
+        "styleZh": "新闻分析节目的导语：先描写原住民的生活状态，再用复合过去时讲述事件，接着用一个短句强调影响，最后一个词 Décryptage 预告解读。",
+        "sentences": [
+          {
+            "fr": "Ils vivent retirés du monde moderne au fin fond de l'Amazonie brésilienne.",
+            "zh": "他们远离现代世界，生活在巴西亚马孙的最深处。",
+            "structureZh": "主干 Ils vivent，现在时描述长期状态。retirés du monde moderne 是过去分词作表语性补语，说明主语的状态，阳性复数配合 Ils。au fin fond de 是固定说法“在……最深处、最偏远的地方”。Ils 指下一句的 autochtones，先用代词后点明。",
+            "points": [
+              {
+                "fr": "vivre retiré de qch",
+                "zh": "远离……生活"
+              },
+              {
+                "fr": "au fin fond de qch",
+                "zh": "在……的最深处"
+              },
+              {
+                "fr": "brésilien",
+                "zh": "巴西的"
+              }
+            ]
+          },
+          {
+            "fr": "Des autochtones de l'ethnie Awa sont brièvement sortis de leur isolement.",
+            "zh": "阿瓦族的一些原住民短暂地走出了与世隔绝的状态。",
+            "structureZh": "主语 Des autochtones de l'ethnie Awa，谓语 sont sortis 是复合过去时，sortir 表示位移，用助动词 être，过去分词与主语配合，阳性复数加 -s。brièvement 是副词“短暂地”，放在助动词和过去分词之间。sortir de son isolement 意为“走出隔绝状态”。",
+            "points": [
+              {
+                "fr": "un autochtone",
+                "zh": "原住民"
+              },
+              {
+                "fr": "une ethnie",
+                "zh": "民族，族群"
+              },
+              {
+                "fr": "sortir de son isolement",
+                "zh": "走出隔绝状态"
+              },
+              {
+                "fr": "brièvement",
+                "zh": "短暂地"
+              }
+            ]
+          },
+          {
+            "fr": "Les images ont fait le tour du monde.",
+            "zh": "这些画面传遍了全世界。",
+            "structureZh": "ont fait 是复合过去时，表示已经发生的结果。faire le tour du monde 字面意思是“环游世界”，这里比喻“传遍全世界”，常用于新闻、图片、消息。",
+            "points": [
+              {
+                "fr": "faire le tour du monde",
+                "zh": "传遍全世界（比喻）"
+              },
+              {
+                "fr": "une image",
+                "zh": "画面，图像"
+              }
+            ]
+          },
+          {
+            "fr": "Décryptage.",
+            "zh": "解读。",
+            "structureZh": "这是一个单词构成的省略句，相当于“下面为您解读”。décryptage 原意是“破译密码”，新闻里常用来表示“深度解读、分析”，是节目栏目的常见标签。",
+            "points": [
+              {
+                "fr": "un décryptage",
+                "zh": "解读，分析（原意：破译）"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2124019985802506551",
+      "url": "https://x.com/tv5mondeinfo/status/2124019985802506551",
+      "author": "tv5mondeinfo",
+      "postedAt": "2026-11-21T06:00:01Z",
+      "excerpt": "Grâce aux dernières révolutions technologiques, notamment l'IA, certains estiment qu'il sera bientôt possible de réduire le temps de travail hebdomadaire de façon significative. Réalité ou utopie ? Et que faire de ce gain de temps ? Cyrielle Callot, présidente des Alchimistes, est l’invitée de Vicky Bogaert pour un nouvel épisode de Parlons Éco.",
+      "level": "B2",
+      "topic": "travail",
+      "summaryZh": "TV5《谈谈经济》：嘉宾卡洛认为AI等带来的生产力提升可让人把时间用于家庭和社区；她拒绝每周70小时的工作模式，认为领导者必须工作之外也过得充实。",
+      "summaryEn": "On TV5's Parlons Éco, Cyrielle Callot asks what to do with AI-driven productivity gains, rejects the 70-hour-week leader model and says a fulfilling personal life is essential for leaders.",
+      "vocab": [
+        {
+          "fr": "un gain de productivité",
+          "zh": "生产力提升",
+          "en": "a productivity gain"
+        },
+        {
+          "fr": "une mesure phare",
+          "zh": "核心措施",
+          "en": "a flagship measure"
+        },
+        {
+          "fr": "prendre du recul",
+          "zh": "退后一步思考",
+          "en": "to step back"
+        },
+        {
+          "fr": "prenant",
+          "zh": "耗费精力的",
+          "en": "demanding"
+        },
+        {
+          "fr": "épanoui",
+          "zh": "充实的，快乐的",
+          "en": "fulfilled"
+        }
+      ],
+      "question": {
+        "prompt": "Selon Cyrielle Callot, une belle vie personnelle pour une dirigeante, c'est…",
+        "choices": [
+          "impossible avec un poste ambitieux",
+          "réservé aux vendredis",
+          "indispensable pour être pleine d'énergie",
+          "une perte de temps"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "她说 Non seulement c'est possible, mais … c'est indispensable，因为领导者要 pleine d'énergie。"
+      },
+      "explain": {
+        "styleZh": "经济节目的预告帖：先用 certains estiment que 引出观点，再用两个省略式问句制造悬念，最后介绍嘉宾和节目。",
+        "sentences": [
+          {
+            "fr": "Grâce aux dernières révolutions technologiques, notamment l'IA, certains estiment qu'il sera bientôt possible de réduire le temps de travail hebdomadaire de façon significative.",
+            "zh": "得益于最近的技术革命，尤其是人工智能，有人认为很快就有可能大幅缩短每周工作时间。",
+            "structureZh": "Grâce aux 是 grâce à les 的缩合，引出积极原因。notamment l'IA 是插入语，举例说明。主干 certains estiment que …，certains 是不定代词“有些人”。从句 il sera … possible de + 不定式，用简单将来时 sera 表示对未来的预测，il 是无人称主语。de façon significative 相当于副词“显著地”。",
+            "points": [
+              {
+                "fr": "grâce à qch",
+                "zh": "得益于（积极原因）"
+              },
+              {
+                "fr": "notamment",
+                "zh": "尤其，特别是"
+              },
+              {
+                "fr": "certains estiment que",
+                "zh": "有些人认为"
+              },
+              {
+                "fr": "il sera possible de + inf.",
+                "zh": "将有可能做某事（简单将来时）"
+              },
+              {
+                "fr": "le temps de travail hebdomadaire",
+                "zh": "每周工作时间"
+              }
+            ]
+          },
+          {
+            "fr": "Réalité ou utopie ?",
+            "zh": "是现实还是乌托邦？",
+            "structureZh": "这是省略句，没有主语和动词，完整说法是 Est-ce une réalité ou une utopie ?。新闻和节目预告常用这种短问句制造悬念。utopie 指“空想、乌托邦”。",
+            "points": [
+              {
+                "fr": "une utopie",
+                "zh": "乌托邦，空想"
+              },
+              {
+                "fr": "la réalité",
+                "zh": "现实"
+              }
+            ]
+          },
+          {
+            "fr": "Et que faire de ce gain de temps ?",
+            "zh": "那么省下来的时间该做什么呢？",
+            "structureZh": "que + 不定式 构成疑问句，省略了主语，意为“该做什么”，比 Que devons-nous faire 更简洁。faire qch de qch 意为“拿某物做什么、如何处置”。ce gain de temps 指上一句说的缩短工时后多出来的时间。",
+            "points": [
+              {
+                "fr": "que faire de qch ?",
+                "zh": "该拿……怎么办？（que + 不定式）"
+              },
+              {
+                "fr": "un gain de temps",
+                "zh": "节省的时间"
+              }
+            ]
+          },
+          {
+            "fr": "Cyrielle Callot, présidente des Alchimistes, est l’invitée de Vicky Bogaert pour un nouvel épisode de Parlons Éco.",
+            "zh": "“炼金术士”公司总裁西里埃尔·卡洛是维基·博加尔特新一期《谈谈经济》节目的嘉宾。",
+            "structureZh": "主干 Cyrielle Callot est l’invitée de …，présidente des Alchimistes 是同位语，介绍身份，职位名词作同位语时不加冠词。l’invitée 是阴性形式，与女性嘉宾配合。nouvel 是 nouveau 在元音开头的阳性名词 épisode 前的形式。",
+            "points": [
+              {
+                "fr": "être l’invitée de qn",
+                "zh": "是某人的嘉宾（阴性配合）"
+              },
+              {
+                "fr": "un épisode",
+                "zh": "（节目）一期，一集"
+              },
+              {
+                "fr": "nouvel",
+                "zh": "nouveau 在元音前的阳性形式"
               }
             ]
           }
