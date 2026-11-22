@@ -1,0 +1,1304 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-22T12:46:12Z",
+  "items": [
+    {
+      "postId": "2124186149597921694",
+      "url": "https://x.com/CitImmCanFR/status/2124186149597921694",
+      "author": "CitImmCanFR",
+      "postedAt": "2026-11-21T17:00:18Z",
+      "excerpt": "Vous planifiez de travailler au Canada dans un domaine qui pourrait exiger un permis ou une certification? Vous devrez faire reconnaître vos titres de compétences étrangers avant de commencer à travailler. Voyez comment faire :",
+      "level": "B1",
+      "topic": "travail",
+      "summaryZh": "加拿大移民部提醒：如果你想在加拿大从事需要执照或认证的职业，开始工作前必须先让外国资历获得认可。",
+      "summaryEn": "IRCC reminds newcomers that jobs needing a licence or certification require getting foreign credentials recognized before starting work.",
+      "vocab": [
+        {
+          "fr": "reconnaître",
+          "zh": "认可，承认",
+          "en": "to recognize"
+        },
+        {
+          "fr": "un titre de compétences",
+          "zh": "资历证书",
+          "en": "a credential"
+        },
+        {
+          "fr": "une certification",
+          "zh": "资格认证",
+          "en": "a certification"
+        },
+        {
+          "fr": "exiger",
+          "zh": "要求",
+          "en": "to require"
+        }
+      ],
+      "question": {
+        "prompt": "Que faut-il faire avant de commencer à travailler dans certains domaines au Canada ?",
+        "choices": [
+          "Passer un examen de conduite",
+          "Faire reconnaître ses titres de compétences étrangers",
+          "Obtenir la citoyenneté canadienne",
+          "Ouvrir un compte bancaire canadien"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文说 Vous devrez faire reconnaître vos titres de compétences étrangers avant de commencer à travailler。"
+      },
+      "explain": {
+        "styleZh": "政府服务提示帖：先用一个问句锁定目标读者，再用将来时说明义务，最后用命令式引导读者查看办法。",
+        "sentences": [
+          {
+            "fr": "Vous planifiez de travailler au Canada dans un domaine qui pourrait exiger un permis ou une certification?",
+            "zh": "您是否打算在加拿大从事一个可能需要执照或资格认证的行业？",
+            "structureZh": "这是用陈述语序加问号构成的口语化疑问句。主干 Vous planifiez de travailler，planifier de + 不定式 表示计划做某事。qui 引导关系从句修饰 un domaine。pourrait 是 pouvoir 的条件式现在时，表示“可能会”，语气留有余地，因为并非所有行业都有此要求。加拿大法语问号前不空格。",
+            "points": [
+              {
+                "fr": "planifier de + inf.",
+                "zh": "计划做某事"
+              },
+              {
+                "fr": "un domaine",
+                "zh": "领域，行业"
+              },
+              {
+                "fr": "pourrait (pouvoir au conditionnel)",
+                "zh": "可能会（条件式表示推测）"
+              },
+              {
+                "fr": "exiger qch",
+                "zh": "要求，需要某物"
+              },
+              {
+                "fr": "une certification",
+                "zh": "资格认证"
+              }
+            ]
+          },
+          {
+            "fr": "Vous devrez faire reconnaître vos titres de compétences étrangers avant de commencer à travailler.",
+            "zh": "在开始工作之前，您需要让您的外国资历证书得到认可。",
+            "structureZh": "主干 Vous devrez faire reconnaître vos titres…。devrez 是 devoir 的简单将来时，表示将来必须履行的义务。faire + 不定式 是使役结构，faire reconnaître qch 意为“使某物得到承认”。avant de + 不定式 用于主从句主语相同的情况，表示“在做……之前”。étrangers 修饰 titres，阳性复数配合。",
+            "points": [
+              {
+                "fr": "faire reconnaître qch",
+                "zh": "使某物获得认可（使役结构）"
+              },
+              {
+                "fr": "les titres de compétences",
+                "zh": "资历证书，职业资格"
+              },
+              {
+                "fr": "avant de + inf.",
+                "zh": "在做某事之前"
+              },
+              {
+                "fr": "commencer à + inf.",
+                "zh": "开始做某事"
+              }
+            ]
+          },
+          {
+            "fr": "Voyez comment faire :",
+            "zh": "请看具体怎么做：",
+            "structureZh": "voyez 是 voir 的命令式第二人称复数，对读者表示礼貌的指引。comment + 不定式 构成间接疑问，意为“如何做”。冒号后面原帖是链接，这里已去掉。",
+            "points": [
+              {
+                "fr": "voyez (impératif de voir)",
+                "zh": "请看（voir 的命令式）"
+              },
+              {
+                "fr": "comment faire",
+                "zh": "如何去做"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2124171096681287698",
+      "url": "https://x.com/StatCan_fra/status/2124171096681287698",
+      "author": "StatCan_fra",
+      "postedAt": "2026-11-21T16:00:29Z",
+      "excerpt": "Il commence à faire plus frais; les jours raccourcissent, mais notre collecte de données ne s’arrête pas! Prenez une pause au chaud — si vous faites partie des personnes sélectionnées pour participer à l’une des enquêtes en cours, merci d’y participer.",
+      "level": "B1",
+      "topic": "actualité",
+      "summaryZh": "加拿大统计局提醒：天气转凉、白天变短，但数据收集不停；若你被选中参加正在进行的调查，请抽空参与。",
+      "summaryEn": "Statistics Canada notes that days are getting shorter and colder but data collection continues, and asks people selected for current surveys to take part.",
+      "vocab": [
+        {
+          "fr": "une enquête",
+          "zh": "调查",
+          "en": "a survey"
+        },
+        {
+          "fr": "raccourcir",
+          "zh": "变短",
+          "en": "to get shorter"
+        },
+        {
+          "fr": "la collecte de données",
+          "zh": "数据收集",
+          "en": "data collection"
+        },
+        {
+          "fr": "en cours",
+          "zh": "正在进行的",
+          "en": "ongoing"
+        }
+      ],
+      "question": {
+        "prompt": "Que demande Statistique Canada aux personnes sélectionnées ?",
+        "choices": [
+          "De participer à l’enquête en cours",
+          "De rester chez elles tout l’hiver",
+          "De payer un nouveau tarif",
+          "De changer d’adresse avant décembre"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文说 si vous faites partie des personnes sélectionnées … merci d’y participer，即请参与调查。"
+      },
+      "explain": {
+        "styleZh": "机构的亲切提示帖：先用季节变化做铺垫，再用转折强调工作不停，最后用命令式和礼貌请求号召参与调查。",
+        "sentences": [
+          {
+            "fr": "Il commence à faire plus frais; les jours raccourcissent, mais notre collecte de données ne s’arrête pas!",
+            "zh": "天气开始转凉，白天越来越短，但我们的数据收集不会停止！",
+            "structureZh": "Il commence à faire plus frais 是无人称句，il fait + 形容词 用来描述天气。分号连接第二个分句 les jours raccourcissent，现在时描述正在发生的季节变化。mais 引出转折的主句 notre collecte de données ne s’arrête pas，代动词 s’arrêter 的否定形式。感叹号加强语气。",
+            "points": [
+              {
+                "fr": "il fait frais",
+                "zh": "天气凉爽（无人称表达）"
+              },
+              {
+                "fr": "commencer à + inf.",
+                "zh": "开始做某事"
+              },
+              {
+                "fr": "raccourcir",
+                "zh": "变短"
+              },
+              {
+                "fr": "la collecte de données",
+                "zh": "数据收集"
+              },
+              {
+                "fr": "s’arrêter",
+                "zh": "停止"
+              }
+            ]
+          },
+          {
+            "fr": "Prenez une pause au chaud — si vous faites partie des personnes sélectionnées pour participer à l’une des enquêtes en cours, merci d’y participer.",
+            "zh": "找个暖和的地方歇一歇吧——如果您是被选中参加正在进行的某项调查的人员之一，感谢您参与。",
+            "structureZh": "Prenez 是 prendre 的命令式复数，语气亲切。破折号引出补充说明。si + 现在时 构成条件从句，主句用 merci de + 不定式 表示礼貌请求。y 代替 à l’une des enquêtes，因为 participer à qch 变成 y participer。sélectionnées 是过去分词作形容词，与 personnes 阴性复数配合。en cours 意为“正在进行的”。",
+            "points": [
+              {
+                "fr": "prendre une pause",
+                "zh": "休息一下"
+              },
+              {
+                "fr": "au chaud",
+                "zh": "在暖和的地方"
+              },
+              {
+                "fr": "faire partie de qch",
+                "zh": "属于……之一"
+              },
+              {
+                "fr": "merci de + inf.",
+                "zh": "请您……（礼貌请求）"
+              },
+              {
+                "fr": "y participer",
+                "zh": "参与其中（y 代替 à + 事物）"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2124153745164644828",
+      "url": "https://x.com/Sciences_Avenir/status/2124153745164644828",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-21T14:51:32Z",
+      "excerpt": "Tout comme un engrenage bien huilé fonctionne mieux, le système immunitaire est plus efficace lorsque l'organisme est soumis à une activité physique régulière et d'intensité modérée.",
+      "level": "B2",
+      "topic": "santé",
+      "summaryZh": "《科学与未来》：就像上油的齿轮转得更顺，规律、中等强度的体育活动能让免疫系统更有效。",
+      "summaryEn": "Sciences et Avenir: like a well-oiled gear, the immune system works better when the body gets regular, moderate physical activity.",
+      "vocab": [
+        {
+          "fr": "le système immunitaire",
+          "zh": "免疫系统",
+          "en": "the immune system"
+        },
+        {
+          "fr": "efficace",
+          "zh": "有效的",
+          "en": "effective"
+        },
+        {
+          "fr": "l'organisme",
+          "zh": "机体，身体",
+          "en": "the body"
+        },
+        {
+          "fr": "une activité physique",
+          "zh": "体育活动",
+          "en": "physical activity"
+        },
+        {
+          "fr": "modéré",
+          "zh": "适度的",
+          "en": "moderate"
+        }
+      ],
+      "question": {
+        "prompt": "Selon le message, quand le système immunitaire est-il plus efficace ?",
+        "choices": [
+          "Quand on dort plus de dix heures",
+          "Quand on évite tout effort physique",
+          "Lors d’un effort intense et rare",
+          "Avec une activité physique régulière et modérée"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "原文说 lorsque l'organisme est soumis à une activité physique régulière et d'intensité modérée。"
+      },
+      "explain": {
+        "styleZh": "科普导读帖：一句话完成，先用比喻引入，再给出研究结论，并用时间从句说明条件。",
+        "sentences": [
+          {
+            "fr": "Tout comme un engrenage bien huilé fonctionne mieux, le système immunitaire est plus efficace lorsque l'organisme est soumis à une activité physique régulière et d'intensité modérée.",
+            "zh": "就像上好油的齿轮运转得更好一样，当身体进行规律且中等强度的体育活动时，免疫系统也更加有效。",
+            "structureZh": "Tout comme 引出比较从句，意为“正如……一样”，先打比方。主干 le système immunitaire est plus efficace，plus + 形容词 是比较级。lorsque 引导时间兼条件从句。est soumis à 是被动结构 être soumis à qch，意为“承受、接受”。de 引出 intensité modérée 表示特征，régulière 与 activité 阴性配合。",
+            "points": [
+              {
+                "fr": "tout comme",
+                "zh": "正如，就像"
+              },
+              {
+                "fr": "un engrenage bien huilé",
+                "zh": "上好油的齿轮（比喻运转顺畅）"
+              },
+              {
+                "fr": "être soumis à qch",
+                "zh": "受到，承受"
+              },
+              {
+                "fr": "lorsque",
+                "zh": "当……时"
+              },
+              {
+                "fr": "d'intensité modérée",
+                "zh": "中等强度的"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2124207500862148999",
+      "url": "https://x.com/Sciences_Avenir/status/2124207500862148999",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-21T18:25:08Z",
+      "excerpt": "Nombre d'études scientifiques le confirment : il est possible de produire autant de nourriture sans utiliser de produits phytosanitaires, à condition de modifier les pratiques agricoles actuelles.",
+      "level": "B2",
+      "topic": "actualité",
+      "summaryZh": "《科学与未来》：多项研究证实，只要改变现有农业做法，不用农药也能生产同样多的粮食。",
+      "summaryEn": "Sciences et Avenir: many studies confirm that as much food can be produced without pesticides, provided current farming practices change.",
+      "vocab": [
+        {
+          "fr": "la nourriture",
+          "zh": "食物",
+          "en": "food"
+        },
+        {
+          "fr": "un produit phytosanitaire",
+          "zh": "农药",
+          "en": "a pesticide"
+        },
+        {
+          "fr": "une pratique agricole",
+          "zh": "农业做法",
+          "en": "a farming practice"
+        },
+        {
+          "fr": "autant de",
+          "zh": "同样多的",
+          "en": "as much"
+        }
+      ],
+      "question": {
+        "prompt": "D’après le message, à quelle condition peut-on produire autant de nourriture sans pesticides ?",
+        "choices": [
+          "En cultivant moins de terres",
+          "En important plus de produits",
+          "En modifiant les pratiques agricoles actuelles",
+          "En utilisant plus d’engrais chimiques"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文说 à condition de modifier les pratiques agricoles actuelles。"
+      },
+      "explain": {
+        "styleZh": "科普导读帖：先用中性代词 le 预告结论，冒号后给出内容，最后用 à condition de 补充条件。",
+        "sentences": [
+          {
+            "fr": "Nombre d'études scientifiques le confirment : il est possible de produire autant de nourriture sans utiliser de produits phytosanitaires, à condition de modifier les pratiques agricoles actuelles.",
+            "zh": "许多科学研究都证实：只要改变目前的农业做法，不使用农药也能生产同样多的粮食。",
+            "structureZh": "主干 Nombre d'études … le confirment。nombre de + 名词（不加冠词）意为“许多”。le 是中性代词，预先指代冒号后的整句内容。冒号后是无人称句 il est possible de + 不定式。sans + 不定式 带有否定含义，所以后面用 de produits 而不是 des produits。à condition de + 不定式 表示条件，意为“只要、前提是”。",
+            "points": [
+              {
+                "fr": "nombre de + nom",
+                "zh": "许多（不加冠词）"
+              },
+              {
+                "fr": "il est possible de + inf.",
+                "zh": "可以做某事"
+              },
+              {
+                "fr": "autant de + nom",
+                "zh": "同样多的"
+              },
+              {
+                "fr": "un produit phytosanitaire",
+                "zh": "植保产品，农药"
+              },
+              {
+                "fr": "à condition de + inf.",
+                "zh": "只要，前提是"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2124224038121648513",
+      "url": "https://x.com/Sciences_Avenir/status/2124224038121648513",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-21T19:30:51Z",
+      "excerpt": "Depuis des années, les recherches étudient l’impact des écrans sur les enfants, sans réponse unique : tout dépend de leur âge, du contenu et des activités remplacées.",
+      "level": "B1",
+      "topic": "santé",
+      "summaryZh": "《科学与未来》：多年来关于屏幕对儿童影响的研究没有统一结论，关键取决于年龄、内容和被取代的活动。",
+      "summaryEn": "Sciences et Avenir: years of research on screens and children give no single answer; it depends on age, content and which activities screens replace.",
+      "vocab": [
+        {
+          "fr": "un écran",
+          "zh": "屏幕",
+          "en": "a screen"
+        },
+        {
+          "fr": "l’impact",
+          "zh": "影响",
+          "en": "the impact"
+        },
+        {
+          "fr": "dépendre de",
+          "zh": "取决于",
+          "en": "to depend on"
+        },
+        {
+          "fr": "le contenu",
+          "zh": "内容",
+          "en": "the content"
+        }
+      ],
+      "question": {
+        "prompt": "Que disent les recherches sur l’impact des écrans sur les enfants ?",
+        "choices": [
+          "Les écrans sont toujours dangereux",
+          "Il n’y a pas de réponse unique : cela dépend de plusieurs facteurs",
+          "Les écrans améliorent toujours l’apprentissage",
+          "Aucune recherche n’a été faite"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文说 sans réponse unique : tout dépend de leur âge, du contenu et des activités remplacées。"
+      },
+      "explain": {
+        "styleZh": "科普导读帖：一句话说明研究现状，冒号后用三个并列的 de 结构列出影响因素。",
+        "sentences": [
+          {
+            "fr": "Depuis des années, les recherches étudient l’impact des écrans sur les enfants, sans réponse unique : tout dépend de leur âge, du contenu et des activités remplacées.",
+            "zh": "多年来，研究一直在探讨屏幕对儿童的影响，但没有统一的答案：一切取决于孩子的年龄、内容以及被屏幕取代的活动。",
+            "structureZh": "Depuis + 时间段 + 现在时 表示从过去持续到现在的动作，所以 étudient 用现在时而不用过去时。sans réponse unique 是介词短语，补充说明结果。冒号后解释原因。dépendre de 后接三个并列成分：de leur âge，du contenu（de + le 缩合），des activités（de + les 缩合）。remplacées 是过去分词作定语，指被屏幕时间取代的活动。",
+            "points": [
+              {
+                "fr": "depuis + durée + présent",
+                "zh": "从……以来一直（用现在时）"
+              },
+              {
+                "fr": "l’impact de qch sur qch",
+                "zh": "某事对某事的影响"
+              },
+              {
+                "fr": "dépendre de qch",
+                "zh": "取决于"
+              },
+              {
+                "fr": "du contenu, des activités",
+                "zh": "缩合冠词：du = de + le，des = de + les"
+              },
+              {
+                "fr": "une activité remplacée",
+                "zh": "被取代的活动"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2124243512271184239",
+      "url": "https://x.com/LeTemps/status/2124243512271184239",
+      "author": "LeTemps",
+      "postedAt": "2026-11-21T20:48:14Z",
+      "excerpt": "Pour les parents, choisir des fictions de qualité dans une offre pléthorique n’est pas aisé. Nous avons sondé des cinéastes romands sur leur propre pratique, en famille",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "《时报》：在海量内容中为孩子挑选优质影视作品并不容易，记者请教了几位瑞士法语区电影人在家中的做法。",
+      "summaryEn": "Le Temps: picking quality films and series for children in an overloaded offer is hard, so the paper asked French-speaking Swiss filmmakers how they do it at home.",
+      "vocab": [
+        {
+          "fr": "pléthorique",
+          "zh": "过多的",
+          "en": "overabundant"
+        },
+        {
+          "fr": "aisé",
+          "zh": "容易的",
+          "en": "easy"
+        },
+        {
+          "fr": "sonder",
+          "zh": "调查，询问",
+          "en": "to survey"
+        },
+        {
+          "fr": "romand",
+          "zh": "瑞士法语区的",
+          "en": "French-speaking Swiss"
+        },
+        {
+          "fr": "un cinéaste",
+          "zh": "电影人",
+          "en": "a filmmaker"
+        }
+      ],
+      "question": {
+        "prompt": "Qui Le Temps a-t-il interrogé ?",
+        "choices": [
+          "Des enseignants genevois",
+          "Des pédiatres français",
+          "Des producteurs américains",
+          "Des cinéastes romands"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "原文说 Nous avons sondé des cinéastes romands sur leur propre pratique。"
+      },
+      "explain": {
+        "styleZh": "报纸文章导语：第一句用不定式作主语提出难题，第二句用复合过去时介绍采访内容，结尾是标题式省略。",
+        "sentences": [
+          {
+            "fr": "Pour les parents, choisir des fictions de qualité dans une offre pléthorique n’est pas aisé.",
+            "zh": "对父母来说，在海量的作品中挑选优质的影视故事并不容易。",
+            "structureZh": "这句的主语是不定式短语 choisir des fictions de qualité dans une offre pléthorique，不定式可以直接作主语。谓语是 n’est pas aisé。Pour les parents 放在句首，强调对象。pléthorique 是书面词，意为“过多的、泛滥的”。aisé 等于 facile，语域更正式。",
+            "points": [
+              {
+                "fr": "choisir qch",
+                "zh": "挑选某物"
+              },
+              {
+                "fr": "une fiction",
+                "zh": "虚构作品（影视剧、故事）"
+              },
+              {
+                "fr": "de qualité",
+                "zh": "优质的"
+              },
+              {
+                "fr": "une offre pléthorique",
+                "zh": "过量的供给"
+              },
+              {
+                "fr": "aisé",
+                "zh": "容易的（= facile）"
+              }
+            ]
+          },
+          {
+            "fr": "Nous avons sondé des cinéastes romands sur leur propre pratique, en famille",
+            "zh": "我们询问了几位瑞士法语区的电影人，了解他们自己在家里是怎么做的。",
+            "structureZh": "主干 Nous avons sondé des cinéastes，复合过去时表示采访已经完成。sonder qn sur qch 意为“就某事询问某人”。romand 指瑞士法语区的。leur propre 意为“他们自己的”。en famille 意为“在家里、和家人一起”。句末没有句号，是导语式的省略写法。",
+            "points": [
+              {
+                "fr": "sonder qn sur qch",
+                "zh": "就某事调查某人"
+              },
+              {
+                "fr": "un cinéaste",
+                "zh": "电影人"
+              },
+              {
+                "fr": "romand",
+                "zh": "瑞士法语区的"
+              },
+              {
+                "fr": "en famille",
+                "zh": "和家人一起"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2124169615202734421",
+      "url": "https://x.com/LeTemps/status/2124169615202734421",
+      "author": "LeTemps",
+      "postedAt": "2026-11-21T15:54:36Z",
+      "excerpt": "Les choix alimentaires des Suisses sont d’abord guidés par le goût. Comment le concilier avec la santé? Les chefs Stéphane Décotterd et Franck Giovannini répondent, avant d’en débattre au Forum Santé du «Temps», le 24 novembre...",
+      "level": "B1",
+      "topic": "santé",
+      "summaryZh": "《时报》：瑞士人的饮食选择首先看口味，怎样兼顾健康？两位主厨作答，并将在11月24日的健康论坛上讨论。",
+      "summaryEn": "Le Temps: the Swiss choose food mainly by taste; two chefs explain how to reconcile taste and health ahead of a debate at the paper's Health Forum on 24 November.",
+      "vocab": [
+        {
+          "fr": "alimentaire",
+          "zh": "饮食的",
+          "en": "food-related"
+        },
+        {
+          "fr": "le goût",
+          "zh": "口味",
+          "en": "taste"
+        },
+        {
+          "fr": "concilier",
+          "zh": "兼顾，协调",
+          "en": "to reconcile"
+        },
+        {
+          "fr": "débattre de",
+          "zh": "讨论",
+          "en": "to debate"
+        }
+      ],
+      "question": {
+        "prompt": "Selon Le Temps, qu’est-ce qui guide d’abord les choix alimentaires des Suisses ?",
+        "choices": [
+          "Le goût",
+          "Le prix",
+          "La santé",
+          "La mode"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文说 Les choix alimentaires des Suisses sont d’abord guidés par le goût。"
+      },
+      "explain": {
+        "styleZh": "报纸活动预告：先陈述事实，再抛出问题，最后介绍回答问题的嘉宾和论坛日期。",
+        "sentences": [
+          {
+            "fr": "Les choix alimentaires des Suisses sont d’abord guidés par le goût.",
+            "zh": "瑞士人的饮食选择首先由口味决定。",
+            "structureZh": "这是被动语态：être + 过去分词 + par + 施动者。guidés 与主语 Les choix 阳性复数配合。d’abord 意为“首先”，强调口味是第一位的因素。alimentaire 是形容词，意为“饮食的”。",
+            "points": [
+              {
+                "fr": "les choix alimentaires",
+                "zh": "饮食选择"
+              },
+              {
+                "fr": "être guidé par qch",
+                "zh": "由……引导、决定"
+              },
+              {
+                "fr": "d’abord",
+                "zh": "首先"
+              },
+              {
+                "fr": "le goût",
+                "zh": "味道，口味"
+              }
+            ]
+          },
+          {
+            "fr": "Comment le concilier avec la santé?",
+            "zh": "怎样才能让口味与健康兼顾？",
+            "structureZh": "这是 comment + 不定式 的省略疑问句，省去了主语，表示“该如何……”。le 是直接宾语代词，指上一句的 le goût，放在不定式前面。concilier A avec B 意为“使 A 与 B 协调”。",
+            "points": [
+              {
+                "fr": "concilier qch avec qch",
+                "zh": "使两者兼顾、协调"
+              },
+              {
+                "fr": "comment + inf.",
+                "zh": "该如何做（省略疑问）"
+              }
+            ]
+          },
+          {
+            "fr": "Les chefs Stéphane Décotterd et Franck Giovannini répondent, avant d’en débattre au Forum Santé du «Temps», le 24 novembre...",
+            "zh": "主厨斯特凡·德科泰尔和弗兰克·焦瓦尼尼作答，之后还将在11月24日的《时报》健康论坛上就此展开讨论……",
+            "structureZh": "主干 Les chefs … répondent，现在时用于新闻导语。avant de + 不定式 表示之后的安排。en 代替 de cela，因为 débattre de qch 变成 en débattre，指前面的问题。«Temps» 指《时报》本身。末尾省略号说明原帖是节选预告。",
+            "points": [
+              {
+                "fr": "avant de + inf.",
+                "zh": "在做某事之前"
+              },
+              {
+                "fr": "débattre de qch → en débattre",
+                "zh": "就某事辩论（en 代替 de + 事物）"
+              },
+              {
+                "fr": "un forum",
+                "zh": "论坛"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2124478501067882629",
+      "url": "https://x.com/laBnF/status/2124478501067882629",
+      "author": "laBnF",
+      "postedAt": "2026-11-22T12:22:00Z",
+      "excerpt": "La 6ème saison musicale européenne de la BnF et de Radio France s'annonce exquise. En ouverture, le lundi 30 novembre, explorons les relations musicales entre la France et l’Italie à l’époque baroque :",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "法国国家图书馆与法国广播电台推出第六届欧洲音乐季，11月30日开幕音乐会将探索巴洛克时期法意之间的音乐关系。",
+      "summaryEn": "The BnF and Radio France open their 6th European music season on Monday 30 November with a concert on French and Italian Baroque musical ties.",
+      "vocab": [
+        {
+          "fr": "exquis",
+          "zh": "精致美妙的",
+          "en": "exquisite"
+        },
+        {
+          "fr": "une saison musicale",
+          "zh": "音乐季",
+          "en": "a music season"
+        },
+        {
+          "fr": "l’époque baroque",
+          "zh": "巴洛克时期",
+          "en": "the Baroque era"
+        },
+        {
+          "fr": "explorer",
+          "zh": "探索",
+          "en": "to explore"
+        }
+      ],
+      "question": {
+        "prompt": "De quoi parle le concert d’ouverture du 30 novembre ?",
+        "choices": [
+          "De la musique rock britannique",
+          "Du jazz américain",
+          "Des relations musicales entre la France et l’Italie à l’époque baroque",
+          "De l’opéra allemand moderne"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文说 explorons les relations musicales entre la France et l’Italie à l’époque baroque。"
+      },
+      "explain": {
+        "styleZh": "文化机构的活动预告：第一句宣布音乐季，第二句用命令式“让我们”邀请读者参加开幕音乐会。",
+        "sentences": [
+          {
+            "fr": "La 6ème saison musicale européenne de la BnF et de Radio France s'annonce exquise.",
+            "zh": "法国国家图书馆与法国广播电台合办的第六届欧洲音乐季看起来将十分精彩。",
+            "structureZh": "主干 La 6ème saison … s'annonce exquise。s'annoncer + 形容词 是代动词结构，意为“看起来将会……”，用于预告。6ème 读作 sixième。exquise 是 exquis 的阴性，与 saison 配合。BnF 是 Bibliothèque nationale de France 的缩写。",
+            "points": [
+              {
+                "fr": "s'annoncer + adj.",
+                "zh": "看起来将会……"
+              },
+              {
+                "fr": "exquis, exquise",
+                "zh": "精致美妙的"
+              },
+              {
+                "fr": "une saison musicale",
+                "zh": "音乐季"
+              }
+            ]
+          },
+          {
+            "fr": "En ouverture, le lundi 30 novembre, explorons les relations musicales entre la France et l’Italie à l’époque baroque :",
+            "zh": "作为开幕，11月30日星期一，让我们一起探索巴洛克时期法国与意大利之间的音乐关系：",
+            "structureZh": "explorons 是 explorer 的命令式第一人称复数，意为“让我们一起……”。En ouverture 意为“作为开场”。日期前用定冠词 le lundi 30 novembre。entre A et B 表示两者之间的关系。à l’époque baroque 意为“在巴洛克时代”。冒号后原帖是链接。",
+            "points": [
+              {
+                "fr": "en ouverture",
+                "zh": "作为开场"
+              },
+              {
+                "fr": "explorer (impératif nous : explorons)",
+                "zh": "让我们探索"
+              },
+              {
+                "fr": "les relations entre A et B",
+                "zh": "A 与 B 之间的关系"
+              },
+              {
+                "fr": "à l’époque baroque",
+                "zh": "在巴洛克时期"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2124147272384651605",
+      "url": "https://x.com/franceinfo/status/2124147272384651605",
+      "author": "franceinfo",
+      "postedAt": "2026-11-21T14:25:49Z",
+      "excerpt": "C’est une maison que tous les amateurs de comédies romantiques connaissent... Celle du film “Coup de foudre à Notting Hill”. Elle est à vendre pour la modique somme de 9 millions d’euros. Attention : ni Julia Roberts ni Hugh Grant ne sont compris dans le prix.",
+      "level": "B1",
+      "topic": "logement",
+      "summaryZh": "电影《诺丁山》中的蓝门房子挂牌900万欧元出售。房产经纪人说电影让街区名气和房价大涨，但片中的室内其实是摄影棚布景。",
+      "summaryEn": "The blue-door house from Notting Hill is for sale for 9 million euros. The film boosted the area's fame and prices, but its interior scenes were shot on a studio set.",
+      "vocab": [
+        {
+          "fr": "être à vendre",
+          "zh": "待售",
+          "en": "to be for sale"
+        },
+        {
+          "fr": "une agente immobilière",
+          "zh": "房产经纪人",
+          "en": "an estate agent"
+        },
+        {
+          "fr": "la notoriété",
+          "zh": "名气",
+          "en": "fame"
+        },
+        {
+          "fr": "un décor",
+          "zh": "布景",
+          "en": "a set"
+        },
+        {
+          "fr": "haut de gamme",
+          "zh": "高端的",
+          "en": "high-end"
+        }
+      ],
+      "question": {
+        "prompt": "Pourquoi les nouveaux propriétaires ne pourront-ils pas dire qu’ils habitent dans la maison de Hugh Grant ?",
+        "choices": [
+          "Parce que l’intérieur du film était un décor en studio",
+          "Parce que la maison a été entièrement rénovée",
+          "Parce que Hugh Grant y habite encore",
+          "Parce que la porte bleue a été changée"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "视频说 l'intérieur était en fait un décor en studio，电影里的室内是摄影棚布景。"
+      },
+      "explain": {
+        "styleZh": "轻松的社会新闻帖：先卖关子，再用省略句揭晓答案，接着给出价格，最后用幽默的否定句收尾。",
+        "sentences": [
+          {
+            "fr": "C’est une maison que tous les amateurs de comédies romantiques connaissent...",
+            "zh": "这是一栋所有浪漫喜剧爱好者都熟悉的房子……",
+            "structureZh": "C’est + 名词 用来引出话题。que 是关系代词，在从句中作 connaissent 的直接宾语，指 une maison。从句主语是 tous les amateurs de comédies romantiques，所以动词用第三人称复数。省略号制造悬念，引出下一句。",
+            "points": [
+              {
+                "fr": "un amateur de qch",
+                "zh": "……的爱好者"
+              },
+              {
+                "fr": "une comédie romantique",
+                "zh": "浪漫喜剧"
+              },
+              {
+                "fr": "connaître qch",
+                "zh": "熟悉某物（此处 que 是它的直接宾语）"
+              }
+            ]
+          },
+          {
+            "fr": "Celle du film “Coup de foudre à Notting Hill”.",
+            "zh": "就是电影《诺丁山》里的那栋。",
+            "structureZh": "这是省略句，没有动词。celle 是指示代词，代替上一句的 une maison（阴性单数），celle de + 名词 意为“……的那个”。du = de + le。片名 Coup de foudre 本义“雷击”，引申为“一见钟情”。",
+            "points": [
+              {
+                "fr": "celle de + nom",
+                "zh": "……的那个（指示代词，阴性单数）"
+              },
+              {
+                "fr": "un coup de foudre",
+                "zh": "一见钟情"
+              }
+            ]
+          },
+          {
+            "fr": "Elle est à vendre pour la modique somme de 9 millions d’euros.",
+            "zh": "它正在出售，售价“区区”900万欧元。",
+            "structureZh": "主干 Elle est à vendre。être à + 不定式 表示被动或待办的意思，être à vendre 即“待售”。la modique somme 本义“微薄的金额”，这里与900万欧元形成反差，是反讽的说法。",
+            "points": [
+              {
+                "fr": "être à vendre",
+                "zh": "待售"
+              },
+              {
+                "fr": "modique",
+                "zh": "微薄的（此处为反讽）"
+              },
+              {
+                "fr": "une somme",
+                "zh": "金额"
+              }
+            ]
+          },
+          {
+            "fr": "Attention : ni Julia Roberts ni Hugh Grant ne sont compris dans le prix.",
+            "zh": "注意：朱莉娅·罗伯茨和休·格兰特都不包含在价格里。",
+            "structureZh": "ni A ni B ne + 动词 是否定并列结构，意为“既不……也不……”，两个主语并列，动词用复数 sont。être compris dans qch 意为“包含在……之内”，compris 与两个主语按阳性复数配合。这句是幽默的结尾。",
+            "points": [
+              {
+                "fr": "ni A ni B ne sont …",
+                "zh": "既不……也不……（否定并列）"
+              },
+              {
+                "fr": "être compris dans qch",
+                "zh": "包含在……之内"
+              },
+              {
+                "fr": "le prix",
+                "zh": "价格"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2124246677767037101",
+      "url": "https://x.com/franceinfo/status/2124246677767037101",
+      "author": "franceinfo",
+      "postedAt": "2026-11-21T21:00:49Z",
+      "excerpt": "C’est l’objet fabriqué par l’être humain le plus éloigné de la Terre. La sonde Voyager 1 de la Nasa a atteint, mercredi 18 novembre, la distance vertigineuse d’un “jour-lumière”, soit près de 26 milliards de kilomètres.",
+      "level": "B1",
+      "topic": "actualité",
+      "summaryZh": "旅行者1号距地球已达一光日（约260亿公里），每次通信往返需48小时；它靠钚发电机运转近50年，还带着记录人类声音和图像的金唱片。",
+      "summaryEn": "Voyager 1 is now one light-day (about 26 billion km) from Earth; each exchange takes 48 hours. Powered by plutonium for nearly 50 years, it carries the Golden Record.",
+      "vocab": [
+        {
+          "fr": "une sonde",
+          "zh": "探测器",
+          "en": "a probe"
+        },
+        {
+          "fr": "l’espace interstellaire",
+          "zh": "星际空间",
+          "en": "interstellar space"
+        },
+        {
+          "fr": "une prouesse technique",
+          "zh": "技术壮举",
+          "en": "a technical feat"
+        },
+        {
+          "fr": "franchir un cap",
+          "zh": "跨过一个里程碑",
+          "en": "to pass a milestone"
+        },
+        {
+          "fr": "un jour-lumière",
+          "zh": "光日",
+          "en": "a light-day"
+        }
+      ],
+      "question": {
+        "prompt": "Combien de temps prend chaque échange avec Voyager 1 ?",
+        "choices": [
+          "Quelques secondes",
+          "Une semaine",
+          "Un mois",
+          "Environ 48 heures"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "视频中说 chaque échange avec elle prend 48 heures：24小时发送，24小时接收回音。"
+      },
+      "explain": {
+        "styleZh": "科普新闻帖：先用强调句制造悬念，再用一句完整的新闻句给出事实和数据。",
+        "sentences": [
+          {
+            "fr": "C’est l’objet fabriqué par l’être humain le plus éloigné de la Terre.",
+            "zh": "这是离地球最远的人造物体。",
+            "structureZh": "C’est + 名词 用来介绍对象。fabriqué par l’être humain 是过去分词短语作定语，意为“由人类制造的”。le plus éloigné de 是最高级，形容词放在名词后面时要重复定冠词：l’objet … le plus éloigné。de la Terre 表示比较的参照点。",
+            "points": [
+              {
+                "fr": "fabriqué par qn",
+                "zh": "由某人制造的"
+              },
+              {
+                "fr": "l’être humain",
+                "zh": "人类"
+              },
+              {
+                "fr": "le plus + adj.",
+                "zh": "最……的（最高级）"
+              },
+              {
+                "fr": "éloigné de qch",
+                "zh": "远离某处的"
+              }
+            ]
+          },
+          {
+            "fr": "La sonde Voyager 1 de la Nasa a atteint, mercredi 18 novembre, la distance vertigineuse d’un “jour-lumière”, soit près de 26 milliards de kilomètres.",
+            "zh": "美国宇航局的旅行者1号探测器于11月18日星期三抵达了令人眩晕的“一光日”距离，也就是约260亿公里。",
+            "structureZh": "主干 La sonde … a atteint la distance …，复合过去时表示已完成的事件。日期 mercredi 18 novembre 作插入语放在两个逗号之间。vertigineuse 是 vertigineux 的阴性，修饰 distance。soit 在这里不是动词，而是“即、也就是”，用来换算数据。près de 意为“将近”。",
+            "points": [
+              {
+                "fr": "une sonde",
+                "zh": "探测器"
+              },
+              {
+                "fr": "atteindre qch",
+                "zh": "到达（a atteint 为复合过去时）"
+              },
+              {
+                "fr": "vertigineux, vertigineuse",
+                "zh": "令人眩晕的"
+              },
+              {
+                "fr": "un jour-lumière",
+                "zh": "光日（光一天走的距离）"
+              },
+              {
+                "fr": "soit",
+                "zh": "即，也就是（用于换算）"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2124174994909319461",
+      "url": "https://x.com/tv5mondeinfo/status/2124174994909319461",
+      "author": "tv5mondeinfo",
+      "postedAt": "2026-11-21T16:15:58Z",
+      "excerpt": "En Côte d’Ivoire, la populaire danse Biama séduit de plus en plus la jeune génération, portée par les réseaux sociaux. Le Biama est hérité du célèbre coupé-décalé.",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "科特迪瓦的Biama舞源自coupé-décalé，借社交网络走红，节奏快、人人能跳。它让舞者有收入、带动服装生意，业界希望加强版权保护。",
+      "summaryEn": "Ivory Coast's biama dance, born from coupé-décalé, went viral online. Its fast beat draws youth, it creates paid work and clothing sales, and artists now need copyright protection.",
+      "vocab": [
+        {
+          "fr": "séduire",
+          "zh": "吸引",
+          "en": "to appeal to"
+        },
+        {
+          "fr": "viral",
+          "zh": "走红的，病毒式传播的",
+          "en": "viral"
+        },
+        {
+          "fr": "les retombées économiques",
+          "zh": "经济效益",
+          "en": "economic spin-offs"
+        },
+        {
+          "fr": "rémunéré",
+          "zh": "有报酬的",
+          "en": "paid"
+        },
+        {
+          "fr": "les droits d'auteur",
+          "zh": "版权",
+          "en": "copyright"
+        }
+      ],
+      "question": {
+        "prompt": "D’après le reportage, comment le biama crée-t-il des retombées économiques ?",
+        "choices": [
+          "Grâce aux impôts sur les concerts",
+          "Avec des danseurs rémunérés et la vente de vêtements",
+          "Grâce aux subventions de l’État",
+          "Par la vente de billets d’avion"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "视频说舞者演出有报酬，还有 la vente de vêtements adaptés pour pouvoir danser le biama。"
+      },
+      "explain": {
+        "styleZh": "文化报道帖：第一句介绍现象并用过去分词短语说明原因，第二句用被动结构交代舞蹈的来源。",
+        "sentences": [
+          {
+            "fr": "En Côte d’Ivoire, la populaire danse Biama séduit de plus en plus la jeune génération, portée par les réseaux sociaux.",
+            "zh": "在科特迪瓦，广受欢迎的Biama舞借助社交网络，越来越受到年轻一代的喜爱。",
+            "structureZh": "主干 la populaire danse Biama séduit la jeune génération，séduire qn 意为“吸引某人”。populaire 放在名词前，带有强调色彩。de plus en plus 意为“越来越”。portée par les réseaux sociaux 是过去分词短语，带被动含义“被社交网络推动”，阴性与 danse 配合。",
+            "points": [
+              {
+                "fr": "séduire qn",
+                "zh": "吸引某人"
+              },
+              {
+                "fr": "de plus en plus",
+                "zh": "越来越"
+              },
+              {
+                "fr": "porté par qch",
+                "zh": "由……推动"
+              },
+              {
+                "fr": "les réseaux sociaux",
+                "zh": "社交网络"
+              },
+              {
+                "fr": "la jeune génération",
+                "zh": "年轻一代"
+              }
+            ]
+          },
+          {
+            "fr": "Le Biama est hérité du célèbre coupé-décalé.",
+            "zh": "Biama源自著名的coupé-décalé舞曲。",
+            "structureZh": "être hérité de qch 是被动结构，意为“继承自、源自”。du = de + le。coupé-décalé 是科特迪瓦的流行舞曲风格，作名词时用阳性。",
+            "points": [
+              {
+                "fr": "être hérité de qch",
+                "zh": "源自，继承自"
+              },
+              {
+                "fr": "célèbre",
+                "zh": "著名的"
+              },
+              {
+                "fr": "le coupé-décalé",
+                "zh": "科特迪瓦流行舞曲风格"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2124430121151197571",
+      "url": "https://x.com/tv5mondeinfo/status/2124430121151197571",
+      "author": "tv5mondeinfo",
+      "postedAt": "2026-11-22T09:09:45Z",
+      "excerpt": "Du clip de Madonna au Ballet de Genève, il n'y a qu'un pas pour le talentueux chorégraphe franco-belge Damien Jalet ! Il rejoint le répertoire du Ballet de Genève avec la création \"Brise-Lames\" et une scénographie signée de l'artiste Jr.",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "法国-比利时编舞家达米安·雅莱携新作《防波堤》进入日内瓦芭蕾舞团剧目。他喜欢让舞者走出舒适区，用身体表现海浪，舞台设计由JR完成。",
+      "summaryEn": "Franco-Belgian choreographer Damien Jalet brings Brise-Lames to the Geneva Ballet: dancers' bodies become waves, with set design by JR. He likes pushing dancers out of their comfort zone.",
+      "vocab": [
+        {
+          "fr": "un chorégraphe",
+          "zh": "编舞家",
+          "en": "a choreographer"
+        },
+        {
+          "fr": "la scénographie",
+          "zh": "舞台设计",
+          "en": "set design"
+        },
+        {
+          "fr": "lâcher prise",
+          "zh": "放手",
+          "en": "to let go"
+        },
+        {
+          "fr": "une zone de confort",
+          "zh": "舒适区",
+          "en": "a comfort zone"
+        },
+        {
+          "fr": "onduler",
+          "zh": "起伏",
+          "en": "to ripple"
+        },
+        {
+          "fr": "le flux et le reflux",
+          "zh": "潮起潮落",
+          "en": "ebb and flow"
+        }
+      ],
+      "question": {
+        "prompt": "Selon Damien Jalet, où aime-t-il faire travailler ses danseurs ?",
+        "choices": [
+          "Toujours dans des conditions faciles",
+          "Hors de leur zone de confort, un peu en équilibre",
+          "Uniquement devant une caméra",
+          "Seulement dans de petits studios"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "他说 J'aime bien mettre les danseurs au travail dans des endroits où ils ne peuvent pas être dans une zone de confort。"
+      },
+      "explain": {
+        "styleZh": "文化新闻帖：第一句用固定说法 il n'y a qu'un pas 制造跨度感，第二句交代新作和合作艺术家。",
+        "sentences": [
+          {
+            "fr": "Du clip de Madonna au Ballet de Genève, il n'y a qu'un pas pour le talentueux chorégraphe franco-belge Damien Jalet !",
+            "zh": "从麦当娜的MV到日内瓦芭蕾舞团，对才华横溢的法国-比利时编舞家达米安·雅莱来说只有一步之遥！",
+            "structureZh": "Du … au … 表示“从……到……”，du = de + le，au = à + le。主干 il n'y a qu'un pas 是固定说法，意为“只有一步之遥”，ne … que 表示“只”。pour 引出所涉及的人。talentueux 放在名词前，带有赞美语气。franco-belge 是复合形容词。",
+            "points": [
+              {
+                "fr": "du clip … au Ballet",
+                "zh": "从……到……（du = de + le，au = à + le）"
+              },
+              {
+                "fr": "il n'y a qu'un pas pour qn",
+                "zh": "对某人来说只有一步之遥（ne … que 意为“只”）"
+              },
+              {
+                "fr": "talentueux",
+                "zh": "有才华的"
+              },
+              {
+                "fr": "un chorégraphe",
+                "zh": "编舞家"
+              },
+              {
+                "fr": "franco-belge",
+                "zh": "法国-比利时的（复合形容词）"
+              }
+            ]
+          },
+          {
+            "fr": "Il rejoint le répertoire du Ballet de Genève avec la création \"Brise-Lames\" et une scénographie signée de l'artiste Jr.",
+            "zh": "他凭借新作《防波堤》进入日内瓦芭蕾舞团的保留剧目，舞台设计出自艺术家JR之手。",
+            "structureZh": "主干 Il rejoint le répertoire，新闻里常用现在时叙述近期事件。avec 引出两个并列成分：la création 和 une scénographie。signée de 是过去分词作定语，意为“由……署名、出自……之手”，阴性与 scénographie 配合。création 在演艺领域指“新创作品、首演作品”。",
+            "points": [
+              {
+                "fr": "rejoindre qch",
+                "zh": "加入"
+              },
+              {
+                "fr": "le répertoire",
+                "zh": "保留剧目"
+              },
+              {
+                "fr": "une création",
+                "zh": "新创作品"
+              },
+              {
+                "fr": "une scénographie",
+                "zh": "舞台设计"
+              },
+              {
+                "fr": "signé de qn",
+                "zh": "出自某人之手"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2124367270189375795",
+      "url": "https://x.com/UNESCO_fr/status/2124367270189375795",
+      "author": "UNESCO_fr",
+      "postedAt": "2026-11-22T05:00:00Z",
+      "excerpt": "Derrière chaque percée en matière de santé se trouve une chercheuse qui pose des questions audacieuses et trouve des réponses capables de changer des vies. Rencontrez Dre Aude Christelle Ka’e et Dre Azizath Moussiliou, lauréates de la deuxième édition du Programme de bourses de l’UNESCO pour les jeunes femmes scientifiques en Afrique.",
+      "level": "B1",
+      "topic": "actualité",
+      "summaryZh": "联合国教科文组织介绍非洲青年女科学家奖学金获奖者：她们谈到在非洲做科研的障碍、女性要加倍努力才获认可，并鼓励女孩投身科学。",
+      "summaryEn": "UNESCO profiles laureates of its fellowship for young women scientists in Africa, who describe obstacles and unequal recognition and urge girls to take their place in science.",
+      "vocab": [
+        {
+          "fr": "une percée",
+          "zh": "突破",
+          "en": "a breakthrough"
+        },
+        {
+          "fr": "une chercheuse",
+          "zh": "女研究者",
+          "en": "a (female) researcher"
+        },
+        {
+          "fr": "une bourse",
+          "zh": "奖学金",
+          "en": "a fellowship, grant"
+        },
+        {
+          "fr": "baisser les bras",
+          "zh": "放弃",
+          "en": "to give up"
+        },
+        {
+          "fr": "la reconnaissance",
+          "zh": "认可",
+          "en": "recognition"
+        }
+      ],
+      "question": {
+        "prompt": "Selon la chercheuse, que doivent souvent faire les femmes scientifiques ?",
+        "choices": [
+          "Quitter l’Afrique pour réussir",
+          "Payer elles-mêmes leurs recherches",
+          "Faire deux fois plus pour avoir la moitié de la reconnaissance",
+          "Arrêter la recherche après le doctorat"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "视频中她说 on doit souvent faire deux fois plus pour avoir la moitié de la reconnaissance。"
+      },
+      "explain": {
+        "styleZh": "机构宣传帖：第一句用倒装句营造郑重感，第二句用命令式邀请读者认识两位获奖者，并用同位语介绍身份。",
+        "sentences": [
+          {
+            "fr": "Derrière chaque percée en matière de santé se trouve une chercheuse qui pose des questions audacieuses et trouve des réponses capables de changer des vies.",
+            "zh": "每一项医学突破的背后，都有一位女研究者：她提出大胆的问题，并找到能够改变生命的答案。",
+            "structureZh": "这是主谓倒装句：地点状语 Derrière chaque percée … 放在句首，动词 se trouve 提到主语 une chercheuse 前面，语气更庄重。qui 引导关系从句，两个并列动词 pose 和 trouve 共用主语 qui。capables de changer des vies 是形容词短语，修饰 réponses。en matière de 意为“在……方面”。",
+            "points": [
+              {
+                "fr": "une percée",
+                "zh": "突破"
+              },
+              {
+                "fr": "en matière de qch",
+                "zh": "在……方面"
+              },
+              {
+                "fr": "se trouver",
+                "zh": "位于（此处主谓倒装）"
+              },
+              {
+                "fr": "audacieux, audacieuse",
+                "zh": "大胆的"
+              },
+              {
+                "fr": "capable de + inf.",
+                "zh": "能够做某事的"
+              }
+            ]
+          },
+          {
+            "fr": "Rencontrez Dre Aude Christelle Ka’e et Dre Azizath Moussiliou, lauréates de la deuxième édition du Programme de bourses de l’UNESCO pour les jeunes femmes scientifiques en Afrique.",
+            "zh": "来认识一下奥德·克里斯特尔·卡埃博士和阿齐扎特·穆西利乌博士，她们是联合国教科文组织非洲青年女科学家奖学金项目第二届的获奖者。",
+            "structureZh": "Rencontrez 是 rencontrer 的命令式复数，邀请读者“认识”两位学者。Dre 是阴性 docteure 的缩写。逗号后的 lauréates … 是同位语，说明两人的身份，阴性复数与两位女性配合，同位语前不加冠词。后面连续的 de 结构层层修饰：第二届、奖学金项目、联合国教科文组织。",
+            "points": [
+              {
+                "fr": "rencontrer qn",
+                "zh": "认识某人，见到某人"
+              },
+              {
+                "fr": "une lauréate",
+                "zh": "获奖者（阴性）"
+              },
+              {
+                "fr": "une édition",
+                "zh": "（活动的）一届"
+              },
+              {
+                "fr": "une bourse",
+                "zh": "奖学金，资助"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
