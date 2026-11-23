@@ -1,0 +1,1252 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-23T12:41:45Z",
+  "items": [
+    {
+      "postId": "2124835428167491781",
+      "url": "https://x.com/CitImmCanFR/status/2124835428167491781",
+      "author": "CitImmCanFR",
+      "postedAt": "2026-11-23T12:00:18Z",
+      "excerpt": "Nous recherchons des médecins qualifiés pour renforcer le système de soins de santé au Canada. Saviez-vous qu’il existe 5 options permettant aux médecins de présenter une demande pour vivre et travailler de façon permanente au Canada?",
+      "level": "B1",
+      "topic": "immigration",
+      "summaryZh": "加拿大移民部表示正在招募合格医生以加强医疗体系，并提醒医生共有5种途径可申请在加拿大永久生活和工作。",
+      "summaryEn": "Immigration Canada says it is recruiting qualified doctors to strengthen health care and notes there are 5 options for doctors to apply to live and work permanently in Canada.",
+      "vocab": [
+        {
+          "fr": "un médecin",
+          "zh": "医生",
+          "en": "a doctor"
+        },
+        {
+          "fr": "qualifié",
+          "zh": "合格的",
+          "en": "qualified"
+        },
+        {
+          "fr": "renforcer",
+          "zh": "加强",
+          "en": "to strengthen"
+        },
+        {
+          "fr": "présenter une demande",
+          "zh": "提交申请",
+          "en": "to submit an application"
+        },
+        {
+          "fr": "de façon permanente",
+          "zh": "永久地",
+          "en": "permanently"
+        }
+      ],
+      "question": {
+        "prompt": "Combien d’options ont les médecins pour demander à vivre et travailler de façon permanente au Canada ?",
+        "choices": [
+          "Deux",
+          "Trois",
+          "Cinq",
+          "Dix"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "帖子写的是 il existe 5 options，即有5种途径。"
+      },
+      "explain": {
+        "styleZh": "政府招聘宣传帖：先用陈述句说明需求，再用 Saviez-vous 引出的问句介绍具体途径，吸引读者继续了解。",
+        "sentences": [
+          {
+            "fr": "Nous recherchons des médecins qualifiés pour renforcer le système de soins de santé au Canada.",
+            "zh": "我们正在招募合格的医生，以加强加拿大的医疗卫生体系。",
+            "structureZh": "主干 Nous recherchons des médecins qualifiés，现在时表示正在进行、持续有效的需求。pour + 不定式 renforcer 表示目的。qualifiés 是过去分词作形容词，与 médecins 阳性复数配合。le système de soins de santé 是多层 de 修饰的名词短语。",
+            "points": [
+              {
+                "fr": "rechercher qn",
+                "zh": "寻找，招募某人"
+              },
+              {
+                "fr": "qualifié, qualifiée",
+                "zh": "合格的，有资质的"
+              },
+              {
+                "fr": "renforcer qch",
+                "zh": "加强某物"
+              },
+              {
+                "fr": "les soins de santé",
+                "zh": "医疗卫生服务"
+              }
+            ]
+          },
+          {
+            "fr": "Saviez-vous qu’il existe 5 options permettant aux médecins de présenter une demande pour vivre et travailler de façon permanente au Canada?",
+            "zh": "您知道吗？医生有5种途径可以申请在加拿大永久生活和工作。",
+            "structureZh": "Saviez-vous 是 savoir 的未完成过去时，主谓倒装构成疑问句，这是固定的提问方式，语气比 Savez-vous 更委婉。que 引导宾语从句，il existe 是无人称结构“存在”。permettant 是现在分词，相当于 qui permettent，修饰 options。permettre à qn de + 不定式 表示“使某人能够做某事”。加拿大法语问号前不空格。",
+            "points": [
+              {
+                "fr": "Saviez-vous que…",
+                "zh": "您知道……吗（未完成过去时，委婉提问）"
+              },
+              {
+                "fr": "il existe + nom",
+                "zh": "存在，有（无人称结构）"
+              },
+              {
+                "fr": "permettre à qn de + inf.",
+                "zh": "使某人能够做某事"
+              },
+              {
+                "fr": "présenter une demande",
+                "zh": "提交申请"
+              },
+              {
+                "fr": "de façon permanente",
+                "zh": "永久地"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2124654219055563252",
+      "url": "https://x.com/CitImmCanFR/status/2124654219055563252",
+      "author": "CitImmCanFR",
+      "postedAt": "2026-11-23T00:00:14Z",
+      "excerpt": "Le Canada renforce son système d’asile afin qu’il demeure équitable, ordonné et bien géré. Les changements apportés au Règlement sur l’immigration et la protection des réfugiés sont désormais en vigueur. Ces changements permettront d’améliorer la manière dont les demandes d’asile sont examinées, traitées et renvoyées à la Commission de l’immigration et du statut de réfugié du Canada.",
+      "level": "B2",
+      "topic": "immigration",
+      "summaryZh": "加拿大宣布加强庇护体系，使其公平有序；《移民和难民保护条例》的修改已经生效，将改进庇护申请的审查、处理和移交方式。",
+      "summaryEn": "Canada says it is strengthening its asylum system; changes to the Immigration and Refugee Protection Regulations are now in force to improve how claims are examined, processed and referred.",
+      "vocab": [
+        {
+          "fr": "le système d’asile",
+          "zh": "庇护体系",
+          "en": "the asylum system"
+        },
+        {
+          "fr": "équitable",
+          "zh": "公平的",
+          "en": "fair"
+        },
+        {
+          "fr": "être en vigueur",
+          "zh": "生效",
+          "en": "to be in force"
+        },
+        {
+          "fr": "une demande d’asile",
+          "zh": "庇护申请",
+          "en": "an asylum claim"
+        },
+        {
+          "fr": "examiner",
+          "zh": "审查",
+          "en": "to examine"
+        }
+      ],
+      "question": {
+        "prompt": "Que dit le message sur les changements au Règlement ?",
+        "choices": [
+          "Ils entreront en vigueur en 2028",
+          "Ils sont désormais en vigueur",
+          "Ils ont été annulés",
+          "Ils concernent seulement les étudiants"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文说 sont désormais en vigueur，即现在已经生效。"
+      },
+      "explain": {
+        "styleZh": "政府公告：第一句给出总目标，第二句宣布规定已生效，第三句用简单将来时说明改革将带来的效果。",
+        "sentences": [
+          {
+            "fr": "Le Canada renforce son système d’asile afin qu’il demeure équitable, ordonné et bien géré.",
+            "zh": "加拿大正在加强其庇护体系，使其保持公平、有序和管理良好。",
+            "structureZh": "主干 Le Canada renforce son système d’asile。afin que 引导目的状语从句，后面必须用虚拟式，所以 demeurer 用虚拟式现在时 demeure。il 指 son système d’asile。三个形容词 équitable, ordonné, bien géré 并列作表语。",
+            "points": [
+              {
+                "fr": "afin que + subjonctif",
+                "zh": "为了……（后接虚拟式）"
+              },
+              {
+                "fr": "demeurer + adj.",
+                "zh": "保持……的状态"
+              },
+              {
+                "fr": "équitable",
+                "zh": "公平的"
+              },
+              {
+                "fr": "bien géré",
+                "zh": "管理良好的"
+              }
+            ]
+          },
+          {
+            "fr": "Les changements apportés au Règlement sur l’immigration et la protection des réfugiés sont désormais en vigueur.",
+            "zh": "对《移民和难民保护条例》所做的修改现已生效。",
+            "structureZh": "主语是 Les changements，apportés au Règlement… 是过去分词短语作定语，apporter des changements à qch 意为“对某物做出修改”，au 是 à + le 的缩合。谓语 sont en vigueur 表示“生效”，désormais 意为“从此以后，现在起”。",
+            "points": [
+              {
+                "fr": "apporter des changements à qch",
+                "zh": "对某物做出修改"
+              },
+              {
+                "fr": "être en vigueur",
+                "zh": "（法规）生效"
+              },
+              {
+                "fr": "désormais",
+                "zh": "从今以后，现在起"
+              },
+              {
+                "fr": "un règlement",
+                "zh": "条例，规章"
+              }
+            ]
+          },
+          {
+            "fr": "Ces changements permettront d’améliorer la manière dont les demandes d’asile sont examinées, traitées et renvoyées à la Commission de l’immigration et du statut de réfugié du Canada.",
+            "zh": "这些修改将有助于改进庇护申请的审查、处理以及移交加拿大移民和难民委员会的方式。",
+            "structureZh": "主干 Ces changements permettront d’améliorer la manière。permettront 是 permettre 的简单将来时，表示改革将来产生的效果。dont 引导关系从句，相当于 de laquelle，因为 la manière de + 动作。从句里三个过去分词 examinées, traitées, renvoyées 构成被动语态，与阴性复数主语 les demandes 配合。",
+            "points": [
+              {
+                "fr": "permettre de + inf.",
+                "zh": "使得能够做某事"
+              },
+              {
+                "fr": "la manière dont…",
+                "zh": "……的方式（dont 引导关系从句）"
+              },
+              {
+                "fr": "sont examinées（被动语态）",
+                "zh": "被动语态，过去分词与主语阴性复数配合"
+              },
+              {
+                "fr": "renvoyer qch à qn",
+                "zh": "把某物移交给某人"
+              },
+              {
+                "fr": "une demande d’asile",
+                "zh": "庇护申请"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2124766820846776535",
+      "url": "https://x.com/Sciences_Avenir/status/2124766820846776535",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-23T07:27:41Z",
+      "excerpt": "Constitué de 700 lingots, pièces de monnaie et bijoux en argent, le « trésor de Rebild » entre d’emblée dans l’Histoire car il s‘agit du plus grand dépôt d’argent de l‘ère viking jamais mis au jour dans le pays.",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "丹麦出土的“雷比尔宝藏”由700件银锭、银币和首饰组成，是该国迄今发现的维京时代最大的银器窖藏。",
+      "summaryEn": "The Rebild treasure, made of 700 silver ingots, coins and jewellery, is the largest Viking-age silver hoard ever found in the country.",
+      "vocab": [
+        {
+          "fr": "un lingot",
+          "zh": "锭，金属块",
+          "en": "an ingot"
+        },
+        {
+          "fr": "une pièce de monnaie",
+          "zh": "硬币",
+          "en": "a coin"
+        },
+        {
+          "fr": "un bijou",
+          "zh": "首饰",
+          "en": "a piece of jewellery"
+        },
+        {
+          "fr": "d’emblée",
+          "zh": "立刻",
+          "en": "straight away"
+        },
+        {
+          "fr": "mettre au jour",
+          "zh": "发掘出土",
+          "en": "to unearth"
+        }
+      ],
+      "question": {
+        "prompt": "Pourquoi le trésor de Rebild entre-t-il dans l’Histoire ?",
+        "choices": [
+          "C’est le plus grand dépôt d’argent viking trouvé dans le pays",
+          "Il contient surtout de l’or romain",
+          "Il a été retrouvé au fond de la mer",
+          "Il appartenait à un roi célèbre"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文说这是该国发现的维京时代最大的银器窖藏 le plus grand dépôt d’argent。"
+      },
+      "explain": {
+        "styleZh": "考古新闻：句首用过去分词短语 Constitué de 描述宝藏组成，主句说明其意义，再用 car 给出原因。",
+        "sentences": [
+          {
+            "fr": "Constitué de 700 lingots, pièces de monnaie et bijoux en argent, le « trésor de Rebild » entre d’emblée dans l’Histoire car il s‘agit du plus grand dépôt d’argent de l‘ère viking jamais mis au jour dans le pays.",
+            "zh": "由700件银锭、银币和银首饰组成的“雷比尔宝藏”一出土就载入史册，因为这是该国迄今发现的维京时代最大的银器窖藏。",
+            "structureZh": "句首 Constitué de… 是过去分词短语作同位语，修饰主语 le trésor de Rebild，阳性单数配合。主干 le trésor entre dans l’Histoire，现在时用于新闻叙述。car 引导原因。il s’agit de 是无人称固定结构“这是，涉及”。le plus grand … jamais mis au jour 是最高级加 jamais，意为“有史以来最大的”。原文撇号写作 ‘。",
+            "points": [
+              {
+                "fr": "être constitué de qch",
+                "zh": "由……组成"
+              },
+              {
+                "fr": "d’emblée",
+                "zh": "一下子，立刻"
+              },
+              {
+                "fr": "entrer dans l’Histoire",
+                "zh": "载入史册"
+              },
+              {
+                "fr": "il s’agit de qch",
+                "zh": "这是，涉及某事"
+              },
+              {
+                "fr": "mettre qch au jour",
+                "zh": "发掘出，使出土"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2124538444957286880",
+      "url": "https://x.com/Sciences_Avenir/status/2124538444957286880",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-22T16:20:11Z",
+      "excerpt": "Le chauffage et la production d'eau chaude représentent les trois quarts de la consommation d'énergie d'un foyer (hors carburant). Si l'on veut faire des économies, c'est donc sur ce poste qu'il faut jouer",
+      "level": "B1",
+      "topic": "logement",
+      "summaryZh": "《科学与未来》指出，供暖和热水占家庭能源消耗（不含燃油）的四分之三，想省钱就应从这一项入手。",
+      "summaryEn": "Heating and hot water make up three quarters of a household's energy use (excluding fuel), so that is where to act to save money.",
+      "vocab": [
+        {
+          "fr": "le chauffage",
+          "zh": "供暖",
+          "en": "heating"
+        },
+        {
+          "fr": "l'eau chaude",
+          "zh": "热水",
+          "en": "hot water"
+        },
+        {
+          "fr": "un foyer",
+          "zh": "家庭",
+          "en": "a household"
+        },
+        {
+          "fr": "faire des économies",
+          "zh": "省钱",
+          "en": "to save money"
+        },
+        {
+          "fr": "un poste",
+          "zh": "开支项目",
+          "en": "an item, budget line"
+        }
+      ],
+      "question": {
+        "prompt": "Quelle part de la consommation d'énergie d'un foyer représentent le chauffage et l'eau chaude ?",
+        "choices": [
+          "Un quart",
+          "La moitié",
+          "Un tiers",
+          "Les trois quarts"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "原文是 les trois quarts，即四分之三。"
+      },
+      "explain": {
+        "styleZh": "生活实用类科普：先给出数据，再用条件句 Si… 和强调句 c’est … que 得出结论。",
+        "sentences": [
+          {
+            "fr": "Le chauffage et la production d'eau chaude représentent les trois quarts de la consommation d'énergie d'un foyer (hors carburant).",
+            "zh": "供暖和热水生产占一个家庭能源消耗的四分之三（不含燃油）。",
+            "structureZh": "主语是并列的 Le chauffage et la production d'eau chaude，所以动词 représentent 用复数。les trois quarts 是分数表达“四分之三”。括号里 hors carburant 中 hors 是介词，意为“除……之外，不包括”。un foyer 在这里指“家庭，住户”。",
+            "points": [
+              {
+                "fr": "représenter qch",
+                "zh": "占，相当于（某比例）"
+              },
+              {
+                "fr": "les trois quarts de qch",
+                "zh": "……的四分之三"
+              },
+              {
+                "fr": "un foyer",
+                "zh": "家庭，住户"
+              },
+              {
+                "fr": "hors + nom",
+                "zh": "不包括……"
+              }
+            ]
+          },
+          {
+            "fr": "Si l'on veut faire des économies, c'est donc sur ce poste qu'il faut jouer",
+            "zh": "如果想省钱，就应该在这一项上下功夫。",
+            "structureZh": "Si 引导条件从句，用现在时 veut，主句也用现在时，表示一般性的条件关系。l'on 中的 l' 只是为了读音顺口，意思同 on。c'est … que 是强调句，强调 sur ce poste。il faut + 不定式 表示“必须”。jouer sur qch 意为“在某方面做文章”。原文结尾没有句号。",
+            "points": [
+              {
+                "fr": "faire des économies",
+                "zh": "省钱，节约"
+              },
+              {
+                "fr": "c'est sur ce poste que…（强调句）",
+                "zh": "强调句型，突出 sur ce poste"
+              },
+              {
+                "fr": "un poste",
+                "zh": "（开支的）项目"
+              },
+              {
+                "fr": "jouer sur qch",
+                "zh": "在……上做文章，利用某因素"
+              },
+              {
+                "fr": "si l'on veut（l'on 即 on）",
+                "zh": "on 的书面变体，读音更顺"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2124559711827878143",
+      "url": "https://x.com/Sciences_Avenir/status/2124559711827878143",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-22T17:44:42Z",
+      "excerpt": "La découverte d’un squelette dans le sud du Groenland révèle l’existence d’une église datant de la colonisation viking, non loin de Brattahlíð, la colonie d’Erik le Rouge.",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "格陵兰南部发现的一具骨骼揭示，在红发埃里克的殖民地布拉塔利德附近，曾有一座维京殖民时期的教堂。",
+      "summaryEn": "A skeleton found in southern Greenland reveals a church from the Viking colonisation near Brattahlíð, the colony of Erik the Red.",
+      "vocab": [
+        {
+          "fr": "une découverte",
+          "zh": "发现",
+          "en": "a discovery"
+        },
+        {
+          "fr": "un squelette",
+          "zh": "骨骼",
+          "en": "a skeleton"
+        },
+        {
+          "fr": "révéler",
+          "zh": "揭示",
+          "en": "to reveal"
+        },
+        {
+          "fr": "une église",
+          "zh": "教堂",
+          "en": "a church"
+        },
+        {
+          "fr": "non loin de",
+          "zh": "离……不远",
+          "en": "not far from"
+        }
+      ],
+      "question": {
+        "prompt": "Qu’a révélé la découverte du squelette au Groenland ?",
+        "choices": [
+          "Une ancienne mine d’or",
+          "L’existence d’une église de l’époque viking",
+          "Un port romain",
+          "Une nouvelle espèce animale"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文说 révèle l’existence d’une église，揭示了一座维京时期教堂的存在。"
+      },
+      "explain": {
+        "styleZh": "考古短讯：一句话讲完发现、地点和意义，结尾用同位语补充历史背景。",
+        "sentences": [
+          {
+            "fr": "La découverte d’un squelette dans le sud du Groenland révèle l’existence d’une église datant de la colonisation viking, non loin de Brattahlíð, la colonie d’Erik le Rouge.",
+            "zh": "在格陵兰南部发现的一具骨骼揭示了一座维京殖民时期教堂的存在，它位于红发埃里克的殖民地布拉塔利德附近。",
+            "structureZh": "主语是 La découverte d’un squelette…，谓语 révèle 用现在时叙述新闻。datant de 是现在分词，相当于 qui date de，修饰 une église。non loin de 意为“离……不远”。逗号后的 la colonie d’Erik le Rouge 是同位语，解释 Brattahlíð 是什么地方。",
+            "points": [
+              {
+                "fr": "révèle（révéler qch）",
+                "zh": "揭示，显示某事"
+              },
+              {
+                "fr": "datant de（dater de + époque）",
+                "zh": "始于，可追溯到某时期"
+              },
+              {
+                "fr": "non loin de qch",
+                "zh": "离……不远"
+              },
+              {
+                "fr": "la colonisation",
+                "zh": "殖民，开拓定居"
+              },
+              {
+                "fr": "un squelette",
+                "zh": "骨骼，骨架"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2124774958022697230",
+      "url": "https://x.com/ONUinfo/status/2124774958022697230",
+      "author": "ONUinfo",
+      "postedAt": "2026-11-23T08:00:01Z",
+      "excerpt": "Emploi, logement, famille… Les jeunes peinent à prendre leur envol «... trop souvent, l’insécurité économique, le coût prohibitif du logement, les conflits et l’exclusion mettent ces aspirations hors de portée »",
+      "level": "B2",
+      "topic": "logement",
+      "summaryZh": "联合国新闻报道，就业、住房和成家方面的困难让年轻人难以自立；联合国人口基金负责人指出经济不安全、高房价、冲突和排斥让他们的愿望遥不可及。",
+      "summaryEn": "UN News: young people struggle to get started in jobs, housing and family life, as economic insecurity, prohibitive housing costs, conflict and exclusion put their aspirations out of reach.",
+      "vocab": [
+        {
+          "fr": "peiner à",
+          "zh": "难以",
+          "en": "to struggle to"
+        },
+        {
+          "fr": "prendre son envol",
+          "zh": "独立，起飞",
+          "en": "to take flight"
+        },
+        {
+          "fr": "prohibitif",
+          "zh": "高得令人却步的",
+          "en": "prohibitive"
+        },
+        {
+          "fr": "hors de portée",
+          "zh": "遥不可及",
+          "en": "out of reach"
+        },
+        {
+          "fr": "une aspiration",
+          "zh": "愿望",
+          "en": "an aspiration"
+        }
+      ],
+      "question": {
+        "prompt": "Selon la citation, quel obstacle concerne directement le logement ?",
+        "choices": [
+          "Son coût prohibitif",
+          "Le manque de transports",
+          "Le climat trop froid",
+          "Les horaires de travail"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "引语提到 le coût prohibitif du logement，即住房成本过高。"
+      },
+      "explain": {
+        "styleZh": "联合国新闻标题加引语：先用名词并列和省略式标题点题，再引用联合国人口基金负责人的话说明原因。",
+        "sentences": [
+          {
+            "fr": "Emploi, logement, famille… Les jeunes peinent à prendre leur envol",
+            "zh": "就业、住房、家庭……年轻人难以自立起飞。",
+            "structureZh": "这是新闻标题：开头三个名词并列，省略了冠词，省略号表示列举未完。主干 Les jeunes peinent à prendre leur envol。peiner à + 不定式 表示“难以做某事”。prendre son envol 原指鸟起飞，引申为“独立、开始自己的人生”。标题没有句号。",
+            "points": [
+              {
+                "fr": "peiner à + inf.",
+                "zh": "难以做某事，做某事很吃力"
+              },
+              {
+                "fr": "prendre son envol",
+                "zh": "起飞；引申为独立自主"
+              },
+              {
+                "fr": "un logement",
+                "zh": "住房"
+              },
+              {
+                "fr": "Emploi, logement, famille（省略冠词）",
+                "zh": "标题中名词常省略冠词"
+              }
+            ]
+          },
+          {
+            "fr": "«... trop souvent, l’insécurité économique, le coût prohibitif du logement, les conflits et l’exclusion mettent ces aspirations hors de portée »",
+            "zh": "“……经济不安全、高得令人望而却步的住房成本、冲突和排斥，太常让这些愿望变得遥不可及。”",
+            "structureZh": "这是引语，开头的省略号表示截取了原话的一部分。主语是四个并列名词：l’insécurité économique, le coût prohibitif du logement, les conflits, l’exclusion，所以动词 mettent 用复数。mettre qch hors de portée 意为“使某物够不着”。ces aspirations 指前文年轻人对工作、住房、家庭的期望。",
+            "points": [
+              {
+                "fr": "trop souvent",
+                "zh": "太常，过于频繁地"
+              },
+              {
+                "fr": "prohibitif, prohibitive",
+                "zh": "（价格）高得让人却步的"
+              },
+              {
+                "fr": "mettre qch hors de portée",
+                "zh": "使某物遥不可及"
+              },
+              {
+                "fr": "une aspiration",
+                "zh": "愿望，抱负"
+              },
+              {
+                "fr": "l’exclusion",
+                "zh": "排斥，社会边缘化"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2124811379446055375",
+      "url": "https://x.com/OIFrancophonie/status/2124811379446055375",
+      "author": "OIFrancophonie",
+      "postedAt": "2026-11-23T10:24:44Z",
+      "excerpt": "L’OIF lance un appel à projets destiné aux artistes et aux professionnels de la culture de l’espace francophone.",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "法语国家国际组织发起项目征集，面向法语地区的艺术家和文化从业者，支持他们的艺术流动。",
+      "summaryEn": "The OIF is launching a call for projects aimed at artists and culture professionals across the French-speaking world.",
+      "vocab": [
+        {
+          "fr": "un appel à projets",
+          "zh": "项目征集",
+          "en": "a call for projects"
+        },
+        {
+          "fr": "destiné à",
+          "zh": "面向",
+          "en": "intended for"
+        },
+        {
+          "fr": "un artiste",
+          "zh": "艺术家",
+          "en": "an artist"
+        },
+        {
+          "fr": "francophone",
+          "zh": "讲法语的",
+          "en": "French-speaking"
+        }
+      ],
+      "question": {
+        "prompt": "À qui s’adresse l’appel à projets de l’OIF ?",
+        "choices": [
+          "Aux élèves du primaire",
+          "Aux entreprises de transport",
+          "Aux médecins étrangers",
+          "Aux artistes et professionnels de la culture francophones"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "原文说 destiné aux artistes et aux professionnels de la culture，面向艺术家和文化从业者。"
+      },
+      "explain": {
+        "styleZh": "机构公告：一句话说明谁发起了什么项目、面向哪些人群。",
+        "sentences": [
+          {
+            "fr": "L’OIF lance un appel à projets destiné aux artistes et aux professionnels de la culture de l’espace francophone.",
+            "zh": "法语国家国际组织发起一项项目征集，面向法语地区的艺术家和文化从业者。",
+            "structureZh": "主干 L’OIF lance un appel à projets，现在时表示正在发生的消息。destiné aux… 是过去分词短语作定语，修饰 un appel，être destiné à qn 意为“面向某人”。aux 是 à + les 的缩合。L’OIF 是 l’Organisation internationale de la Francophonie 的缩写，元音前省音。",
+            "points": [
+              {
+                "fr": "lancer un appel à projets",
+                "zh": "发起项目征集"
+              },
+              {
+                "fr": "être destiné à qn",
+                "zh": "面向，专为某人而设"
+              },
+              {
+                "fr": "un professionnel de la culture",
+                "zh": "文化从业者"
+              },
+              {
+                "fr": "l’espace francophone",
+                "zh": "法语地区，法语世界"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2124800465950933357",
+      "url": "https://x.com/LeTemps/status/2124800465950933357",
+      "author": "LeTemps",
+      "postedAt": "2026-11-23T09:41:22Z",
+      "excerpt": "En Suisse romande, 88% de la population ne dispose pas de directives anticipées, et plus d’un tiers ignore même leur existence. Pour briser ce tabou, l’Organisation suisse des patients met sur pied un atelier public à Lausanne...",
+      "level": "B2",
+      "topic": "santé",
+      "summaryZh": "《时报》报道，瑞士法语区88%的人没有预先医疗指示，三分之一以上的人甚至不知道它的存在；瑞士患者组织在洛桑举办公开工作坊。",
+      "summaryEn": "In French-speaking Switzerland, 88% have no advance directives and over a third don't know they exist; a patients' group is organising a public workshop in Lausanne.",
+      "vocab": [
+        {
+          "fr": "disposer de",
+          "zh": "拥有",
+          "en": "to have"
+        },
+        {
+          "fr": "ignorer",
+          "zh": "不知道",
+          "en": "not to know"
+        },
+        {
+          "fr": "briser un tabou",
+          "zh": "打破禁忌",
+          "en": "to break a taboo"
+        },
+        {
+          "fr": "mettre sur pied",
+          "zh": "组织",
+          "en": "to set up"
+        },
+        {
+          "fr": "un atelier",
+          "zh": "工作坊",
+          "en": "a workshop"
+        }
+      ],
+      "question": {
+        "prompt": "Quelle proportion de la population de Suisse romande n’a pas de directives anticipées ?",
+        "choices": [
+          "12%",
+          "88%",
+          "Un tiers",
+          "La moitié"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文是 88% de la population ne dispose pas de directives anticipées。"
+      },
+      "explain": {
+        "styleZh": "新闻导语：先用统计数据揭示问题，再用 Pour + 不定式 引出应对举措。",
+        "sentences": [
+          {
+            "fr": "En Suisse romande, 88% de la population ne dispose pas de directives anticipées, et plus d’un tiers ignore même leur existence.",
+            "zh": "在瑞士法语区，88%的人没有预先医疗指示，超过三分之一的人甚至不知道有这种东西。",
+            "structureZh": "两个并列分句由 et 连接。第一句主语 88% de la population，动词按 la population 用单数 dispose。disposer de qch 意为“拥有”，否定后 de 不变。第二句 plus d’un tiers 作主语，动词 ignore 用单数。ignorer 是假朋友，意为“不知道”，不是“忽视”。leur 指 directives anticipées。",
+            "points": [
+              {
+                "fr": "disposer de qch",
+                "zh": "拥有，具备某物"
+              },
+              {
+                "fr": "des directives anticipées",
+                "zh": "预先医疗指示"
+              },
+              {
+                "fr": "plus d’un tiers",
+                "zh": "超过三分之一"
+              },
+              {
+                "fr": "ignorer qch",
+                "zh": "不知道某事（假朋友，不是忽视）"
+              }
+            ]
+          },
+          {
+            "fr": "Pour briser ce tabou, l’Organisation suisse des patients met sur pied un atelier public à Lausanne...",
+            "zh": "为了打破这一禁忌，瑞士患者组织在洛桑举办一场公开工作坊……",
+            "structureZh": "Pour + 不定式 放句首表示目的。主干 l’Organisation suisse des patients met sur pied un atelier。mettre sur pied 是固定表达“组织，建立”。ce tabou 指前句人们回避谈论的预先指示问题。句末省略号表示原帖被截断。",
+            "points": [
+              {
+                "fr": "briser un tabou",
+                "zh": "打破禁忌"
+              },
+              {
+                "fr": "mettre qch sur pied",
+                "zh": "组织，建立某事"
+              },
+              {
+                "fr": "un atelier",
+                "zh": "工作坊"
+              },
+              {
+                "fr": "pour + inf.（目的）",
+                "zh": "为了做某事"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2124828276673650984",
+      "url": "https://x.com/LeTemps/status/2124828276673650984",
+      "author": "LeTemps",
+      "postedAt": "2026-11-23T11:31:53Z",
+      "excerpt": "Depuis fin avril, Nolan Polack et sa mère, Isabelle Polack Dupraz, ont repris le Bistrot du Moulin de Sévery. Lui crée, elle reçoit.",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "《时报》介绍，自四月底起，诺兰·波拉克和母亲接手了塞弗里磨坊小酒馆，儿子负责创作菜品，母亲负责接待。",
+      "summaryEn": "Since late April, Nolan Polack and his mother Isabelle Polack Dupraz have run the Bistrot du Moulin in Sévery: he cooks, she welcomes guests.",
+      "vocab": [
+        {
+          "fr": "reprendre",
+          "zh": "接手",
+          "en": "to take over"
+        },
+        {
+          "fr": "un bistrot",
+          "zh": "小酒馆",
+          "en": "a bistro"
+        },
+        {
+          "fr": "créer",
+          "zh": "创作",
+          "en": "to create"
+        },
+        {
+          "fr": "recevoir",
+          "zh": "接待",
+          "en": "to welcome"
+        }
+      ],
+      "question": {
+        "prompt": "Dans ce bistrot, quel est le rôle de la mère ?",
+        "choices": [
+          "Elle cuisine",
+          "Elle livre les plats",
+          "Elle reçoit les clients",
+          "Elle cultive les légumes"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文 Lui crée, elle reçoit：儿子创作，母亲接待。"
+      },
+      "explain": {
+        "styleZh": "美食人物报道：用 Depuis 交代时间，用两个极短分句对比母子分工。",
+        "sentences": [
+          {
+            "fr": "Depuis fin avril, Nolan Polack et sa mère, Isabelle Polack Dupraz, ont repris le Bistrot du Moulin de Sévery.",
+            "zh": "从四月底起，诺兰·波拉克和他的母亲伊莎贝尔·波拉克·杜普拉接手了塞弗里磨坊小酒馆。",
+            "structureZh": "主语是 Nolan Polack et sa mère，所以助动词用复数 ont。ont repris 是复合过去时，表示已经完成的接手动作。逗号间的 Isabelle Polack Dupraz 是同位语，说明母亲的名字。Depuis fin avril 表示从某时起，fin avril 省略了冠词和 de。reprendre 这里意为“接手（店铺）”。",
+            "points": [
+              {
+                "fr": "depuis + date",
+                "zh": "自……以来"
+              },
+              {
+                "fr": "reprendre un commerce",
+                "zh": "接手一家店"
+              },
+              {
+                "fr": "fin avril",
+                "zh": "四月底（省略冠词）"
+              }
+            ]
+          },
+          {
+            "fr": "Lui crée, elle reçoit.",
+            "zh": "他负责创作菜品，她负责接待客人。",
+            "structureZh": "两个极短的并列分句用逗号隔开，形成对比。Lui 和 elle 是重读人称代词，放在句首强调“他”和“她”的分工，Lui 指 Nolan，elle 指他的母亲。动词用现在时描述日常分工。créer 和 recevoir 在餐饮语境中分别指“创作菜肴”和“接待客人”。",
+            "points": [
+              {
+                "fr": "pronom tonique（Lui, elle）",
+                "zh": "重读人称代词，用于强调对比"
+              },
+              {
+                "fr": "créer",
+                "zh": "创作（菜品）"
+              },
+              {
+                "fr": "elle reçoit（recevoir qn）",
+                "zh": "她接待客人；recevoir qn 接待某人"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2124774964888842242",
+      "url": "https://x.com/CEA_Officiel/status/2124774964888842242",
+      "author": "CEA_Officiel",
+      "postedAt": "2026-11-23T08:00:02Z",
+      "excerpt": "Et si c’était le bon moment pour rejoindre la filière nucléaire ? Nicolas Maes, DG d'Oranogroup et parrain de la promotion 2026-2027 du Génie atomique de l’INSTN, invite les jeunes générations à s’engager pour relever les grands défis de notre époque.",
+      "level": "B2",
+      "topic": "travail",
+      "summaryZh": "法国原子能委员会发布视频：欧安诺集团总经理尼古拉·马斯建议想进入核能行业的年轻人保持好奇、全情投入，并认为现在正是加入的好时机。",
+      "summaryEn": "CEA video: Orano CEO Nicolas Maes, sponsor of the INSTN atomic engineering class, urges young people to be curious and committed, saying now is the right time to join the nuclear sector.",
+      "vocab": [
+        {
+          "fr": "la filière nucléaire",
+          "zh": "核能行业",
+          "en": "the nuclear sector"
+        },
+        {
+          "fr": "s'engager",
+          "zh": "投身",
+          "en": "to commit"
+        },
+        {
+          "fr": "la rigueur",
+          "zh": "严谨",
+          "en": "rigour"
+        },
+        {
+          "fr": "un réseau",
+          "zh": "人脉网络",
+          "en": "a network"
+        },
+        {
+          "fr": "l'enrichissement",
+          "zh": "（铀）浓缩",
+          "en": "enrichment"
+        },
+        {
+          "fr": "soudé",
+          "zh": "团结的",
+          "en": "united, close-knit"
+        }
+      ],
+      "question": {
+        "prompt": "Selon Nicolas Maes, que doit offrir l’INSTN à ses étudiants en plus des connaissances ?",
+        "choices": [
+          "Un salaire garanti",
+          "L’occasion de se créer un réseau utile",
+          "Un stage à l’étranger obligatoire",
+          "Un logement gratuit"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "他说 INSTN 应让学生有机会 se créer un réseau，建立对职业生涯有用的人脉。"
+      },
+      "explain": {
+        "styleZh": "机构宣传帖：先用 Et si + 未完成过去时 提出建议式问题，再用同位语介绍人物，主句说明他的号召。",
+        "sentences": [
+          {
+            "fr": "Et si c’était le bon moment pour rejoindre la filière nucléaire ?",
+            "zh": "要不要现在加入核能行业？也许正是好时机。",
+            "structureZh": "Et si + 未完成过去时 是固定的建议句型，意为“要是……怎么样”，并非真正的过去。c’ 是 ce 在元音前的省音。pour + 不定式 rejoindre 表示目的。la filière 指整个产业链、行业。法国法语问号前有空格。",
+            "points": [
+              {
+                "fr": "Et si c’était…（si + imparfait）",
+                "zh": "要是……呢（提出建议）"
+              },
+              {
+                "fr": "rejoindre qch",
+                "zh": "加入某组织或行业"
+              },
+              {
+                "fr": "la filière",
+                "zh": "行业，产业链"
+              },
+              {
+                "fr": "le bon moment",
+                "zh": "合适的时机"
+              }
+            ]
+          },
+          {
+            "fr": "Nicolas Maes, DG d'Oranogroup et parrain de la promotion 2026-2027 du Génie atomique de l’INSTN, invite les jeunes générations à s’engager pour relever les grands défis de notre époque.",
+            "zh": "欧安诺集团总经理、INSTN原子工程专业2026-2027届的“教父”尼古拉·马斯，邀请年轻一代投身其中，迎接我们这个时代的重大挑战。",
+            "structureZh": "主语 Nicolas Maes 后面逗号间是同位语，说明他的职务。DG 是 directeur général 的缩写。parrain de la promotion 指一届学生的荣誉导师。谓语 invite，inviter qn à + 不定式 表示“邀请某人做某事”。s’engager 是代词式动词“投身”。pour relever 表示目的，relever un défi 意为“迎接挑战”。",
+            "points": [
+              {
+                "fr": "inviter qn à + inf.",
+                "zh": "邀请某人做某事"
+              },
+              {
+                "fr": "s’engager",
+                "zh": "投身，承担义务"
+              },
+              {
+                "fr": "relever un défi",
+                "zh": "迎接挑战"
+              },
+              {
+                "fr": "le parrain de la promotion",
+                "zh": "某届学生的荣誉导师"
+              },
+              {
+                "fr": "une génération",
+                "zh": "一代人"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2124609060976967913",
+      "url": "https://x.com/franceinfo/status/2124609060976967913",
+      "author": "franceinfo",
+      "postedAt": "2026-11-22T21:00:48Z",
+      "excerpt": "L’hydroptère, ce trimaran légendaire imaginé par le navigateur Éric Tabarly a été sauvé de la destruction par un ingénieur, qui a décidé de lui donner une seconde vie. Un pari un peu fou, dont le chantier a débuté à Nantes, en Loire-Atlantique.",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "法国电视台报道：塔巴利构想的传奇水翼三体船被工程师从销毁中救下，在南特翻修，计划明年二月重新下水，团队仍在为船帆筹款。",
+      "summaryEn": "The legendary Hydroptère foiling trimaran, imagined by Éric Tabarly, was saved from destruction and is being restored in Nantes, with a relaunch planned next February.",
+      "vocab": [
+        {
+          "fr": "un trimaran",
+          "zh": "三体船",
+          "en": "a trimaran"
+        },
+        {
+          "fr": "la portance",
+          "zh": "升力",
+          "en": "lift"
+        },
+        {
+          "fr": "la coque",
+          "zh": "船体",
+          "en": "the hull"
+        },
+        {
+          "fr": "un chantier",
+          "zh": "船厂，工地",
+          "en": "a boatyard, worksite"
+        },
+        {
+          "fr": "le patrimoine",
+          "zh": "遗产",
+          "en": "heritage"
+        },
+        {
+          "fr": "remettre à l'eau",
+          "zh": "重新下水",
+          "en": "to relaunch"
+        }
+      ],
+      "question": {
+        "prompt": "Quand l’Hydroptère doit-il être remis à l’eau ?",
+        "choices": [
+          "Cet été à Hawaï",
+          "En février prochain",
+          "Dans dix ans",
+          "Il ne naviguera plus"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "视频结尾说 sera remis à l'eau en février prochain，即明年二月重新下水。"
+      },
+      "explain": {
+        "styleZh": "新闻导语：第一句用被动语态讲述“船被拯救”，第二句是省略了动词的名词句，用 dont 补充细节。",
+        "sentences": [
+          {
+            "fr": "L’hydroptère, ce trimaran légendaire imaginé par le navigateur Éric Tabarly a été sauvé de la destruction par un ingénieur, qui a décidé de lui donner une seconde vie.",
+            "zh": "水翼船号，这艘由航海家埃里克·塔巴利构想的传奇三体船，被一位工程师从销毁中救了下来，他决定让它重获新生。",
+            "structureZh": "主语 L’hydroptère，逗号后 ce trimaran légendaire… 是同位语，imaginé par… 是过去分词作定语。谓语 a été sauvé 是复合过去时的被动语态，par un ingénieur 引出施动者。qui 引导关系从句修饰 un ingénieur，a décidé 是复合过去时。lui 是间接宾语代词，指这艘船。",
+            "points": [
+              {
+                "fr": "sauver qch de qch",
+                "zh": "把某物从……中救出"
+              },
+              {
+                "fr": "a été sauvé（被动语态）",
+                "zh": "复合过去时的被动语态，par 引出施动者"
+              },
+              {
+                "fr": "décider de + inf.",
+                "zh": "决定做某事"
+              },
+              {
+                "fr": "donner une seconde vie à qch",
+                "zh": "让某物重获新生"
+              },
+              {
+                "fr": "légendaire",
+                "zh": "传奇的"
+              }
+            ]
+          },
+          {
+            "fr": "Un pari un peu fou, dont le chantier a débuté à Nantes, en Loire-Atlantique.",
+            "zh": "这是一场有点疯狂的赌注，其修复工程已在卢瓦尔-大西洋省的南特开工。",
+            "structureZh": "这是省略谓语的名词句，相当于 C’est un pari un peu fou，新闻中常用。dont 引导关系从句，相当于 le chantier de ce pari。a débuté 是 débuter 的复合过去时，表示已经开始。en Loire-Atlantique 是同位补充，说明南特所在的省。",
+            "points": [
+              {
+                "fr": "un pari",
+                "zh": "赌注，冒险的尝试"
+              },
+              {
+                "fr": "dont（关系代词）",
+                "zh": "其……，相当于 de + 先行词"
+              },
+              {
+                "fr": "un chantier",
+                "zh": "工地，工程"
+              },
+              {
+                "fr": "débuter",
+                "zh": "开始"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2124790302343115073",
+      "url": "https://x.com/franceinfo/status/2124790302343115073",
+      "author": "franceinfo",
+      "postedAt": "2026-11-23T09:00:59Z",
+      "excerpt": "Hygiène, cosmétiques… L'aéroport de Nice livre les produits confisqués aux passagers aux Restos du Cœur depuis quatre ans.",
+      "level": "B1",
+      "topic": "actualité",
+      "summaryZh": "尼斯机场四年来把安检时没收的卫生用品、化妆品和食品交给慈善组织“爱心餐厅”，再分发给受助者。",
+      "summaryEn": "For four years, Nice airport has given items confiscated from passengers, such as hygiene products, cosmetics and food, to the Restos du Cœur charity.",
+      "vocab": [
+        {
+          "fr": "confisquer",
+          "zh": "没收",
+          "en": "to confiscate"
+        },
+        {
+          "fr": "une caisse",
+          "zh": "箱子",
+          "en": "a crate"
+        },
+        {
+          "fr": "distrait",
+          "zh": "粗心的",
+          "en": "absent-minded"
+        },
+        {
+          "fr": "une denrée",
+          "zh": "食品，物资",
+          "en": "foodstuff, goods"
+        },
+        {
+          "fr": "un bénévole",
+          "zh": "志愿者",
+          "en": "a volunteer"
+        },
+        {
+          "fr": "une savonnette",
+          "zh": "香皂",
+          "en": "a bar of soap"
+        }
+      ],
+      "question": {
+        "prompt": "D’où viennent les produits donnés aux Restos du Cœur ?",
+        "choices": [
+          "D’un supermarché de Nice",
+          "De dons des pilotes",
+          "Des objets confisqués aux passagers de l’aéroport",
+          "D’une usine de cosmétiques"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "帖子说 les produits confisqués aux passagers，是从旅客那里没收的物品。"
+      },
+      "explain": {
+        "styleZh": "新闻短帖：标题式开头列举物品，省略号表示列举未完，主句交代主体、动作、对象和持续时间。",
+        "sentences": [
+          {
+            "fr": "Hygiène, cosmétiques… L'aéroport de Nice livre les produits confisqués aux passagers aux Restos du Cœur depuis quatre ans.",
+            "zh": "卫生用品、化妆品……四年来，尼斯机场把没收旅客的物品送给“爱心餐厅”。",
+            "structureZh": "开头 Hygiène, cosmétiques… 是省略冠词的名词列举，省略号表示还有其他。主干 L'aéroport livre les produits aux Restos du Cœur。confisqués aux passagers 是过去分词短语，confisquer qch à qn 意为“没收某人的某物”。depuis quatre ans 与现在时 livre 连用，表示从过去持续到现在的动作。注意两个 aux：前者表示“从旅客那里”，后者表示“交给”。",
+            "points": [
+              {
+                "fr": "livrer qch à qn",
+                "zh": "把某物送交某人"
+              },
+              {
+                "fr": "confisquer qch à qn",
+                "zh": "没收某人的某物"
+              },
+              {
+                "fr": "depuis + durée + présent",
+                "zh": "表示持续至今的动作"
+              },
+              {
+                "fr": "les Restos du Cœur",
+                "zh": "爱心餐厅（法国慈善食物援助组织）"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2124587401787892166",
+      "url": "https://x.com/tv5mondeinfo/status/2124587401787892166",
+      "author": "tv5mondeinfo",
+      "postedAt": "2026-11-22T19:34:44Z",
+      "excerpt": "Trois jeunes étudiants canadiens de Montréal ont gagné un concours organisé par la Nasa et l’agence américaine responsable de la gestion des barrages hydroélectriques.",
+      "level": "B2",
+      "topic": "actualité",
+      "summaryZh": "三名蒙特利尔学生在NASA联合主办的比赛中夺冠：他们设计了用金属臂和气囊堵住损坏闸门管道的装置，挡住99%以上的水。",
+      "summaryEn": "Three Montreal students won a NASA co-organised contest with a device of metal arms and an inflatable balloon that blocks over 99% of water when a dam gate fails.",
+      "vocab": [
+        {
+          "fr": "un barrage",
+          "zh": "水坝",
+          "en": "a dam"
+        },
+        {
+          "fr": "une vanne",
+          "zh": "闸门",
+          "en": "a gate, valve"
+        },
+        {
+          "fr": "une conduite",
+          "zh": "管道",
+          "en": "a pipe"
+        },
+        {
+          "fr": "un grillage",
+          "zh": "格栅，铁丝网",
+          "en": "a grille, mesh"
+        },
+        {
+          "fr": "le décalage horaire",
+          "zh": "时差",
+          "en": "the time difference"
+        },
+        {
+          "fr": "faire ses preuves",
+          "zh": "证明自己",
+          "en": "to prove oneself"
+        }
+      ],
+      "question": {
+        "prompt": "Quel pourcentage de l’eau le prototype bloque-t-il ?",
+        "choices": [
+          "Environ 50%",
+          "Exactement 80%",
+          "Moins de 90%",
+          "Plus de 99%"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "视频中说 Il bloque plus de 99% de l'eau，挡住99%以上的水。"
+      },
+      "explain": {
+        "styleZh": "新闻短帖：一句话交代人物、结果和比赛主办方，用过去分词和形容词短语层层修饰。",
+        "sentences": [
+          {
+            "fr": "Trois jeunes étudiants canadiens de Montréal ont gagné un concours organisé par la Nasa et l’agence américaine responsable de la gestion des barrages hydroélectriques.",
+            "zh": "三名来自蒙特利尔的加拿大年轻学生赢得了一项由NASA和美国负责水电大坝管理的机构共同主办的比赛。",
+            "structureZh": "主干 Trois jeunes étudiants ont gagné un concours，ont gagné 是复合过去时，表示已完成的结果。organisé par… 是过去分词短语修饰 un concours，阳性单数配合。responsable de… 是形容词短语，修饰 l’agence américaine。hydroélectriques 修饰 barrages，阳性复数。",
+            "points": [
+              {
+                "fr": "gagner un concours",
+                "zh": "赢得比赛"
+              },
+              {
+                "fr": "organisé par qn",
+                "zh": "由某人主办的"
+              },
+              {
+                "fr": "être responsable de qch",
+                "zh": "负责某事"
+              },
+              {
+                "fr": "la gestion",
+                "zh": "管理"
+              },
+              {
+                "fr": "un barrage hydroélectrique",
+                "zh": "水电大坝"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
