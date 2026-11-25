@@ -1,1128 +1,116 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-24T12:38:07Z",
+  "generatedAt": "2026-11-25T12:41:40Z",
   "items": [
     {
-      "postId": "2125197923055280185",
-      "url": "https://x.com/Sciences_Avenir/status/2125197923055280185",
-      "author": "Sciences_Avenir",
-      "postedAt": "2026-11-24T12:00:43Z",
-      "excerpt": "En France, la prise en charge des patients souffrant à la fois d’obésité et d’hyperphagie boulimique reste largement insuffisante. Elle est pourtant fréquente puisqu'elle concernerait jusqu’à un tiers des personnes obèses.",
-      "level": "B2",
-      "topic": "santé",
-      "summaryZh": "《科学与未来》指出：在法国，对同时患肥胖症和暴食症的患者照护仍远远不足，而这种情况很常见，可能涉及多达三分之一的肥胖者。",
-      "summaryEn": "Sciences et Avenir says care in France for patients with both obesity and binge-eating disorder is still largely inadequate, though it may affect up to a third of obese people.",
-      "vocab": [
-        {
-          "fr": "la prise en charge",
-          "zh": "治疗照护",
-          "en": "care, treatment"
-        },
-        {
-          "fr": "l’obésité",
-          "zh": "肥胖症",
-          "en": "obesity"
-        },
-        {
-          "fr": "l’hyperphagie boulimique",
-          "zh": "暴食症",
-          "en": "binge-eating disorder"
-        },
-        {
-          "fr": "insuffisant",
-          "zh": "不足的",
-          "en": "inadequate"
-        },
-        {
-          "fr": "un tiers",
-          "zh": "三分之一",
-          "en": "a third"
-        }
-      ],
-      "question": {
-        "prompt": "Selon le post, quelle part des personnes obèses pourrait souffrir d’hyperphagie boulimique ?",
-        "choices": [
-          "Un quart",
-          "La moitié",
-          "Un dixième",
-          "Jusqu’à un tiers"
-        ],
-        "answerIndex": 3,
-        "explanationZh": "帖子说 jusqu’à un tiers des personnes obèses，即多达三分之一。"
-      },
-      "explain": {
-        "styleZh": "科普媒体的导语：第一句用 reste + 形容词 指出问题，第二句用 pourtant 转折，并用条件式给出未经完全证实的数据。",
-        "sentences": [
-          {
-            "fr": "En France, la prise en charge des patients souffrant à la fois d’obésité et d’hyperphagie boulimique reste largement insuffisante.",
-            "zh": "在法国，对同时患有肥胖症和暴食症的患者的治疗与照护仍然远远不够。",
-            "structureZh": "主语是 la prise en charge des patients…，谓语 reste，表语 largement insuffisante。reste + 形容词 表示“仍然处于某种状态”，现在时说明当前情况。souffrant 是现在分词，相当于 qui souffrent，修饰 patients。à la fois 连接两种疾病，强调“同时”。d’obésité 中 de 因元音省音为 d’。",
-            "points": [
-              {
-                "fr": "la prise en charge",
-                "zh": "（医疗）照护，承担治疗"
-              },
-              {
-                "fr": "souffrir de qch",
-                "zh": "患有某病，受……之苦"
-              },
-              {
-                "fr": "à la fois",
-                "zh": "同时，既……又……"
-              },
-              {
-                "fr": "rester + adj.",
-                "zh": "仍然……，保持……状态"
-              },
-              {
-                "fr": "l’hyperphagie boulimique",
-                "zh": "暴食症（医学术语）"
-              }
-            ]
-          },
-          {
-            "fr": "Elle est pourtant fréquente puisqu'elle concernerait jusqu’à un tiers des personnes obèses.",
-            "zh": "然而这种情况其实很常见，因为它可能涉及多达三分之一的肥胖者。",
-            "structureZh": "主干 Elle est fréquente，elle 指前一句的 l’hyperphagie boulimique。pourtant 表示转折“然而，可是”，放在动词后面。puisque 引导原因从句，表示对方也认可的理由。concernerait 是 concerner 的条件式现在时，媒体用条件式表示“据估计、尚待证实”的数字，不是假设。",
-            "points": [
-              {
-                "fr": "pourtant",
-                "zh": "然而，可是（表示转折）"
-              },
-              {
-                "fr": "puisque",
-                "zh": "既然，因为（引出已知的理由）"
-              },
-              {
-                "fr": "concernerait（条件式表推测）",
-                "zh": "条件式用于转述未经证实的信息：据称涉及"
-              },
-              {
-                "fr": "jusqu’à + nombre",
-                "zh": "多达……"
-              },
-              {
-                "fr": "un tiers",
-                "zh": "三分之一"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "postId": "2125149624214208807",
-      "url": "https://x.com/Sciences_Avenir/status/2125149624214208807",
-      "author": "Sciences_Avenir",
-      "postedAt": "2026-11-24T08:48:48Z",
-      "excerpt": "Et si des technosignatures d'extraterrestres étaient détectées à la surface de la Lune ? Cette idée formulée par le SETI propose d'étendre la recherche de civilisations avancées, notamment via l'analyse des roches lunaires.",
-      "level": "B2",
-      "topic": "culture",
-      "summaryZh": "《科学与未来》介绍 SETI 的一个设想：在月球表面寻找外星文明的技术痕迹，通过分析月球岩石来扩大对先进文明的搜寻。",
-      "summaryEn": "Sciences et Avenir presents a SETI idea: looking for alien technosignatures on the Moon's surface, extending the search for advanced civilisations by analysing lunar rocks.",
-      "vocab": [
-        {
-          "fr": "un extraterrestre",
-          "zh": "外星人",
-          "en": "an alien"
-        },
-        {
-          "fr": "détecter",
-          "zh": "探测",
-          "en": "to detect"
-        },
-        {
-          "fr": "étendre",
-          "zh": "扩大",
-          "en": "to extend"
-        },
-        {
-          "fr": "une civilisation avancée",
-          "zh": "先进文明",
-          "en": "an advanced civilisation"
-        },
-        {
-          "fr": "une roche lunaire",
-          "zh": "月岩",
-          "en": "a lunar rock"
-        }
-      ],
-      "question": {
-        "prompt": "Comment le SETI propose-t-il de chercher des civilisations avancées ?",
-        "choices": [
-          "En envoyant des messages radio vers Mars",
-          "En analysant des roches lunaires",
-          "En construisant un télescope géant",
-          "En étudiant les océans"
-        ],
-        "answerIndex": 1,
-        "explanationZh": "帖子说 notamment via l'analyse des roches lunaires，即通过分析月球岩石。"
-      },
-      "explain": {
-        "styleZh": "科普帖：先用 Et si + 未完成过去时 提出设想吸引读者，再用陈述句说明这个设想的来源和内容。",
-        "sentences": [
-          {
-            "fr": "Et si des technosignatures d'extraterrestres étaient détectées à la surface de la Lune ?",
-            "zh": "如果在月球表面探测到外星人的技术痕迹，会怎样？",
-            "structureZh": "Et si + 未完成过去时 是固定句型，用来提出假设或建议，意思是“要是……会怎样？”，后面的主句被省略了。étaient détectées 是被动语态的未完成过去时，过去分词 détectées 与阴性复数主语 technosignatures 配合。à la surface de 表示“在……表面”。",
-            "points": [
-              {
-                "fr": "Et si … étaient … ?（Et si + imparfait）",
-                "zh": "要是……会怎样？（提出设想）"
-              },
-              {
-                "fr": "être détecté（被动语态）",
-                "zh": "被探测到"
-              },
-              {
-                "fr": "une technosignature",
-                "zh": "技术特征，技术痕迹（文明存在的迹象）"
-              },
-              {
-                "fr": "à la surface de qch",
-                "zh": "在某物表面"
-              }
-            ]
-          },
-          {
-            "fr": "Cette idée formulée par le SETI propose d'étendre la recherche de civilisations avancées, notamment via l'analyse des roches lunaires.",
-            "zh": "这个由 SETI（搜寻地外文明计划）提出的设想，建议扩大对先进文明的搜寻，特别是通过分析月球岩石。",
-            "structureZh": "主干 Cette idée propose d'étendre la recherche。formulée par le SETI 是过去分词短语作定语，相当于 qui a été formulée par le SETI。proposer de + 不定式 表示“建议做某事”。notamment 引出重点举例，via 意为“通过”。lunaires 是 Lune 的形容词形式。",
-            "points": [
-              {
-                "fr": "formulé par qn",
-                "zh": "由某人提出的（过去分词作定语）"
-              },
-              {
-                "fr": "proposer de + inf.",
-                "zh": "建议做某事"
-              },
-              {
-                "fr": "étendre qch",
-                "zh": "扩大，延伸某事"
-              },
-              {
-                "fr": "notamment",
-                "zh": "尤其，特别是"
-              },
-              {
-                "fr": "via l’analyse de qch",
-                "zh": "通过分析某物"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "postId": "2124972704071876788",
-      "url": "https://x.com/Sciences_Avenir/status/2124972704071876788",
-      "author": "Sciences_Avenir",
-      "postedAt": "2026-11-23T21:05:47Z",
-      "excerpt": "Victime de son succès, le poivre sauvage commence à se faire rare à Madagascar. Menacée de surcroit par les feux de brousses allumés pour le charbon ou la culture sur brulis, l'épice tente d'être domestiqué par des entrepreneurs",
-      "level": "B2",
+      "postId": "2125354850108018783",
+      "url": "https://x.com/PaulPlamondon/status/2125354850108018783",
+      "author": "PaulPlamondon",
+      "postedAt": "2026-11-24T22:24:18Z",
+      "excerpt": "C’est avec fierté que j’ai reçu le titre de maire honoraire de notre capitale nationale. Depuis l’adoption de la Loi sur le statut de capitale nationale en 2016, je suis le troisième premier ministre du Québec à recevoir officiellement cet honneur. Et ça me touche sincèrement.",
+      "level": "B1",
       "topic": "actualité",
-      "summaryZh": "《科学与未来》报道：野生胡椒因太受欢迎在马达加斯加日渐稀少，还受到烧炭和烧垦引发的野火威胁，企业家正尝试人工种植。",
-      "summaryEn": "Sciences et Avenir reports that wild pepper is becoming scarce in Madagascar, a victim of its success also threatened by bush fires, and entrepreneurs are trying to domesticate it.",
+      "summaryZh": "魁北克省长普拉蒙东获颁魁北克市荣誉市长称号，他是2016年《国家首都地位法》通过后第三位获此荣誉的省长，并表示很感动。",
+      "summaryEn": "Quebec premier Paul Plamondon received the title of honorary mayor of the national capital, the third premier to get it since the 2016 law, and says he is touched.",
       "vocab": [
-        {
-          "fr": "le poivre sauvage",
-          "zh": "野生胡椒",
-          "en": "wild pepper"
-        },
-        {
-          "fr": "rare",
-          "zh": "稀少的",
-          "en": "scarce"
-        },
-        {
-          "fr": "une épice",
-          "zh": "香料",
-          "en": "a spice"
-        },
-        {
-          "fr": "la culture sur brulis",
-          "zh": "刀耕火种",
-          "en": "slash-and-burn farming"
-        },
-        {
-          "fr": "domestiquer",
-          "zh": "驯化，人工栽培",
-          "en": "to domesticate"
-        }
-      ],
-      "question": {
-        "prompt": "Pourquoi le poivre sauvage se fait-il rare à Madagascar ?",
-        "choices": [
-          "À cause de son succès et des feux de brousse",
-          "À cause d’une nouvelle loi",
-          "Parce que personne n’en veut plus",
-          "À cause d’une maladie des plantes"
-        ],
-        "answerIndex": 0,
-        "explanationZh": "帖子说 victime de son succès，并且受到 feux de brousses 的威胁。"
-      },
-      "explain": {
-        "styleZh": "科普短讯：第一句用固定说法 victime de son succès 点出问题，第二句用过去分词短语交代原因，再说明人们的应对办法。",
-        "sentences": [
-          {
-            "fr": "Victime de son succès, le poivre sauvage commence à se faire rare à Madagascar.",
-            "zh": "因为太受欢迎，野生胡椒在马达加斯加开始变得稀少。",
-            "structureZh": "句首 Victime de son succès 是同位语，说明主语 le poivre sauvage 的状态，相当于 comme il est victime de son succès。主干 le poivre sauvage commence à se faire rare。commencer à + 不定式 表示“开始做某事”，se faire rare 表示“变得稀少”，现在时表示正在发生的变化。",
-            "points": [
-              {
-                "fr": "victime de son succès",
-                "zh": "成功反受其累，太受欢迎反而带来问题"
-              },
-              {
-                "fr": "commencer à + inf.",
-                "zh": "开始做某事"
-              },
-              {
-                "fr": "se faire rare",
-                "zh": "变得稀少"
-              },
-              {
-                "fr": "le poivre sauvage",
-                "zh": "野生胡椒"
-              }
-            ]
-          },
-          {
-            "fr": "Menacée de surcroit par les feux de brousses allumés pour le charbon ou la culture sur brulis, l'épice tente d'être domestiqué par des entrepreneurs",
-            "zh": "这种香料还受到为烧炭或刀耕火种而点燃的灌木丛火的威胁，一些企业家正尝试对它进行人工驯化种植。",
-            "structureZh": "句首 Menacée… 是过去分词短语，说明主语 l'épice 的处境，所以用阴性 menacée。allumés pour… 修饰 les feux de brousses。主干 l'épice tente d'être domestiqué，tenter de + 不定式 表示“尝试”，后接被动不定式 être domestiqué，par 引出施动者。按语法 épice 是阴性，应写 domestiquée，原帖漏了 e；句末也没有句号。de surcroit 意为“此外，而且”。",
-            "points": [
-              {
-                "fr": "menacé par qch",
-                "zh": "受到某物威胁"
-              },
-              {
-                "fr": "de surcroit",
-                "zh": "此外，更有甚者"
-              },
-              {
-                "fr": "un feu de brousse",
-                "zh": "灌木丛火，野火"
-              },
-              {
-                "fr": "la culture sur brulis",
-                "zh": "刀耕火种，烧垦农业"
-              },
-              {
-                "fr": "tenter de + inf.",
-                "zh": "尝试做某事"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "postId": "2124982472354181190",
-      "url": "https://x.com/LeTemps/status/2124982472354181190",
-      "author": "LeTemps",
-      "postedAt": "2026-11-23T21:44:36Z",
-      "excerpt": "Premier long métrage du cinéaste français Maxence Voiseux, «Gabin» suit le rôle-titre de ses 8 ans à ses 18 ans. Un documentaire ancré dans le monde rural, mais au propos universel",
-      "level": "B1",
-      "topic": "culture",
-      "summaryZh": "《时报》介绍法国导演马克桑斯·瓦瑟的首部长片《加班》：纪录片跟拍主人公从8岁到18岁，扎根乡村却有普遍意义。",
-      "summaryEn": "Le Temps presents «Gabin», French director Maxence Voiseux's first feature: a documentary following its title character from age 8 to 18, rooted in rural life but universal.",
-      "vocab": [
-        {
-          "fr": "un long métrage",
-          "zh": "长片",
-          "en": "a feature film"
-        },
-        {
-          "fr": "un cinéaste",
-          "zh": "电影导演",
-          "en": "a filmmaker"
-        },
-        {
-          "fr": "un documentaire",
-          "zh": "纪录片",
-          "en": "a documentary"
-        },
-        {
-          "fr": "rural",
-          "zh": "乡村的",
-          "en": "rural"
-        },
-        {
-          "fr": "universel",
-          "zh": "普遍的",
-          "en": "universal"
-        }
-      ],
-      "question": {
-        "prompt": "Que montre le film «Gabin» ?",
-        "choices": [
-          "Un acteur célèbre en tournée",
-          "La vie de son personnage de 8 à 18 ans",
-          "L’histoire d’une ville industrielle",
-          "Un voyage autour du monde"
-        ],
-        "answerIndex": 1,
-        "explanationZh": "帖子说 suit le rôle-titre de ses 8 ans à ses 18 ans，跟拍主人公8到18岁。"
-      },
-      "explain": {
-        "styleZh": "影评导语：第一句介绍影片和导演，第二句是省略动词的名词句，用 mais 点出影片的特点。",
-        "sentences": [
-          {
-            "fr": "Premier long métrage du cinéaste français Maxence Voiseux, «Gabin» suit le rôle-titre de ses 8 ans à ses 18 ans.",
-            "zh": "《加班》是法国导演马克桑斯·瓦瑟的首部长片，跟拍片名主人公从8岁到18岁的成长。",
-            "structureZh": "句首 Premier long métrage du cinéaste… 是同位语，说明主语 «Gabin»，放在句首起介绍作用，没有冠词。主干 «Gabin» suit le rôle-titre，suivre 的现在时 suit，这里意为“跟拍，追踪”。de… à… 表示时间范围。le rôle-titre 指名字和片名相同的主人公。",
-            "points": [
-              {
-                "fr": "un long métrage",
-                "zh": "长片，故事长片"
-              },
-              {
-                "fr": "un cinéaste",
-                "zh": "电影导演"
-              },
-              {
-                "fr": "suivre qn（il suit）",
-                "zh": "跟随，跟拍某人"
-              },
-              {
-                "fr": "le rôle-titre",
-                "zh": "片名角色，与片名同名的主人公"
-              },
-              {
-                "fr": "Premier long métrage…（句首同位语）",
-                "zh": "句首同位语不加冠词，用来介绍主语"
-              }
-            ]
-          },
-          {
-            "fr": "Un documentaire ancré dans le monde rural, mais au propos universel",
-            "zh": "这是一部扎根于乡村世界、却表达普遍主题的纪录片。",
-            "structureZh": "这是省略句，没有动词，相当于 C’est un documentaire…，新闻和影评中常用。ancré 是过去分词作定语，ancré dans 意为“扎根于”。mais 引出对比：题材是乡村，主题却是普遍的。au propos universel 中 à + 名词 描述特点，propos 这里指“主旨，要表达的内容”。",
-            "points": [
-              {
-                "fr": "ancré dans qch",
-                "zh": "扎根于某处"
-              },
-              {
-                "fr": "le monde rural",
-                "zh": "乡村世界"
-              },
-              {
-                "fr": "le propos",
-                "zh": "（作品的）主旨，意图"
-              },
-              {
-                "fr": "universel",
-                "zh": "普遍的，具有普世意义的"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "postId": "2124955367058665779",
-      "url": "https://x.com/LeTemps/status/2124955367058665779",
-      "author": "LeTemps",
-      "postedAt": "2026-11-23T19:56:53Z",
-      "excerpt": "Régimes hyperprotéinés, «superaliments» ou cuisine «sans» : les réseaux sociaux saturent nos écrans de conseils nutritionnels. Pourtant, le contrôle de nos assiettes n’a rien de nouveau.",
-      "level": "B2",
-      "topic": "santé",
-      "summaryZh": "《时报》称：高蛋白饮食、超级食物、“无添加”烹饪，社交网络上的营养建议铺天盖地，但控制饮食其实并不是新鲜事。",
-      "summaryEn": "Le Temps notes that high-protein diets, superfoods and «free-from» cooking flood social media with nutrition advice, yet controlling what we eat is nothing new.",
-      "vocab": [
-        {
-          "fr": "un régime",
-          "zh": "饮食方式，节食",
-          "en": "a diet"
-        },
-        {
-          "fr": "un superaliment",
-          "zh": "超级食物",
-          "en": "a superfood"
-        },
-        {
-          "fr": "saturer",
-          "zh": "使充满",
-          "en": "to saturate"
-        },
-        {
-          "fr": "nutritionnel",
-          "zh": "营养的",
-          "en": "nutritional"
-        },
-        {
-          "fr": "une assiette",
-          "zh": "盘子",
-          "en": "a plate"
-        }
-      ],
-      "question": {
-        "prompt": "Que dit le post sur le contrôle de l’alimentation ?",
-        "choices": [
-          "C’est une mode née sur les réseaux sociaux",
-          "Il est interdit en Suisse",
-          "Il n’a rien de nouveau",
-          "Il concerne seulement les sportifs"
-        ],
-        "answerIndex": 2,
-        "explanationZh": "帖子说 le contrôle de nos assiettes n’a rien de nouveau，即并不新鲜。"
-      },
-      "explain": {
-        "styleZh": "社会评论导语：第一句先列举现象，冒号后作总结；第二句用 Pourtant 转折，指出这并不新鲜。",
-        "sentences": [
-          {
-            "fr": "Régimes hyperprotéinés, «superaliments» ou cuisine «sans» : les réseaux sociaux saturent nos écrans de conseils nutritionnels.",
-            "zh": "高蛋白饮食、“超级食物”或“无某某成分”的烹饪：社交网络上的营养建议充斥着我们的屏幕。",
-            "structureZh": "冒号前是列举的三个名词短语，没有动词，冒号后是总结的主句。主干 les réseaux sociaux saturent nos écrans，saturer qch de qch 表示“使某物充满某物”，现在时描述当下普遍现象。cuisine «sans» 指“无麸质、无糖”等饮食，引号表示这是流行说法。法语冒号前要空格。",
-            "points": [
-              {
-                "fr": "un régime hyperprotéiné",
-                "zh": "高蛋白饮食"
-              },
-              {
-                "fr": "saturer qch de qch",
-                "zh": "使某物充斥着某物"
-              },
-              {
-                "fr": "les réseaux sociaux",
-                "zh": "社交网络"
-              },
-              {
-                "fr": "un conseil nutritionnel",
-                "zh": "营养建议"
-              }
-            ]
-          },
-          {
-            "fr": "Pourtant, le contrôle de nos assiettes n’a rien de nouveau.",
-            "zh": "然而，控制我们吃什么并不是什么新鲜事。",
-            "structureZh": "Pourtant 表示转折，与前一句形成对比：虽然现在很流行，但并不新。主干 le contrôle n’a rien de nouveau。ne… rien de + 阳性形容词 是固定结构，意为“毫无……之处”，形容词前要加 de。nos assiettes 字面是“我们的盘子”，引申为“我们的饮食”。",
-            "points": [
-              {
-                "fr": "pourtant",
-                "zh": "然而，可是"
-              },
-              {
-                "fr": "n’avoir rien de + adj.",
-                "zh": "毫无……之处，一点也不……"
-              },
-              {
-                "fr": "l’assiette",
-                "zh": "盘子；引申为饮食"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "postId": "2125094986160939128",
-      "url": "https://x.com/LeTemps/status/2125094986160939128",
-      "author": "LeTemps",
-      "postedAt": "2026-11-24T05:11:41Z",
-      "excerpt": "Ils s’appellent Catherine, Jean et Léa et représentent les générations d'«avant». Dans le cadre de notre opération liée aux inquiétudes de la GenZ, ils partagent leurs souvenirs de jeunesse.",
-      "level": "B1",
-      "topic": "culture",
-      "summaryZh": "《时报》在关注Z世代焦虑的专题中，请卡特琳娜、让和蕾娅三位“前几代人”分享他们年轻时的回忆。",
-      "summaryEn": "As part of its series on Gen Z's worries, Le Temps asks Catherine, Jean and Léa, from earlier generations, to share memories of their youth.",
-      "vocab": [
-        {
-          "fr": "une génération",
-          "zh": "一代人",
-          "en": "a generation"
-        },
-        {
-          "fr": "une inquiétude",
-          "zh": "担忧",
-          "en": "a worry"
-        },
-        {
-          "fr": "partager",
-          "zh": "分享",
-          "en": "to share"
-        },
-        {
-          "fr": "un souvenir",
-          "zh": "回忆",
-          "en": "a memory"
-        },
-        {
-          "fr": "la jeunesse",
-          "zh": "青年时代",
-          "en": "youth"
-        }
-      ],
-      "question": {
-        "prompt": "Que font Catherine, Jean et Léa dans ce reportage ?",
-        "choices": [
-          "Ils partagent leurs souvenirs de jeunesse",
-          "Ils critiquent la GenZ",
-          "Ils présentent un livre",
-          "Ils enseignent à l’université"
-        ],
-        "answerIndex": 0,
-        "explanationZh": "帖子说 ils partagent leurs souvenirs de jeunesse，即分享年轻时的回忆。"
-      },
-      "explain": {
-        "styleZh": "系列报道的介绍：第一句介绍人物，第二句用 Dans le cadre de 说明报道背景和内容。",
-        "sentences": [
-          {
-            "fr": "Ils s’appellent Catherine, Jean et Léa et représentent les générations d'«avant».",
-            "zh": "他们叫卡特琳娜、让和蕾娅，代表着“以前”的几代人。",
-            "structureZh": "主语 Ils，两个谓语 s’appellent 和 représentent 用 et 并列，都是现在时。s’appeler 是代词式动词，意为“名叫”。d'«avant» 中 avant 本是副词，这里加引号当名词用，指年轻一代之前的世代；de 在元音前省音为 d'。",
-            "points": [
-              {
-                "fr": "s’appeler",
-                "zh": "名叫（代词式动词）"
-              },
-              {
-                "fr": "représenter qch",
-                "zh": "代表某物"
-              },
-              {
-                "fr": "les générations d'«avant»",
-                "zh": "以前的几代人（avant 名词化）"
-              }
-            ]
-          },
-          {
-            "fr": "Dans le cadre de notre opération liée aux inquiétudes de la GenZ, ils partagent leurs souvenirs de jeunesse.",
-            "zh": "在我们关于Z世代焦虑的专题活动中，他们分享了自己青年时代的回忆。",
-            "structureZh": "Dans le cadre de… 是状语，说明背景“在……框架内”。liée aux inquiétudes 是过去分词短语，修饰 opération，liée 与阴性 opération 配合，aux = à + les。主干 ils partagent leurs souvenirs，现在时。la GenZ 是 la génération Z 的缩写。",
-            "points": [
-              {
-                "fr": "dans le cadre de qch",
-                "zh": "在……的框架内，作为……的一部分"
-              },
-              {
-                "fr": "liée à qch（lié à 的阴性）",
-                "zh": "与某事有关的"
-              },
-              {
-                "fr": "une inquiétude",
-                "zh": "担忧，焦虑"
-              },
-              {
-                "fr": "partager qch",
-                "zh": "分享某物"
-              },
-              {
-                "fr": "un souvenir de jeunesse",
-                "zh": "青年时代的回忆"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "postId": "2125092799112491505",
-      "url": "https://x.com/ONU_fr/status/2125092799112491505",
-      "author": "ONU_fr",
-      "postedAt": "2026-11-24T05:03:00Z",
-      "excerpt": "Les jumeaux siamois sont des jumeaux identiques qui naissent reliés l'un à l'autre à la naissance. La Journée mondiale des jumeaux siamois, mardi, vise à sensibiliser à cette condition rare & à promouvoir leur bien-être et leur inclusion sociale.",
-      "level": "B1",
-      "topic": "santé",
-      "summaryZh": "联合国介绍：连体双胞胎是出生时身体相连的同卵双胞胎，周二的世界连体双胞胎日旨在提高认识，促进他们的福祉和社会融入。",
-      "summaryEn": "The UN explains that conjoined twins are identical twins born physically joined; World Conjoined Twins Day on Tuesday aims to raise awareness and promote their well-being and inclusion.",
-      "vocab": [
-        {
-          "fr": "des jumeaux",
-          "zh": "双胞胎",
-          "en": "twins"
-        },
-        {
-          "fr": "relié",
-          "zh": "相连的",
-          "en": "joined"
-        },
-        {
-          "fr": "sensibiliser",
-          "zh": "提高认识",
-          "en": "to raise awareness"
-        },
-        {
-          "fr": "promouvoir",
-          "zh": "促进",
-          "en": "to promote"
-        },
-        {
-          "fr": "le bien-être",
-          "zh": "福祉",
-          "en": "well-being"
-        }
-      ],
-      "question": {
-        "prompt": "Quel est l’objectif de la Journée mondiale des jumeaux siamois ?",
-        "choices": [
-          "Collecter des dons pour les hôpitaux",
-          "Annoncer un nouveau traitement",
-          "Sensibiliser et promouvoir leur inclusion",
-          "Organiser une compétition sportive"
-        ],
-        "answerIndex": 2,
-        "explanationZh": "帖子说 vise à sensibiliser… & à promouvoir leur bien-être et leur inclusion sociale。"
-      },
-      "explain": {
-        "styleZh": "国际日科普帖：第一句给出定义，第二句介绍这个国际日的目的，两个不定式并列。",
-        "sentences": [
-          {
-            "fr": "Les jumeaux siamois sont des jumeaux identiques qui naissent reliés l'un à l'autre à la naissance.",
-            "zh": "连体双胞胎是出生时身体彼此相连的同卵双胞胎。",
-            "structureZh": "主干 Les jumeaux siamois sont des jumeaux identiques，现在时用于下定义。qui 引导关系从句修饰 jumeaux identiques。naissent 是 naître 的现在时第三人称复数，reliés 是过去分词作表语补语，说明出生时的状态。l'un à l'autre 表示“彼此，互相”。",
-            "points": [
-              {
-                "fr": "des jumeaux siamois",
-                "zh": "连体双胞胎"
-              },
-              {
-                "fr": "des jumeaux identiques",
-                "zh": "同卵双胞胎"
-              },
-              {
-                "fr": "naître（ils naissent）",
-                "zh": "出生（现在时第三人称复数 naissent）"
-              },
-              {
-                "fr": "relié à qch",
-                "zh": "与……相连"
-              },
-              {
-                "fr": "l'un à l'autre",
-                "zh": "彼此，互相"
-              }
-            ]
-          },
-          {
-            "fr": "La Journée mondiale des jumeaux siamois, mardi, vise à sensibiliser à cette condition rare & à promouvoir leur bien-être et leur inclusion sociale.",
-            "zh": "周二的世界连体双胞胎日旨在提高人们对这种罕见状况的认识，并促进他们的福祉和社会融入。",
-            "structureZh": "主干 La Journée mondiale vise à…，mardi 用逗号隔开作时间插入语。viser à + 不定式 表示“旨在”，后面两个不定式 sensibiliser 和 promouvoir 由 & （即 et）并列，都由 à 引导。sensibiliser à qch 表示“使人认识到某事”。leur 指连体双胞胎。",
-            "points": [
-              {
-                "fr": "viser à + inf.",
-                "zh": "旨在做某事"
-              },
-              {
-                "fr": "sensibiliser qn à qch",
-                "zh": "提高某人对某事的认识"
-              },
-              {
-                "fr": "promouvoir qch",
-                "zh": "促进，推动某事"
-              },
-              {
-                "fr": "le bien-être",
-                "zh": "福祉，身心健康"
-              },
-              {
-                "fr": "l’inclusion sociale",
-                "zh": "社会融入，社会包容"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "postId": "2124957155308802117",
-      "url": "https://x.com/ONU_fr/status/2124957155308802117",
-      "author": "ONU_fr",
-      "postedAt": "2026-11-23T20:04:00Z",
-      "excerpt": "« Veillons à ce que l’intelligence artificielle soit façonnée par l’humanité, avec l’humanité et pour toute l’humanité. » António Guterres appelle à une cooperation internationale renforcée pour garantir une IA sûre, digne de confiance et inclusive.",
-      "level": "B2",
-      "topic": "actualité",
-      "summaryZh": "联合国秘书长古特雷斯表示，要确保人工智能由人类塑造、为全人类服务，并呼吁加强国际合作，保证人工智能安全、可信、包容。",
-      "summaryEn": "UN Secretary-General António Guterres says AI must be shaped by and for all humanity, and calls for stronger international cooperation to ensure safe, trustworthy and inclusive AI.",
-      "vocab": [
-        {
-          "fr": "l’intelligence artificielle",
-          "zh": "人工智能",
-          "en": "artificial intelligence"
-        },
-        {
-          "fr": "façonner",
-          "zh": "塑造",
-          "en": "to shape"
-        },
-        {
-          "fr": "la coopération",
-          "zh": "合作",
-          "en": "cooperation"
-        },
-        {
-          "fr": "garantir",
-          "zh": "确保",
-          "en": "to guarantee"
-        },
-        {
-          "fr": "digne de confiance",
-          "zh": "可信的",
-          "en": "trustworthy"
-        }
-      ],
-      "question": {
-        "prompt": "À quoi appelle António Guterres ?",
-        "choices": [
-          "À interdire l’intelligence artificielle",
-          "À une coopération internationale renforcée",
-          "À créer une monnaie mondiale",
-          "À réduire le budget de l’ONU"
-        ],
-        "answerIndex": 1,
-        "explanationZh": "帖子说 appelle à une cooperation internationale renforcée，呼吁加强国际合作。"
-      },
-      "explain": {
-        "styleZh": "引语加转述的帖子：第一句是联合国秘书长的原话，用命令式；第二句用 appeler à 转述他的呼吁。",
-        "sentences": [
-          {
-            "fr": "« Veillons à ce que l’intelligence artificielle soit façonnée par l’humanité, avec l’humanité et pour toute l’humanité. »",
-            "zh": "“让我们确保人工智能由人类塑造、与人类共同塑造，并为全人类服务。”",
-            "structureZh": "Veillons 是 veiller 的命令式第一人称复数，意为“让我们确保”。veiller à ce que 后面必须用虚拟式，所以 être 用虚拟式 soit。soit façonnée 是被动语态，façonnée 与阴性 intelligence 配合。par、avec、pour 三个介词排比，强调人类的核心地位。法语引号内侧要加空格。",
-            "points": [
-              {
-                "fr": "veiller à ce que + subjonctif",
-                "zh": "确保……（后接虚拟式）"
-              },
-              {
-                "fr": "façonner qch",
-                "zh": "塑造，打造某物"
-              },
-              {
-                "fr": "l’intelligence artificielle",
-                "zh": "人工智能"
-              },
-              {
-                "fr": "l’humanité",
-                "zh": "人类"
-              }
-            ]
-          },
-          {
-            "fr": "António Guterres appelle à une cooperation internationale renforcée pour garantir une IA sûre, digne de confiance et inclusive.",
-            "zh": "安东尼奥·古特雷斯呼吁加强国际合作，以确保人工智能安全、可信且具有包容性。",
-            "structureZh": "主干 António Guterres appelle à une cooperation…，appeler à qch 表示“呼吁某事”，现在时转述。renforcée 是过去分词作形容词，意为“加强的”。pour + 不定式 garantir 表示目的。三个形容词 sûre, digne de confiance, inclusive 与阴性 IA 配合。cooperation 标准拼写是 coopération，原帖漏了重音。原帖用的是 @ 账号，这里换成了人名。",
-            "points": [
-              {
-                "fr": "appeler à qch",
-                "zh": "呼吁某事"
-              },
-              {
-                "fr": "renforcé",
-                "zh": "加强的"
-              },
-              {
-                "fr": "garantir qch",
-                "zh": "保证，确保某事"
-              },
-              {
-                "fr": "digne de confiance",
-                "zh": "值得信赖的"
-              },
-              {
-                "fr": "inclusif, inclusive",
-                "zh": "包容的"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "postId": "2125184894724698418",
-      "url": "https://x.com/RFI/status/2125184894724698418",
-      "author": "RFI",
-      "postedAt": "2026-11-24T11:08:57Z",
-      "excerpt": "Vous étudiez en France et vos études sont affectées par le mouvement social ? Témoignez pour RFI. RFI est à la recherche de témoignages d'étudiants et étudiantes étrangers en France sur leurs conditions d'études depuis mi-septembre.",
-      "level": "B1",
-      "topic": "immigration",
-      "summaryZh": "法国国际广播电台征集在法外国学生的亲身经历：自九月中旬以来，社会运动如何影响他们的学习条件。",
-      "summaryEn": "RFI is looking for testimonies from foreign students in France whose studies have been affected by the social protest movement since mid-September.",
-      "vocab": [
-        {
-          "fr": "étudier",
-          "zh": "学习",
-          "en": "to study"
-        },
-        {
-          "fr": "le mouvement social",
-          "zh": "社会运动",
-          "en": "the protest movement"
-        },
-        {
-          "fr": "témoigner",
-          "zh": "讲述经历",
-          "en": "to testify"
-        },
-        {
-          "fr": "un témoignage",
-          "zh": "见证",
-          "en": "a testimony"
-        },
-        {
-          "fr": "étranger",
-          "zh": "外国的",
-          "en": "foreign"
-        }
-      ],
-      "question": {
-        "prompt": "Qui RFI cherche-t-elle à interroger ?",
-        "choices": [
-          "Des professeurs français",
-          "Des parents d’élèves",
-          "Des étudiants étrangers en France",
-          "Des touristes à Paris"
-        ],
-        "answerIndex": 2,
-        "explanationZh": "帖子说 témoignages d'étudiants et étudiantes étrangers en France。"
-      },
-      "explain": {
-        "styleZh": "征集读者见证的帖子：先用问句锁定读者，再用命令式发出邀请，最后说明征集内容。",
-        "sentences": [
-          {
-            "fr": "Vous étudiez en France et vos études sont affectées par le mouvement social ?",
-            "zh": "您在法国学习，而您的学业受到了社会抗议运动的影响吗？",
-            "structureZh": "这是语调疑问句，只靠问号和语调提问，口语和媒体常用。两个分句由 et 连接：Vous étudiez en France 与 vos études sont affectées…。sont affectées 是被动语态现在时，affectées 与阴性复数 études 配合，par 引出施动者。le mouvement social 指罢工、游行等社会运动。",
-            "points": [
-              {
-                "fr": "étudier en France",
-                "zh": "在法国学习"
-              },
-              {
-                "fr": "être affecté par qch",
-                "zh": "受到某事影响"
-              },
-              {
-                "fr": "le mouvement social",
-                "zh": "社会运动（罢工、抗议等）"
-              }
-            ]
-          },
-          {
-            "fr": "Témoignez pour RFI.",
-            "zh": "请向法国国际广播电台讲述您的经历。",
-            "structureZh": "Témoignez 是 témoigner 的命令式第二人称复数（vous），用来发出邀请。témoigner 意为“作证，讲述亲身经历”。原帖这里用换行分隔，这里补了句号。",
-            "points": [
-              {
-                "fr": "témoigner",
-                "zh": "作证，讲述亲身经历"
-              }
-            ]
-          },
-          {
-            "fr": "RFI est à la recherche de témoignages d'étudiants et étudiantes étrangers en France sur leurs conditions d'études depuis mi-septembre.",
-            "zh": "RFI正在征集在法外国学生讲述自九月中旬以来他们的学习状况。",
-            "structureZh": "主干 RFI est à la recherche de témoignages。être à la recherche de qch 表示“正在寻找”。étudiants et étudiantes 是包容性写法，同时写出阳性和阴性。sur 引出见证的主题。depuis mi-septembre 表示从九月中旬持续到现在，mi- 是前缀“中间”。",
-            "points": [
-              {
-                "fr": "être à la recherche de qch",
-                "zh": "正在寻找某物"
-              },
-              {
-                "fr": "un témoignage",
-                "zh": "见证，亲身讲述"
-              },
-              {
-                "fr": "les conditions d'études",
-                "zh": "学习条件，学习状况"
-              },
-              {
-                "fr": "depuis mi-septembre",
-                "zh": "自九月中旬以来"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "postId": "2124865605446598993",
-      "url": "https://x.com/CitImmCanFR/status/2124865605446598993",
-      "author": "CitImmCanFR",
-      "postedAt": "2026-11-23T14:00:13Z",
-      "excerpt": "Puis-je être rémunéré pour fournir des conseils en matière d’immigration? Ce n’est pas le cas de tout le monde. Notre dernière vidéo de la série IRCC explique révèle qui peut fournir des conseils ou assurer une représentation, les règles à respecter et les conséquences d’une infraction à la loi.",
-      "level": "B2",
-      "topic": "immigration",
-      "summaryZh": "加拿大移民部视频讲解：只有律师、魁北克公证人、受监督的法律实习生和持牌移民顾问才能收费提供移民咨询，违规者会被罚款并公开信息。",
-      "summaryEn": "IRCC explains that only lawyers, Quebec notaries, supervised law students and licensed consultants may charge for immigration advice; violators can be fined and publicly named.",
-      "vocab": [
-        {
-          "fr": "la rémunération",
-          "zh": "报酬",
-          "en": "payment"
-        },
-        {
-          "fr": "un barreau",
-          "zh": "律师协会",
-          "en": "a bar (law society)"
-        },
-        {
-          "fr": "moyennant des frais",
-          "zh": "收取费用",
-          "en": "for a fee"
-        },
-        {
-          "fr": "une amende",
-          "zh": "罚款",
-          "en": "a fine"
-        },
-        {
-          "fr": "la fraude",
-          "zh": "欺诈",
-          "en": "fraud"
-        }
-      ],
-      "question": {
-        "prompt": "Selon la vidéo, que risque une personne qui donne des conseils payants sans autorisation ?",
-        "choices": [
-          "Rien, si elle vit hors du Canada",
-          "Une amende et la publication de ses informations",
-          "Seulement un avertissement oral",
-          "La perte de son passeport"
-        ],
-        "answerIndex": 1,
-        "explanationZh": "视频说 Vous pourriez recevoir une amende et vos informations seront publiées sur le site Web d'IRCC。"
-      },
-      "explain": {
-        "styleZh": "政府科普视频的推广帖：先用读者可能提出的问题开头，再用简短否定句制造悬念，最后介绍视频内容。",
-        "sentences": [
-          {
-            "fr": "Puis-je être rémunéré pour fournir des conseils en matière d’immigration?",
-            "zh": "我可以因提供移民方面的咨询而获得报酬吗？",
-            "structureZh": "这是主谓倒装疑问句。pouvoir 的第一人称单数倒装时要用 puis-je，不能说 peux-je，这是固定形式。être rémunéré 是被动语态，意为“得到报酬”。pour + 不定式 fournir 表示目的。en matière de 意为“在……方面”。加拿大法语问号前不空格。",
-            "points": [
-              {
-                "fr": "Puis-je… ?",
-                "zh": "我可以……吗？（pouvoir 倒装的固定形式）"
-              },
-              {
-                "fr": "être rémunéré",
-                "zh": "获得报酬（被动语态）"
-              },
-              {
-                "fr": "fournir des conseils",
-                "zh": "提供建议，提供咨询"
-              },
-              {
-                "fr": "en matière de + nom",
-                "zh": "在……方面"
-              }
-            ]
-          },
-          {
-            "fr": "Ce n’est pas le cas de tout le monde.",
-            "zh": "并不是每个人都可以。",
-            "structureZh": "主干 Ce n’est pas le cas，ce 指前面问题所说的情况。ne… pas 否定。de tout le monde 表示“对所有人而言”。整句是对问题的简短回答：只有部分人可以收费提供咨询。",
-            "points": [
-              {
-                "fr": "ce n’est pas le cas de tout le monde",
-                "zh": "并非人人如此；tout le monde 是单数，动词用第三人称单数"
-              }
-            ]
-          },
-          {
-            "fr": "Notre dernière vidéo de la série IRCC explique révèle qui peut fournir des conseils ou assurer une représentation, les règles à respecter et les conséquences d’une infraction à la loi.",
-            "zh": "我们“IRCC 讲解”系列的最新视频揭示了谁可以提供咨询或担任代理、需要遵守的规则，以及违法的后果。",
-            "structureZh": "主语是 Notre dernière vidéo de la série IRCC explique，其中 IRCC explique 是系列名称（意为“IRCC 讲解”），不是谓语；真正的谓语是 révèle。révèle 后面有三个并列宾语：qui peut… 引导的间接疑问从句、les règles à respecter、les conséquences…。à respecter 是 à + 不定式 作定语，表示“需要遵守的”。",
-            "points": [
-              {
-                "fr": "révéler qch（il révèle）",
-                "zh": "揭示，披露某事"
-              },
-              {
-                "fr": "assurer une représentation",
-                "zh": "担任代理"
-              },
-              {
-                "fr": "les règles à respecter",
-                "zh": "需要遵守的规则（à + inf. 表示必须）"
-              },
-              {
-                "fr": "une infraction à la loi",
-                "zh": "违法行为"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "postId": "2124813076159463571",
-      "url": "https://x.com/franceinfo/status/2124813076159463571",
-      "author": "franceinfo",
-      "postedAt": "2026-11-23T10:31:29Z",
-      "excerpt": "“Les acteurs de la filière [aéronautique française], vous pouvez être extrêmement fiers de ce que vous avez réalisé (...) On est sortis du Covid encore plus forts (...) et avec un carnet de commandes qui continue d’augmenter”, assure Emmanuel Macron.",
-      "level": "B2",
-      "topic": "travail",
-      "summaryZh": "马克龙在图卢兹空客基地对航空业员工讲话：行业走出疫情后更强大，9300架飞机待交付，A320订单超两万架，鼓励年轻人对未来有信心。",
-      "summaryEn": "At Airbus in Toulouse, Emmanuel Macron tells aerospace workers the sector emerged from Covid stronger, with 9,300 aircraft awaiting delivery and a still-growing order book.",
-      "vocab": [
-        {
-          "fr": "la filière aéronautique",
-          "zh": "航空产业",
-          "en": "the aerospace sector"
-        },
-        {
-          "fr": "une livraison",
-          "zh": "交付",
-          "en": "a delivery"
-        },
-        {
-          "fr": "un carnet de commandes",
-          "zh": "订单簿",
-          "en": "an order book"
-        },
         {
           "fr": "la fierté",
           "zh": "自豪",
           "en": "pride"
         },
         {
-          "fr": "foncer",
-          "zh": "全速前进",
-          "en": "to charge ahead"
+          "fr": "maire honoraire",
+          "zh": "荣誉市长",
+          "en": "honorary mayor"
+        },
+        {
+          "fr": "l’adoption d’une loi",
+          "zh": "法律通过",
+          "en": "passing of a law"
+        },
+        {
+          "fr": "un honneur",
+          "zh": "荣誉",
+          "en": "an honour"
+        },
+        {
+          "fr": "toucher qn",
+          "zh": "使人感动",
+          "en": "to move someone"
         }
       ],
       "question": {
-        "prompt": "Combien d’appareils sont en attente de livraison, selon le président ?",
+        "prompt": "Depuis quelle année existe la Loi sur le statut de capitale nationale ?",
         "choices": [
-          "870",
-          "20 000",
-          "9 300",
-          "100"
+          "2006",
+          "2016",
+          "2020",
+          "2026"
         ],
-        "answerIndex": 2,
-        "explanationZh": "视频中说 9 300 appareils en attente de livraison。"
+        "answerIndex": 1,
+        "explanationZh": "帖子说 Depuis l’adoption de la Loi … en 2016，即该法于2016年通过。"
       },
       "explain": {
-        "styleZh": "引语帖：整段是总统讲话的节选，用 (...) 表示省略，最后用倒装的 assure Emmanuel Macron 交代说话人。",
+        "styleZh": "魁北克省长的个人感言帖：先用强调句 C’est avec… que 表达心情，再用 Depuis 交代背景和事实，最后用一句口语短句收尾。",
         "sentences": [
           {
-            "fr": "“Les acteurs de la filière [aéronautique française], vous pouvez être extrêmement fiers de ce que vous avez réalisé (...) On est sortis du Covid encore plus forts (...) et avec un carnet de commandes qui continue d’augmenter”, assure Emmanuel Macron.",
-            "zh": "马克龙表示：“（法国航空）行业的各位参与者，你们完全可以为自己的成就感到无比自豪……我们走出新冠疫情后变得更强大……订单量还在持续增长。”",
-            "structureZh": "Les acteurs de la filière 先被提出，再用 vous 直接称呼，是口语的呼语结构。方括号是编辑补充的说明，(...) 表示删去了部分讲话。ce que 引导关系从句，作 fiers de 的宾语。On est sortis 用 être 作助动词的复合过去时，on 指“我们”，所以 sortis、forts 用复数。continuer de + 不定式 表示“继续”。引语后 assure Emmanuel Macron 是倒装。",
+            "fr": "C’est avec fierté que j’ai reçu le titre de maire honoraire de notre capitale nationale.",
+            "zh": "我怀着自豪接受了我们国家首都的荣誉市长称号。",
+            "structureZh": "这是强调句 C’est … que …，把 avec fierté（怀着自豪）放到句首强调。主干是 j’ai reçu le titre，j’ai reçu 是 recevoir 的复合过去时，表示已经完成的动作。notre capitale nationale 在魁北克语境里指魁北克市，是魁北克省的“国家首都”。",
             "points": [
               {
-                "fr": "la filière",
-                "zh": "行业，产业链"
+                "fr": "c’est avec fierté que + phrase",
+                "zh": "我很自豪地……（强调句型）"
               },
               {
-                "fr": "être fier de ce que…",
-                "zh": "为……感到自豪"
+                "fr": "recevoir un titre",
+                "zh": "获得一个称号（j’ai reçu 为复合过去时）"
               },
               {
-                "fr": "sortir de qch",
-                "zh": "走出，摆脱某事"
+                "fr": "maire honoraire",
+                "zh": "荣誉市长"
               },
               {
-                "fr": "un carnet de commandes",
-                "zh": "订单簿，订单量"
+                "fr": "la capitale nationale",
+                "zh": "（魁北克的）首府、国家首都，指魁北克市"
+              }
+            ]
+          },
+          {
+            "fr": "Depuis l’adoption de la Loi sur le statut de capitale nationale en 2016, je suis le troisième premier ministre du Québec à recevoir officiellement cet honneur.",
+            "zh": "自2016年通过《国家首都地位法》以来，我是第三位正式获得这一荣誉的魁北克省长。",
+            "structureZh": "Depuis + 名词 表示“自……以来”，引出时间起点。主干 je suis le troisième premier ministre，用现在时表示到现在为止的状态。le troisième … à + 不定式 是固定结构：序数词后面用 à 引出动作，表示“第几个做某事的人”。premier ministre du Québec 指魁北克省长（省总理）。",
+            "points": [
+              {
+                "fr": "depuis + nom",
+                "zh": "自……以来"
               },
               {
-                "fr": "continuer de + inf.",
-                "zh": "继续做某事"
+                "fr": "l’adoption d’une loi",
+                "zh": "法律的通过"
+              },
+              {
+                "fr": "le premier / le troisième à + inf.",
+                "zh": "第一个/第三个做某事的人"
+              },
+              {
+                "fr": "officiellement",
+                "zh": "正式地"
+              }
+            ]
+          },
+          {
+            "fr": "Et ça me touche sincèrement.",
+            "zh": "这真的让我很感动。",
+            "structureZh": "主语 ça 是口语里的 cela，指上一句说的荣誉。me 是直接宾语代词，放在动词 touche 前面。toucher qn 在这里不是“触摸”，而是“使某人感动”。sincèrement 修饰动词，表示“真心地”。",
+            "points": [
+              {
+                "fr": "toucher qn",
+                "zh": "使某人感动（不是“碰”）"
+              },
+              {
+                "fr": "sincèrement",
+                "zh": "真诚地，由衷地"
               }
             ]
           }
@@ -1130,230 +118,121 @@
       }
     },
     {
-      "postId": "2125125802962428241",
-      "url": "https://x.com/franceinfo/status/2125125802962428241",
-      "author": "franceinfo",
-      "postedAt": "2026-11-24T07:14:09Z",
-      "excerpt": "Le cargo échoué depuis vendredi 20 novembre au large de la plage de Lit-et-Mixe, dans les Landes, pourrait retrouver la mer ce mardi 24 novembre. L’opération dépend notamment des conditions météorologiques et de la marée. La marée haute, attendue aux alentours de 16 heures ce mardi, pourrait offrir une fenêtre de tir précieuse à l’armateur du cargo, mis en demeure par le préfet maritime de l’Atlantique.",
-      "level": "B2",
-      "topic": "transport",
-      "summaryZh": "一艘货船在朗德省海滩外搁浅数日，可能在周二下午涨潮时脱浅：需先排出压载水减轻船重，再由拖船用缆绳拖走，但海况仍不理想。",
-      "summaryEn": "A cargo ship stranded off a beach in the Landes could be refloated at Tuesday afternoon's high tide: ballast water must be pumped out before a tug tows it away, though conditions remain tricky.",
+      "postId": "2125321054323376288",
+      "url": "https://x.com/EmmanuelMacron/status/2125321054323376288",
+      "author": "EmmanuelMacron",
+      "postedAt": "2026-11-24T20:10:00Z",
+      "excerpt": "En 2026, les entreprises françaises investissent 42,5 milliards d'euros dans notre pays : 273 projets, dont 81 annoncés aujourd'hui pour 14,9 milliards. Des usines, des emplois créés et préservés, des territoires qui revivent. Choose France porte ses fruits. On ne lâche rien.",
+      "level": "B1",
+      "topic": "travail",
+      "summaryZh": "马克龙称，2026年法国企业在本国投资425亿欧元，共273个项目，其中81个当天宣布，金额149亿欧元，带来工厂、就业和地区复苏。",
+      "summaryEn": "Macron says French companies are investing 42.5 billion euros in France in 2026: 273 projects, 81 of them announced today for 14.9 billion.",
       "vocab": [
         {
-          "fr": "échoué",
-          "zh": "搁浅的",
-          "en": "stranded"
+          "fr": "investir",
+          "zh": "投资",
+          "en": "to invest"
         },
         {
-          "fr": "renflouer",
-          "zh": "使重新浮起",
-          "en": "to refloat"
+          "fr": "un milliard",
+          "zh": "十亿",
+          "en": "a billion"
         },
         {
-          "fr": "la marée",
-          "zh": "潮汐",
-          "en": "the tide"
+          "fr": "une usine",
+          "zh": "工厂",
+          "en": "a factory"
         },
         {
-          "fr": "un remorqueur",
-          "zh": "拖船",
-          "en": "a tug"
+          "fr": "préserver",
+          "zh": "保护，保住",
+          "en": "to preserve"
         },
         {
-          "fr": "le ballast",
-          "zh": "压载舱",
-          "en": "ballast tank"
+          "fr": "porter ses fruits",
+          "zh": "取得成效",
+          "en": "to bear fruit"
         }
       ],
       "question": {
-        "prompt": "Quelle est la première étape pour libérer le cargo ?",
+        "prompt": "Combien de projets ont été annoncés le jour du post ?",
         "choices": [
-          "Décharger toutes les marchandises",
-          "Attendre une tempête",
-          "Évacuer l’eau de mer des ballasts",
-          "Démonter le moteur"
+          "273",
+          "42",
+          "81",
+          "14"
         ],
         "answerIndex": 2,
-        "explanationZh": "视频说第一步是减轻船重：l'eau de mer contenue dans les ballasts doit être évacuée。"
+        "explanationZh": "帖子说 273 projets, dont 81 annoncés aujourd'hui，当天宣布的是81个。"
       },
       "explain": {
-        "styleZh": "新闻短讯：第一句交代事件和可能的进展，第二句说明条件，第三句用条件式和插入语补充时间与相关方。",
+        "styleZh": "总统的经济成果帖：先用数字罗列投资规模，再用三个名词短语描绘效果，最后用口号式短句收尾。",
         "sentences": [
           {
-            "fr": "Le cargo échoué depuis vendredi 20 novembre au large de la plage de Lit-et-Mixe, dans les Landes, pourrait retrouver la mer ce mardi 24 novembre.",
-            "zh": "自11月20日周五起在朗德省利特-米克斯海滩外搁浅的货船，可能在本周二11月24日重新回到海上。",
-            "structureZh": "主语 Le cargo，échoué depuis… 是过去分词短语作定语，说明船的状态。dans les Landes 是插入的补充说明。谓语 pourrait retrouver，pouvoir 的条件式表示“可能”，媒体用它表达尚不确定的事情。au large de 意为“在……的外海”。",
+            "fr": "En 2026, les entreprises françaises investissent 42,5 milliards d'euros dans notre pays : 273 projets, dont 81 annoncés aujourd'hui pour 14,9 milliards.",
+            "zh": "2026年，法国企业在我们国家投资425亿欧元：共273个项目，其中81个今天宣布，金额149亿欧元。",
+            "structureZh": "主干 les entreprises françaises investissent 42,5 milliards d'euros，现在时用来报告今年的情况。冒号后面是对数字的具体说明。dont 在这里表示“其中”，后面省略了动词：dont 81 (sont) annoncés aujourd'hui。annoncés 是过去分词，和 projets 配合用阳性复数。法语用逗号作小数点：42,5 = 42.5。",
             "points": [
               {
-                "fr": "un cargo",
-                "zh": "货船"
+                "fr": "investir qch dans qch",
+                "zh": "把……投资到……"
               },
               {
-                "fr": "échoué",
-                "zh": "搁浅的"
+                "fr": "un milliard",
+                "zh": "十亿；42,5 milliards = 425亿"
               },
               {
-                "fr": "au large de qch",
-                "zh": "在……的外海"
+                "fr": "dont + nombre",
+                "zh": "其中（有多少）"
               },
-              {
-                "fr": "pourrait（条件式表可能）",
-                "zh": "可能会，或许"
-              },
-              {
-                "fr": "retrouver la mer",
-                "zh": "重新回到海上"
-              }
-            ]
-          },
-          {
-            "fr": "L’opération dépend notamment des conditions météorologiques et de la marée.",
-            "zh": "这次行动尤其取决于天气条件和潮汐。",
-            "structureZh": "主干 L’opération dépend de…，dépendre de qch 意为“取决于”。des = de + les，所以 dépend des conditions。notamment 意为“尤其，特别是”，表示还有其他因素。现在时陈述客观事实。",
-            "points": [
-              {
-                "fr": "dépendre de qch",
-                "zh": "取决于某事"
-              },
-              {
-                "fr": "notamment",
-                "zh": "尤其，特别是"
-              },
-              {
-                "fr": "les conditions météorologiques",
-                "zh": "天气条件"
-              },
-              {
-                "fr": "la marée",
-                "zh": "潮汐"
-              }
-            ]
-          },
-          {
-            "fr": "La marée haute, attendue aux alentours de 16 heures ce mardi, pourrait offrir une fenêtre de tir précieuse à l’armateur du cargo, mis en demeure par le préfet maritime de l’Atlantique.",
-            "zh": "预计周二下午4点左右出现的涨潮，可能为货船的船东提供一个宝贵的行动窗口；船东已被大西洋海事省长正式责令处理。",
-            "structureZh": "主语 La marée haute，attendue aux alentours de 16 heures 是过去分词插入语。谓语 pourrait offrir，条件式表示可能。offrir qch à qn 意为“给某人提供某物”。une fenêtre de tir 原指发射窗口，引申为“有利时机”。mis en demeure… 是过去分词短语，修饰 l’armateur。le préfet maritime 是法国负责海域的海事省长。",
-            "points": [
-              {
-                "fr": "la marée haute",
-                "zh": "涨潮，高潮位"
-              },
-              {
-                "fr": "aux alentours de + heure",
-                "zh": "大约在……时候"
-              },
-              {
-                "fr": "une fenêtre de tir",
-                "zh": "有利时机（原指发射窗口）"
-              },
-              {
-                "fr": "un armateur",
-                "zh": "船东"
-              },
-              {
-                "fr": "mettre qn en demeure",
-                "zh": "正式责令某人（履行义务）"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "postId": "2125129112507269267",
-      "url": "https://x.com/franceinfo/status/2125129112507269267",
-      "author": "franceinfo",
-      "postedAt": "2026-11-24T07:27:18Z",
-      "excerpt": "L’augmentation du livret A devrait être de “0,30 ou 0,40 de plus que le taux actuel” déclare le Ministre du Commerce, des petites et moyennes entreprises. Le gouvernement a annoncé une hausse du plafond du Livret A, et un nouveau taux au 1er février 2027.",
-      "level": "C1",
-      "topic": "actualité",
-      "summaryZh": "法国中小企业部长在 franceinfo 节目中谈A类储蓄账户：利率可能比现行高0.30或0.40个百分点，政府已宣布提高存款上限，2027年2月1日起执行新利率。",
-      "summaryEn": "On franceinfo, France's minister for SMEs says the Livret A rate should rise by 0.30 or 0.40 points; the government has announced a higher ceiling and a new rate from 1 February 2027.",
-      "vocab": [
-        {
-          "fr": "le livret A",
-          "zh": "A类储蓄账户",
-          "en": "Livret A savings account"
-        },
-        {
-          "fr": "le taux",
-          "zh": "利率",
-          "en": "the rate"
-        },
-        {
-          "fr": "le plafond",
-          "zh": "上限",
-          "en": "the ceiling"
-        },
-        {
-          "fr": "l’épargne",
-          "zh": "储蓄",
-          "en": "savings"
-        },
-        {
-          "fr": "défiscalisé",
-          "zh": "免税的",
-          "en": "tax-free"
-        }
-      ],
-      "question": {
-        "prompt": "Selon le ministre, de combien le taux du livret A devrait-il augmenter ?",
-        "choices": [
-          "De 0,30 ou 0,40",
-          "De 1 ou 2 points",
-          "De 3 %",
-          "Il ne va pas augmenter"
-        ],
-        "answerIndex": 0,
-        "explanationZh": "部长说 0,30 ou 0,40 de plus que le taux actuel。"
-      },
-      "explain": {
-        "styleZh": "电视访谈的摘要帖：第一句先放引语再用倒装的 déclare 交代说话人，第二句用复合过去时补充政府已宣布的措施。",
-        "sentences": [
-          {
-            "fr": "L’augmentation du livret A devrait être de “0,30 ou 0,40 de plus que le taux actuel” déclare le Ministre du Commerce, des petites et moyennes entreprises.",
-            "zh": "中小企业与商业部长表示，A类储蓄账户的上调幅度应该是“比现行利率高0.30或0.40”。",
-            "structureZh": "引语部分主干 L’augmentation devrait être de…，devoir 的条件式 devrait 表示预计、推测，而不是义务。être de + 数量 表示“为多少”。引语后 déclare le Ministre 是主谓倒装，新闻中放在引语后面的说话动词常倒装。le livret A 是法国一种免税储蓄账户。",
-            "points": [
-              {
-                "fr": "le livret A",
-                "zh": "A类储蓄账户（法国免税储蓄）"
-              },
-              {
-                "fr": "devrait（条件式表推测）",
-                "zh": "应该会，预计"
-              },
-              {
-                "fr": "le taux actuel",
-                "zh": "现行利率"
-              },
-              {
-                "fr": "déclarer qch",
-                "zh": "宣称，表示"
-              }
-            ]
-          },
-          {
-            "fr": "Le gouvernement a annoncé une hausse du plafond du Livret A, et un nouveau taux au 1er février 2027.",
-            "zh": "政府已宣布提高A类账户的存款上限，并从2027年2月1日起实行新利率。",
-            "structureZh": "主干 Le gouvernement a annoncé…，复合过去时表示已完成的宣布。两个宾语 une hausse du plafond 和 un nouveau taux 并列。le plafond 原意“天花板”，这里指存款上限。au 1er février 2027 表示生效日期，1er 读作 premier。",
-            "points": [
               {
                 "fr": "annoncer qch",
-                "zh": "宣布某事"
+                "zh": "宣布某事（annoncés 为过去分词）"
+              }
+            ]
+          },
+          {
+            "fr": "Des usines, des emplois créés et préservés, des territoires qui revivent.",
+            "zh": "工厂、被创造和保住的工作岗位、重新焕发生机的地区。",
+            "structureZh": "这是没有谓语动词的名词句（省略句），像标题一样列出投资的成果。créés et préservés 是两个过去分词，修饰 des emplois，表示被动意义“被创造、被保住的”。qui revivent 是关系从句，qui 指 des territoires。",
+            "points": [
+              {
+                "fr": "une usine",
+                "zh": "工厂"
               },
               {
-                "fr": "une hausse de qch",
-                "zh": "……的上涨，提高"
+                "fr": "préserver un emploi",
+                "zh": "保住工作岗位"
               },
               {
-                "fr": "le plafond",
-                "zh": "上限（原意天花板）"
+                "fr": "revivre",
+                "zh": "重新焕发生机，复苏"
               },
               {
-                "fr": "au 1er février",
-                "zh": "从2月1日起（1er 读作 premier）"
+                "fr": "un territoire",
+                "zh": "地区，地方（法国政治用语常指各地区）"
+              }
+            ]
+          },
+          {
+            "fr": "Choose France porte ses fruits.",
+            "zh": "“选择法国”取得了成效。",
+            "structureZh": "Choose France 是法国吸引外资峰会的英文名称，作主语。porter ses fruits 是固定表达，字面是“结出果实”，意思是“取得成效”。现在时表示当前的结果。",
+            "points": [
+              {
+                "fr": "porter ses fruits",
+                "zh": "取得成效，见到成果"
+              }
+            ]
+          },
+          {
+            "fr": "On ne lâche rien.",
+            "zh": "我们绝不放弃。",
+            "structureZh": "on 在口语里常代替 nous。ne … rien 是否定结构，意为“什么都不”。lâcher 原义“松手”，ne rien lâcher 是常见口号，表示“一点也不放松、绝不放弃”。",
+            "points": [
+              {
+                "fr": "ne rien lâcher",
+                "zh": "决不松懈，绝不放弃"
               }
             ]
           }
@@ -1361,99 +240,1006 @@
       }
     },
     {
-      "postId": "2124923258478727653",
-      "url": "https://x.com/tv5mondeinfo/status/2124923258478727653",
-      "author": "tv5mondeinfo",
-      "postedAt": "2026-11-23T17:49:18Z",
-      "excerpt": "Canada : à Montréal au Québec, notre correspondante Catherine François est allée à la découverte d'un spectacle son et lumière insolite. \"Ancestra Lumina\" est un parcours immersif au cœur du cimetière Notre-Dame-des-Neiges.",
+      "postId": "2125469749555401184",
+      "url": "https://x.com/Sciences_Avenir/status/2125469749555401184",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-25T06:00:52Z",
+      "excerpt": "Grâce à un modèle numérique reconstituant le réseau routier romain, on peut contrer plusieurs idées reçues sur les voies romaines. Elles n’étaient pas toutes rectilignes, ni centrées sur Rome d'ailleurs ... mais plutôt sur une autre grande ville !",
       "level": "B2",
       "topic": "culture",
-      "summaryZh": "TV5记者在蒙特利尔体验“Ancestra Lumina”：在加拿大最大公墓里的八站声光夜游，讲述人生阶段并纪念长眠于此的名人，每年开放约百天。",
-      "summaryEn": "TV5 visits «Ancestra Lumina» in Montreal: an eight-station sound and light night walk in Canada's largest cemetery, honouring the notable people buried there.",
+      "summaryZh": "《科学与未来》介绍：一个重建罗马道路网的数字模型反驳了成见——罗马大道并非都笔直，也不都以罗马为中心，而是更多以另一座大城市为中心。",
+      "summaryEn": "A digital model of the Roman road network challenges common beliefs: Roman roads were not all straight, nor centred on Rome, but rather on another big city.",
       "vocab": [
         {
-          "fr": "un cimetière",
-          "zh": "公墓",
-          "en": "a cemetery"
+          "fr": "un modèle numérique",
+          "zh": "数字模型",
+          "en": "digital model"
         },
         {
-          "fr": "un parcours immersif",
-          "zh": "沉浸式路线",
-          "en": "an immersive trail"
+          "fr": "le réseau routier",
+          "zh": "道路网",
+          "en": "road network"
         },
         {
-          "fr": "un bâtisseur",
-          "zh": "建设者，开拓者",
-          "en": "a builder"
+          "fr": "une idée reçue",
+          "zh": "成见",
+          "en": "common misconception"
         },
         {
-          "fr": "relever le défi",
-          "zh": "接受挑战",
-          "en": "to take up the challenge"
+          "fr": "rectiligne",
+          "zh": "笔直的",
+          "en": "straight"
         },
         {
-          "fr": "un poumon vert",
-          "zh": "城市绿肺",
-          "en": "a green lung"
+          "fr": "contrer",
+          "zh": "反驳",
+          "en": "to counter"
         }
       ],
       "question": {
-        "prompt": "Combien de stations compte le parcours Ancestra Lumina ?",
+        "prompt": "Selon le post, sur quoi les voies romaines étaient-elles plutôt centrées ?",
         "choices": [
-          "Quatre",
-          "Six",
-          "Dix",
-          "Huit"
+          "Sur Rome",
+          "Sur la mer",
+          "Sur les montagnes",
+          "Sur une autre grande ville"
         ],
         "answerIndex": 3,
-        "explanationZh": "视频说 on a créé ce parcours en huit stations，路线共八站。"
+        "explanationZh": "帖子说 ni centrées sur Rome … mais plutôt sur une autre grande ville。"
       },
       "explain": {
-        "styleZh": "电视新闻的推介帖：第一句用冒号引出地点，介绍记者的报道；第二句给出节目名称并下定义。",
+        "styleZh": "科普杂志的导语：第一句用 Grâce à 介绍研究方法和结论，第二句用未完成过去时描述古代情况，并用感叹号制造意外感。",
         "sentences": [
           {
-            "fr": "Canada : à Montréal au Québec, notre correspondante Catherine François est allée à la découverte d'un spectacle son et lumière insolite.",
-            "zh": "加拿大：在魁北克的蒙特利尔，我们的记者卡特琳娜·弗朗索瓦去探访了一场与众不同的声光表演。",
-            "structureZh": "Canada 加冒号是新闻标题式写法，先点出国家。主干 notre correspondante… est allée à la découverte de…，aller 用 être 作助动词，复合过去时，过去分词 allée 与阴性主语配合。aller à la découverte de qch 意为“去探索、去发现”。son et lumière 是固定说法“声光表演”。insolite 意为“不寻常的”。",
+            "fr": "Grâce à un modèle numérique reconstituant le réseau routier romain, on peut contrer plusieurs idées reçues sur les voies romaines.",
+            "zh": "借助一个重建古罗马道路网的数字模型，我们可以反驳关于罗马大道的几种成见。",
+            "structureZh": "Grâce à 引出积极的原因或手段。reconstituant 是现在分词，相当于 qui reconstitue，修饰 un modèle numérique。主干 on peut contrer plusieurs idées reçues，on 泛指“人们”。idées reçues 是固定说法，指“普遍接受但不一定正确的看法”。",
             "points": [
               {
-                "fr": "un correspondant, une correspondante",
-                "zh": "驻外记者，特派记者"
+                "fr": "grâce à qch",
+                "zh": "多亏，借助（用于积极结果）"
               },
               {
-                "fr": "aller à la découverte de qch",
-                "zh": "去探索，去发现某物"
+                "fr": "reconstituer qch",
+                "zh": "重建，复原某物（reconstituant 为现在分词）"
               },
               {
-                "fr": "un spectacle son et lumière",
-                "zh": "声光表演"
+                "fr": "contrer qch",
+                "zh": "反驳，对抗"
               },
               {
-                "fr": "insolite",
-                "zh": "不寻常的，奇特的"
+                "fr": "une idée reçue",
+                "zh": "成见，流行的错误看法"
+              },
+              {
+                "fr": "le réseau routier",
+                "zh": "道路网"
               }
             ]
           },
           {
-            "fr": "\"Ancestra Lumina\" est un parcours immersif au cœur du cimetière Notre-Dame-des-Neiges.",
-            "zh": "“Ancestra Lumina”是一条位于雪地圣母公墓中心的沉浸式游览路线。",
-            "structureZh": "主干 \"Ancestra Lumina\" est un parcours immersif，现在时用于介绍和定义。immersif 意为“沉浸式的”。au cœur de 意为“在……的中心”，au = à + le。Notre-Dame-des-Neiges 是专有名词，各部分用连字符连接。",
+            "fr": "Elles n’étaient pas toutes rectilignes, ni centrées sur Rome d'ailleurs ... mais plutôt sur une autre grande ville !",
+            "zh": "它们并非都是笔直的，而且也不都以罗马为中心……反而更多以另一座大城市为中心！",
+            "structureZh": "Elles 指前一句的 les voies romaines。étaient 是 être 的未完成过去时，用来描述过去的状态。ne … pas toutes 是部分否定，“并非全部”。ni 继续否定第二个形容词 centrées。d'ailleurs 表示“况且，而且”。mais plutôt 引出更正：“而更是……”，后面省略了 centrées。",
             "points": [
               {
-                "fr": "un parcours",
-                "zh": "路线，游览线路"
+                "fr": "ne … pas tous / toutes",
+                "zh": "并非全部（部分否定）"
               },
               {
-                "fr": "immersif",
-                "zh": "沉浸式的"
+                "fr": "rectiligne",
+                "zh": "笔直的"
               },
               {
-                "fr": "au cœur de qch",
-                "zh": "在……的中心"
+                "fr": "être centré sur qch",
+                "zh": "以……为中心"
               },
               {
-                "fr": "un cimetière",
-                "zh": "公墓"
+                "fr": "d'ailleurs",
+                "zh": "况且，而且，顺便说"
+              },
+              {
+                "fr": "mais plutôt",
+                "zh": "而更是，倒不如说"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2125557065238122955",
+      "url": "https://x.com/Sciences_Avenir/status/2125557065238122955",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-25T11:47:49Z",
+      "excerpt": "Les Néandertaliens ont dû affronter les températures de l’âge glaciaire et l’on pensait que la structure de leur nez les y avait aidés. Mais est-ce vraiment le cas ?",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "《科学与未来》提问：尼安德特人曾面对冰河时期的低温，人们一直以为是鼻子的结构帮了他们，但事实真是这样吗？",
+      "summaryEn": "Neanderthals faced Ice Age temperatures, and people thought the shape of their nose helped them. But is that really true?",
+      "vocab": [
+        {
+          "fr": "affronter",
+          "zh": "面对",
+          "en": "to face"
+        },
+        {
+          "fr": "l’âge glaciaire",
+          "zh": "冰河时期",
+          "en": "the Ice Age"
+        },
+        {
+          "fr": "la structure",
+          "zh": "结构",
+          "en": "structure"
+        },
+        {
+          "fr": "le nez",
+          "zh": "鼻子",
+          "en": "nose"
+        }
+      ],
+      "question": {
+        "prompt": "Qu’est-ce qu’on pensait avoir aidé les Néandertaliens face au froid ?",
+        "choices": [
+          "La structure de leur nez",
+          "Leurs vêtements",
+          "Le feu",
+          "Leur alimentation"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "帖子说 on pensait que la structure de leur nez les y avait aidés。"
+      },
+      "explain": {
+        "styleZh": "科普导语：先陈述过去的普遍看法（用未完成过去时和愈过去时），再用一个疑问句引起读者好奇。",
+        "sentences": [
+          {
+            "fr": "Les Néandertaliens ont dû affronter les températures de l’âge glaciaire et l’on pensait que la structure de leur nez les y avait aidés.",
+            "zh": "尼安德特人不得不面对冰河时期的低温，人们曾认为他们鼻子的结构帮助他们适应了这种环境。",
+            "structureZh": "第一部分 ont dû affronter 是 devoir 的复合过去时 + 不定式，表示“当时不得不”。l’on 就是 on，前面加 l’ 是书面语为了读音顺畅。pensait 是未完成过去时，表示过去持续的看法。que 从句里 avait aidés 是愈过去时，表示比“认为”更早的情况。les 指尼安德特人（直接宾语，所以 aidés 配合阳性复数），y 代替 à affronter ces températures。",
+            "points": [
+              {
+                "fr": "ont dû affronter（devoir + inf.）",
+                "zh": "当时不得不面对；devoir 的复合过去时"
+              },
+              {
+                "fr": "l’âge glaciaire",
+                "zh": "冰河时期"
+              },
+              {
+                "fr": "l’on pensait（penser 的未完成过去时）",
+                "zh": "人们曾认为；l’on 是书面语的 on"
+              },
+              {
+                "fr": "aider qn à qch（les y avait aidés）",
+                "zh": "帮助某人做某事；y 代替 à + 前述内容，愈过去时"
+              }
+            ]
+          },
+          {
+            "fr": "Mais est-ce vraiment le cas ?",
+            "zh": "但事实真的如此吗？",
+            "structureZh": "这是倒装疑问句 est-ce … ?，主语 ce 放在动词后面。le cas 指前面那种看法所说的情况。Mais 表示转折，暗示研究得出了不同结论。",
+            "points": [
+              {
+                "fr": "est-ce vraiment le cas ?",
+                "zh": "真的是这样吗？（倒装疑问）"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2125537227283349585",
+      "url": "https://x.com/laBnF/status/2125537227283349585",
+      "author": "laBnF",
+      "postedAt": "2026-11-25T10:29:00Z",
+      "excerpt": "En attendant le centenaire de la publication d'« A la Recherche du temps perdu » en 2027, le 7 décembre venez entendre en la salle Ovale un extrait lu par Guillaume Galienne de la @ComedieFr. Des manuscrits sont présentés à cette même occasion :",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "法国国家图书馆预告：为迎接2027年《追忆似水年华》出版百年，12月7日将在椭圆厅由演员加利安朗读节选，同时展出手稿。",
+      "summaryEn": "The BnF invites the public on 7 December to hear an extract of In Search of Lost Time read by Guillaume Galienne, ahead of its 2027 centenary, with manuscripts on display.",
+      "vocab": [
+        {
+          "fr": "le centenaire",
+          "zh": "一百周年",
+          "en": "centenary"
+        },
+        {
+          "fr": "un extrait",
+          "zh": "节选",
+          "en": "an extract"
+        },
+        {
+          "fr": "un manuscrit",
+          "zh": "手稿",
+          "en": "a manuscript"
+        },
+        {
+          "fr": "en attendant",
+          "zh": "在等待期间",
+          "en": "while waiting for"
+        }
+      ],
+      "question": {
+        "prompt": "Que se passe-t-il le 7 décembre à la BnF ?",
+        "choices": [
+          "Une exposition de photos",
+          "La lecture d’un extrait de Proust",
+          "Un concert de musique",
+          "Un débat sur le cinéma"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "帖子说 le 7 décembre venez entendre … un extrait lu par Guillaume Galienne，即朗读普鲁斯特作品节选。"
+      },
+      "explain": {
+        "styleZh": "图书馆活动预告：先用 En attendant 交代背景，再用命令式 venez 邀请读者，第二句补充展出内容。",
+        "sentences": [
+          {
+            "fr": "En attendant le centenaire de la publication d'« A la Recherche du temps perdu » en 2027, le 7 décembre venez entendre en la salle Ovale un extrait lu par Guillaume Galienne de la @ComedieFr.",
+            "zh": "在等待2027年《追忆似水年华》出版一百周年之际，12月7日请来椭圆厅聆听法兰西喜剧院的纪尧姆·加利安朗读的一段节选。",
+            "structureZh": "En attendant + 名词 表示“在等待……期间”。主干是命令式 venez entendre：venir + 不定式 表示“来做某事”，用 vous 命令式礼貌邀请。lu 是 lire 的过去分词，un extrait lu par… 表示被动“由……朗读的节选”。@ComedieFr 指法兰西喜剧院（Comédie-Française）的账号。",
+            "points": [
+              {
+                "fr": "en attendant qch",
+                "zh": "在等待……期间，在……到来之前"
+              },
+              {
+                "fr": "le centenaire",
+                "zh": "一百周年"
+              },
+              {
+                "fr": "venir + inf.（venez entendre）",
+                "zh": "来做某事（命令式邀请）"
+              },
+              {
+                "fr": "un extrait lu par qn",
+                "zh": "由某人朗读的节选（lu 为 lire 的过去分词）"
+              },
+              {
+                "fr": "la salle Ovale",
+                "zh": "（法国国家图书馆黎塞留馆的）椭圆阅览厅"
+              }
+            ]
+          },
+          {
+            "fr": "Des manuscrits sont présentés à cette même occasion :",
+            "zh": "同一场合还将展出一些手稿：",
+            "structureZh": "sont présentés 是被动语态（être + 过去分词），主语 des manuscrits 是被展出的对象，présentés 用阳性复数配合。à cette occasion 表示“借此机会、在这个场合”，même 放在名词前表示“同一个”。冒号后原帖接的是链接。",
+            "points": [
+              {
+                "fr": "un manuscrit",
+                "zh": "手稿"
+              },
+              {
+                "fr": "être + participe passé（sont présentés）",
+                "zh": "被动语态：被展出"
+              },
+              {
+                "fr": "à cette même occasion",
+                "zh": "在同一场合"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2125545049551163409",
+      "url": "https://x.com/MinistereCC/status/2125545049551163409",
+      "author": "MinistereCC",
+      "postedAt": "2026-11-25T11:00:05Z",
+      "excerpt": "Au Musée Eugène Delacroix, les photographies de Karen Knorr dialoguent avec l'exposition \"Delacroix, chevaux et autres animaux\", en des rencontres qui brouillent les frontières du réel. Jusqu’au 3 janvier 2027",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "法国文化部推介：在德拉克洛瓦博物馆，卡伦·诺尔的摄影作品与“德拉克洛瓦：马和其他动物”展览对话，模糊现实边界，展期至2027年1月3日。",
+      "summaryEn": "At the Musée Eugène Delacroix, Karen Knorr's photographs dialogue with the exhibition on Delacroix's horses and animals, blurring the borders of reality, until 3 January 2027.",
+      "vocab": [
+        {
+          "fr": "une photographie",
+          "zh": "摄影作品",
+          "en": "photograph"
+        },
+        {
+          "fr": "une exposition",
+          "zh": "展览",
+          "en": "exhibition"
+        },
+        {
+          "fr": "un cheval / des chevaux",
+          "zh": "马",
+          "en": "horse / horses"
+        },
+        {
+          "fr": "brouiller",
+          "zh": "模糊，搅乱",
+          "en": "to blur"
+        },
+        {
+          "fr": "une frontière",
+          "zh": "边界",
+          "en": "border"
+        }
+      ],
+      "question": {
+        "prompt": "Jusqu’à quand peut-on voir cette exposition ?",
+        "choices": [
+          "Jusqu’au 3 décembre 2026",
+          "Jusqu’au 30 janvier 2027",
+          "Jusqu’au 3 janvier 2027",
+          "Jusqu’au 3 mars 2027"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "帖子最后写 Jusqu’au 3 janvier 2027。"
+      },
+      "explain": {
+        "styleZh": "文化部展览推介：一句长句介绍展览内容，用拟人化动词 dialoguer 描述作品关系，最后用一个时间短语交代展期。",
+        "sentences": [
+          {
+            "fr": "Au Musée Eugène Delacroix, les photographies de Karen Knorr dialoguent avec l'exposition \"Delacroix, chevaux et autres animaux\", en des rencontres qui brouillent les frontières du réel.",
+            "zh": "在欧仁·德拉克洛瓦博物馆，卡伦·诺尔的摄影作品与“德拉克洛瓦：马和其他动物”展览展开对话，这些相遇模糊了现实的边界。",
+            "structureZh": "Au 是 à + le 的缩合。主干 les photographies dialoguent avec l'exposition，dialoguer avec 是拟人化用法，表示作品之间互相呼应。en des rencontres 表示“以相遇的方式”，qui brouillent … 是关系从句，qui 指 rencontres。brouiller les frontières 意为“模糊界限”。",
+            "points": [
+              {
+                "fr": "dialoguer avec qch",
+                "zh": "与……对话，相互呼应"
+              },
+              {
+                "fr": "une rencontre",
+                "zh": "相遇，交汇"
+              },
+              {
+                "fr": "brouiller les frontières",
+                "zh": "模糊界限"
+              },
+              {
+                "fr": "le réel",
+                "zh": "现实（名词化的形容词）"
+              }
+            ]
+          },
+          {
+            "fr": "Jusqu’au 3 janvier 2027",
+            "zh": "展期至2027年1月3日",
+            "structureZh": "这是没有动词的省略句，相当于 L’exposition est ouverte jusqu’au 3 janvier 2027。jusqu’au 是 jusqu’à + le 的缩合，表示截止日期。",
+            "points": [
+              {
+                "fr": "jusqu’au + date",
+                "zh": "直到某日（jusqu’à + le 缩合）"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2125545784376807642",
+      "url": "https://x.com/ONU_fr/status/2125545784376807642",
+      "author": "ONU_fr",
+      "postedAt": "2026-11-25T11:03:00Z",
+      "excerpt": "Prendre soin de sa santé mentale est particulièrement important dans les périodes de stress intense. En parler aide à briser la stigmatisation et nous rappelle que nous ne sommes pas seuls.",
+      "level": "B1",
+      "topic": "santé",
+      "summaryZh": "联合国提醒：在压力大的时期，照顾心理健康尤为重要；说出来有助于打破污名，也提醒我们并不孤单。",
+      "summaryEn": "The UN says looking after your mental health matters most in times of intense stress; talking about it helps break stigma and reminds us we are not alone.",
+      "vocab": [
+        {
+          "fr": "la santé mentale",
+          "zh": "心理健康",
+          "en": "mental health"
+        },
+        {
+          "fr": "prendre soin de",
+          "zh": "照顾",
+          "en": "to take care of"
+        },
+        {
+          "fr": "le stress",
+          "zh": "压力",
+          "en": "stress"
+        },
+        {
+          "fr": "la stigmatisation",
+          "zh": "污名化",
+          "en": "stigma"
+        },
+        {
+          "fr": "briser",
+          "zh": "打破",
+          "en": "to break"
+        }
+      ],
+      "question": {
+        "prompt": "Selon le post, à quoi aide le fait d’en parler ?",
+        "choices": [
+          "À briser la stigmatisation",
+          "À dormir plus",
+          "À trouver un travail",
+          "À réduire les impôts"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "帖子说 En parler aide à briser la stigmatisation。"
+      },
+      "explain": {
+        "styleZh": "联合国健康宣传帖：两句建议，用不定式短语作主语，语气温和，强调心理健康和倾诉的重要性。",
+        "sentences": [
+          {
+            "fr": "Prendre soin de sa santé mentale est particulièrement important dans les périodes de stress intense.",
+            "zh": "在压力很大的时期，照顾好自己的心理健康尤其重要。",
+            "structureZh": "主语是不定式短语 Prendre soin de sa santé mentale，法语可以用不定式作主语，谓语是 est important。sa 是泛指的“自己的”。现在时表示普遍道理。intense 放在名词后，意为“强烈的”。",
+            "points": [
+              {
+                "fr": "prendre soin de qch / qn",
+                "zh": "照顾，关心"
+              },
+              {
+                "fr": "la santé mentale",
+                "zh": "心理健康"
+              },
+              {
+                "fr": "particulièrement",
+                "zh": "尤其，特别"
+              },
+              {
+                "fr": "une période de stress",
+                "zh": "压力期"
+              }
+            ]
+          },
+          {
+            "fr": "En parler aide à briser la stigmatisation et nous rappelle que nous ne sommes pas seuls.",
+            "zh": "说出来有助于打破污名，也提醒我们自己并不孤单。",
+            "structureZh": "主语 En parler 是不定式，en 代替 de sa santé mentale（parler de qch → en parler）。两个谓语 aide 和 rappelle 由 et 连接。aider à + 不定式 表示“有助于做某事”。nous rappelle que … 表示“提醒我们……”，nous 是间接宾语。",
+            "points": [
+              {
+                "fr": "en parler（en = de cela）",
+                "zh": "谈论这件事；en 代替 de + 前述内容"
+              },
+              {
+                "fr": "aider à + inf.",
+                "zh": "有助于做某事"
+              },
+              {
+                "fr": "briser la stigmatisation",
+                "zh": "打破污名化"
+              },
+              {
+                "fr": "rappeler à qn que…",
+                "zh": "提醒某人……"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2125529942205345819",
+      "url": "https://x.com/ONUinfo/status/2125529942205345819",
+      "author": "ONUinfo",
+      "postedAt": "2026-11-25T10:00:03Z",
+      "excerpt": "VIH/Sida : les coupes budgétaires menacent de balayer des décennies de progrès Le financement international de la riposte a chuté de 18 %, et il manque 4,3 milliards de dollars par an pour atteindre les objectifs de 2030",
+      "level": "B2",
+      "topic": "santé",
+      "summaryZh": "联合国新闻：预算削减可能抹去几十年的抗艾成果，国际应对资金下降18%，每年缺口43亿美元，难以实现2030年目标。",
+      "summaryEn": "UN News: budget cuts threaten to wipe out decades of progress on HIV/AIDS; international funding fell 18% and 4.3 billion dollars a year are missing to reach 2030 goals.",
+      "vocab": [
+        {
+          "fr": "les coupes budgétaires",
+          "zh": "预算削减",
+          "en": "budget cuts"
+        },
+        {
+          "fr": "le financement",
+          "zh": "资金",
+          "en": "funding"
+        },
+        {
+          "fr": "la riposte",
+          "zh": "应对行动",
+          "en": "response"
+        },
+        {
+          "fr": "chuter",
+          "zh": "下降",
+          "en": "to fall"
+        },
+        {
+          "fr": "un objectif",
+          "zh": "目标",
+          "en": "goal"
+        }
+      ],
+      "question": {
+        "prompt": "De combien le financement international a-t-il baissé ?",
+        "choices": [
+          "De 4,3 %",
+          "De 30 %",
+          "De 10 %",
+          "De 18 %"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "帖子说 Le financement international de la riposte a chuté de 18 %。"
+      },
+      "explain": {
+        "styleZh": "联合国新闻标题加数据说明：第一句是标题式短句（冒号前是主题），第二句用复合过去时和数字说明资金缺口。",
+        "sentences": [
+          {
+            "fr": "VIH/Sida : les coupes budgétaires menacent de balayer des décennies de progrès",
+            "zh": "艾滋病：预算削减可能抹去几十年来取得的进展",
+            "structureZh": "标题格式：冒号前 VIH/Sida 是话题，冒号后是完整句子。主干 les coupes budgétaires menacent de balayer…，menacer de + 不定式 表示“有……的危险，可能会”，主语是事物时不是“威胁某人”。balayer 原义“扫”，这里引申为“一扫而空、抹去”。",
+            "points": [
+              {
+                "fr": "le VIH / le sida",
+                "zh": "艾滋病病毒 / 艾滋病"
+              },
+              {
+                "fr": "les coupes budgétaires",
+                "zh": "预算削减"
+              },
+              {
+                "fr": "menacer de + inf.",
+                "zh": "有……的危险，可能会……"
+              },
+              {
+                "fr": "balayer qch",
+                "zh": "扫除，抹去"
+              },
+              {
+                "fr": "des décennies de progrès",
+                "zh": "几十年的进展"
+              }
+            ]
+          },
+          {
+            "fr": "Le financement international de la riposte a chuté de 18 %, et il manque 4,3 milliards de dollars par an pour atteindre les objectifs de 2030",
+            "zh": "国际应对资金减少了18%，每年还缺43亿美元才能实现2030年目标",
+            "structureZh": "第一分句 a chuté 是 chuter 的复合过去时，chuter de + 百分比 表示“下降了多少”。第二分句是无人称结构 il manque + 名词，表示“缺少……”，il 不指具体的人。pour + 不定式 atteindre 表示目的。la riposte 在这里指对艾滋病的“应对行动”。",
+            "points": [
+              {
+                "fr": "la riposte",
+                "zh": "应对行动（原义反击）"
+              },
+              {
+                "fr": "chuter de + pourcentage",
+                "zh": "下降了……"
+              },
+              {
+                "fr": "il manque qch",
+                "zh": "缺少……（无人称结构）"
+              },
+              {
+                "fr": "atteindre un objectif",
+                "zh": "实现目标"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2125535115145363649",
+      "url": "https://x.com/LeTemps/status/2125535115145363649",
+      "author": "LeTemps",
+      "postedAt": "2026-11-25T10:20:36Z",
+      "excerpt": "Treize ans après «Violette», l’actrice française retrouve le réalisateur Martin Provost pour «Demain je tombe amoureux», dévoilé en août au Locarno Film Festival. L’occasion de lui demander d’égrener ses affinités électives",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "《时报》：时隔十三年，这位法国女演员再次与导演马丁·普罗沃合作新片《明天我坠入爱河》，该片八月在洛迦诺电影节首映，报纸借机请她谈谈喜好。",
+      "summaryEn": "Thirteen years after Violette, the French actress works again with director Martin Provost on a film shown in August at Locarno; Le Temps asks her about her personal affinities.",
+      "vocab": [
+        {
+          "fr": "le réalisateur",
+          "zh": "导演",
+          "en": "film director"
+        },
+        {
+          "fr": "retrouver",
+          "zh": "再次合作",
+          "en": "to reunite with"
+        },
+        {
+          "fr": "dévoiler",
+          "zh": "首次公开",
+          "en": "to unveil"
+        },
+        {
+          "fr": "un festival de cinéma",
+          "zh": "电影节",
+          "en": "film festival"
+        }
+      ],
+      "question": {
+        "prompt": "Où le film «Demain je tombe amoureux» a-t-il été dévoilé ?",
+        "choices": [
+          "À Cannes",
+          "À Locarno",
+          "À Venise",
+          "À Berlin"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "帖子说 dévoilé en août au Locarno Film Festival。"
+      },
+      "explain": {
+        "styleZh": "报纸文化版导语：第一句交代电影背景，第二句是省略句，引出采访内容。",
+        "sentences": [
+          {
+            "fr": "Treize ans après «Violette», l’actrice française retrouve le réalisateur Martin Provost pour «Demain je tombe amoureux», dévoilé en août au Locarno Film Festival.",
+            "zh": "在《维奥莱特》上映十三年后，这位法国女演员再次与导演马丁·普罗沃合作拍摄《明天我坠入爱河》，该片已于八月在洛迦诺电影节首映。",
+            "structureZh": "主干 l’actrice française retrouve le réalisateur，现在时用于叙述新闻。retrouver qn 在这里是“再次与某人合作、重逢”。Treize ans après + 作品 表示“在……之后十三年”。dévoilé 是 dévoiler 的过去分词，修饰电影，表示被动“被揭幕、首次公开”。«…» 是法语书名号。",
+            "points": [
+              {
+                "fr": "retrouver qn",
+                "zh": "与某人重逢，再次合作"
+              },
+              {
+                "fr": "le réalisateur",
+                "zh": "导演（不是“实现者”）"
+              },
+              {
+                "fr": "dévoiler qch",
+                "zh": "揭开，首次公开（dévoilé 为过去分词）"
+              },
+              {
+                "fr": "tomber amoureux",
+                "zh": "坠入爱河"
+              }
+            ]
+          },
+          {
+            "fr": "L’occasion de lui demander d’égrener ses affinités électives",
+            "zh": "也借此机会请她一一讲述自己心仪的作品和人物",
+            "structureZh": "这是省略句，相当于 C’est l’occasion de…。lui 是间接宾语代词，指这位女演员（demander à qn de faire qch）。égrener 原义“一粒粒剥下”，引申为“一个个列举”。affinités électives 来自歌德小说《亲和力》的法译名，指“由自己选择的亲近与喜好”。",
+            "points": [
+              {
+                "fr": "l’occasion de + inf.",
+                "zh": "做某事的机会"
+              },
+              {
+                "fr": "demander à qn de + inf.（lui demander de）",
+                "zh": "请某人做某事"
+              },
+              {
+                "fr": "égrener qch",
+                "zh": "逐一列举，娓娓道来"
+              },
+              {
+                "fr": "les affinités électives",
+                "zh": "心仪的人和事，志趣相投（源自歌德书名）"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2125539794415481273",
+      "url": "https://x.com/franceinfo/status/2125539794415481273",
+      "author": "franceinfo",
+      "postedAt": "2026-11-25T10:39:12Z",
+      "excerpt": "\"Je sais quelle joie c'est, pour un enfant, d'imaginer un ami comme lui\" : l'autrice Nadja donne une suite à \"Chien Bleu\", presque quarante ans après le premier tome",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "法国新闻台：作家纳嘉在第一册出版近四十年后为绘本《蓝狗》推出续集，她说知道孩子想象出这样一个朋友有多快乐。",
+      "summaryEn": "Author Nadja publishes a sequel to Chien Bleu almost forty years after the first book, saying she knows the joy a child feels imagining such a friend.",
+      "vocab": [
+        {
+          "fr": "la joie",
+          "zh": "快乐",
+          "en": "joy"
+        },
+        {
+          "fr": "imaginer",
+          "zh": "想象",
+          "en": "to imagine"
+        },
+        {
+          "fr": "une suite",
+          "zh": "续集",
+          "en": "a sequel"
+        },
+        {
+          "fr": "un tome",
+          "zh": "册，卷",
+          "en": "a volume"
+        }
+      ],
+      "question": {
+        "prompt": "Combien de temps après le premier tome sort cette suite ?",
+        "choices": [
+          "Presque dix ans",
+          "Presque vingt ans",
+          "Presque quarante ans",
+          "Presque cent ans"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "标题说 presque quarante ans après le premier tome。"
+      },
+      "explain": {
+        "styleZh": "新闻标题：先引用作者的话（引号加冒号），再用一句话说明新闻事实。",
+        "sentences": [
+          {
+            "fr": "\"Je sais quelle joie c'est, pour un enfant, d'imaginer un ami comme lui\" : l'autrice Nadja donne une suite à \"Chien Bleu\", presque quarante ans après le premier tome",
+            "zh": "“我知道，对一个孩子来说，想象出一个像它那样的朋友是多么快乐”：作家纳嘉在第一册出版近四十年后，为《蓝狗》推出续集",
+            "structureZh": "引号里是间接感叹：quelle joie c'est … d'imaginer…，真正的主语是 d'imaginer un ami（形式主语 c'）。pour un enfant 是插入语。lui 指蓝狗。冒号后是新闻主干 l'autrice donne une suite à…，donner une suite à qch 表示“为……写续集”。l'autrice 是 auteur 的阴性形式。tome 指书的“册、卷”。",
+            "points": [
+              {
+                "fr": "quelle joie c'est de + inf.",
+                "zh": "做某事是多么快乐"
+              },
+              {
+                "fr": "l'autrice",
+                "zh": "女作者（auteur 的阴性）"
+              },
+              {
+                "fr": "donner une suite à qch",
+                "zh": "为……出续集"
+              },
+              {
+                "fr": "le premier tome",
+                "zh": "第一册，第一卷"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2125347868126973996",
+      "url": "https://x.com/franceinfo/status/2125347868126973996",
+      "author": "franceinfo",
+      "postedAt": "2026-11-24T21:56:33Z",
+      "excerpt": "'Voyager 1' : la sonde spatiale transporte un bout d'humanité à 26 milliards de km de la Terre. \"Un disque (...) sur lequel on a gravé des éléments pour dire ce qu'est l'humanité\", raconte notre journaliste Jean-Christophe Batteria",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "法国新闻台节目：旅行者1号探测器带着一张金唱片飞到距地球260亿公里处，唱片上刻有氢原子、116张照片、声音和地球在银河系中的“地址”。",
+      "summaryEn": "On franceinfo, a journalist explains Voyager 1's golden record, now 26 billion km away, carrying photos, sounds and Earth's address in the galaxy for possible aliens.",
+      "vocab": [
+        {
+          "fr": "une sonde spatiale",
+          "zh": "太空探测器",
+          "en": "space probe"
+        },
+        {
+          "fr": "un disque en or",
+          "zh": "金唱片",
+          "en": "golden record"
+        },
+        {
+          "fr": "graver",
+          "zh": "刻",
+          "en": "to engrave"
+        },
+        {
+          "fr": "un extraterrestre",
+          "zh": "外星人",
+          "en": "alien"
+        },
+        {
+          "fr": "le mode d'emploi",
+          "zh": "使用说明",
+          "en": "instructions"
+        }
+      ],
+      "question": {
+        "prompt": "Selon la vidéo, combien de photos y a-t-il sur le disque de Voyager ?",
+        "choices": [
+          "26",
+          "14",
+          "30",
+          "116"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "记者在视频里说 il y a 116 photos comme ça。"
+      },
+      "explain": {
+        "styleZh": "电视节目推广帖：第一句是标题式陈述（冒号前点出主题），第二句引用记者原话，并用倒装的 raconte 引出说话人。",
+        "sentences": [
+          {
+            "fr": "'Voyager 1' : la sonde spatiale transporte un bout d'humanité à 26 milliards de km de la Terre.",
+            "zh": "“旅行者1号”：这个太空探测器把人类的一小部分带到了距地球260亿公里的地方。",
+            "structureZh": "标题格式：冒号前是话题 Voyager 1，冒号后是完整句子。主干 la sonde spatiale transporte un bout d'humanité，现在时描述当前状态。un bout de qch 是口语，意为“一小块、一点”。à + 距离 de … 表示“在离……多远的地方”。26 milliards de km 即260亿公里。",
+            "points": [
+              {
+                "fr": "une sonde spatiale",
+                "zh": "太空探测器"
+              },
+              {
+                "fr": "transporter qch",
+                "zh": "运载，携带"
+              },
+              {
+                "fr": "un bout de qch",
+                "zh": "一小块，一点儿（口语）"
+              },
+              {
+                "fr": "à 26 milliards de km de qch",
+                "zh": "在距……260亿公里处（à + 距离 + de）"
+              }
+            ]
+          },
+          {
+            "fr": "\"Un disque (...) sur lequel on a gravé des éléments pour dire ce qu'est l'humanité\", raconte notre journaliste Jean-Christophe Batteria",
+            "zh": "“一张唱片……上面刻着一些内容，用来说明人类是什么”，我们的记者让-克里斯托夫·巴特里亚讲述道",
+            "structureZh": "引号里是省略句，只有名词 Un disque 和修饰它的关系从句。sur lequel 是“介词 + lequel”的关系代词，指 disque（on a gravé sur le disque）。a gravé 是复合过去时。ce qu'est l'humanité 是间接疑问，主谓倒装（ce que + être + 主语）。引语后 raconte notre journaliste 主谓倒装，这是法语引述句的固定写法。(...) 表示原话有删节。",
+            "points": [
+              {
+                "fr": "sur lequel（关系代词）",
+                "zh": "在它上面；lequel 指前面的阳性名词"
+              },
+              {
+                "fr": "graver qch",
+                "zh": "刻，雕刻"
+              },
+              {
+                "fr": "ce qu'est l'humanité",
+                "zh": "人类是什么（间接疑问，主谓倒装）"
+              },
+              {
+                "fr": "raconter qch（倒装：raconte X）",
+                "zh": "讲述；引语后主谓倒装"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2125302627357335801",
+      "url": "https://x.com/tv5mondeinfo/status/2125302627357335801",
+      "author": "tv5mondeinfo",
+      "postedAt": "2026-11-24T18:56:47Z",
+      "excerpt": "Dix mois après la finale chaotique de la CAN-2025, le Tribunal arbitral du sport (TAS) a tranché: le Sénégal récupère son titre de champion d'Afrique, aux dépens du Maroc.",
+      "level": "B2",
+      "topic": "actualité",
+      "summaryZh": "TV5世界台：2025年非洲杯决赛中塞内加尔球员曾离场抗议，非洲足联判其弃权，但体育仲裁法庭裁定裁判无误，塞内加尔1比0夺冠的结果被确认。",
+      "summaryEn": "TV5Monde: CAS ruled the referee made no error in the chaotic AFCON 2025 final, so Senegal's 1-0 win stands and it regains the title at Morocco's expense.",
+      "vocab": [
+        {
+          "fr": "trancher",
+          "zh": "裁决",
+          "en": "to rule"
+        },
+        {
+          "fr": "déclarer forfait",
+          "zh": "判弃权",
+          "en": "to declare a forfeit"
+        },
+        {
+          "fr": "un penalty",
+          "zh": "点球",
+          "en": "penalty"
+        },
+        {
+          "fr": "l'arbitre",
+          "zh": "裁判",
+          "en": "referee"
+        },
+        {
+          "fr": "aux dépens de",
+          "zh": "以……为代价",
+          "en": "at the expense of"
+        }
+      ],
+      "question": {
+        "prompt": "Qu'a décidé le TAS selon la vidéo ?",
+        "choices": [
+          "Rejouer la finale",
+          "Confirmer la victoire du Sénégal",
+          "Donner le titre au Maroc",
+          "Annuler la compétition"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "视频说 le résultat de la finale … est donc confirmé，奖杯归塞内加尔。"
+      },
+      "explain": {
+        "styleZh": "体育新闻导语：先用时间状语交代背景，主句用复合过去时说明裁决，冒号后用现在时给出结果。",
+        "sentences": [
+          {
+            "fr": "Dix mois après la finale chaotique de la CAN-2025, le Tribunal arbitral du sport (TAS) a tranché: le Sénégal récupère son titre de champion d'Afrique, aux dépens du Maroc.",
+            "zh": "在混乱的2025年非洲杯决赛十个月后，国际体育仲裁法庭作出裁决：塞内加尔夺回非洲冠军头衔，摩洛哥因此失去冠军。",
+            "structureZh": "Dix mois après + 名词 是时间状语。主干 le TAS a tranché，trancher 是复合过去时，原义“切断”，这里指“作出裁决”。冒号后解释裁决内容，用现在时 récupère 使新闻更生动。aux dépens de qn 表示“以某人受损为代价”，即冠军从摩洛哥手中回到塞内加尔。CAN = Coupe d'Afrique des nations（非洲国家杯）。",
+            "points": [
+              {
+                "fr": "trancher",
+                "zh": "作出决断，裁决"
+              },
+              {
+                "fr": "récupérer qch",
+                "zh": "重新获得，夺回"
+              },
+              {
+                "fr": "aux dépens de qn",
+                "zh": "以某人受损为代价"
+              },
+              {
+                "fr": "chaotique",
+                "zh": "混乱的"
+              },
+              {
+                "fr": "le Tribunal arbitral du sport",
+                "zh": "国际体育仲裁法庭（TAS）"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2125283161860939863",
+      "url": "https://x.com/tv5mondeinfo/status/2125283161860939863",
+      "author": "tv5mondeinfo",
+      "postedAt": "2026-11-24T17:39:26Z",
+      "excerpt": "Une protéine issue d'un mollusque baptisé \"Loco\" et pêché au Chili se révèle prometteuse dans un essai expérimental de vaccin contre le cancer de la peau, alors que l'OMS prévoit une explosion des mélanomes d'ici 2040.",
+      "level": "B2",
+      "topic": "santé",
+      "summaryZh": "TV5世界台报道：一种来自智利、俗称“Loco”的软体动物的蛋白质，在一项皮肤癌治疗性疫苗实验中显示出良好前景，约三分之一患者病情趋于稳定。",
+      "summaryEn": "TV5Monde: a protein from a Chilean mollusc called loco shows promise in an experimental skin cancer vaccine; about a third of patients saw their disease stabilise.",
+      "vocab": [
+        {
+          "fr": "une protéine",
+          "zh": "蛋白质",
+          "en": "protein"
+        },
+        {
+          "fr": "un mollusque",
+          "zh": "软体动物",
+          "en": "mollusc"
+        },
+        {
+          "fr": "un essai expérimental",
+          "zh": "实验性试验",
+          "en": "experimental trial"
+        },
+        {
+          "fr": "un mélanome",
+          "zh": "黑色素瘤",
+          "en": "melanoma"
+        },
+        {
+          "fr": "prometteur",
+          "zh": "有前景的",
+          "en": "promising"
+        }
+      ],
+      "question": {
+        "prompt": "Dans quel pays est pêché le mollusque « loco » ?",
+        "choices": [
+          "Au Pérou",
+          "Au Mexique",
+          "Au Chili",
+          "En Australie"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "帖子和视频都说这种软体动物 pêché au Chili（在智利捕捞）。"
+      },
+      "explain": {
+        "styleZh": "电视新闻导语：一句长句，先给出研究发现，再用 alors que 引出背景数据，形成对比。",
+        "sentences": [
+          {
+            "fr": "Une protéine issue d'un mollusque baptisé \"Loco\" et pêché au Chili se révèle prometteuse dans un essai expérimental de vaccin contre le cancer de la peau, alors que l'OMS prévoit une explosion des mélanomes d'ici 2040.",
+            "zh": "一种取自智利捕捞的、名为“Loco”的软体动物的蛋白质，在一项皮肤癌疫苗实验中显示出良好前景，而世卫组织预计到2040年黑色素瘤病例将激增。",
+            "structureZh": "主语是 Une protéine issue d'un mollusque…，issue de 表示“来源于”；baptisé 和 pêché 两个过去分词并列修饰 mollusque，表示被动“被命名为、被捕捞的”。谓语 se révèle prometteuse：se révéler + 形容词 表示“显示出是……”。alors que 引出同时存在的背景，带有对比意味。d'ici 2040 表示“从现在到2040年”。",
+            "points": [
+              {
+                "fr": "issu de qch",
+                "zh": "来源于，出自"
+              },
+              {
+                "fr": "baptiser qch",
+                "zh": "命名，取名（baptisé 为过去分词）"
+              },
+              {
+                "fr": "se révèle + adj.（se révéler）",
+                "zh": "显示出，证明是……"
+              },
+              {
+                "fr": "prometteur, prometteuse",
+                "zh": "有前途的，前景看好的"
+              },
+              {
+                "fr": "alors que + indicatif",
+                "zh": "而，然而（表对比或同时）"
               }
             ]
           }
