@@ -1,0 +1,1471 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-28T12:46:06Z",
+  "items": [
+    {
+      "postId": "2126330457172181325",
+      "url": "https://x.com/CitImmCanFR/status/2126330457172181325",
+      "author": "CitImmCanFR",
+      "postedAt": "2026-11-27T15:01:00Z",
+      "excerpt": "Les premiers résultats de nos efforts visant à réorienter le Programme des étudiants étrangers afin d’attirer les meilleurs étudiants sont encourageants. Alors que le nombre total d’admissions d’étudiants étrangers diminue, la proportion d’étudiants venant étudier dans les universités augmente. • Les étudiants universitaires représentaient 47% des nouvelles arrivées d’étudiants en 2026 (de janvier à septembre), contre 30% en 2024.",
+      "level": "B2",
+      "topic": "immigration",
+      "summaryZh": "加拿大移民部：国际学生项目调整初见成效，录取总数下降但大学生比例上升；2026年1至9月新到学生中大学生占47%，2024年为30%。",
+      "summaryEn": "IRCC: the reorientation of the International Student Program is encouraging; total admissions fall but university students made up 47% of new arrivals in Jan–Sep 2026, vs 30% in 2024.",
+      "vocab": [
+        {
+          "fr": "réorienter",
+          "zh": "调整方向",
+          "en": "to refocus"
+        },
+        {
+          "fr": "un étudiant étranger",
+          "zh": "国际学生",
+          "en": "international student"
+        },
+        {
+          "fr": "une admission",
+          "zh": "录取",
+          "en": "admission"
+        },
+        {
+          "fr": "la proportion",
+          "zh": "比例",
+          "en": "proportion"
+        },
+        {
+          "fr": "encourageant",
+          "zh": "令人鼓舞的",
+          "en": "encouraging"
+        }
+      ],
+      "question": {
+        "prompt": "Quelle part des nouvelles arrivées d’étudiants représentaient les universitaires en 2026 ?",
+        "choices": [
+          "30%",
+          "25%",
+          "47%",
+          "50%"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文 représentaient 47% des nouvelles arrivées，2024 年才是 30%。"
+      },
+      "explain": {
+        "styleZh": "政府公告：第一句给出总体判断（结果令人鼓舞），第二句用 alors que 对比两个趋势，第三句用具体百分比作证据。",
+        "sentences": [
+          {
+            "fr": "Les premiers résultats de nos efforts visant à réorienter le Programme des étudiants étrangers afin d’attirer les meilleurs étudiants sont encourageants.",
+            "zh": "我们为调整国际学生项目、吸引最优秀学生所做努力的初步结果令人鼓舞。",
+            "structureZh": "主干很长：Les premiers résultats … sont encourageants，主语是 résultats，表语是 encourageants（阴阳性、单复数与 résultats 配合）。visant à 是 viser à 的现在分词，修饰 nos efforts，相当于 qui visent à。afin d’ + 不定式 表示目的，d’ 是 de 的省音。",
+            "points": [
+              {
+                "fr": "visant à + inf.（viser à）",
+                "zh": "旨在做某事；此处现在分词 visant 修饰名词"
+              },
+              {
+                "fr": "réorienter qch",
+                "zh": "调整方向，重新定位"
+              },
+              {
+                "fr": "afin de + inf.",
+                "zh": "为了做某事（书面）"
+              },
+              {
+                "fr": "encourageant",
+                "zh": "令人鼓舞的（现在分词作形容词）"
+              }
+            ]
+          },
+          {
+            "fr": "Alors que le nombre total d’admissions d’étudiants étrangers diminue, la proportion d’étudiants venant étudier dans les universités augmente.",
+            "zh": "虽然国际学生的录取总数在减少，但到大学就读的学生比例在上升。",
+            "structureZh": "Alors que 引导从句，这里表示对比（“而、虽然”），不是时间。从句主干 le nombre total diminue，主句主干 la proportion augmente，两个直陈式现在时形成对照。venant étudier 是现在分词短语，修饰 étudiants，相当于 qui viennent étudier；venir + 不定式 表示“来做某事”。",
+            "points": [
+              {
+                "fr": "alors que",
+                "zh": "而，然而（表示对比）"
+              },
+              {
+                "fr": "une admission",
+                "zh": "录取，入学许可"
+              },
+              {
+                "fr": "diminuer / augmenter",
+                "zh": "减少 / 增加"
+              },
+              {
+                "fr": "venant + inf.（venir + inf.）",
+                "zh": "来做某事；venant 是现在分词"
+              }
+            ]
+          },
+          {
+            "fr": "• Les étudiants universitaires représentaient 47% des nouvelles arrivées d’étudiants en 2026 (de janvier à septembre), contre 30% en 2024.",
+            "zh": "2026 年（1 至 9 月）新到学生中，大学生占 47%，而 2024 年为 30%。",
+            "structureZh": "• 是原文的列表符号。主干 Les étudiants universitaires représentaient 47%，représenter 在这里意为“占（比例）”，用未完成过去时描述一段时期内的状态。括号说明统计时段。contre + 数字 表示对比，“相比之下为……”。",
+            "points": [
+              {
+                "fr": "représenter + pourcentage",
+                "zh": "占……比例"
+              },
+              {
+                "fr": "une arrivée",
+                "zh": "到达，新到的人"
+              },
+              {
+                "fr": "contre + chiffre",
+                "zh": "对比……（与另一数字相比）"
+              },
+              {
+                "fr": "de janvier à septembre",
+                "zh": "从一月到九月"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2126632265593602319",
+      "url": "https://x.com/CitImmCanFR/status/2126632265593602319",
+      "author": "CitImmCanFR",
+      "postedAt": "2026-11-28T11:00:17Z",
+      "excerpt": "Avant de vous rendre au Canada pour la première fois, assurez-vous d’être en possession du document de voyage approprié. Selon votre nationalité, vous devrez peut-être obtenir un visa de visiteur ou une autorisation de voyage électronique (AVE). Utilisez notre outil en ligne pour savoir ce dont vous avez besoin avant votre départ :",
+      "level": "B1",
+      "topic": "immigration",
+      "summaryZh": "加拿大移民部提醒：首次赴加前要确认有合适的旅行证件，按国籍可能需要访客签证或电子旅行授权，可用在线工具查询。",
+      "summaryEn": "IRCC reminds first-time travellers to Canada to check they have the right travel document: depending on nationality, a visitor visa or an eTA; an online tool tells you which.",
+      "vocab": [
+        {
+          "fr": "se rendre au Canada",
+          "zh": "前往加拿大",
+          "en": "to travel to Canada"
+        },
+        {
+          "fr": "un document de voyage",
+          "zh": "旅行证件",
+          "en": "travel document"
+        },
+        {
+          "fr": "un visa de visiteur",
+          "zh": "访客签证",
+          "en": "visitor visa"
+        },
+        {
+          "fr": "une AVE",
+          "zh": "电子旅行授权",
+          "en": "eTA"
+        },
+        {
+          "fr": "le départ",
+          "zh": "出发",
+          "en": "departure"
+        }
+      ],
+      "question": {
+        "prompt": "Selon le message, de quoi dépend le document de voyage nécessaire ?",
+        "choices": [
+          "De votre âge",
+          "De votre nationalité",
+          "De votre métier",
+          "De la saison"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文 Selon votre nationalité，所需证件取决于国籍。"
+      },
+      "explain": {
+        "styleZh": "政府提醒：先用命令式提出建议，再说明可能需要的证件，最后用命令式引导读者使用在线工具。",
+        "sentences": [
+          {
+            "fr": "Avant de vous rendre au Canada pour la première fois, assurez-vous d’être en possession du document de voyage approprié.",
+            "zh": "首次前往加拿大之前，请确认您持有合适的旅行证件。",
+            "structureZh": "Avant de + 不定式 表示“在做某事之前”，主语与主句相同。se rendre à/au 意为“前往”，代词随读者变成 vous。主句 assurez-vous 是代动词 s’assurer 的命令式（肯定命令式代词放在后面，用连字符）。s’assurer de + 不定式 意为“确保”。",
+            "points": [
+              {
+                "fr": "avant de + inf.",
+                "zh": "在做某事之前"
+              },
+              {
+                "fr": "se rendre à/au + lieu",
+                "zh": "前往某地"
+              },
+              {
+                "fr": "s’assurer de + inf.",
+                "zh": "确保，务必"
+              },
+              {
+                "fr": "être en possession de qch",
+                "zh": "持有某物"
+              },
+              {
+                "fr": "approprié",
+                "zh": "合适的，相应的"
+              }
+            ]
+          },
+          {
+            "fr": "Selon votre nationalité, vous devrez peut-être obtenir un visa de visiteur ou une autorisation de voyage électronique (AVE).",
+            "zh": "根据您的国籍，您可能需要申请访客签证或电子旅行授权（eTA）。",
+            "structureZh": "Selon + 名词 表示“根据”。主干 vous devrez obtenir，devrez 是 devoir 的简单将来时，表示将来需要做的事；peut-être 让语气不确定，“也许需要”。ou 连接两种证件。AVE 是法语缩写，对应英语 eTA。",
+            "points": [
+              {
+                "fr": "selon qch",
+                "zh": "根据……"
+              },
+              {
+                "fr": "devoir + inf.（简单将来时 devrez）",
+                "zh": "将来需要做某事"
+              },
+              {
+                "fr": "un visa de visiteur",
+                "zh": "访客签证"
+              },
+              {
+                "fr": "une autorisation de voyage électronique",
+                "zh": "电子旅行授权（AVE / eTA）"
+              }
+            ]
+          },
+          {
+            "fr": "Utilisez notre outil en ligne pour savoir ce dont vous avez besoin avant votre départ :",
+            "zh": "出发前，请使用我们的在线工具查询您需要什么：",
+            "structureZh": "Utilisez 是 utiliser 的命令式（vous 形式）。pour + 不定式 表示目的。ce dont vous avez besoin：因为 avoir besoin de qch 要求 de，所以关系代词用 dont，ce dont 意为“您所需要的东西”。句末冒号原本引出链接。",
+            "points": [
+              {
+                "fr": "un outil en ligne",
+                "zh": "在线工具"
+              },
+              {
+                "fr": "ce dont + avoir besoin de",
+                "zh": "所需要的东西（dont 替代 de）"
+              },
+              {
+                "fr": "avoir besoin de qch",
+                "zh": "需要某物"
+              },
+              {
+                "fr": "le départ",
+                "zh": "出发"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2126330523249242524",
+      "url": "https://x.com/UNESCO_fr/status/2126330523249242524",
+      "author": "UNESCO_fr",
+      "postedAt": "2026-11-27T15:01:16Z",
+      "excerpt": "La science a le pouvoir de transformer les sociétés, de répondre aux défis mondiaux et de faire progresser la paix et le développement durable. Mais le progrès scientifique doit servir l’intérêt général. Chacun a le droit de participer à la science et de bénéficier de ses avancées.",
+      "level": "B2",
+      "topic": "actualité",
+      "summaryZh": "联合国教科文组织：科学能改变社会、应对全球挑战、促进和平与可持续发展，但必须服务公共利益，人人有权参与并受益。",
+      "summaryEn": "UNESCO: science can transform societies, meet global challenges and advance peace and sustainable development, but it must serve the common good; everyone has a right to take part and benefit.",
+      "vocab": [
+        {
+          "fr": "le pouvoir",
+          "zh": "能力",
+          "en": "power"
+        },
+        {
+          "fr": "un défi",
+          "zh": "挑战",
+          "en": "challenge"
+        },
+        {
+          "fr": "le développement durable",
+          "zh": "可持续发展",
+          "en": "sustainable development"
+        },
+        {
+          "fr": "l’intérêt général",
+          "zh": "公共利益",
+          "en": "common good"
+        },
+        {
+          "fr": "une avancée",
+          "zh": "进展",
+          "en": "advance"
+        }
+      ],
+      "question": {
+        "prompt": "Selon l’UNESCO, que doit servir le progrès scientifique ?",
+        "choices": [
+          "Les grandes entreprises",
+          "L’intérêt général",
+          "Les seuls chercheurs",
+          "La compétition entre pays"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文 doit servir l’intérêt général，即公共利益。"
+      },
+      "explain": {
+        "styleZh": "倡议类文字：先肯定科学的力量，再用 Mais 转折提出原则，最后说明每个人的权利。",
+        "sentences": [
+          {
+            "fr": "La science a le pouvoir de transformer les sociétés, de répondre aux défis mondiaux et de faire progresser la paix et le développement durable.",
+            "zh": "科学有能力改变社会、应对全球挑战，并推动和平与可持续发展。",
+            "structureZh": "主干 La science a le pouvoir de…，avoir le pouvoir de + 不定式 意为“有能力做……”。后面三个 de + 不定式 并列：transformer、répondre、faire progresser。faire + 不定式 是使役结构，faire progresser qch 意为“使……进步”。",
+            "points": [
+              {
+                "fr": "avoir le pouvoir de + inf.",
+                "zh": "有能力做某事"
+              },
+              {
+                "fr": "répondre à un défi",
+                "zh": "应对挑战"
+              },
+              {
+                "fr": "faire progresser qch",
+                "zh": "推动……进步（使役结构）"
+              },
+              {
+                "fr": "le développement durable",
+                "zh": "可持续发展"
+              }
+            ]
+          },
+          {
+            "fr": "Mais le progrès scientifique doit servir l’intérêt général.",
+            "zh": "但科学进步必须服务于公共利益。",
+            "structureZh": "Mais 表示转折。主干 le progrès doit servir，devoir + 不定式 表示义务。servir qch 是及物用法，“为……服务”，不需要介词。l’intérêt général 是固定说法，指公共利益，l’ 是 le 的省音。",
+            "points": [
+              {
+                "fr": "servir qch",
+                "zh": "为……服务（及物动词）"
+              },
+              {
+                "fr": "l’intérêt général",
+                "zh": "公共利益"
+              },
+              {
+                "fr": "scientifique",
+                "zh": "科学的"
+              }
+            ]
+          },
+          {
+            "fr": "Chacun a le droit de participer à la science et de bénéficier de ses avancées.",
+            "zh": "每个人都有权参与科学，并分享科学进步的成果。",
+            "structureZh": "Chacun 是不定代词，“每个人”，动词用单数 a。avoir le droit de + 不定式 意为“有权做……”，后面两个 de + 不定式 并列。ses 指 la science 的。注意 participer à 和 bénéficier de 所接介词不同。",
+            "points": [
+              {
+                "fr": "avoir le droit de + inf.",
+                "zh": "有权做某事"
+              },
+              {
+                "fr": "participer à qch",
+                "zh": "参与某事"
+              },
+              {
+                "fr": "bénéficier de qch",
+                "zh": "受益于，享有"
+              },
+              {
+                "fr": "une avancée",
+                "zh": "进展，进步"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2126323055081279730",
+      "url": "https://x.com/laBnF/status/2126323055081279730",
+      "author": "laBnF",
+      "postedAt": "2026-11-27T14:31:36Z",
+      "excerpt": "En écho à l’exposition consacrée à Georges Perec, notre prochaine séance des mercredis de l'OuLiPo, le 16 décembre, met à l’honneur l’écrivain, membre de l’Oulipo depuis 1967. Une soirée où les oulipiens explorent son œuvre et réservent quelques surprises",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "法国国家图书馆：配合乔治·佩雷克展览，12月16日的“乌力波星期三”活动聚焦这位1967年起加入乌力波的作家，成员们将探讨其作品并带来惊喜。",
+      "summaryEn": "BnF: echoing its Georges Perec exhibition, the next OuLiPo Wednesday session on 16 December honours the writer, an Oulipo member since 1967, with readings and surprises.",
+      "vocab": [
+        {
+          "fr": "en écho à",
+          "zh": "呼应",
+          "en": "echoing"
+        },
+        {
+          "fr": "mettre à l’honneur",
+          "zh": "向……致敬",
+          "en": "to honour, spotlight"
+        },
+        {
+          "fr": "une séance",
+          "zh": "一场活动",
+          "en": "session"
+        },
+        {
+          "fr": "une œuvre",
+          "zh": "作品",
+          "en": "work"
+        },
+        {
+          "fr": "une soirée",
+          "zh": "晚会",
+          "en": "evening event"
+        }
+      ],
+      "question": {
+        "prompt": "Depuis quand Georges Perec est-il membre de l’Oulipo ?",
+        "choices": [
+          "1957",
+          "1977",
+          "1987",
+          "1967"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "原文 membre de l’Oulipo depuis 1967。"
+      },
+      "explain": {
+        "styleZh": "文化活动预告：第一句说明活动与展览的关系、日期和主题人物，第二句是没有动词主干的名词句，描述晚会内容。",
+        "sentences": [
+          {
+            "fr": "En écho à l’exposition consacrée à Georges Perec, notre prochaine séance des mercredis de l'OuLiPo, le 16 décembre, met à l’honneur l’écrivain, membre de l’Oulipo depuis 1967.",
+            "zh": "为呼应乔治·佩雷克专题展，我们下一场“乌力波星期三”活动将于12月16日举行，向这位自1967年起就是乌力波成员的作家致敬。",
+            "structureZh": "主干 notre prochaine séance met à l’honneur l’écrivain。En écho à 意为“呼应”。consacrée à 是过去分词，修饰 l’exposition，阴性配合。le 16 décembre 插在中间说明日期。membre de l’Oulipo 是 l’écrivain 的同位语。用现在时 met 表示已确定的安排。OuLiPo 是“潜在文学工场”文学团体。",
+            "points": [
+              {
+                "fr": "en écho à qch",
+                "zh": "呼应……"
+              },
+              {
+                "fr": "consacré à qch/qn",
+                "zh": "专门献给……，以……为主题"
+              },
+              {
+                "fr": "mettre qn à l’honneur",
+                "zh": "向某人致敬，突出某人"
+              },
+              {
+                "fr": "une séance",
+                "zh": "一场（活动、会议）"
+              }
+            ]
+          },
+          {
+            "fr": "Une soirée où les oulipiens explorent son œuvre et réservent quelques surprises",
+            "zh": "在这场晚会上，乌力波成员将探讨他的作品，并准备一些惊喜。",
+            "structureZh": "这是省略句（名词句），只有 Une soirée 加关系从句，没有主句动词。où 在这里指时间和场合，“在这个晚上”。从句主干 les oulipiens explorent… et réservent…，两个现在时动词并列。son 指 Perec。réserver une surprise 意为“准备惊喜”，不是“预订”。",
+            "points": [
+              {
+                "fr": "une soirée où + phrase（où 指场合）",
+                "zh": "在……的时候/场合"
+              },
+              {
+                "fr": "explorer qch",
+                "zh": "探讨，探索"
+              },
+              {
+                "fr": "une œuvre",
+                "zh": "（一位作家的全部）作品"
+              },
+              {
+                "fr": "réserver une surprise à qn",
+                "zh": "给某人准备惊喜"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2126416313631563998",
+      "url": "https://x.com/Sciences_Avenir/status/2126416313631563998",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-27T20:42:10Z",
+      "excerpt": "Il y a 130 ans, Alfred Nobel signait son testament, dans laquelle il déclare vouloir verser sa fortune à \"ceux qui, dans l'année écoulée, ont rendu à l'humanité les plus grands services, sans considération de race ou de nationalité\"",
+      "level": "C1",
+      "topic": "culture",
+      "summaryZh": "《科学与未来》：130年前诺贝尔签署遗嘱，表示要把财产颁给过去一年里为人类作出最大贡献的人，不分种族或国籍。",
+      "summaryEn": "Sciences et Avenir: 130 years ago Alfred Nobel signed his will, leaving his fortune to those who had conferred the greatest benefit on humankind in the past year, regardless of race or nationality.",
+      "vocab": [
+        {
+          "fr": "un testament",
+          "zh": "遗嘱",
+          "en": "will"
+        },
+        {
+          "fr": "verser",
+          "zh": "付给",
+          "en": "to pay, give"
+        },
+        {
+          "fr": "la fortune",
+          "zh": "财产",
+          "en": "fortune"
+        },
+        {
+          "fr": "l’année écoulée",
+          "zh": "过去的一年",
+          "en": "the past year"
+        },
+        {
+          "fr": "sans considération de",
+          "zh": "不分",
+          "en": "regardless of"
+        }
+      ],
+      "question": {
+        "prompt": "Il y a combien d’années Alfred Nobel a-t-il signé son testament ?",
+        "choices": [
+          "130 ans",
+          "100 ans",
+          "150 ans",
+          "120 ans"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "原文 Il y a 130 ans，即 130 年前。"
+      },
+      "explain": {
+        "styleZh": "历史纪念帖：一句话写成，先用 Il y a 交代时间，再用关系从句和引语给出诺贝尔遗嘱的核心内容。",
+        "sentences": [
+          {
+            "fr": "Il y a 130 ans, Alfred Nobel signait son testament, dans laquelle il déclare vouloir verser sa fortune à \"ceux qui, dans l'année écoulée, ont rendu à l'humanité les plus grands services, sans considération de race ou de nationalité\"",
+            "zh": "130 年前，阿尔弗雷德·诺贝尔签署了遗嘱，他在其中表示希望把财产颁给“在过去一年中为人类作出最大贡献的人，不分种族或国籍”。",
+            "structureZh": "Il y a + 时间 表示“……之前”。signait 是未完成过去时，新闻中常这样叙述历史事件（叙事未完成过去时）。dans laquelle 引导关系从句，严格说 testament 是阳性，应写 dans lequel，原文为笔误。déclare 用现在时叙述。vouloir + 不定式，verser qch à qn 意为“把钱给某人”。引语中 ceux qui 指“那些……的人”，ont rendu 是复合过去时；rendre service à qn 意为“为某人效劳”。",
+            "points": [
+              {
+                "fr": "signait（未完成过去时）",
+                "zh": "叙述历史事件的未完成过去时，相当于 signa / a signé"
+              },
+              {
+                "fr": "un testament",
+                "zh": "遗嘱"
+              },
+              {
+                "fr": "verser qch à qn",
+                "zh": "把（钱）付给某人"
+              },
+              {
+                "fr": "rendre service à qn",
+                "zh": "为某人效劳、作贡献"
+              },
+              {
+                "fr": "sans considération de qch",
+                "zh": "不考虑……，不分……"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2126345164537110842",
+      "url": "https://x.com/Sciences_Avenir/status/2126345164537110842",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-27T15:59:27Z",
+      "excerpt": "Cette boîte de câbles, de chargeurs et de cigarettes électroniques qui prend la poussière dans votre placard est en réalité une mine de métaux précieux ! (Et vous feriez mieux de les recycler)",
+      "level": "B1",
+      "topic": "actualité",
+      "summaryZh": "《科学与未来》：柜子里积灰的旧电线、充电器和电子烟其实是贵金属的宝库，最好拿去回收。",
+      "summaryEn": "Sciences et Avenir: that dusty box of cables, chargers and e-cigarettes in your cupboard is actually a mine of precious metals, and you'd better recycle it.",
+      "vocab": [
+        {
+          "fr": "un câble",
+          "zh": "电线",
+          "en": "cable"
+        },
+        {
+          "fr": "un chargeur",
+          "zh": "充电器",
+          "en": "charger"
+        },
+        {
+          "fr": "prendre la poussière",
+          "zh": "积灰",
+          "en": "to gather dust"
+        },
+        {
+          "fr": "les métaux précieux",
+          "zh": "贵金属",
+          "en": "precious metals"
+        },
+        {
+          "fr": "recycler",
+          "zh": "回收",
+          "en": "to recycle"
+        }
+      ],
+      "question": {
+        "prompt": "Que conseille Sciences et Avenir de faire avec ces vieux câbles ?",
+        "choices": [
+          "Les jeter à la poubelle",
+          "Les garder dans le placard",
+          "Les recycler",
+          "Les revendre en ligne"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文 vous feriez mieux de les recycler，即最好回收。"
+      },
+      "explain": {
+        "styleZh": "科普导语：用生活场景（抽屉里的旧电线）开头，以感叹句点出惊人事实，最后用括号补充一句建议。",
+        "sentences": [
+          {
+            "fr": "Cette boîte de câbles, de chargeurs et de cigarettes électroniques qui prend la poussière dans votre placard est en réalité une mine de métaux précieux !",
+            "zh": "你柜子里那盒积灰的电线、充电器和电子烟，其实是一座贵金属矿！",
+            "structureZh": "主干 Cette boîte … est une mine de métaux précieux。qui prend la poussière… 是关系从句，修饰 boîte，所以动词用单数 prend。prendre la poussière 意为“积灰、闲置不用”。en réalité 表示“实际上”。une mine de qch 是比喻，“……的宝库”。",
+            "points": [
+              {
+                "fr": "prendre la poussière",
+                "zh": "积灰，闲置"
+              },
+              {
+                "fr": "en réalité",
+                "zh": "实际上"
+              },
+              {
+                "fr": "une mine de qch",
+                "zh": "……的宝库（比喻）"
+              },
+              {
+                "fr": "les métaux précieux",
+                "zh": "贵金属"
+              },
+              {
+                "fr": "un chargeur",
+                "zh": "充电器"
+              }
+            ]
+          },
+          {
+            "fr": "(Et vous feriez mieux de les recycler)",
+            "zh": "（而且你最好把它们回收）",
+            "structureZh": "括号里是补充建议。feriez 是 faire 的条件式现在时，faire mieux de + 不定式 意为“最好做……”，用条件式让建议更委婉。les 是直接宾语代词，指前面的电线、充电器等，放在不定式 recycler 前。",
+            "points": [
+              {
+                "fr": "faire mieux de + inf.（条件式）",
+                "zh": "最好做某事"
+              },
+              {
+                "fr": "recycler qch",
+                "zh": "回收利用"
+              },
+              {
+                "fr": "les recycler（宾语代词 les）",
+                "zh": "把它们回收；les 放在不定式前"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2126641169111076962",
+      "url": "https://x.com/Sciences_Avenir/status/2126641169111076962",
+      "author": "Sciences_Avenir",
+      "postedAt": "2026-11-28T11:35:40Z",
+      "excerpt": "Pour préparer le corps aux basses températures, le cerveau active des changements, après avoir mobilisé des souvenirs d’anciennes expositions au froid !",
+      "level": "B2",
+      "topic": "santé",
+      "summaryZh": "《科学与未来》：为了让身体适应低温，大脑会先调动过去受冻的记忆，然后启动一系列变化。",
+      "summaryEn": "Sciences et Avenir: to prepare the body for low temperatures, the brain triggers changes after drawing on memories of past exposure to cold.",
+      "vocab": [
+        {
+          "fr": "le cerveau",
+          "zh": "大脑",
+          "en": "brain"
+        },
+        {
+          "fr": "les basses températures",
+          "zh": "低温",
+          "en": "low temperatures"
+        },
+        {
+          "fr": "mobiliser",
+          "zh": "调动",
+          "en": "to draw on"
+        },
+        {
+          "fr": "un souvenir",
+          "zh": "记忆",
+          "en": "memory"
+        },
+        {
+          "fr": "une exposition",
+          "zh": "暴露",
+          "en": "exposure"
+        }
+      ],
+      "question": {
+        "prompt": "Selon le texte, sur quoi le cerveau s’appuie-t-il pour préparer le corps au froid ?",
+        "choices": [
+          "Sur la nourriture",
+          "Sur des souvenirs d’expositions au froid",
+          "Sur le sommeil",
+          "Sur le sport"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文 après avoir mobilisé des souvenirs d’anciennes expositions au froid。"
+      },
+      "explain": {
+        "styleZh": "科普导语：一句话写成，先用 Pour + 不定式 说明目的，再说主句，最后用 après avoir + 过去分词 交代先发生的步骤。",
+        "sentences": [
+          {
+            "fr": "Pour préparer le corps aux basses températures, le cerveau active des changements, après avoir mobilisé des souvenirs d’anciennes expositions au froid !",
+            "zh": "为了让身体适应低温，大脑会在调动以往受冻的记忆之后，启动一系列变化！",
+            "structureZh": "Pour + 不定式 表示目的。主干 le cerveau active des changements。après avoir mobilisé 是不定式过去时，表示在主句动作之前完成的动作，主语同为 le cerveau。préparer qn/qch à qch 意为“使……为……做准备”，aux 是 à + les 的缩合。exposition 这里是“暴露”，不是“展览”。",
+            "points": [
+              {
+                "fr": "préparer qch à qch",
+                "zh": "使……为……做好准备"
+              },
+              {
+                "fr": "après avoir + participe passé",
+                "zh": "在做完某事之后"
+              },
+              {
+                "fr": "mobiliser qch",
+                "zh": "调动"
+              },
+              {
+                "fr": "une exposition au froid",
+                "zh": "暴露在寒冷中（不是展览）"
+              },
+              {
+                "fr": "les basses températures",
+                "zh": "低温"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2126614779292770512",
+      "url": "https://x.com/LeTemps/status/2126614779292770512",
+      "author": "LeTemps",
+      "postedAt": "2026-11-28T09:50:48Z",
+      "excerpt": "A Genève, Fribourg, Neuchâtel ou Lausanne, quelques figures incontournables du milieu de la gastronomie cumulent les enseignes, dans des domaines parfois très variés. Le goût des hôtes à la clé",
+      "level": "B2",
+      "topic": "culture",
+      "summaryZh": "《时报》：在日内瓦、弗里堡、纳沙泰尔和洛桑，一些餐饮界名人同时经营多家店，领域各异，靠的是待客之道。",
+      "summaryEn": "Le Temps: in Geneva, Fribourg, Neuchâtel and Lausanne, a few key figures of the food scene run several establishments in very different fields, driven by a taste for hospitality.",
+      "vocab": [
+        {
+          "fr": "incontournable",
+          "zh": "不可忽视的",
+          "en": "unmissable, key"
+        },
+        {
+          "fr": "la gastronomie",
+          "zh": "美食",
+          "en": "gastronomy"
+        },
+        {
+          "fr": "cumuler",
+          "zh": "兼有多个",
+          "en": "to accumulate, hold several"
+        },
+        {
+          "fr": "une enseigne",
+          "zh": "店铺，品牌",
+          "en": "establishment, brand"
+        },
+        {
+          "fr": "un hôte",
+          "zh": "主人",
+          "en": "host"
+        }
+      ],
+      "question": {
+        "prompt": "Que font ces figures de la gastronomie romande ?",
+        "choices": [
+          "Elles ferment leurs restaurants",
+          "Elles cumulent plusieurs enseignes",
+          "Elles quittent la Suisse",
+          "Elles écrivent des livres"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文 cumulent les enseignes，即同时经营多家店。"
+      },
+      "explain": {
+        "styleZh": "报纸导语：第一句交代地点和现象，第二句是没有动词的标题式短句，点出主题。",
+        "sentences": [
+          {
+            "fr": "A Genève, Fribourg, Neuchâtel ou Lausanne, quelques figures incontournables du milieu de la gastronomie cumulent les enseignes, dans des domaines parfois très variés.",
+            "zh": "在日内瓦、弗里堡、纳沙泰尔或洛桑，餐饮界的一些标志性人物同时经营着多家店，涉及的领域有时差别很大。",
+            "structureZh": "句首 A Genève…（大写 À 常省略重音）列出地点。主干 quelques figures cumulent les enseignes。cumuler qch 意为“同时拥有多个……”。une enseigne 原指招牌，这里转指店铺、品牌。incontournable 意为“绕不开的、必不可少的”。dans des domaines… 补充说明。",
+            "points": [
+              {
+                "fr": "une figure incontournable",
+                "zh": "标志性人物，不可忽视的人物"
+              },
+              {
+                "fr": "le milieu de qch",
+                "zh": "……界"
+              },
+              {
+                "fr": "cumuler qch",
+                "zh": "同时兼有多个"
+              },
+              {
+                "fr": "une enseigne",
+                "zh": "招牌；店铺、品牌"
+              },
+              {
+                "fr": "varié",
+                "zh": "多样的"
+              }
+            ]
+          },
+          {
+            "fr": "Le goût des hôtes à la clé",
+            "zh": "关键在于待客之道",
+            "structureZh": "这是标题式省略句，没有动词。à la clé 是固定说法，意为“作为结果、作为关键所在”。hôte 在这里指“主人、东道主”（也可指客人，要看语境），le goût des hôtes 指这些店主待客的品味和热情。",
+            "points": [
+              {
+                "fr": "à la clé（Le goût des hôtes à la clé）",
+                "zh": "作为结果，关键所在"
+              },
+              {
+                "fr": "un hôte",
+                "zh": "主人，东道主（也可指客人）"
+              },
+              {
+                "fr": "le goût",
+                "zh": "品味，喜好"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2126629989940642056",
+      "url": "https://x.com/franceinfo/status/2126629989940642056",
+      "author": "franceinfo",
+      "postedAt": "2026-11-28T10:51:15Z",
+      "excerpt": "\"Le travail n'est jamais fini\" : à 86 ans, Lucinda Childs, légende de la danse contemporaine, revient à l'Opéra de Paris pour une création",
+      "level": "B1",
+      "topic": "culture",
+      "summaryZh": "法国新闻台：“工作永远没有尽头”，86岁的当代舞传奇露辛达·蔡尔兹重返巴黎歌剧院创作新作。",
+      "summaryEn": "franceinfo: 'Work is never finished': at 86, contemporary dance legend Lucinda Childs returns to the Paris Opera for a new creation.",
+      "vocab": [
+        {
+          "fr": "une légende",
+          "zh": "传奇人物",
+          "en": "legend"
+        },
+        {
+          "fr": "la danse contemporaine",
+          "zh": "当代舞",
+          "en": "contemporary dance"
+        },
+        {
+          "fr": "revenir",
+          "zh": "回来",
+          "en": "to return"
+        },
+        {
+          "fr": "une création",
+          "zh": "新作品",
+          "en": "new work, premiere"
+        }
+      ],
+      "question": {
+        "prompt": "Quel âge a Lucinda Childs ?",
+        "choices": [
+          "68 ans",
+          "76 ans",
+          "86 ans",
+          "96 ans"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文 à 86 ans。"
+      },
+      "explain": {
+        "styleZh": "新闻标题：先用引号给出人物原话，冒号后交代人物、年龄和事件。",
+        "sentences": [
+          {
+            "fr": "\"Le travail n'est jamais fini\" : à 86 ans, Lucinda Childs, légende de la danse contemporaine, revient à l'Opéra de Paris pour une création",
+            "zh": "“工作永远没有尽头”：86 岁的当代舞传奇露辛达·蔡尔兹重返巴黎歌剧院，带来一部新作。",
+            "structureZh": "引号内是人物原话，ne … jamais 表示“从不、永远不”，n' 是 ne 的省音。冒号后是新闻正文：à 86 ans 表示“在86岁时”。主干 Lucinda Childs revient，légende de la danse contemporaine 是同位语。现在时 revient 在标题中表示刚发生或即将发生的事。une création 在舞蹈戏剧中指“新作品、首演作品”。",
+            "points": [
+              {
+                "fr": "ne … jamais",
+                "zh": "从不，永远不"
+              },
+              {
+                "fr": "la danse contemporaine",
+                "zh": "当代舞"
+              },
+              {
+                "fr": "une légende",
+                "zh": "传奇人物"
+              },
+              {
+                "fr": "revient à + lieu（revenir à）",
+                "zh": "回到某地"
+              },
+              {
+                "fr": "une création",
+                "zh": "新创作品，首演作品"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2126435921000059307",
+      "url": "https://x.com/CitImmCanFR/status/2126435921000059307",
+      "author": "CitImmCanFR",
+      "postedAt": "2026-11-27T22:00:05Z",
+      "excerpt": "IRCC explique: Comment fonctionnent les rondes d’invitations par catégorie dans Entrée express? Pour en savoir plus :",
+      "level": "B2",
+      "topic": "immigration",
+      "summaryZh": "加拿大移民部视频：快速通道按类别的邀请轮次针对符合语言、职业经验等特定条件的候选人，不提前公布，没有最低分，要随时更新个人档案。",
+      "summaryEn": "IRCC video: category-based Express Entry rounds target candidates meeting criteria like language or work experience; they are not announced in advance and there is no minimum score.",
+      "vocab": [
+        {
+          "fr": "une ronde d'invitations",
+          "zh": "邀请轮次",
+          "en": "round of invitations"
+        },
+        {
+          "fr": "le bassin",
+          "zh": "候选人库",
+          "en": "the pool"
+        },
+        {
+          "fr": "un critère",
+          "zh": "标准，条件",
+          "en": "criterion"
+        },
+        {
+          "fr": "le pointage",
+          "zh": "分数",
+          "en": "score"
+        },
+        {
+          "fr": "mettre à jour",
+          "zh": "更新",
+          "en": "to update"
+        },
+        {
+          "fr": "la résidence permanente",
+          "zh": "永久居留",
+          "en": "permanent residence"
+        }
+      ],
+      "question": {
+        "prompt": "Selon la vidéo, y a-t-il un pointage minimum pour être invité ?",
+        "choices": [
+          "Oui, 400 points",
+          "Oui, il change chaque année",
+          "Seulement pour les francophones",
+          "Non, il n'existe pas de pointage minimum"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "视频说 Veuillez noter qu'il n'existe pas de pointage minimum，没有最低分。"
+      },
+      "explain": {
+        "styleZh": "政府科普帖：先写系列名 IRCC explique，冒号后用问句点出本期主题，最后一句原本引出链接。",
+        "sentences": [
+          {
+            "fr": "IRCC explique: Comment fonctionnent les rondes d’invitations par catégorie dans Entrée express?",
+            "zh": "IRCC 解释：快速通道中按类别的邀请轮次是如何运作的？",
+            "structureZh": "IRCC explique 是系列视频名称，冒号后是本期问题。问句用 Comment 开头，主谓倒装：动词 fonctionnent 在前，主语 les rondes d’invitations 在后（名词主语时可直接倒装）。par catégorie 意为“按类别”。Entrée express 是加拿大经济移民的快速通道系统。",
+            "points": [
+              {
+                "fr": "Comment + verbe + sujet ?",
+                "zh": "……是怎样……的？（倒装疑问句）"
+              },
+              {
+                "fr": "fonctionner",
+                "zh": "运作，运转"
+              },
+              {
+                "fr": "une ronde d’invitations",
+                "zh": "一轮邀请（加拿大法语用法，法国多说 tirage）"
+              },
+              {
+                "fr": "par catégorie",
+                "zh": "按类别"
+              }
+            ]
+          },
+          {
+            "fr": "Pour en savoir plus :",
+            "zh": "了解更多：",
+            "structureZh": "省略句，相当于 Pour en savoir plus, consultez…。en savoir plus 是固定说法，en 代替 de cela（关于这件事）。冒号原本引出链接。",
+            "points": [
+              {
+                "fr": "en savoir plus",
+                "zh": "了解更多（en 指代前面提到的话题）"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2126602526627610752",
+      "url": "https://x.com/franceinfo/status/2126602526627610752",
+      "author": "franceinfo",
+      "postedAt": "2026-11-28T09:02:07Z",
+      "excerpt": "Vous avez marché en tenue légère hier et ce matin, vous vous réveillez le nez bouché avec de la fièvre. Votre collègue de bureau conclut que vous avez certainement \"attrapé froid\". Que lui répondez-vous ?",
+      "level": "B1",
+      "topic": "santé",
+      "summaryZh": "法国新闻台科普：“着凉”没有科学依据，但天冷时病毒传播更多、在冷而干的空气中更持久，鼻腔防御也变弱，所以更容易生病。",
+      "summaryEn": "franceinfo explainer: 'catching cold' has no scientific basis, but in cold weather viruses spread more indoors, flu lasts longer in cold dry air and nasal defences weaken, so you fall ill more easily.",
+      "vocab": [
+        {
+          "fr": "attraper froid",
+          "zh": "着凉",
+          "en": "to catch cold"
+        },
+        {
+          "fr": "le nez bouché",
+          "zh": "鼻塞",
+          "en": "blocked nose"
+        },
+        {
+          "fr": "tomber malade",
+          "zh": "生病",
+          "en": "to fall ill"
+        },
+        {
+          "fr": "peu ventilé",
+          "zh": "通风差的",
+          "en": "poorly ventilated"
+        },
+        {
+          "fr": "un courant d'air",
+          "zh": "穿堂风",
+          "en": "draught"
+        }
+      ],
+      "question": {
+        "prompt": "Selon la vidéo, pourquoi tombe-t-on plus souvent malade en hiver ?",
+        "choices": [
+          "Parce que le froid crée des virus",
+          "Parce qu'on mange moins",
+          "Parce que les virus circulent plus dans des lieux clos et peu ventilés",
+          "Parce qu'on dort plus"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "视频说冬天常待在封闭、通风差的室内，病毒更容易传播；“着凉”本身没有科学依据。"
+      },
+      "explain": {
+        "styleZh": "科普短视频导语：用第二人称描述日常场景，引出常见说法 attraper froid，最后以问题结尾吸引读者。",
+        "sentences": [
+          {
+            "fr": "Vous avez marché en tenue légère hier et ce matin, vous vous réveillez le nez bouché avec de la fièvre.",
+            "zh": "你昨天穿得很少出门走路，今天早上醒来鼻子堵了，还发烧。",
+            "structureZh": "两个分句用 et 连接：前半句 vous avez marché 用复合过去时讲昨天；后半句 vous vous réveillez 用现在时讲今天早上。se réveiller 是代动词。le nez bouché 是“名词 + 过去分词”的独立结构，描述醒来时的状态。",
+            "points": [
+              {
+                "fr": "en tenue légère",
+                "zh": "穿着单薄"
+              },
+              {
+                "fr": "se réveiller",
+                "zh": "醒来（代动词）"
+              },
+              {
+                "fr": "avoir le nez bouché",
+                "zh": "鼻塞"
+              },
+              {
+                "fr": "avoir de la fièvre",
+                "zh": "发烧"
+              }
+            ]
+          },
+          {
+            "fr": "Votre collègue de bureau conclut que vous avez certainement \"attrapé froid\".",
+            "zh": "你的办公室同事断定你肯定是“着凉了”。",
+            "structureZh": "主干 Votre collègue conclut que…，conclure que + 直陈式 表示“断定”。从句 vous avez attrapé froid 用复合过去时。attraper froid 是固定说法，“着凉、受寒”，froid 前不加冠词。引号表示这是一种常见说法，视频要讨论它是否科学。",
+            "points": [
+              {
+                "fr": "conclure que + indicatif",
+                "zh": "得出结论说，断定"
+              },
+              {
+                "fr": "attraper froid",
+                "zh": "着凉，受寒"
+              },
+              {
+                "fr": "un collègue de bureau",
+                "zh": "办公室同事"
+              }
+            ]
+          },
+          {
+            "fr": "Que lui répondez-vous ?",
+            "zh": "你会怎么回答他？",
+            "structureZh": "疑问句，Que 是直接宾语“什么”，主谓倒装 répondez-vous。lui 是间接宾语代词，指 votre collègue，因为 répondre à qn 要求 à。",
+            "points": [
+              {
+                "fr": "répondre à qn",
+                "zh": "回答某人（lui 代替 à qn）"
+              },
+              {
+                "fr": "Que répondez-vous ?（倒装疑问）",
+                "zh": "你回答什么？Que 作直接宾语，主谓倒装"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2126541830003011625",
+      "url": "https://x.com/franceinfo/status/2126541830003011625",
+      "author": "franceinfo",
+      "postedAt": "2026-11-28T05:00:56Z",
+      "excerpt": "Les Français ont acheté 4,5 millions de sapins naturels l’an dernier. Le quart de la consommation vient du Morvan, ce massif montagneux situé en Bourgogne-Franche-Comté. Pour garantir la provenance et la qualité des sapins, les producteurs du Morvan bénéficient d’une IGP, une indication géographique protégée.",
+      "level": "B1",
+      "topic": "actualité",
+      "summaryZh": "法国新闻台：法国人去年买了450万棵天然圣诞树，四分之一来自莫尔旺；当地种植者首次获得受保护地理标志，旺季450家企业雇用五千多人。",
+      "summaryEn": "franceinfo: the French bought 4.5 million real Christmas trees last year, a quarter from the Morvan, whose growers now have a PGI label; 450 firms employ over 5,000 people at peak season.",
+      "vocab": [
+        {
+          "fr": "un sapin",
+          "zh": "冷杉，圣诞树",
+          "en": "fir tree"
+        },
+        {
+          "fr": "la provenance",
+          "zh": "产地",
+          "en": "origin"
+        },
+        {
+          "fr": "une IGP",
+          "zh": "受保护地理标志",
+          "en": "PGI"
+        },
+        {
+          "fr": "un cahier des charges",
+          "zh": "规范，技术要求",
+          "en": "specifications"
+        },
+        {
+          "fr": "une scierie",
+          "zh": "锯木厂",
+          "en": "sawmill"
+        },
+        {
+          "fr": "la filière",
+          "zh": "产业链",
+          "en": "sector"
+        }
+      ],
+      "question": {
+        "prompt": "D'où vient le quart des sapins de Noël achetés en France ?",
+        "choices": [
+          "Des Alpes",
+          "Des Vosges",
+          "Du Morvan",
+          "Des Pyrénées"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "原文 Le quart de la consommation vient du Morvan。"
+      },
+      "explain": {
+        "styleZh": "短新闻：先给全国数据，再说明莫尔旺的份额和位置，最后解释 IGP 的作用。",
+        "sentences": [
+          {
+            "fr": "Les Français ont acheté 4,5 millions de sapins naturels l’an dernier.",
+            "zh": "去年法国人买了450万棵天然圣诞树。",
+            "structureZh": "主干 Les Français ont acheté…，复合过去时表示过去已完成的动作。4,5 是法语小数写法（逗号代替小数点）。l’an dernier 意为“去年”，l’ 是 le 的省音。",
+            "points": [
+              {
+                "fr": "un sapin (de Noël)",
+                "zh": "冷杉；圣诞树"
+              },
+              {
+                "fr": "4,5 millions de + nom",
+                "zh": "450 万……（法语用逗号表示小数）"
+              },
+              {
+                "fr": "l’an dernier",
+                "zh": "去年"
+              }
+            ]
+          },
+          {
+            "fr": "Le quart de la consommation vient du Morvan, ce massif montagneux situé en Bourgogne-Franche-Comté.",
+            "zh": "其中四分之一来自莫尔旺，这是位于勃艮第-弗朗什-孔泰大区的一片山地。",
+            "structureZh": "主干 Le quart vient du Morvan，venir de 表示来源，du 是 de + le 的缩合。逗号后的 ce massif montagneux… 是同位语，解释 Morvan 是什么。situé en… 是过去分词作定语，“位于”。",
+            "points": [
+              {
+                "fr": "le quart de qch",
+                "zh": "……的四分之一"
+              },
+              {
+                "fr": "vient de + lieu（venir de）",
+                "zh": "来自某地"
+              },
+              {
+                "fr": "un massif montagneux",
+                "zh": "山地，山脉"
+              },
+              {
+                "fr": "situé en/à + lieu",
+                "zh": "位于……"
+              }
+            ]
+          },
+          {
+            "fr": "Pour garantir la provenance et la qualité des sapins, les producteurs du Morvan bénéficient d’une IGP, une indication géographique protégée.",
+            "zh": "为保证圣诞树的产地和品质，莫尔旺的种植者获得了 IGP，即受保护地理标志。",
+            "structureZh": "Pour + 不定式 表示目的。主干 les producteurs bénéficient d’une IGP，bénéficier de qch 意为“享有、获得”。逗号后是缩写 IGP 的全称，作同位语。",
+            "points": [
+              {
+                "fr": "garantir qch",
+                "zh": "保证"
+              },
+              {
+                "fr": "la provenance",
+                "zh": "来源，产地"
+              },
+              {
+                "fr": "bénéficier de qch",
+                "zh": "享有，获得"
+              },
+              {
+                "fr": "une indication géographique protégée",
+                "zh": "受保护地理标志（IGP）"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2126374005993054521",
+      "url": "https://x.com/tv5mondeinfo/status/2126374005993054521",
+      "author": "tv5mondeinfo",
+      "postedAt": "2026-11-27T17:54:03Z",
+      "excerpt": "GTA VI a déjà généré des dizaines de millions de ventes, mais ce succès serait-il en trompe l'œil ? En France, le Syndicat du jeu vidéo appelle à \"un choc\" pour aider le secteur à sortir de la crise",
+      "level": "B2",
+      "topic": "travail",
+      "summaryZh": "TV5：《GTA 6》首日收入37.9亿美元，但游戏业大规模裁员，收入集中在少数热门作品，疫情泡沫后融资下滑，游戏机也在涨价。",
+      "summaryEn": "TV5: GTA VI earned $3.79bn on day one, yet the games industry faces mass layoffs, revenue concentrated in a few hits, falling funding after the Covid bubble and rising console prices.",
+      "vocab": [
+        {
+          "fr": "un licenciement",
+          "zh": "裁员，解雇",
+          "en": "layoff"
+        },
+        {
+          "fr": "le chiffre d'affaires",
+          "zh": "营业额",
+          "en": "revenue"
+        },
+        {
+          "fr": "une bulle",
+          "zh": "泡沫",
+          "en": "bubble"
+        },
+        {
+          "fr": "l'arbre qui cache la forêt",
+          "zh": "一叶障目",
+          "en": "the tree hiding the forest"
+        },
+        {
+          "fr": "un studio indépendant",
+          "zh": "独立工作室",
+          "en": "indie studio"
+        }
+      ],
+      "question": {
+        "prompt": "Combien GTA VI a-t-il rapporté le jour de sa sortie, selon la vidéo ?",
+        "choices": [
+          "3,79 milliards de dollars",
+          "379 millions de dollars",
+          "37,9 milliards de dollars",
+          "1 milliard de dollars"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "视频说 GTA VI 发售当天收入达到 3,79 milliards de dollars。"
+      },
+      "explain": {
+        "styleZh": "新闻导语：第一句用 mais 把巨大销量和可能的“假象”对照，第二句给出行业组织的呼吁。",
+        "sentences": [
+          {
+            "fr": "GTA VI a déjà généré des dizaines de millions de ventes, mais ce succès serait-il en trompe l'œil ?",
+            "zh": "《GTA 6》已经卖出了几千万份，但这种成功会不会只是假象？",
+            "structureZh": "前半句主干 GTA VI a généré，复合过去时加 déjà 表示“已经”。des dizaines de millions 意为“几千万”。mais 引出疑问：serait-il 是 être 的条件式加主谓倒装，条件式表示推测、不确定，新闻常用来提出未经证实的说法。en trompe l'œil 意为“徒有其表、假象”。",
+            "points": [
+              {
+                "fr": "générer qch",
+                "zh": "产生，创造"
+              },
+              {
+                "fr": "des dizaines de millions de",
+                "zh": "数千万的"
+              },
+              {
+                "fr": "le conditionnel（serait-il）",
+                "zh": "条件式：表示推测、未经证实"
+              },
+              {
+                "fr": "en trompe-l'œil",
+                "zh": "徒有其表的，假象的"
+              }
+            ]
+          },
+          {
+            "fr": "En France, le Syndicat du jeu vidéo appelle à \"un choc\" pour aider le secteur à sortir de la crise",
+            "zh": "在法国，电子游戏行业工会呼吁来一次“冲击”，帮助该行业走出危机。",
+            "structureZh": "主干 le Syndicat appelle à…，appeler à qch 意为“呼吁”。引号里的 un choc 是该组织的原话，指强有力的刺激措施。pour + 不定式 表示目的，aider qn à + 不定式 意为“帮助某人做某事”。sortir de la crise 意为“走出危机”。un syndicat 这里是行业协会，不只指工会。",
+            "points": [
+              {
+                "fr": "appeler à qch",
+                "zh": "呼吁……"
+              },
+              {
+                "fr": "aider qn à + inf.",
+                "zh": "帮助某人做某事"
+              },
+              {
+                "fr": "sortir de la crise",
+                "zh": "走出危机"
+              },
+              {
+                "fr": "un syndicat",
+                "zh": "工会；行业协会"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "postId": "2126556701075603584",
+      "url": "https://x.com/tv5mondeinfo/status/2126556701075603584",
+      "author": "tv5mondeinfo",
+      "postedAt": "2026-11-28T06:00:01Z",
+      "excerpt": "Le phénomène des \"kidultes\", contraction de \"kid\" et \"adulte\", est une aubaine pour les fabricants de jouets. Ces grands enfants achètent un jeu sur trois... pour eux-mêmes. Résultat : le marché a le vent en poupe, aussi bien en France qu'à l'étranger. Pour en parler, Franck Mathais, porte-parole de JouéClub, invité de Vicky Bogaert dans Parlons Éco.",
+      "level": "B2",
+      "topic": "actualité",
+      "summaryZh": "TV5：成年“大孩子”买走三分之一的玩具，玩具市场在法国和国外都势头正旺；JouéClub 发言人称成年人是市场增长的关键，弥补了出生率下降。",
+      "summaryEn": "TV5: adult 'kidults' buy one toy in three, keeping the toy market booming in France and abroad; a JouéClub spokesman says adults drive growth as fewer children are born.",
+      "vocab": [
+        {
+          "fr": "une aubaine",
+          "zh": "良机，福音",
+          "en": "windfall"
+        },
+        {
+          "fr": "avoir le vent en poupe",
+          "zh": "势头正旺",
+          "en": "to be on a roll"
+        },
+        {
+          "fr": "un fabricant",
+          "zh": "厂商",
+          "en": "manufacturer"
+        },
+        {
+          "fr": "en valeur",
+          "zh": "按金额计",
+          "en": "in value terms"
+        },
+        {
+          "fr": "un commerçant",
+          "zh": "零售商",
+          "en": "retailer"
+        }
+      ],
+      "question": {
+        "prompt": "Selon le reportage, quelle part des jouets les adultes achètent-ils en valeur ?",
+        "choices": [
+          "Un sur dix",
+          "Un sur trois",
+          "La moitié",
+          "Trois sur quatre"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "原文 achètent un jeu sur trois，视频中也说 en valeur, c'est un jouet sur trois。"
+      },
+      "explain": {
+        "styleZh": "经济节目预告：先解释新词 kidultes，再给出数据和结论（Résultat :），最后介绍嘉宾和主持人。",
+        "sentences": [
+          {
+            "fr": "Le phénomène des \"kidultes\", contraction de \"kid\" et \"adulte\", est une aubaine pour les fabricants de jouets.",
+            "zh": "“大孩子”（kidultes）现象——由 kid 和 adulte 合成的词——对玩具厂商来说是一大福音。",
+            "structureZh": "主干 Le phénomène est une aubaine。两个逗号之间的 contraction de… 是同位语，解释 kidultes 这个词的构成。une aubaine 意为“意外的好运、良机”。pour 表示受益对象。",
+            "points": [
+              {
+                "fr": "une contraction de A et B",
+                "zh": "A 和 B 的缩合词"
+              },
+              {
+                "fr": "une aubaine pour qn",
+                "zh": "对某人来说是福音、良机"
+              },
+              {
+                "fr": "un fabricant",
+                "zh": "制造商，厂商"
+              }
+            ]
+          },
+          {
+            "fr": "Ces grands enfants achètent un jeu sur trois... pour eux-mêmes.",
+            "zh": "这些“大孩子”买走了三分之一的游戏和玩具……而且是买给自己的。",
+            "structureZh": "Ces grands enfants 指上一句的 kidultes。un … sur trois 表示“三个中有一个”。省略号制造停顿和惊讶效果。eux-mêmes 是重读人称代词加 -mêmes，强调“他们自己”。",
+            "points": [
+              {
+                "fr": "un sur trois",
+                "zh": "三个中有一个，三分之一"
+              },
+              {
+                "fr": "eux-mêmes",
+                "zh": "他们自己（强调）"
+              },
+              {
+                "fr": "un grand enfant",
+                "zh": "长不大的孩子，大孩子"
+              }
+            ]
+          },
+          {
+            "fr": "Résultat : le marché a le vent en poupe, aussi bien en France qu'à l'étranger.",
+            "zh": "结果：无论在法国还是国外，玩具市场都顺风顺水。",
+            "structureZh": "Résultat : 是口语化的省略，相当于 Le résultat, c'est que…。avoir le vent en poupe 是固定比喻，原指船尾顺风，意为“走红、发展顺利”。aussi bien A que B 意为“无论 A 还是 B”。à l'étranger 意为“在国外”。",
+            "points": [
+              {
+                "fr": "avoir le vent en poupe",
+                "zh": "顺风顺水，势头正旺"
+              },
+              {
+                "fr": "aussi bien A que B",
+                "zh": "无论 A 还是 B，A 和 B 都"
+              },
+              {
+                "fr": "à l'étranger",
+                "zh": "在国外"
+              }
+            ]
+          },
+          {
+            "fr": "Pour en parler, Franck Mathais, porte-parole de JouéClub, invité de Vicky Bogaert dans Parlons Éco.",
+            "zh": "为了谈论这个话题，JouéClub 发言人弗兰克·马泰做客维琪·博加特主持的《谈谈经济》节目。",
+            "structureZh": "这是省略句，没有变位动词，相当于 Pour en parler, nous recevons Franck Mathais…。en 代替 de ce phénomène（parler de qch）。porte-parole 和 invité de… 都是 Franck Mathais 的同位语。",
+            "points": [
+              {
+                "fr": "pour en parler",
+                "zh": "为了谈论此事（en = de cela）"
+              },
+              {
+                "fr": "un porte-parole",
+                "zh": "发言人（复数不变）"
+              },
+              {
+                "fr": "être l'invité de qn",
+                "zh": "做客某人的节目"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
